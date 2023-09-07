@@ -21,7 +21,7 @@ jobs:
           wget https://github.com/mprpic/cvelint/releases/download/v0.1.0/cvelint_Linux_arm64.tar.gz
           tar -xvfcvelint_Linux_arm64.tar.gz 
           chmod +x cvelint
-          cvelint -h
+          ./cvelint -h
         
     - name: Grab Needed Data
       run: |
