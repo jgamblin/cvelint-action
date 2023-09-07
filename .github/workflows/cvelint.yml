@@ -1,0 +1,41 @@
+name: Deploy-Book
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule: 
+    - cron: "0 */12 * * *" 
+
+# This job installs dependencies, builds the book, and pushes it to `gh-pages`
+jobs:
+  CVE-Lint:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v3
+
+    # Install CVE Lint
+
+    - name: Install CVELINT
+      run: |
+          wget https://github.com/mprpic/cvelint/releases/download/v0.1.0/cvelint_Linux_arm64.tar.gz
+          tar -xvfcvelint_Linux_arm64.tar.gz 
+        
+    - name: Grab Needed Data
+      run: |
+          git clone https://github.com/CVEProject/cvelistV5 
+         
+    - name: Run CVELINT
+      env:
+        GH_TOKEN:  ${{ secrets.GH_TOKEN }}
+      run: |
+          ./cvelint -format csv ./cvelistV5/cves/2023 > output2023.csv
+
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v9
+      with:
+          default_author: github_actions
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
