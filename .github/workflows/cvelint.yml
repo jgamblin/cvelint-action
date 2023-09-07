@@ -18,8 +18,8 @@ jobs:
 
     - name: Install CVELINT
       run: |
-          wget https://github.com/mprpic/cvelint/releases/download/v0.1.0/cvelint_Linux_arm64.tar.gz
-          tar -xvfcvelint_Linux_arm64.tar.gz 
+        wget https://github.com/mprpic/cvelint/releases/download/v0.1.0/cvelint_Linux_x86_64.tar.gz
+          tar -xvf cvelint_Linux_x86_64.tar.gz
           chmod +x cvelint
           ./cvelint -h
         
