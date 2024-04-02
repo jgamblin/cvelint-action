@@ -25,7 +25,8 @@ jobs:
         
     - name: Grab Needed Data
       run: |
-          git clone --depth 1 https://github.com/CVEProject/cvelistV5 
+        wget https://github.com/CVEProject/cvelistV5/archive/refs/heads/main.tar.gz
+          mkdir -p cvelistV5 && tar xzf main.tar.gz --strip-component=1 --directory=./cvelistV5
          
     - name: Run CVELINT
       env:
