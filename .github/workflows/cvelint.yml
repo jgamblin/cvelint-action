@@ -33,7 +33,7 @@ jobs:
       run: |
           ./cvelint -format csv ./cvelistV5/cves > CVEV5Errors.csv
           ./cvelint -format json ./cvelistV5/cves > CVEV5Errors.json
-        continue-on-error: true
+      continue-on-error: true
 
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
