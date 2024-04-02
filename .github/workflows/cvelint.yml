@@ -31,8 +31,8 @@ jobs:
       env:
         GH_TOKEN:  ${{ secrets.GH_TOKEN }}
       run: |
-        ./cvelint -format csv ./cvelistV5/cves > CVEV5Errors.csv || True
-        ./cvelint -format json ./cvelistV5/cves > CVEV5Errors.json || True
+        ./cvelint -format csv ./cvelistV5/cves > CVEV5Errors.csv &> /dev/null
+        ./cvelint -format json ./cvelistV5/cves > CVEV5Errors.json &> /dev/null
 
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
