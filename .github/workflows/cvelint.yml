@@ -31,10 +31,10 @@ jobs:
       env:
         GH_TOKEN:  ${{ secrets.GH_TOKEN }}
       run: |
-          ./cvelint -format csv ./cvelistV5/cves > CVEV5Errors.csv
-          ./cvelint -format json ./cvelistV5/cves > CVEV5Errors.json
-          ./cvelint -summary -format csv ./cvelistV5/cves > CNAErrors.csv
-          ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json
+          ./cvelint -format csv ./cvelistV5/cves > CVEV5Errors.csv 2>&1
+          ./cvelint -format json ./cvelistV5/cves > CVEV5Errors.json 2>&1
+          ./cvelint -summary -format csv ./cvelistV5/cves > CNAErrors.csv 2>&1
+          ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json 2>&1
       continue-on-error: true
 
     - name: Commit changes
