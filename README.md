@@ -11,10 +11,10 @@ This repository contains a GitHub Action for running [CVELint](https://github.co
 
 ## Outputs
 
-`CVEV5Errors.csv`: A CSV file containing detailed error reports.
-`CVEV5Errors.json`: A JSON file containing detailed error reports.
-`CNAErrors.csv`: A summary CSV file of errors grouped by CNA.
-`CNAErrors.json`: A summary JSON file of errors grouped by CNA.
+- `CVEV5Errors.csv`: A CSV file containing detailed error reports.
+- `CVEV5Errors.json`: A JSON file containing detailed error reports.
+- `CNAErrors.csv`: A summary CSV file of errors grouped by CNA.
+- `CNAErrors.json`: A summary JSON file of errors grouped by CNA.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this action.
