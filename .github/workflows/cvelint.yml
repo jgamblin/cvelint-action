@@ -27,14 +27,25 @@ jobs:
       run: |
         git clone https://github.com/CVEProject/cvelistV5 --depth=1
          
-    - name: Run CVELINT
+    - name: Run CVELINT CSV
       env:
         GH_TOKEN:  ${{ secrets.GH_TOKEN }}
       run: |
           ./cvelint -ignore="E007,E008,E009" -format csv ./cvelistV5/cves > CVEV5Errors.csv 
-          ./cvelint -ignore="E007,E008,E009" -format json ./cvelistV5/cves > CVEV5Errors.json 
+
+    - name: Run CVELINT JSON
+    env:
+      GH_TOKEN:  ${{ secrets.GH_TOKEN }}
+    run: |
+          ./cvelint -ignore="E007,E008,E009" -format json ./cvelistV5/cves > CVEV5Errors.json
+    continue-on-error: true
+
+    - name: Run CVELINT CNA
+      env:
+        GH_TOKEN:  ${{ secrets.GH_TOKEN }}
+      run: | 
           ./cvelint -summary -format csv ./cvelistV5/cves > CNAErrors.csv 
-          ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json 
+          ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json
       continue-on-error: true
 
     - name: Commit changes
