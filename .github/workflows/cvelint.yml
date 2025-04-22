@@ -33,6 +33,8 @@ jobs:
       run: |
           ./cvelint -format csv ./cvelistV5/cves > CVEV5Errors.csv
           ./cvelint -format json ./cvelistV5/cves > CVEV5Errors.json
+          ./cvelint -summary -format csv ./cvelistV5/cves > CNAErrors.csv
+          ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json
       continue-on-error: true
 
     - name: Commit changes
