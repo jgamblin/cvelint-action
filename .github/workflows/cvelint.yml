@@ -55,6 +55,16 @@ jobs:
           ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json
         continue-on-error: true
 
+      - name: Run CVELINT CNA Reports
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          mkrdir CNAReports
+          jq -r '.results[].cna' CNAErrors.json | while read CNA; do
+            cvelint -cna="$CNA" -format=csv > "CNAReports/$CNA.csv"
+          done
+        continue-on-error: true
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
