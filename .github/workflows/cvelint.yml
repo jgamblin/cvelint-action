@@ -59,7 +59,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          mkrdir CNAReports
+          mkdir CNAReports
           jq -r '.results[].cna' CNAErrors.json | while read CNA; do
             cvelint -cna="$CNA" -format=csv > "CNAReports/$CNA.csv"
           done
