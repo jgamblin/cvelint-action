@@ -59,9 +59,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          mkdir CNAReports
+          mkdir -p CNAReports
           jq -r '.results[].cna' CNAErrors.json | while read CNA; do
-            cvelint -cna="$CNA" -format=csv > "CNAReports/$CNA.csv"
+            ./cvelint -cna="$CNA" -format=csv > "CNAReports/$CNA.csv"
           done
         continue-on-error: true
 
