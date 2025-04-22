@@ -1,0 +1,3 @@
+CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2024-4224,AHA,/Users/gamblin/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4224.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "V7.6_1.0.0 Build 20230616"
+CVE-2023-2905,AHA,/Users/gamblin/.cache/cvelint/cvelistV5/cves/2023/2xxx/CVE-2023-2905.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
