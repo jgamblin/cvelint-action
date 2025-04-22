@@ -1,0 +1,7 @@
+CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-1239,WatchGuard,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1239.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "12.5.12+701324"
+CVE-2025-1071,WatchGuard,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1071.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "12.5.12+701324"
+CVE-2025-0178,WatchGuard,/home/runner/.cache/cvelint/cvelistV5/cves/2025/0xxx/CVE-2025-0178.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "12.5.12+701324"
+CVE-2024-5974,WatchGuard,/home/runner/.cache/cvelint/cvelistV5/cves/2024/5xxx/CVE-2024-5974.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "12.5.12+687697"
+CVE-2024-4944,WatchGuard,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4944.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-1417,WatchGuard,/home/runner/.cache/cvelint/cvelistV5/cves/2024/1xxx/CVE-2024-1417.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description

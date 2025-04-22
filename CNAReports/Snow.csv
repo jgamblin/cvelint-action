@@ -1,0 +1,7 @@
+CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2024-4129,Snow,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4129.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-1150,Snow,/home/runner/.cache/cvelint/cvelistV5/cves/2024/1xxx/CVE-2024-1150.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-1149,Snow,/home/runner/.cache/cvelint/cvelistV5/cves/2024/1xxx/CVE-2024-1149.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-7169,Snow,/home/runner/.cache/cvelint/cvelistV5/cves/2023/7xxx/CVE-2023-7169.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2022-0883,Snow,/home/runner/.cache/cvelint/cvelistV5/cves/2022/0xxx/CVE-2022-0883.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "9 *"
+CVE-2021-4106,Snow,/home/runner/.cache/cvelint/cvelistV5/cves/2021/4xxx/CVE-2021-4106.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "1.0 0"

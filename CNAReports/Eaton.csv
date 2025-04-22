@@ -1,0 +1,6 @@
+CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2023-43777,Eaton,/home/runner/.cache/cvelint/cvelistV5/cves/2023/43xxx/CVE-2023-43777.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-43775,Eaton,/home/runner/.cache/cvelint/cvelistV5/cves/2023/43xxx/CVE-2023-43775.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2021-23283,Eaton,/home/runner/.cache/cvelint/cvelistV5/cves/2021/23xxx/CVE-2021-23283.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "1.69 release 166"
+CVE-2020-6656,Eaton,/home/runner/.cache/cvelint/cvelistV5/cves/2020/6xxx/CVE-2020-6656.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "v7.xx prior to v7.22"
+CVE-2020-6655,Eaton,/home/runner/.cache/cvelint/cvelistV5/cves/2020/6xxx/CVE-2020-6655.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "v7.xx prior to v7.22"

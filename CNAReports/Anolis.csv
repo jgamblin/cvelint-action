@@ -1,0 +1,9 @@
+CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-1390,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1390.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2.73;0"
+CVE-2024-24864,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2024/24xxx/CVE-2024-24864.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-24859,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2024/24xxx/CVE-2024-24859.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-24855,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2024/24xxx/CVE-2024-24855.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-23196,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23196.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-22386,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2024/22xxx/CVE-2024-22386.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-21803,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2024/21xxx/CVE-2024-21803.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2022-1678,Anolis,/home/runner/.cache/cvelint/cvelistV5/cves/2022/1xxx/CVE-2022-1678.json,check-invalid-vendor-string,E008,containers.cna.affected.#.vendor,Invalid vendor string: "n/a"

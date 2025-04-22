@@ -1,0 +1,13 @@
+CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2024-9476,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9476.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "11.3.0+security-01"
+CVE-2024-9476,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9476.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "11.2.3+security-01"
+CVE-2024-9264,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9264.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "+security-01"
+CVE-2024-9264,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9264.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "+security-01"
+CVE-2024-9264,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9264.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "+security-01"
+CVE-2024-9264,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9264.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "+security-01"
+CVE-2024-9264,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9264.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "+security-01"
+CVE-2024-9264,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9264.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "+security-01"
+CVE-2024-1442,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2024/1xxx/CVE-2024-1442.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-6152,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6152.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-4457,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2023/4xxx/CVE-2023-4457.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-0594,GRAFANA,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0594.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description

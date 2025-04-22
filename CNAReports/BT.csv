@@ -1,0 +1,4 @@
+CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2024-12356,BT,/home/runner/.cache/cvelint/cvelistV5/cves/2024/12xxx/CVE-2024-12356.json,check-invalid-self-references,E010,containers.cna.references.0.url,Unnecessary self-reference URL: https://www.cve.org/CVERecord?id=CVE-2024-12356
+CVE-2024-4018,BT,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4018.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-4017,BT,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4017.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
