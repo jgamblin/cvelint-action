@@ -1,40 +1,37 @@
-# CVELint GitHub Action
+# cvelint
 
-This repository provides a GitHub Action for running [CVELint](https://github.com/mprpic/cvelint), a tool designed to validate CVE JSON 5.0 records. The action automates the process of identifying errors in CVE data and generates detailed reports in CSV and JSON formats.
+CVE records in the [v5 JSON schema](https://github.com/CVEProject/cve-schema/tree/master/schema/v5.0) may include errors that are neither enforceable by a schema, nor validated on the backend in CVE Services when a CVE record is created/updated.
+This CLI tool aims to validate CVE records for such errors so they can be fixed, and changes to the CVE schema can be made based on these findings.
 
-## Outputs
-The action generates the following files:
+## Installation
 
-- `CVEV5Errors.csv`: A CSV file containing detailed error reports.
-- `CVEV5Errors.json`: A JSON file containing detailed error reports.
-- `CNAErrors.csv`: A summary CSV file of errors grouped by CNA.
-- `CNAErrors.json`: A summary JSON file of errors grouped by CNA.
-- `CNAReports/<CNA>.csv`: Individual CSV reports for each CNA.
+### Binary Releases
 
-## Workflow Overview
+For Linux, macOS, or Windows, you can download a binary release [here](https://github.com/mprpic/cvelint/releases).
 
-The action is defined in the [`cvelint.yml`](.github/workflows/cvelint.yml) file. It performs the following steps:
+### Build from Source
 
-1. **Install Dependencies**: Installs required tools like `wget` and `jq`.
-2. **Install CVELint**: Downloads and sets up the CVELint binary.
-3. **Clone CVE Data**: Clones the CVE JSON 5.0 data from the [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) repository.
-4. **Run Validation**: Executes CVELint to validate CVE data and generate reports:
-   - `CVEV5Errors.csv` and `CVEV5Errors.json` for overall errors.
-   - `CNAErrors.csv` and `CNAErrors.json` for CNA-specific summaries.
-   - Individual CSV reports for each CNA.
-5. **Commit Reports**: Commits the generated reports back to the repository.
+```bash
+$ git clone https://github.com/mprpic/cvelint; cd cvelint
+$ make build
+$ ./bin/cvelint -h
+```
 
-## Features
+## Usage
 
-- **Automated Validation**: Validates CVE JSON 5.0 records using CVELint.
-- **Error Reporting**: Generates error reports in multiple formats (`CVEV5Errors.csv`, `CVEV5Errors.json`, etc.).
-- **CNA-Specific Reports**: Creates individual reports for each CNA (CVE Numbering Authority).
-- **Scheduled Runs**: Supports scheduled validation runs and triggers on repository events.
-- **Customizable**: Easily extendable for additional workflows or custom validation rules.
+```bash
+$ git clone https://github.com/CVEProject/cvelistV5  # Download all CVE v5 records
+$ ./cvelint -select E005 -cna redhat ./cvelistV5/cves/2023/
+Collected 13501 files; checked 222 files.
 
+CVE-2023-3618 (redhat) -- /home/user/cvelistV5/cves/2023/3xxx/CVE-2023-3618.json
+  E005  Incorrect CVSS v3 severity: "high"; should be "medium" (at "containers.cna.metrics.1.cvssV3_1")
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this action.
+Found 1 error.
+$ ./cvelint -show-rules  # Display available validation rules
+$ ./cvelint -h  # Display help
+```
 
-## License
-This repository is licensed under the MIT License. 
+## GitHub Action
+
+[cvelint-action](https://github.com/jgamblin/cvelint-action) runs daily and produces a CSV and JSON output of all errors in the current CVE v5 data set.
