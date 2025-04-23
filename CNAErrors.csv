@@ -116,7 +116,7 @@ Fortra,E007,check-invalid-version-string,6
 GE GP,E004,check-leading-trailing-space,1
 GEHC,E007,check-invalid-version-string,1
 GRAFANA,E004,check-leading-trailing-space,4
-GRAFANA,E007,check-invalid-version-string,8
+GRAFANA,E007,check-invalid-version-string,18
 Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,76
 GandC,E004,check-leading-trailing-space,10
@@ -522,7 +522,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,133
+fortinet,E003,check-description-length,142
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -729,7 +729,7 @@ tibco,E007,check-invalid-version-string,22
 tibco,E008,check-invalid-vendor-string,1
 tibco,E009,check-invalid-product-string,1
 trellix,E004,check-leading-trailing-space,34
-trellix,E007,check-invalid-version-string,148
+trellix,E007,check-invalid-version-string,149
 trendmicro,E007,check-invalid-version-string,436
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
