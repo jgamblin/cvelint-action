@@ -123,7 +123,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12130
+GitHub_M,E007,check-invalid-version-string,12132
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -550,7 +550,7 @@ hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,184
 hpe,E006,check-affected-product-present,18
-hpe,E007,check-invalid-version-string,2472
+hpe,E007,check-invalid-version-string,2473
 hpe,E008,check-invalid-vendor-string,645
 hpe,E009,check-invalid-product-string,6
 huawei,E004,check-leading-trailing-space,16
@@ -617,9 +617,9 @@ microsoft,E007,check-invalid-version-string,37983
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108239
-mitre,E008,check-invalid-vendor-string,108223
-mitre,E009,check-invalid-product-string,108223
+mitre,E007,check-invalid-version-string,108244
+mitre,E008,check-invalid-vendor-string,108228
+mitre,E009,check-invalid-product-string,108228
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -638,7 +638,7 @@ netgear,E007,check-invalid-version-string,6
 netgear,E008,check-invalid-vendor-string,1
 nodejs,E007,check-invalid-version-string,30
 nvidia,E004,check-leading-trailing-space,24
-nvidia,E007,check-invalid-version-string,561
+nvidia,E007,check-invalid-version-string,562
 nvidia,E008,check-invalid-vendor-string,32
 nvidia,E009,check-invalid-product-string,4
 obdev,E007,check-invalid-version-string,5
@@ -684,7 +684,7 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,3708
+sap,E007,check-invalid-version-string,3710
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
