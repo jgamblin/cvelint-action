@@ -439,7 +439,7 @@ bosch,E008,check-invalid-vendor-string,1
 bosch,E009,check-invalid-product-string,1
 brocade,E004,check-leading-trailing-space,24
 brocade,E006,check-affected-product-present,1
-brocade,E007,check-invalid-version-string,150
+brocade,E007,check-invalid-version-string,151
 brocade,E008,check-invalid-vendor-string,59
 ca,E007,check-invalid-version-string,45
 ca,E008,check-invalid-vendor-string,25
@@ -522,7 +522,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,142
+fortinet,E003,check-description-length,150
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -589,7 +589,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4597
+jpcert,E007,check-invalid-version-string,4598
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
