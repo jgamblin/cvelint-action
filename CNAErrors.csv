@@ -123,7 +123,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12132
+GitHub_M,E007,check-invalid-version-string,12141
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -484,7 +484,7 @@ dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
 dotCMS,E007,check-invalid-version-string,3
 drupal,E004,check-leading-trailing-space,1
-drupal,E007,check-invalid-version-string,49
+drupal,E007,check-invalid-version-string,51
 drupal,E008,check-invalid-vendor-string,3
 drupal,E009,check-invalid-product-string,1
 duo,E007,check-invalid-version-string,1
@@ -617,9 +617,9 @@ microsoft,E007,check-invalid-version-string,37983
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108244
-mitre,E008,check-invalid-vendor-string,108228
-mitre,E009,check-invalid-product-string,108228
+mitre,E007,check-invalid-version-string,108257
+mitre,E008,check-invalid-vendor-string,108241
+mitre,E009,check-invalid-product-string,108241
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -704,7 +704,7 @@ snyk,E008,check-invalid-vendor-string,854
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
-sonicwall,E007,check-invalid-version-string,380
+sonicwall,E007,check-invalid-version-string,381
 suse,E004,check-leading-trailing-space,8
 suse,E007,check-invalid-version-string,112
 symantec,E004,check-leading-trailing-space,1
@@ -744,7 +744,7 @@ wikimedia-foundation,E007,check-invalid-version-string,7
 wolfSSL,E004,check-leading-trailing-space,5
 yandex,E007,check-invalid-version-string,26
 yandex,E008,check-invalid-vendor-string,14
-zdi,E007,check-invalid-version-string,544
+zdi,E007,check-invalid-version-string,551
 zdi,E008,check-invalid-vendor-string,7
 zdi,E009,check-invalid-product-string,7
 zephyr,E004,check-leading-trailing-space,2
