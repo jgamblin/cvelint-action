@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-04-26T12:08:35Z",
+  "generatedAt": "2025-04-27T00:23:00Z",
   "results": [
     {
       "cna": "1E",
@@ -1371,7 +1371,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1003},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 771}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 772}
       ]
     },
     {
@@ -2013,9 +2013,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108276},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108258},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108258},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108275},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108257},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108257},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
