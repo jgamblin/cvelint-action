@@ -194,7 +194,6 @@ Logitech,E006,check-affected-product-present,1
 Logitech,E007,check-invalid-version-string,1
 M-Files Corporation,E007,check-invalid-version-string,21
 MIM,E004,check-leading-trailing-space,1
-MON-CSIRT,E007,check-invalid-version-string,1
 Mandiant,E004,check-leading-trailing-space,1
 Mandiant,E007,check-invalid-version-string,1
 Mandiant,E010,check-invalid-self-references,3
@@ -268,7 +267,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,10494
+Patchstack,E007,check-invalid-version-string,10495
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -303,7 +302,7 @@ Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,27
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E004,check-leading-trailing-space,26
-SICK AG,E007,check-invalid-version-string,162
+SICK AG,E007,check-invalid-version-string,165
 SICK AG,E008,check-invalid-vendor-string,28
 SK-CERT,E004,check-leading-trailing-space,2
 SK-CERT,E007,check-invalid-version-string,8
@@ -365,8 +364,8 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
-VulDB,E007,check-invalid-version-string,1003
-VulDB,E008,check-invalid-vendor-string,772
+VulDB,E007,check-invalid-version-string,1009
+VulDB,E008,check-invalid-vendor-string,773
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -590,7 +589,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4604
+jpcert,E007,check-invalid-version-string,4605
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
