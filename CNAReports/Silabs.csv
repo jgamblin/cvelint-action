@@ -1,4 +1,5 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-3301,Silabs,/home/runner/.cache/cvelint/cvelistV5/cves/2025/3xxx/CVE-2025-3301.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "all released hardware revisions"
 CVE-2024-22472,Silabs,/home/runner/.cache/cvelint/cvelistV5/cves/2024/22xxx/CVE-2024-22472.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-9055,Silabs,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9055.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "*.*"
 CVE-2023-32100,Silabs,/home/runner/.cache/cvelint/cvelistV5/cves/2023/32xxx/CVE-2023-32100.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description

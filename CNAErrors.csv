@@ -124,7 +124,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12166
+GitHub_M,E007,check-invalid-version-string,12176
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -149,7 +149,7 @@ HYPR,E004,check-leading-trailing-space,6
 HYPR,E007,check-invalid-version-string,1
 Hanwha_Vision,E004,check-leading-trailing-space,3
 Hanwha_Vision,E007,check-invalid-version-string,11
-HeroDevs,E007,check-invalid-version-string,2
+HeroDevs,E007,check-invalid-version-string,3
 HiddenLayer,E004,check-leading-trailing-space,6
 Hillstone,E007,check-invalid-version-string,1
 Hitachi,E004,check-leading-trailing-space,32
@@ -170,7 +170,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,83
+INCIBE,E007,check-invalid-version-string,88
 Illumio,E004,check-leading-trailing-space,1
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
@@ -326,7 +326,7 @@ Samsung Mobile,E008,check-invalid-vendor-string,1
 SamsungMobile,E007,check-invalid-version-string,222
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
-Silabs,E007,check-invalid-version-string,1
+Silabs,E007,check-invalid-version-string,2
 Silver Peak,E007,check-invalid-version-string,16
 Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
@@ -366,7 +366,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
 VulDB,E007,check-invalid-version-string,1009
-VulDB,E008,check-invalid-vendor-string,773
+VulDB,E008,check-invalid-vendor-string,774
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -560,7 +560,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2522
+ibm,E007,check-invalid-version-string,2523
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,360
@@ -618,9 +618,9 @@ microsoft,E007,check-invalid-version-string,37983
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108279
-mitre,E008,check-invalid-vendor-string,108261
-mitre,E009,check-invalid-product-string,108261
+mitre,E007,check-invalid-version-string,108284
+mitre,E008,check-invalid-vendor-string,108266
+mitre,E009,check-invalid-product-string,108266
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
