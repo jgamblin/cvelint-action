@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-03T00:21:03Z",
+  "generatedAt": "2025-05-03T12:08:55Z",
   "results": [
     {
       "cna": "1E",
@@ -706,6 +706,12 @@
       "cna": "Liferay",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1}
+      ]
+    },
+    {
+      "cna": "Linux",
+      "errors": [
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1}
       ]
     },
     {
