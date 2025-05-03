@@ -3,10 +3,10 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,312
+3DS,E007,check-invalid-version-string,316
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,10
-@huntr_ai,E007,check-invalid-version-string,20
+@huntr_ai,E007,check-invalid-version-string,21
 @huntrdev,E004,check-leading-trailing-space,86
 @huntrdev,E007,check-invalid-version-string,19
 @huntrdev,E010,check-invalid-self-references,1
@@ -124,7 +124,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12228
+GitHub_M,E007,check-invalid-version-string,12231
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -366,7 +366,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
 VulDB,E007,check-invalid-version-string,1009
-VulDB,E008,check-invalid-vendor-string,774
+VulDB,E008,check-invalid-vendor-string,775
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -618,9 +618,9 @@ microsoft,E007,check-invalid-version-string,37989
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108347
-mitre,E008,check-invalid-vendor-string,108327
-mitre,E009,check-invalid-product-string,108327
+mitre,E007,check-invalid-version-string,108352
+mitre,E008,check-invalid-vendor-string,108332
+mitre,E009,check-invalid-product-string,108332
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -651,7 +651,7 @@ openEuler,E009,check-invalid-product-string,1
 openssl,E004,check-leading-trailing-space,1
 openssl,E007,check-invalid-version-string,64
 oracle,E002,check-duplicate-reference-url,683
-oracle,E007,check-invalid-version-string,5869
+oracle,E007,check-invalid-version-string,5874
 oracle,E008,check-invalid-vendor-string,3301
 oracle,E009,check-invalid-product-string,3291
 palo_alto,E004,check-leading-trailing-space,9
