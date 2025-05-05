@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-05T00:23:01Z",
+  "generatedAt": "2025-05-05T12:09:38Z",
   "results": [
     {
       "cna": "1E",
@@ -630,7 +630,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 20},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 88}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 89}
       ]
     },
     {
@@ -751,7 +751,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 750}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 756}
       ]
     },
     {
@@ -1003,7 +1003,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2024},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10497},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10498},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1371,7 +1371,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1009},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 775}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 778}
       ]
     },
     {
