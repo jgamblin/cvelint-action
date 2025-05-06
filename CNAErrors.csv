@@ -124,7 +124,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12257
+GitHub_M,E007,check-invalid-version-string,12258
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -358,7 +358,7 @@ TianoCore,E007,check-invalid-version-string,2
 TianoCore,E008,check-invalid-vendor-string,1
 Tigera,E004,check-leading-trailing-space,2
 Toshiba,E007,check-invalid-version-string,43
-Unisoc,E007,check-invalid-version-string,565
+Unisoc,E007,check-invalid-version-string,566
 VDOO,E007,check-invalid-version-string,10
 VDOO,E008,check-invalid-vendor-string,10
 VDOO,E009,check-invalid-product-string,2
@@ -366,7 +366,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
 VulDB,E007,check-invalid-version-string,1010
-VulDB,E008,check-invalid-vendor-string,782
+VulDB,E008,check-invalid-vendor-string,788
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -523,7 +523,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,167
+fortinet,E003,check-description-length,177
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -668,7 +668,7 @@ qnap,E004,check-leading-trailing-space,99
 qnap,E007,check-invalid-version-string,645
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
-qualcomm,E007,check-invalid-version-string,21138
+qualcomm,E007,check-invalid-version-string,21717
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23

@@ -1,3 +1,5 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
-CVE-2025-2073,ChromeOS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2073.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Kernal version 6.1"
-CVE-2025-2073,ChromeOS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2073.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "Kernal version 6.1"
+CVE-2025-2073,ChromeOS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2073.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Kernal version 6.1, 5.15. 5.10, 4.19
+chromeOS version 16093.103.0"
+CVE-2025-2073,ChromeOS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2073.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "Kernal version 6.1, 5.15. 5.10, 4.19
+chromeOS version 16093.103.0"
