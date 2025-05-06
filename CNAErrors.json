@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-05T12:09:38Z",
+  "generatedAt": "2025-05-06T00:21:56Z",
   "results": [
     {
       "cna": "1E",
@@ -474,7 +474,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 2},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 525},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12231},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12257},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1370,8 +1370,8 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1009},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 778}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1010},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 782}
       ]
     },
     {
@@ -2013,9 +2013,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108352},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108332},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108332},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108393},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108373},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108373},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
