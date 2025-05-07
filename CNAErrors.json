@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-07T00:22:02Z",
+  "generatedAt": "2025-05-07T12:10:07Z",
   "results": [
     {
       "cna": "1E",
@@ -1003,7 +1003,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2024},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10498},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10499},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1193,7 +1193,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 222}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 243}
       ]
     },
     {
@@ -1870,7 +1870,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 6},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2539},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2541},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1854},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1835}
       ]
