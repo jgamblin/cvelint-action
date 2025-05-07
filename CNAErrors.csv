@@ -124,7 +124,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12258
+GitHub_M,E007,check-invalid-version-string,12271
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -235,7 +235,7 @@ Nokia,E003,check-description-length,1
 Nokia,E007,check-invalid-version-string,2
 Nozomi,E007,check-invalid-version-string,66
 ODA,E004,check-leading-trailing-space,1
-OMRON,E007,check-invalid-version-string,12
+OMRON,E007,check-invalid-version-string,17
 ONEKEY,E004,check-leading-trailing-space,7
 OPPO,E004,check-leading-trailing-space,2
 OPPO,E007,check-invalid-version-string,10
@@ -479,7 +479,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1778
+dell,E007,check-invalid-version-string,1788
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -523,7 +523,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,177
+fortinet,E003,check-description-length,178
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -618,9 +618,9 @@ microsoft,E007,check-invalid-version-string,37989
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108393
-mitre,E008,check-invalid-vendor-string,108373
-mitre,E009,check-invalid-product-string,108373
+mitre,E007,check-invalid-version-string,108404
+mitre,E008,check-invalid-vendor-string,108384
+mitre,E009,check-invalid-product-string,108384
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
