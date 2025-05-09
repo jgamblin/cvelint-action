@@ -124,7 +124,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12288
+GitHub_M,E007,check-invalid-version-string,12294
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -286,7 +286,7 @@ Ping Identity,E007,check-invalid-version-string,1
 Ping Identity,E008,check-invalid-vendor-string,1
 Ping Identity,E009,check-invalid-product-string,1
 PostgreSQL,E007,check-invalid-version-string,6
-PostgreSQL,E008,check-invalid-vendor-string,10
+PostgreSQL,E008,check-invalid-vendor-string,11
 ProgressSoftware,E004,check-leading-trailing-space,33
 ProgressSoftware,E007,check-invalid-version-string,90
 Proofpoint,E004,check-leading-trailing-space,9
@@ -479,7 +479,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1788
+dell,E007,check-invalid-version-string,1789
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -560,11 +560,11 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2541
+ibm,E007,check-invalid-version-string,2544
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,360
-icscert,E007,check-invalid-version-string,2982
+icscert,E007,check-invalid-version-string,2985
 icscert,E008,check-invalid-vendor-string,1408
 icscert,E009,check-invalid-product-string,570
 imaginationtech,E007,check-invalid-version-string,95
@@ -614,13 +614,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,37989
+microsoft,E007,check-invalid-version-string,37995
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108412
-mitre,E008,check-invalid-vendor-string,108392
-mitre,E009,check-invalid-product-string,108392
+mitre,E007,check-invalid-version-string,108438
+mitre,E008,check-invalid-vendor-string,108418
+mitre,E009,check-invalid-product-string,108418
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -672,7 +672,7 @@ qualcomm,E007,check-invalid-version-string,21717
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
-rapid7,E007,check-invalid-version-string,62
+rapid7,E007,check-invalid-version-string,63
 rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
