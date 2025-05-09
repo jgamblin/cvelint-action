@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-09T00:22:12Z",
+  "generatedAt": "2025-05-09T12:09:51Z",
   "results": [
     {
       "cna": "1E",
@@ -95,7 +95,7 @@
     {
       "cna": "ASUS",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 23}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25}
       ]
     },
     {
@@ -235,7 +235,7 @@
       "cna": "Canon",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 156}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 158}
       ]
     },
     {
@@ -672,6 +672,12 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 122},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 30}
+      ]
+    },
+    {
+      "cna": "Kong",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
       ]
     },
     {
@@ -2106,7 +2112,7 @@
       "cna": "oracle",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 683},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5874},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5869},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 3301},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3291}
       ]
