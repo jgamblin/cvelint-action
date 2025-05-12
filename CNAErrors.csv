@@ -25,7 +25,7 @@ ASR,E006,check-affected-product-present,3
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,2
-ASUS,E007,check-invalid-version-string,25
+ASUS,E007,check-invalid-version-string,26
 ASUSTOR1,E004,check-leading-trailing-space,6
 AlgoSec,E004,check-leading-trailing-space,2
 AlgoSec,E007,check-invalid-version-string,2
@@ -59,7 +59,7 @@ CERT-In,E007,check-invalid-version-string,61
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,12
 CERTVDE,E004,check-leading-trailing-space,47
-CERTVDE,E007,check-invalid-version-string,959
+CERTVDE,E007,check-invalid-version-string,961
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
 CSW,E007,check-invalid-version-string,5
@@ -124,7 +124,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12295
+GitHub_M,E007,check-invalid-version-string,12299
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -188,7 +188,7 @@ LGE,E004,check-leading-trailing-space,4
 LGE,E007,check-invalid-version-string,19
 LGE,E008,check-invalid-vendor-string,6
 LGE,E009,check-invalid-product-string,1
-LINE,E007,check-invalid-version-string,9
+LINE,E007,check-invalid-version-string,7
 Lexmark,E004,check-leading-trailing-space,4
 Lexmark,E007,check-invalid-version-string,334
 Liferay,E004,check-leading-trailing-space,1
@@ -591,7 +591,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4605
+jpcert,E007,check-invalid-version-string,4606
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -673,7 +673,7 @@ qualcomm,E007,check-invalid-version-string,21717
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
-rapid7,E007,check-invalid-version-string,63
+rapid7,E007,check-invalid-version-string,62
 rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
@@ -739,7 +739,7 @@ twcert,E004,check-leading-trailing-space,25
 twcert,E007,check-invalid-version-string,220
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
-vmware,E007,check-invalid-version-string,731
+vmware,E007,check-invalid-version-string,732
 vmware,E008,check-invalid-vendor-string,382
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
