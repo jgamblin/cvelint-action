@@ -525,7 +525,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,187
+fortinet,E003,check-description-length,194
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -687,11 +687,11 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,3711
+sap,E007,check-invalid-version-string,3751
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
-schneider,E007,check-invalid-version-string,847
+schneider,E007,check-invalid-version-string,848
 schneider,E008,check-invalid-vendor-string,323
 schneider,E009,check-invalid-product-string,27
 securin,E007,check-invalid-version-string,1
@@ -699,7 +699,7 @@ sgi,E007,check-invalid-version-string,11
 sgi,E008,check-invalid-vendor-string,11
 sgi,E009,check-invalid-product-string,11
 siemens,E002,check-duplicate-reference-url,3
-siemens,E007,check-invalid-version-string,9479
+siemens,E007,check-invalid-version-string,9471
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
@@ -740,7 +740,7 @@ twcert,E004,check-leading-trailing-space,25
 twcert,E007,check-invalid-version-string,220
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
-vmware,E007,check-invalid-version-string,732
+vmware,E007,check-invalid-version-string,736
 vmware,E008,check-invalid-vendor-string,383
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
