@@ -90,6 +90,7 @@ DEVOLUTIONS,E007,check-invalid-version-string,3
 DIVD,E007,check-invalid-version-string,45
 DeepSurface,E007,check-invalid-version-string,1
 Dfinity,E004,check-leading-trailing-space,2
+Digi,E007,check-invalid-version-string,1
 Docker,E004,check-leading-trailing-space,8
 Document Fdn.,E007,check-invalid-version-string,14
 Dragos,E004,check-leading-trailing-space,1
@@ -124,7 +125,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12299
+GitHub_M,E007,check-invalid-version-string,12302
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -269,7 +270,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,10653
+Patchstack,E007,check-invalid-version-string,10655
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -619,9 +620,9 @@ microsoft,E007,check-invalid-version-string,37995
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108449
-mitre,E008,check-invalid-vendor-string,108429
-mitre,E009,check-invalid-product-string,108429
+mitre,E007,check-invalid-version-string,108463
+mitre,E008,check-invalid-vendor-string,108443
+mitre,E009,check-invalid-product-string,108443
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -740,7 +741,7 @@ twcert,E007,check-invalid-version-string,220
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,732
-vmware,E008,check-invalid-vendor-string,382
+vmware,E008,check-invalid-vendor-string,383
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
 wolfSSL,E004,check-leading-trailing-space,5
