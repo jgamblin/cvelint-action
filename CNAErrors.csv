@@ -125,7 +125,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12316
+GitHub_M,E007,check-invalid-version-string,12318
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -270,7 +270,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,10655
+Patchstack,E007,check-invalid-version-string,10656
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -364,7 +364,7 @@ Unisoc,E007,check-invalid-version-string,566
 VDOO,E007,check-invalid-version-string,10
 VDOO,E008,check-invalid-vendor-string,10
 VDOO,E009,check-invalid-product-string,2
-VULSec,E007,check-invalid-version-string,3
+VULSec,E007,check-invalid-version-string,4
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
 VulDB,E007,check-invalid-version-string,1012
@@ -525,7 +525,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,194
+fortinet,E003,check-description-length,203
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -691,7 +691,7 @@ sap,E007,check-invalid-version-string,3751
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
-schneider,E007,check-invalid-version-string,848
+schneider,E007,check-invalid-version-string,850
 schneider,E008,check-invalid-vendor-string,323
 schneider,E009,check-invalid-product-string,27
 securin,E007,check-invalid-version-string,1
