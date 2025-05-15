@@ -39,7 +39,7 @@ Arista,E008,check-invalid-vendor-string,1
 Arm,E004,check-leading-trailing-space,16
 Arm,E007,check-invalid-version-string,8
 Axis,E004,check-leading-trailing-space,3
-Axis,E007,check-invalid-version-string,55
+Axis,E007,check-invalid-version-string,56
 Axis,E008,check-invalid-vendor-string,1
 B.Braun,E004,check-leading-trailing-space,1
 BD,E004,check-leading-trailing-space,2
@@ -343,7 +343,7 @@ Sophos,E009,check-invalid-product-string,1
 Splunk,E004,check-leading-trailing-space,11
 Splunk,E007,check-invalid-version-string,48
 Synaptics,E007,check-invalid-version-string,12
-TECNOMobile,E007,check-invalid-version-string,1
+TECNOMobile,E007,check-invalid-version-string,2
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
@@ -592,7 +592,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4606
+jpcert,E007,check-invalid-version-string,4622
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1

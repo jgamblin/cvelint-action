@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-15T00:20:32Z",
+  "generatedAt": "2025-05-15T12:09:45Z",
   "results": [
     {
       "cna": "1E",
@@ -144,7 +144,7 @@
       "cna": "Axis",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 55},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 56},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1}
       ]
     },
@@ -1278,7 +1278,7 @@
     {
       "cna": "TECNOMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
       ]
     },
     {
@@ -1957,7 +1957,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4606},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4622},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
