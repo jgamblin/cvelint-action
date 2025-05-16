@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-16T00:22:35Z",
+  "generatedAt": "2025-05-16T12:10:12Z",
   "results": [
     {
       "cna": "1E",
@@ -219,7 +219,7 @@
       "cna": "CERTVDE",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 47},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 961},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 959},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1382,7 +1382,7 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1012},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1019},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 795}
       ]
     },
@@ -1882,7 +1882,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 6},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2547},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2548},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1854},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1835}
       ]
@@ -2243,7 +2243,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 854},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 855},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
@@ -2275,7 +2275,7 @@
     {
       "cna": "synology",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 52},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 53},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 8}
       ]

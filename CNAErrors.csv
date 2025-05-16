@@ -59,7 +59,7 @@ CERT-In,E007,check-invalid-version-string,61
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,12
 CERTVDE,E004,check-leading-trailing-space,47
-CERTVDE,E007,check-invalid-version-string,961
+CERTVDE,E007,check-invalid-version-string,959
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
 CSW,E007,check-invalid-version-string,5
@@ -367,7 +367,7 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,4
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
-VulDB,E007,check-invalid-version-string,1012
+VulDB,E007,check-invalid-version-string,1019
 VulDB,E008,check-invalid-vendor-string,795
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
@@ -562,7 +562,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2547
+ibm,E007,check-invalid-version-string,2548
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,360
@@ -703,7 +703,7 @@ siemens,E007,check-invalid-version-string,9471
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,854
+snyk,E008,check-invalid-vendor-string,855
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
@@ -715,7 +715,7 @@ symantec,E006,check-affected-product-present,2
 symantec,E007,check-invalid-version-string,344
 symantec,E008,check-invalid-vendor-string,199
 symantec,E009,check-invalid-product-string,133
-synology,E007,check-invalid-version-string,52
+synology,E007,check-invalid-version-string,53
 synology,E008,check-invalid-vendor-string,8
 synology,E009,check-invalid-product-string,8
 talos,E007,check-invalid-version-string,1408
