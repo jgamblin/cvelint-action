@@ -125,7 +125,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12343
+GitHub_M,E007,check-invalid-version-string,12361
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -209,7 +209,7 @@ Medtronic,E007,check-invalid-version-string,4
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,2898
+Mitsubishi,E007,check-invalid-version-string,2901
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -270,7 +270,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,10656
+Patchstack,E007,check-invalid-version-string,10660
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -368,7 +368,7 @@ VULSec,E007,check-invalid-version-string,4
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
 VulDB,E007,check-invalid-version-string,1012
-VulDB,E008,check-invalid-vendor-string,794
+VulDB,E008,check-invalid-vendor-string,795
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -620,9 +620,9 @@ microsoft,E007,check-invalid-version-string,38045
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108504
-mitre,E008,check-invalid-vendor-string,108483
-mitre,E009,check-invalid-product-string,108483
+mitre,E007,check-invalid-version-string,108516
+mitre,E008,check-invalid-vendor-string,108495
+mitre,E009,check-invalid-product-string,108495
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
