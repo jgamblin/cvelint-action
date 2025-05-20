@@ -1,12 +1,11 @@
 CNA,ErrorCode,ErrorName,ErrorCount
-1E,E004,check-leading-trailing-space,3
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
 3DS,E007,check-invalid-version-string,316
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,10
-@huntr_ai,E007,check-invalid-version-string,21
+@huntr_ai,E007,check-invalid-version-string,20
 @huntrdev,E004,check-leading-trailing-space,86
 @huntrdev,E007,check-invalid-version-string,19
 @huntrdev,E010,check-invalid-self-references,1
@@ -172,7 +171,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,89
+INCIBE,E007,check-invalid-version-string,91
 Illumio,E004,check-leading-trailing-space,1
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
@@ -675,7 +674,7 @@ qualcomm,E007,check-invalid-version-string,21717
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
-rapid7,E007,check-invalid-version-string,62
+rapid7,E007,check-invalid-version-string,63
 rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
