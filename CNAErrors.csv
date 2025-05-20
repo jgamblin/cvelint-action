@@ -65,7 +65,7 @@ CERTVDE,E009,check-invalid-product-string,2
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
-Canon,E007,check-invalid-version-string,158
+Canon,E007,check-invalid-version-string,167
 Canon_EMEA,E007,check-invalid-version-string,1
 Carrier,E004,check-leading-trailing-space,1
 Carrier,E007,check-invalid-version-string,1
@@ -79,7 +79,7 @@ Ciena,E007,check-invalid-version-string,19
 Citrix,E004,check-leading-trailing-space,13
 Citrix,E007,check-invalid-version-string,81
 ConcreteCMS,E004,check-leading-trailing-space,3
-ConnectWise,E007,check-invalid-version-string,1
+ConnectWise,E007,check-invalid-version-string,2
 CoolKit,E004,check-leading-trailing-space,1
 Cybellum,E004,check-leading-trailing-space,1
 Cybellum,E007,check-invalid-version-string,2
@@ -110,13 +110,14 @@ F-SecureUS,E007,check-invalid-version-string,32
 FSI,E007,check-invalid-version-string,1
 Fidelis,E007,check-invalid-version-string,32
 Fluid Attacks,E003,check-description-length,1
-Fluid Attacks,E004,check-leading-trailing-space,119
+Fluid Attacks,E004,check-leading-trailing-space,100
 Fluid Attacks,E007,check-invalid-version-string,5
 Fluid Attacks,E008,check-invalid-vendor-string,76
 Fortra,E004,check-leading-trailing-space,4
 Fortra,E007,check-invalid-version-string,6
 GE GP,E004,check-leading-trailing-space,1
 GEHC,E007,check-invalid-version-string,1
+GE_Vernova,E007,check-invalid-version-string,1
 GRAFANA,E004,check-leading-trailing-space,4
 GRAFANA,E007,check-invalid-version-string,18
 Gallagher,E004,check-leading-trailing-space,16
@@ -125,7 +126,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12388
+GitHub_M,E007,check-invalid-version-string,12402
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -270,7 +271,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,10728
+Patchstack,E007,check-invalid-version-string,10886
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -444,7 +445,7 @@ brocade,E004,check-leading-trailing-space,24
 brocade,E006,check-affected-product-present,1
 brocade,E007,check-invalid-version-string,151
 brocade,E008,check-invalid-vendor-string,59
-ca,E007,check-invalid-version-string,45
+ca,E007,check-invalid-version-string,47
 ca,E008,check-invalid-vendor-string,25
 ca,E009,check-invalid-product-string,1
 canonical,E002,check-duplicate-reference-url,1
@@ -620,9 +621,9 @@ microsoft,E007,check-invalid-version-string,38045
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108517
-mitre,E008,check-invalid-vendor-string,108496
-mitre,E009,check-invalid-product-string,108496
+mitre,E007,check-invalid-version-string,108522
+mitre,E008,check-invalid-vendor-string,108501
+mitre,E009,check-invalid-product-string,108501
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
