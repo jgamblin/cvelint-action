@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-05-26T00:22:54Z",
+  "generatedAt": "2025-05-26T12:09:53Z",
   "results": [
     {
       "cna": "360ST",
@@ -1383,7 +1383,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1025},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 804}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 806}
       ]
     },
     {
@@ -1958,7 +1958,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4658},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4659},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
