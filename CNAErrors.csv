@@ -171,7 +171,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,91
+INCIBE,E007,check-invalid-version-string,94
 Illumio,E004,check-leading-trailing-space,1
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
@@ -270,7 +270,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,11003
+Patchstack,E007,check-invalid-version-string,11004
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -368,7 +368,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,12
 VulDB,E007,check-invalid-version-string,1025
-VulDB,E008,check-invalid-vendor-string,806
+VulDB,E008,check-invalid-vendor-string,807
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -710,7 +710,7 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,386
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,112
+suse,E007,check-invalid-version-string,131
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2
 symantec,E007,check-invalid-version-string,344
