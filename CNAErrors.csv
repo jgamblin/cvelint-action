@@ -171,7 +171,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,94
+INCIBE,E007,check-invalid-version-string,95
 Illumio,E004,check-leading-trailing-space,1
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
@@ -526,7 +526,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,221
+fortinet,E003,check-description-length,230
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
