@@ -125,7 +125,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12503
+GitHub_M,E007,check-invalid-version-string,12533
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -270,7 +270,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,11006
+Patchstack,E007,check-invalid-version-string,11007
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -593,7 +593,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4659
+jpcert,E007,check-invalid-version-string,4662
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -621,9 +621,9 @@ microsoft,E007,check-invalid-version-string,36276
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108611
-mitre,E008,check-invalid-vendor-string,108590
-mitre,E009,check-invalid-product-string,108590
+mitre,E007,check-invalid-version-string,108617
+mitre,E008,check-invalid-vendor-string,108596
+mitre,E009,check-invalid-product-string,108596
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -741,7 +741,7 @@ twcert,E004,check-leading-trailing-space,25
 twcert,E007,check-invalid-version-string,220
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
-vmware,E007,check-invalid-version-string,751
+vmware,E007,check-invalid-version-string,755
 vmware,E008,check-invalid-vendor-string,405
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
