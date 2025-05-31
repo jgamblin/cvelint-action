@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,316
+3DS,E007,check-invalid-version-string,367
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,10
 @huntr_ai,E007,check-invalid-version-string,20
@@ -125,7 +125,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12533
+GitHub_M,E007,check-invalid-version-string,12544
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -143,7 +143,7 @@ GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,10
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,263
+HCL,E007,check-invalid-version-string,265
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6
@@ -270,7 +270,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2024
-Patchstack,E007,check-invalid-version-string,11007
+Patchstack,E007,check-invalid-version-string,11008
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -450,7 +450,7 @@ ca,E009,check-invalid-product-string,1
 canonical,E002,check-duplicate-reference-url,1
 canonical,E004,check-leading-trailing-space,2
 canonical,E006,check-affected-product-present,7
-canonical,E007,check-invalid-version-string,323
+canonical,E007,check-invalid-version-string,325
 canonical,E008,check-invalid-vendor-string,173
 canonical,E009,check-invalid-product-string,160
 canonical,E010,check-invalid-self-references,35
