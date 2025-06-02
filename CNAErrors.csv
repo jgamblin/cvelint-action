@@ -118,14 +118,14 @@ GE GP,E004,check-leading-trailing-space,1
 GEHC,E007,check-invalid-version-string,1
 GE_Vernova,E007,check-invalid-version-string,1
 GRAFANA,E004,check-leading-trailing-space,4
-GRAFANA,E007,check-invalid-version-string,25
+GRAFANA,E007,check-invalid-version-string,38
 Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,76
 GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,525
-GitHub_M,E007,check-invalid-version-string,12544
+GitHub_M,E007,check-invalid-version-string,12553
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -203,7 +203,7 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,18
 Mautic,E007,check-invalid-version-string,57
-MediaTek,E007,check-invalid-version-string,756
+MediaTek,E007,check-invalid-version-string,763
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,4
 Mend,E007,check-invalid-version-string,50
@@ -570,7 +570,7 @@ icscert,E004,check-leading-trailing-space,360
 icscert,E007,check-invalid-version-string,3014
 icscert,E008,check-invalid-vendor-string,1404
 icscert,E009,check-invalid-product-string,570
-imaginationtech,E007,check-invalid-version-string,103
+imaginationtech,E007,check-invalid-version-string,109
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
 intel,E007,check-invalid-version-string,1917
@@ -710,7 +710,8 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,386
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,133
+suse,E007,check-invalid-version-string,134
+suse,E008,check-invalid-vendor-string,1
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2
 symantec,E007,check-invalid-version-string,344

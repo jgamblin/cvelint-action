@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-02T00:23:31Z",
+  "generatedAt": "2025-06-02T12:10:04Z",
   "results": [
     {
       "cna": "360ST",
@@ -453,7 +453,7 @@
       "cna": "GRAFANA",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 4},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 38}
       ]
     },
     {
@@ -480,7 +480,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 2},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 525},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12544},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12553},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -763,7 +763,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 756}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 763}
       ]
     },
     {
@@ -1900,7 +1900,7 @@
     {
       "cna": "imaginationtech",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 103}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109}
       ]
     },
     {
@@ -2260,7 +2260,8 @@
       "cna": "suse",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 133}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 134},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1}
       ]
     },
     {
