@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-03T00:22:49Z",
+  "generatedAt": "2025-06-03T12:10:03Z",
   "results": [
     {
       "cna": "360ST",
@@ -1350,7 +1350,7 @@
     {
       "cna": "Unisoc",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 566}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 569}
       ]
     },
     {
@@ -1958,7 +1958,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4662},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4664},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2166,7 +2166,7 @@
     {
       "cna": "qualcomm",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21717},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 22203},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 123},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 124}
       ]
@@ -2285,7 +2285,7 @@
     {
       "cna": "talos",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1408},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1412},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 727},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 94}
       ]
