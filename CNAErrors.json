@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-05T12:10:11Z",
+  "generatedAt": "2025-06-06T00:22:20Z",
   "results": [
     {
       "cna": "360ST",
@@ -480,7 +480,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 2},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 525},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12590},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12594},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1015,7 +1015,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2023},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11010},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11013},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1653,7 +1653,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 13},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 67900},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 67892},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2958},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2146}
       ]
@@ -1854,7 +1854,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 594},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1039},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1040},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 723},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 646}
       ]
@@ -2017,7 +2017,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 212},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 440},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36276},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36277},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2918},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2913}
       ]
@@ -2026,9 +2026,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108656},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108635},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108635},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108657},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108636},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108636},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
