@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-06T00:22:20Z",
+  "generatedAt": "2025-06-06T12:10:08Z",
   "results": [
     {
       "cna": "360ST",
@@ -1015,7 +1015,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2023},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11013},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11026},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1376,7 +1376,7 @@
     {
       "cna": "Vivo",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14}
       ]
     },
     {
@@ -1958,7 +1958,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4664},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4665},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
