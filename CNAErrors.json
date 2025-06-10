@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-10T00:22:36Z",
+  "generatedAt": "2025-06-10T12:10:39Z",
   "results": [
     {
       "cna": "360ST",
@@ -1190,7 +1190,7 @@
     {
       "cna": "Salesforce",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 26},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 10}
       ]
     },
@@ -1383,7 +1383,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1028},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 837}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 839}
       ]
     },
     {
@@ -1427,7 +1427,7 @@
       "cna": "Wordfence",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 49}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 50}
       ]
     },
     {
@@ -1806,7 +1806,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 239},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 240},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2203,7 +2203,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 217},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3751},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3770},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
@@ -2212,7 +2212,7 @@
       "cna": "schneider",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 62},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 850},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 864},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 323},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 27}
       ]

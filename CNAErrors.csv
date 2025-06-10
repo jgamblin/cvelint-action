@@ -320,7 +320,7 @@ SWI,E007,check-invalid-version-string,6
 SWI,E008,check-invalid-vendor-string,2
 SailPoint,E004,check-leading-trailing-space,1
 SailPoint,E007,check-invalid-version-string,3
-Salesforce,E007,check-invalid-version-string,21
+Salesforce,E007,check-invalid-version-string,26
 Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
@@ -368,7 +368,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1028
-VulDB,E008,check-invalid-vendor-string,837
+VulDB,E008,check-invalid-vendor-string,839
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -382,7 +382,7 @@ WSO2,E004,check-leading-trailing-space,3
 WatchGuard,E004,check-leading-trailing-space,2
 WatchGuard,E007,check-invalid-version-string,4
 Wordfence,E007,check-invalid-version-string,11
-Wordfence,E008,check-invalid-vendor-string,49
+Wordfence,E008,check-invalid-vendor-string,50
 XEN,E004,check-leading-trailing-space,15
 XEN,E007,check-invalid-version-string,117
 XI,E004,check-leading-trailing-space,24
@@ -526,7 +526,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,239
+fortinet,E003,check-description-length,240
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -688,11 +688,11 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,3751
+sap,E007,check-invalid-version-string,3770
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
-schneider,E007,check-invalid-version-string,850
+schneider,E007,check-invalid-version-string,864
 schneider,E008,check-invalid-vendor-string,323
 schneider,E009,check-invalid-product-string,27
 securin,E007,check-invalid-version-string,1
