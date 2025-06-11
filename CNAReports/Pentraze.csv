@@ -1,5 +1,6 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
 CVE-2024-7915,Pentraze,/home/runner/.cache/cvelint/cvelistV5/cves/2024/7xxx/CVE-2024-7915.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "1.5.10 (110)"
+CVE-2024-7457,Pentraze,/home/runner/.cache/cvelint/cvelistV5/cves/2024/7xxx/CVE-2024-7457.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "build 303"
 CVE-2024-7062,Pentraze,/home/runner/.cache/cvelint/cvelistV5/cves/2024/7xxx/CVE-2024-7062.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "v1.6.0, Build 4087"
 CVE-2024-3119,Pentraze,/home/runner/.cache/cvelint/cvelistV5/cves/2024/3xxx/CVE-2024-3119.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-0916,Pentraze,/home/runner/.cache/cvelint/cvelistV5/cves/2024/0xxx/CVE-2024-0916.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
