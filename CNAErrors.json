@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-12T00:22:35Z",
+  "generatedAt": "2025-06-12T12:09:58Z",
   "results": [
     {
       "cna": "360ST",
@@ -1128,7 +1128,7 @@
     {
       "cna": "SEC-VLab",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 34}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 35}
       ]
     },
     {
@@ -1812,7 +1812,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 249},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 259},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -1964,7 +1964,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4665},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4667},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
