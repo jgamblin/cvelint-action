@@ -125,7 +125,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12653
+GitHub_M,E007,check-invalid-version-string,12669
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -306,7 +306,7 @@ Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,35
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E004,check-leading-trailing-space,26
-SICK AG,E007,check-invalid-version-string,167
+SICK AG,E007,check-invalid-version-string,185
 SICK AG,E008,check-invalid-vendor-string,28
 SK-CERT,E004,check-leading-trailing-space,2
 SK-CERT,E007,check-invalid-version-string,8
@@ -483,7 +483,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1798
+dell,E007,check-invalid-version-string,1800
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -519,7 +519,7 @@ fedora,E007,check-invalid-version-string,111
 fedora,E008,check-invalid-vendor-string,110
 fedora,E009,check-invalid-product-string,1
 flexera,E002,check-duplicate-reference-url,13
-flexera,E007,check-invalid-version-string,493
+flexera,E007,check-invalid-version-string,496
 flexera,E008,check-invalid-vendor-string,444
 flexera,E009,check-invalid-product-string,427
 floragunn,E007,check-invalid-version-string,2
@@ -568,7 +568,7 @@ ibm,E007,check-invalid-version-string,2558
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
-icscert,E007,check-invalid-version-string,3013
+icscert,E007,check-invalid-version-string,3025
 icscert,E008,check-invalid-vendor-string,1388
 icscert,E009,check-invalid-product-string,570
 imaginationtech,E007,check-invalid-version-string,109
@@ -622,9 +622,9 @@ microsoft,E007,check-invalid-version-string,36329
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108677
-mitre,E008,check-invalid-vendor-string,108656
-mitre,E009,check-invalid-product-string,108656
+mitre,E007,check-invalid-version-string,108684
+mitre,E008,check-invalid-vendor-string,108663
+mitre,E009,check-invalid-product-string,108663
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
