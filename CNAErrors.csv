@@ -23,7 +23,7 @@ ASR,E004,check-leading-trailing-space,4
 ASR,E006,check-affected-product-present,3
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
-ASRG,E007,check-invalid-version-string,2
+ASRG,E007,check-invalid-version-string,3
 ASUS,E007,check-invalid-version-string,26
 ASUSTOR1,E004,check-leading-trailing-space,6
 AlgoSec,E004,check-leading-trailing-space,2
@@ -125,7 +125,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12669
+GitHub_M,E007,check-invalid-version-string,12700
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -622,9 +622,9 @@ microsoft,E007,check-invalid-version-string,36329
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108689
-mitre,E008,check-invalid-vendor-string,108668
-mitre,E009,check-invalid-product-string,108668
+mitre,E007,check-invalid-version-string,108698
+mitre,E008,check-invalid-vendor-string,108677
+mitre,E009,check-invalid-product-string,108677
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
