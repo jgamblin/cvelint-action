@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,379
+3DS,E007,check-invalid-version-string,384
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,10
 @huntr_ai,E007,check-invalid-version-string,20
@@ -24,7 +24,7 @@ ASR,E006,check-affected-product-present,3
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,3
-ASUS,E007,check-invalid-version-string,26
+ASUS,E007,check-invalid-version-string,27
 ASUSTOR1,E004,check-leading-trailing-space,6
 AlgoSec,E004,check-leading-trailing-space,2
 AlgoSec,E007,check-invalid-version-string,2
@@ -58,13 +58,13 @@ CERT-In,E007,check-invalid-version-string,61
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,13
 CERTVDE,E004,check-leading-trailing-space,47
-CERTVDE,E007,check-invalid-version-string,963
+CERTVDE,E007,check-invalid-version-string,1011
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
-Canon,E007,check-invalid-version-string,204
+Canon,E007,check-invalid-version-string,205
 Canon_EMEA,E007,check-invalid-version-string,1
 Carrier,E004,check-leading-trailing-space,1
 Carrier,E007,check-invalid-version-string,1
@@ -97,6 +97,7 @@ Dragos,E007,check-invalid-version-string,9
 EA,E007,check-invalid-version-string,1
 EA,E008,check-invalid-vendor-string,1
 EDB,E004,check-leading-trailing-space,1
+EEF,E007,check-invalid-version-string,3
 ERIC,E004,check-leading-trailing-space,1
 ESET,E004,check-leading-trailing-space,3
 ESET,E006,check-affected-product-present,2
@@ -171,7 +172,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,95
+INCIBE,E007,check-invalid-version-string,99
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,1
 JFROG,E004,check-leading-trailing-space,12
@@ -368,7 +369,7 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1027
+VulDB,E007,check-invalid-version-string,1029
 VulDB,E008,check-invalid-vendor-string,840
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
@@ -571,7 +572,7 @@ icscert,E004,check-leading-trailing-space,358
 icscert,E007,check-invalid-version-string,3025
 icscert,E008,check-invalid-vendor-string,1388
 icscert,E009,check-invalid-product-string,570
-imaginationtech,E007,check-invalid-version-string,109
+imaginationtech,E007,check-invalid-version-string,112
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
 intel,E007,check-invalid-version-string,1917
@@ -618,7 +619,7 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36329
+microsoft,E007,check-invalid-version-string,36332
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096

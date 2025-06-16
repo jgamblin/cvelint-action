@@ -1,4 +1,5 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-3464,ASUS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/3xxx/CVE-2025-3464.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "v5.9.9.0~v6.1.18"
 CVE-2025-3463,ASUS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/3xxx/CVE-2025-3463.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "before 1.0.6.0"
 CVE-2025-3462,ASUS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/3xxx/CVE-2025-3462.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "before 1.0.6.0"
 CVE-2025-2492,ASUS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2492.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "3.0.0.6_102 series"
