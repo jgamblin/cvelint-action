@@ -126,7 +126,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12700
+GitHub_M,E007,check-invalid-version-string,12708
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -370,7 +370,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
-VulDB,E008,check-invalid-vendor-string,840
+VulDB,E008,check-invalid-vendor-string,841
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,2
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -459,9 +459,9 @@ canonical,E010,check-invalid-self-references,35
 certcc,E002,check-duplicate-reference-url,47
 certcc,E004,check-leading-trailing-space,1
 certcc,E006,check-affected-product-present,4
-certcc,E007,check-invalid-version-string,2684
-certcc,E008,check-invalid-vendor-string,2540
-certcc,E009,check-invalid-product-string,2472
+certcc,E007,check-invalid-version-string,2683
+certcc,E008,check-invalid-vendor-string,2539
+certcc,E009,check-invalid-product-string,2471
 checkpoint,E007,check-invalid-version-string,88
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
@@ -623,9 +623,9 @@ microsoft,E007,check-invalid-version-string,36332
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108698
-mitre,E008,check-invalid-vendor-string,108677
-mitre,E009,check-invalid-product-string,108677
+mitre,E007,check-invalid-version-string,108692
+mitre,E008,check-invalid-vendor-string,108671
+mitre,E009,check-invalid-product-string,108671
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
