@@ -76,7 +76,7 @@ ChromeOS,E007,check-invalid-version-string,2
 Ciena,E004,check-leading-trailing-space,1
 Ciena,E007,check-invalid-version-string,19
 Citrix,E004,check-leading-trailing-space,13
-Citrix,E007,check-invalid-version-string,81
+Citrix,E007,check-invalid-version-string,85
 ConcreteCMS,E004,check-leading-trailing-space,3
 ConnectWise,E007,check-invalid-version-string,2
 CoolKit,E004,check-leading-trailing-space,1
@@ -126,7 +126,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,2
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12711
+GitHub_M,E007,check-invalid-version-string,12720
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -272,7 +272,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,11278
+Patchstack,E007,check-invalid-version-string,11347
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -372,7 +372,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
 VulDB,E008,check-invalid-vendor-string,841
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,2
+VulnCheck,E007,check-invalid-version-string,8
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -565,11 +565,11 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2564
+ibm,E007,check-invalid-version-string,2565
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
-icscert,E007,check-invalid-version-string,3025
+icscert,E007,check-invalid-version-string,3028
 icscert,E008,check-invalid-vendor-string,1388
 icscert,E009,check-invalid-product-string,570
 imaginationtech,E007,check-invalid-version-string,112
@@ -623,9 +623,9 @@ microsoft,E007,check-invalid-version-string,36332
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108692
-mitre,E008,check-invalid-vendor-string,108671
-mitre,E009,check-invalid-product-string,108671
+mitre,E007,check-invalid-version-string,108698
+mitre,E008,check-invalid-vendor-string,108677
+mitre,E009,check-invalid-product-string,108677
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -737,7 +737,7 @@ tibco,E008,check-invalid-vendor-string,1
 tibco,E009,check-invalid-product-string,1
 trellix,E004,check-leading-trailing-space,34
 trellix,E007,check-invalid-version-string,149
-trendmicro,E007,check-invalid-version-string,436
+trendmicro,E007,check-invalid-version-string,443
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
 twcert,E004,check-leading-trailing-space,25

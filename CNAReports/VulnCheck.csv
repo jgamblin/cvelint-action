@@ -1,4 +1,10 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-34509,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2025/34xxx/CVE-2025-34509.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "10.1.4 rev. 011974 PRE"
+CVE-2025-34509,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2025/34xxx/CVE-2025-34509.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "10.3.3 rev. 011967 PRE"
+CVE-2025-34509,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2025/34xxx/CVE-2025-34509.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "10.4.1 rev. 011941 PRE"
+CVE-2025-34509,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2025/34xxx/CVE-2025-34509.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "10.1.4 rev. 011974 PRE"
+CVE-2025-34509,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2025/34xxx/CVE-2025-34509.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "10.3.3 rev. 011967 PRE"
+CVE-2025-34509,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2025/34xxx/CVE-2025-34509.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "10.4.1 rev. 011941 PRE"
 CVE-2024-23689,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23689.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-23688,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23688.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-23687,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23687.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
@@ -18,8 +24,8 @@ CVE-2024-21910,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/21xxx/C
 CVE-2024-21909,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/21xxx/CVE-2024-21909.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-21908,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/21xxx/CVE-2024-21908.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-21907,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/21xxx/CVE-2024-21907.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2024-0840,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/0xxx/CVE-2024-0840.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "<1.0.20.52"
 CVE-2024-0840,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/0xxx/CVE-2024-0840.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-0840,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/0xxx/CVE-2024-0840.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "<1.0.20.52"
 CVE-2024-0758,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/0xxx/CVE-2024-0758.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-0241,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2024/0xxx/CVE-2024-0241.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-30806,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/CVE-2023-30806.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
@@ -29,5 +35,5 @@ CVE-2023-30803,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/C
 CVE-2023-30802,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/CVE-2023-30802.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-30800,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/CVE-2023-30800.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-30799,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/CVE-2023-30799.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2023-30797,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/CVE-2023-30797.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "<1.3.2"
 CVE-2023-30797,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/CVE-2023-30797.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-30797,VulnCheck,/home/runner/.cache/cvelint/cvelistV5/cves/2023/30xxx/CVE-2023-30797.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "<1.3.2"
