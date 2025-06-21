@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-20T12:09:58Z",
+  "generatedAt": "2025-06-21T00:22:34Z",
   "results": [
     {
       "cna": "360ST",
@@ -484,9 +484,9 @@
     {
       "cna": "GitHub_M",
       "errors": [
-        {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 2},
+        {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12736},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12741},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1027,7 +1027,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2023},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11348},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11446},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1402,7 +1402,7 @@
       "cna": "VulnCheck",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16}
       ]
     },
     {
@@ -2038,9 +2038,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108708},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108687},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108687},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108721},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108700},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108700},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2376,7 +2376,7 @@
     {
       "cna": "zdi",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 565},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 566},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 7},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 7}
       ]

@@ -124,9 +124,9 @@ Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,76
 GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
-GitHub_M,E002,check-duplicate-reference-url,2
+GitHub_M,E002,check-duplicate-reference-url,3
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12736
+GitHub_M,E007,check-invalid-version-string,12741
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -272,7 +272,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,11348
+Patchstack,E007,check-invalid-version-string,11446
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -372,7 +372,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
 VulDB,E008,check-invalid-vendor-string,848
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,8
+VulnCheck,E007,check-invalid-version-string,16
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -623,9 +623,9 @@ microsoft,E007,check-invalid-version-string,36333
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108708
-mitre,E008,check-invalid-vendor-string,108687
-mitre,E009,check-invalid-product-string,108687
+mitre,E007,check-invalid-version-string,108721
+mitre,E008,check-invalid-vendor-string,108700
+mitre,E009,check-invalid-product-string,108700
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -751,7 +751,7 @@ wikimedia-foundation,E007,check-invalid-version-string,7
 wolfSSL,E004,check-leading-trailing-space,5
 yandex,E007,check-invalid-version-string,26
 yandex,E008,check-invalid-vendor-string,14
-zdi,E007,check-invalid-version-string,565
+zdi,E007,check-invalid-version-string,566
 zdi,E008,check-invalid-vendor-string,7
 zdi,E009,check-invalid-product-string,7
 zephyr,E004,check-leading-trailing-space,2
