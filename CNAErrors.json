@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-21T00:22:34Z",
+  "generatedAt": "2025-06-21T12:09:16Z",
   "results": [
     {
       "cna": "360ST",
@@ -486,7 +486,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12741},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12748},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1395,7 +1395,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1029},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 848}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 849}
       ]
     },
     {
