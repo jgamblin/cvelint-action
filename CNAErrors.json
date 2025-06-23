@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-23T00:24:25Z",
+  "generatedAt": "2025-06-23T12:10:10Z",
   "results": [
     {
       "cna": "360ST",
@@ -912,7 +912,7 @@
       "cna": "OPPO",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 12}
       ]
     },
@@ -1464,7 +1464,7 @@
     {
       "cna": "Xiaomi",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 55},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 56},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 38}
       ]
     },
