@@ -61,6 +61,7 @@ CERTVDE,E004,check-leading-trailing-space,47
 CERTVDE,E007,check-invalid-version-string,1011
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
+CSA,E007,check-invalid-version-string,8
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
@@ -126,7 +127,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,3
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12754
+GitHub_M,E007,check-invalid-version-string,12761
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -370,7 +371,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
-VulDB,E008,check-invalid-vendor-string,852
+VulDB,E008,check-invalid-vendor-string,853
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,16
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -528,7 +529,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,277
+fortinet,E003,check-description-length,286
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -596,7 +597,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4671
+jpcert,E007,check-invalid-version-string,4681
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -746,7 +747,7 @@ twcert,E007,check-invalid-version-string,220
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,758
-vmware,E008,check-invalid-vendor-string,405
+vmware,E008,check-invalid-vendor-string,384
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
 wolfSSL,E004,check-leading-trailing-space,5
