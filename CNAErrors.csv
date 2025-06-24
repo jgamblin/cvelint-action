@@ -126,7 +126,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,3
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12748
+GitHub_M,E007,check-invalid-version-string,12754
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -370,7 +370,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
-VulDB,E008,check-invalid-vendor-string,851
+VulDB,E008,check-invalid-vendor-string,852
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,16
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -545,6 +545,7 @@ hackerone,E004,check-leading-trailing-space,48
 hackerone,E007,check-invalid-version-string,1219
 hackerone,E008,check-invalid-vendor-string,571
 hackerone,E009,check-invalid-product-string,160
+harborist,E007,check-invalid-version-string,1
 hikvision,E004,check-leading-trailing-space,2
 hikvision,E007,check-invalid-version-string,92
 hikvision,E008,check-invalid-vendor-string,1
@@ -607,7 +608,7 @@ juniper,E009,check-invalid-product-string,11
 krcert,E004,check-leading-trailing-space,9
 krcert,E007,check-invalid-version-string,73
 kubernetes,E004,check-leading-trailing-space,1
-kubernetes,E007,check-invalid-version-string,85
+kubernetes,E007,check-invalid-version-string,87
 larry_cashdollar,E007,check-invalid-version-string,1
 larry_cashdollar,E008,check-invalid-vendor-string,3
 larry_cashdollar,E009,check-invalid-product-string,1
@@ -623,9 +624,9 @@ microsoft,E007,check-invalid-version-string,36333
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108721
-mitre,E008,check-invalid-vendor-string,108700
-mitre,E009,check-invalid-product-string,108700
+mitre,E007,check-invalid-version-string,108738
+mitre,E008,check-invalid-vendor-string,108717
+mitre,E009,check-invalid-product-string,108717
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
