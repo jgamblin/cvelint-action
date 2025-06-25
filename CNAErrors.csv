@@ -127,7 +127,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,3
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12761
+GitHub_M,E007,check-invalid-version-string,12774
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -556,9 +556,9 @@ hp,E004,check-leading-trailing-space,3
 hp,E007,check-invalid-version-string,1040
 hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
-hpe,E004,check-leading-trailing-space,184
+hpe,E004,check-leading-trailing-space,166
 hpe,E006,check-affected-product-present,18
-hpe,E007,check-invalid-version-string,2473
+hpe,E007,check-invalid-version-string,2383
 hpe,E008,check-invalid-vendor-string,645
 hpe,E009,check-invalid-product-string,6
 huawei,E004,check-leading-trailing-space,16
@@ -625,9 +625,9 @@ microsoft,E007,check-invalid-version-string,36333
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108738
-mitre,E008,check-invalid-vendor-string,108717
-mitre,E009,check-invalid-product-string,108717
+mitre,E007,check-invalid-version-string,108753
+mitre,E008,check-invalid-vendor-string,108732
+mitre,E009,check-invalid-product-string,108732
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -646,7 +646,7 @@ netgear,E007,check-invalid-version-string,6
 netgear,E008,check-invalid-vendor-string,1
 nodejs,E007,check-invalid-version-string,30
 nvidia,E004,check-leading-trailing-space,24
-nvidia,E007,check-invalid-version-string,567
+nvidia,E007,check-invalid-version-string,570
 nvidia,E008,check-invalid-vendor-string,32
 nvidia,E009,check-invalid-product-string,4
 obdev,E007,check-invalid-version-string,5
