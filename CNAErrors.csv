@@ -77,7 +77,7 @@ ChromeOS,E007,check-invalid-version-string,2
 Ciena,E004,check-leading-trailing-space,1
 Ciena,E007,check-invalid-version-string,19
 Citrix,E004,check-leading-trailing-space,13
-Citrix,E007,check-invalid-version-string,85
+Citrix,E007,check-invalid-version-string,87
 ConcreteCMS,E004,check-leading-trailing-space,3
 ConnectWise,E007,check-invalid-version-string,2
 CoolKit,E004,check-leading-trailing-space,1
@@ -127,7 +127,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,3
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12774
+GitHub_M,E007,check-invalid-version-string,12794
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -471,7 +471,7 @@ cisa-cg,E010,check-invalid-self-references,4
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
-cisco,E007,check-invalid-version-string,67893
+cisco,E007,check-invalid-version-string,67930
 cisco,E008,check-invalid-vendor-string,2958
 cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
@@ -567,7 +567,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2572
+ibm,E007,check-invalid-version-string,2573
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
@@ -625,9 +625,9 @@ microsoft,E007,check-invalid-version-string,36333
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108753
-mitre,E008,check-invalid-vendor-string,108732
-mitre,E009,check-invalid-product-string,108732
+mitre,E007,check-invalid-version-string,108760
+mitre,E008,check-invalid-vendor-string,108739
+mitre,E009,check-invalid-product-string,108739
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -679,7 +679,7 @@ qualcomm,E007,check-invalid-version-string,22203
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
-rapid7,E007,check-invalid-version-string,2512
+rapid7,E007,check-invalid-version-string,2526
 rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
@@ -753,7 +753,7 @@ wikimedia-foundation,E007,check-invalid-version-string,7
 wolfSSL,E004,check-leading-trailing-space,5
 yandex,E007,check-invalid-version-string,26
 yandex,E008,check-invalid-vendor-string,14
-zdi,E007,check-invalid-version-string,566
+zdi,E007,check-invalid-version-string,567
 zdi,E008,check-invalid-vendor-string,7
 zdi,E009,check-invalid-product-string,7
 zephyr,E004,check-leading-trailing-space,2
