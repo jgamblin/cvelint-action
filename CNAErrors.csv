@@ -282,7 +282,7 @@ Pega,E007,check-invalid-version-string,1
 Pentraze,E004,check-leading-trailing-space,2
 Pentraze,E007,check-invalid-version-string,4
 Perforce,E004,check-leading-trailing-space,7
-Perforce,E007,check-invalid-version-string,24
+Perforce,E007,check-invalid-version-string,25
 Philips,E007,check-invalid-version-string,3
 Philips,E010,check-invalid-self-references,3
 Phoenix,E004,check-leading-trailing-space,3
@@ -558,7 +558,7 @@ hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,166
 hpe,E006,check-affected-product-present,18
-hpe,E007,check-invalid-version-string,2383
+hpe,E007,check-invalid-version-string,2384
 hpe,E008,check-invalid-vendor-string,645
 hpe,E009,check-invalid-product-string,6
 huawei,E004,check-leading-trailing-space,16
@@ -597,7 +597,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4684
+jpcert,E007,check-invalid-version-string,4686
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -708,7 +708,7 @@ siemens,E007,check-invalid-version-string,9475
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,857
+snyk,E008,check-invalid-vendor-string,858
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
@@ -743,7 +743,7 @@ trendmicro,E007,check-invalid-version-string,443
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
 twcert,E004,check-leading-trailing-space,25
-twcert,E007,check-invalid-version-string,220
+twcert,E007,check-invalid-version-string,222
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,758
