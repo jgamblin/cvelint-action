@@ -66,7 +66,7 @@ CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
 Canon,E007,check-invalid-version-string,205
-Canon_EMEA,E007,check-invalid-version-string,1
+Canon_EMEA,E007,check-invalid-version-string,2
 Carrier,E004,check-leading-trailing-space,1
 Carrier,E007,check-invalid-version-string,1
 Chrome,E002,check-duplicate-reference-url,2
@@ -125,9 +125,9 @@ Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,76
 GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
-GitHub_M,E002,check-duplicate-reference-url,3
+GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12794
+GitHub_M,E007,check-invalid-version-string,12810
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -212,7 +212,7 @@ Medtronic,E007,check-invalid-version-string,4
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,2973
+Mitsubishi,E007,check-invalid-version-string,3000
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -254,7 +254,7 @@ Okta,E007,check-invalid-version-string,6
 Omnissa,E007,check-invalid-version-string,4
 OpenHarmony,E004,check-leading-trailing-space,20
 OpenNMS,E004,check-leading-trailing-space,9
-OpenNMS,E007,check-invalid-version-string,1
+OpenNMS,E007,check-invalid-version-string,7
 OpenText,E004,check-leading-trailing-space,40
 OpenText,E007,check-invalid-version-string,71
 OpenText,E008,check-invalid-vendor-string,2
@@ -371,9 +371,9 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
-VulDB,E008,check-invalid-vendor-string,853
+VulDB,E008,check-invalid-vendor-string,854
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,16
+VulnCheck,E007,check-invalid-version-string,17
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -480,7 +480,7 @@ crafter,E004,check-leading-trailing-space,1
 dahua,E007,check-invalid-version-string,47
 dahua,E008,check-invalid-vendor-string,26
 debian,E002,check-duplicate-reference-url,19
-debian,E007,check-invalid-version-string,621
+debian,E007,check-invalid-version-string,623
 debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
@@ -572,8 +572,8 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
 icscert,E007,check-invalid-version-string,3028
-icscert,E008,check-invalid-vendor-string,1388
-icscert,E009,check-invalid-product-string,570
+icscert,E008,check-invalid-vendor-string,1387
+icscert,E009,check-invalid-product-string,569
 imaginationtech,E007,check-invalid-version-string,112
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -625,9 +625,9 @@ microsoft,E007,check-invalid-version-string,36333
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108760
-mitre,E008,check-invalid-vendor-string,108739
-mitre,E009,check-invalid-product-string,108739
+mitre,E007,check-invalid-version-string,108769
+mitre,E008,check-invalid-vendor-string,108748
+mitre,E009,check-invalid-product-string,108748
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -743,7 +743,7 @@ trendmicro,E007,check-invalid-version-string,443
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
 twcert,E004,check-leading-trailing-space,25
-twcert,E007,check-invalid-version-string,222
+twcert,E007,check-invalid-version-string,224
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,758
