@@ -273,7 +273,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,11446
+Patchstack,E007,check-invalid-version-string,11512
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -353,7 +353,7 @@ TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,1
 TR-CERT,E004,check-leading-trailing-space,186
 TR-CERT,E006,check-affected-product-present,1
-TR-CERT,E007,check-invalid-version-string,21
+TR-CERT,E007,check-invalid-version-string,22
 TV,E004,check-leading-trailing-space,1
 Temporal,E004,check-leading-trailing-space,3
 Teradici,E007,check-invalid-version-string,16
@@ -371,7 +371,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
-VulDB,E008,check-invalid-vendor-string,854
+VulDB,E008,check-invalid-vendor-string,855
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,17
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -529,7 +529,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,286
+fortinet,E003,check-description-length,296
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -597,7 +597,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4686
+jpcert,E007,check-invalid-version-string,4720
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -625,9 +625,9 @@ microsoft,E007,check-invalid-version-string,36333
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108769
-mitre,E008,check-invalid-vendor-string,108748
-mitre,E009,check-invalid-product-string,108748
+mitre,E007,check-invalid-version-string,108770
+mitre,E008,check-invalid-vendor-string,108749
+mitre,E009,check-invalid-product-string,108749
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
