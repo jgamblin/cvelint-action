@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-30T00:24:25Z",
+  "generatedAt": "2025-06-30T12:10:17Z",
   "results": [
     {
       "cna": "360ST",
@@ -1982,7 +1982,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4720},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4721},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2050,9 +2050,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108779},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108758},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108758},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108780},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108759},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108759},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
