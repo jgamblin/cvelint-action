@@ -237,7 +237,7 @@ NetMotion,E008,check-invalid-vendor-string,2
 Netskope,E004,check-leading-trailing-space,3
 Netskope,E007,check-invalid-version-string,5
 Nokia,E003,check-description-length,1
-Nokia,E007,check-invalid-version-string,2
+Nokia,E007,check-invalid-version-string,17
 Nozomi,E007,check-invalid-version-string,66
 ODA,E004,check-leading-trailing-space,1
 OMRON,E007,check-invalid-version-string,17
@@ -273,7 +273,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,11590
+Patchstack,E007,check-invalid-version-string,11591
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -597,7 +597,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4721
+jpcert,E007,check-invalid-version-string,4723
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
