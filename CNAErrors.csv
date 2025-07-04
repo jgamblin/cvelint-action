@@ -58,7 +58,7 @@ CERT-In,E007,check-invalid-version-string,61
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,13
 CERTVDE,E004,check-leading-trailing-space,47
-CERTVDE,E007,check-invalid-version-string,1011
+CERTVDE,E007,check-invalid-version-string,1006
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
 CSA,E007,check-invalid-version-string,8
@@ -273,7 +273,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,11594
+Patchstack,E007,check-invalid-version-string,11665
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -372,7 +372,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1029
-VulDB,E008,check-invalid-vendor-string,864
+VulDB,E008,check-invalid-vendor-string,866
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,18
 WDC PSIRT,E004,check-leading-trailing-space,15
