@@ -127,7 +127,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12878
+GitHub_M,E007,check-invalid-version-string,12903
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -568,13 +568,13 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2585
+ibm,E007,check-invalid-version-string,2586
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
 icscert,E007,check-invalid-version-string,3014
-icscert,E008,check-invalid-vendor-string,1373
-icscert,E009,check-invalid-product-string,555
+icscert,E008,check-invalid-vendor-string,1372
+icscert,E009,check-invalid-product-string,554
 imaginationtech,E007,check-invalid-version-string,124
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -626,9 +626,9 @@ microsoft,E007,check-invalid-version-string,36333
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108809
-mitre,E008,check-invalid-vendor-string,108785
-mitre,E009,check-invalid-product-string,108785
+mitre,E007,check-invalid-version-string,108825
+mitre,E008,check-invalid-vendor-string,108801
+mitre,E009,check-invalid-product-string,108801
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -685,7 +685,7 @@ rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
 redhat,E006,check-affected-product-present,26
-redhat,E007,check-invalid-version-string,9488
+redhat,E007,check-invalid-version-string,9487
 redhat,E008,check-invalid-vendor-string,8406
 redhat,E009,check-invalid-product-string,6771
 samsung.tv_appliance,E004,check-leading-trailing-space,3
