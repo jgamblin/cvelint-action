@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-08T00:22:50Z",
+  "generatedAt": "2025-07-08T12:10:35Z",
   "results": [
     {
       "cna": "360ST",
@@ -781,7 +781,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 763}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 779}
       ]
     },
     {
@@ -1224,7 +1224,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 253}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 268}
       ]
     },
     {
@@ -1766,9 +1766,9 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 6},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 125},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 124},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 3},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3}
       ]
     },
     {
@@ -1825,7 +1825,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 305},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 313},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2228,7 +2228,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 217},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3770},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3898},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
@@ -2260,7 +2260,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 9475},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 9474},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },
