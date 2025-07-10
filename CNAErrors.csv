@@ -79,7 +79,7 @@ Ciena,E007,check-invalid-version-string,19
 Citrix,E004,check-leading-trailing-space,13
 Citrix,E007,check-invalid-version-string,90
 ConcreteCMS,E004,check-leading-trailing-space,3
-ConnectWise,E007,check-invalid-version-string,2
+ConnectWise,E007,check-invalid-version-string,3
 CoolKit,E004,check-leading-trailing-space,1
 Cybellum,E004,check-leading-trailing-space,1
 Cybellum,E007,check-invalid-version-string,2
@@ -127,7 +127,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12931
+GitHub_M,E007,check-invalid-version-string,12935
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -205,7 +205,7 @@ Mandiant,E007,check-invalid-version-string,1
 Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,18
-Mautic,E007,check-invalid-version-string,57
+Mautic,E007,check-invalid-version-string,59
 MediaTek,E007,check-invalid-version-string,779
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,4
@@ -303,7 +303,7 @@ Qualys,E007,check-invalid-version-string,3
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
-Rockwell,E007,check-invalid-version-string,234
+Rockwell,E007,check-invalid-version-string,236
 Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,35
 SEL,E004,check-leading-trailing-space,37
@@ -486,7 +486,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1802
+dell,E007,check-invalid-version-string,1803
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -568,13 +568,13 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2590
+ibm,E007,check-invalid-version-string,2591
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
-icscert,E007,check-invalid-version-string,3010
-icscert,E008,check-invalid-vendor-string,1368
-icscert,E009,check-invalid-product-string,550
+icscert,E007,check-invalid-version-string,3009
+icscert,E008,check-invalid-vendor-string,1366
+icscert,E009,check-invalid-product-string,548
 imaginationtech,E007,check-invalid-version-string,124
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -627,9 +627,9 @@ microsoft,E007,check-invalid-version-string,36404
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108827
-mitre,E008,check-invalid-vendor-string,108803
-mitre,E009,check-invalid-product-string,108803
+mitre,E007,check-invalid-version-string,108835
+mitre,E008,check-invalid-vendor-string,108811
+mitre,E009,check-invalid-product-string,108811
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -664,7 +664,7 @@ oracle,E007,check-invalid-version-string,5869
 oracle,E008,check-invalid-vendor-string,3301
 oracle,E009,check-invalid-product-string,3291
 palo_alto,E004,check-leading-trailing-space,9
-palo_alto,E007,check-invalid-version-string,171
+palo_alto,E007,check-invalid-version-string,179
 palo_alto,E008,check-invalid-vendor-string,16
 php,E004,check-leading-trailing-space,3
 php,E007,check-invalid-version-string,14
