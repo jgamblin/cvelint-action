@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-10T00:23:07Z",
+  "generatedAt": "2025-07-10T12:10:41Z",
   "results": [
     {
       "cna": "360ST",
@@ -472,7 +472,7 @@
       "cna": "Gallagher",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 16},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 76}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 80}
       ]
     },
     {
@@ -775,7 +775,7 @@
     {
       "cna": "Mautic",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 59}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 61}
       ]
     },
     {
@@ -802,7 +802,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3000},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3004},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -1825,7 +1825,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 320},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 328},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}

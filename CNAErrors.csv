@@ -122,7 +122,7 @@ GE_Vernova,E007,check-invalid-version-string,1
 GRAFANA,E004,check-leading-trailing-space,4
 GRAFANA,E007,check-invalid-version-string,38
 Gallagher,E004,check-leading-trailing-space,16
-Gallagher,E007,check-invalid-version-string,76
+Gallagher,E007,check-invalid-version-string,80
 GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
@@ -205,14 +205,14 @@ Mandiant,E007,check-invalid-version-string,1
 Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,18
-Mautic,E007,check-invalid-version-string,59
+Mautic,E007,check-invalid-version-string,61
 MediaTek,E007,check-invalid-version-string,779
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,4
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3000
+Mitsubishi,E007,check-invalid-version-string,3004
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -530,7 +530,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,320
+fortinet,E003,check-description-length,328
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
