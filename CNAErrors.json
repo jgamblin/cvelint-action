@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-11T00:23:25Z",
+  "generatedAt": "2025-07-11T12:10:13Z",
   "results": [
     {
       "cna": "360ST",
@@ -138,7 +138,7 @@
       "cna": "Axis",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 56},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 65},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1}
       ]
     },
@@ -802,7 +802,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3004},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3077},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -1401,7 +1401,7 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1036},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1039},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 878}
       ]
     },
@@ -1825,7 +1825,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 328},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 333},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2238,7 +2238,7 @@
       "cna": "schneider",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 62},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 864},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 876},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 323},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 27}
       ]

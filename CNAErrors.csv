@@ -38,7 +38,7 @@ Arista,E008,check-invalid-vendor-string,1
 Arm,E004,check-leading-trailing-space,16
 Arm,E007,check-invalid-version-string,8
 Axis,E004,check-leading-trailing-space,3
-Axis,E007,check-invalid-version-string,56
+Axis,E007,check-invalid-version-string,65
 Axis,E008,check-invalid-vendor-string,1
 B.Braun,E004,check-leading-trailing-space,1
 BD,E004,check-leading-trailing-space,2
@@ -212,7 +212,7 @@ Medtronic,E007,check-invalid-version-string,4
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3004
+Mitsubishi,E007,check-invalid-version-string,3077
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -371,7 +371,7 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1036
+VulDB,E007,check-invalid-version-string,1039
 VulDB,E008,check-invalid-vendor-string,878
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,23
@@ -530,7 +530,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,328
+fortinet,E003,check-description-length,333
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -698,7 +698,7 @@ sap,E007,check-invalid-version-string,3898
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
-schneider,E007,check-invalid-version-string,864
+schneider,E007,check-invalid-version-string,876
 schneider,E008,check-invalid-vendor-string,323
 schneider,E009,check-invalid-product-string,27
 securin,E007,check-invalid-version-string,1
