@@ -127,7 +127,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,12983
+GitHub_M,E007,check-invalid-version-string,12989
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -513,7 +513,7 @@ f5,E004,check-leading-trailing-space,71
 f5,E007,check-invalid-version-string,431
 f5,E008,check-invalid-vendor-string,246
 f5,E009,check-invalid-product-string,1
-facebook,E007,check-invalid-version-string,15
+facebook,E007,check-invalid-version-string,16
 facebook,E008,check-invalid-vendor-string,1
 facebook,E009,check-invalid-product-string,1
 fedora,E004,check-leading-trailing-space,7
@@ -568,7 +568,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2595
+ibm,E007,check-invalid-version-string,2606
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
@@ -605,7 +605,7 @@ jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
 juniper,E004,check-leading-trailing-space,72
 juniper,E006,check-affected-product-present,2
-juniper,E007,check-invalid-version-string,2108
+juniper,E007,check-invalid-version-string,2124
 juniper,E008,check-invalid-vendor-string,11
 juniper,E009,check-invalid-product-string,11
 krcert,E004,check-leading-trailing-space,9
@@ -627,9 +627,9 @@ microsoft,E007,check-invalid-version-string,36404
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108840
-mitre,E008,check-invalid-vendor-string,108816
-mitre,E009,check-invalid-product-string,108816
+mitre,E007,check-invalid-version-string,108844
+mitre,E008,check-invalid-vendor-string,108820
+mitre,E009,check-invalid-product-string,108820
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
