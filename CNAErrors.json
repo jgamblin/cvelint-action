@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-13T12:09:46Z",
+  "generatedAt": "2025-07-14T00:24:57Z",
   "results": [
     {
       "cna": "360ST",
@@ -905,7 +905,7 @@
     {
       "cna": "OMRON",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 32}
       ]
     },
     {
@@ -1401,7 +1401,7 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1041},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1049},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 878}
       ]
     },
@@ -2238,7 +2238,7 @@
       "cna": "schneider",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 62},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 876},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 874},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 323},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 27}
       ]
