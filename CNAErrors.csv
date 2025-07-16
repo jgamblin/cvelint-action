@@ -61,7 +61,7 @@ CERTVDE,E004,check-leading-trailing-space,47
 CERTVDE,E007,check-invalid-version-string,1006
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
-CSA,E007,check-invalid-version-string,8
+CSA,E007,check-invalid-version-string,28
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
@@ -173,7 +173,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,99
+INCIBE,E007,check-invalid-version-string,100
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,1
 JFROG,E004,check-leading-trailing-space,12
@@ -273,7 +273,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,11666
+Patchstack,E007,check-invalid-version-string,11758
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -388,7 +388,7 @@ WatchGuard,E007,check-invalid-version-string,4
 Wordfence,E007,check-invalid-version-string,12
 Wordfence,E008,check-invalid-vendor-string,52
 XEN,E004,check-leading-trailing-space,15
-XEN,E007,check-invalid-version-string,117
+XEN,E007,check-invalid-version-string,118
 XI,E004,check-leading-trailing-space,24
 Xerox,E007,check-invalid-version-string,1
 Xiaomi,E007,check-invalid-version-string,56
@@ -408,7 +408,7 @@ Zscaler,E007,check-invalid-version-string,7
 Zscaler,E008,check-invalid-vendor-string,4
 Zscaler,E009,check-invalid-product-string,3
 Zyxel,E004,check-leading-trailing-space,8
-Zyxel,E007,check-invalid-version-string,368
+Zyxel,E007,check-invalid-version-string,369
 adobe,E002,check-duplicate-reference-url,54
 adobe,E004,check-leading-trailing-space,4
 adobe,E007,check-invalid-version-string,3926
@@ -530,7 +530,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,342
+fortinet,E003,check-description-length,349
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -599,7 +599,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4727
+jpcert,E007,check-invalid-version-string,4729
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -748,7 +748,7 @@ twcert,E004,check-leading-trailing-space,25
 twcert,E007,check-invalid-version-string,224
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
-vmware,E007,check-invalid-version-string,771
+vmware,E007,check-invalid-version-string,775
 vmware,E008,check-invalid-vendor-string,384
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
