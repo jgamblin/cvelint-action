@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-19T00:23:10Z",
+  "generatedAt": "2025-07-19T12:09:46Z",
   "results": [
     {
       "cna": "360ST",
@@ -322,7 +322,8 @@
     {
       "cna": "DIVD",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 46}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 48},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
     },
     {
