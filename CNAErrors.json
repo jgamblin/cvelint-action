@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-21T00:25:33Z",
+  "generatedAt": "2025-07-21T12:11:08Z",
   "results": [
     {
       "cna": "360ST",
@@ -89,7 +89,7 @@
     {
       "cna": "ASUS",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 27}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 29}
       ]
     },
     {
@@ -888,7 +888,7 @@
       "cna": "Nokia",
       "errors": [
         {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 23}
       ]
     },
     {
@@ -2044,7 +2044,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 212},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 440},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36393},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2918},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2913}
       ]
@@ -2341,7 +2341,7 @@
       "cna": "trellix",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 34},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 149}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 150}
       ]
     },
     {
@@ -2356,7 +2356,7 @@
       "cna": "twcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 25},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 224}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 225}
       ]
     },
     {

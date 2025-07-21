@@ -24,7 +24,7 @@ ASR,E006,check-affected-product-present,3
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,3
-ASUS,E007,check-invalid-version-string,27
+ASUS,E007,check-invalid-version-string,29
 ASUSTOR1,E004,check-leading-trailing-space,6
 AlgoSec,E004,check-leading-trailing-space,2
 AlgoSec,E007,check-invalid-version-string,2
@@ -238,7 +238,7 @@ NetMotion,E008,check-invalid-vendor-string,2
 Netskope,E004,check-leading-trailing-space,3
 Netskope,E007,check-invalid-version-string,5
 Nokia,E003,check-description-length,1
-Nokia,E007,check-invalid-version-string,17
+Nokia,E007,check-invalid-version-string,23
 Nozomi,E007,check-invalid-version-string,66
 ODA,E004,check-leading-trailing-space,1
 OMRON,E007,check-invalid-version-string,32
@@ -624,7 +624,7 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36393
+microsoft,E007,check-invalid-version-string,36391
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
@@ -741,12 +741,12 @@ tibco,E007,check-invalid-version-string,22
 tibco,E008,check-invalid-vendor-string,1
 tibco,E009,check-invalid-product-string,1
 trellix,E004,check-leading-trailing-space,34
-trellix,E007,check-invalid-version-string,149
+trellix,E007,check-invalid-version-string,150
 trendmicro,E007,check-invalid-version-string,444
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
 twcert,E004,check-leading-trailing-space,25
-twcert,E007,check-invalid-version-string,224
+twcert,E007,check-invalid-version-string,225
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,775
