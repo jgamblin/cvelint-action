@@ -128,7 +128,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13120
+GitHub_M,E007,check-invalid-version-string,13131
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -342,7 +342,7 @@ SolarWinds,E004,check-leading-trailing-space,53
 SolarWinds,E007,check-invalid-version-string,176
 Solidigm,E006,check-affected-product-present,8
 Sophos,E004,check-leading-trailing-space,1
-Sophos,E007,check-invalid-version-string,28
+Sophos,E007,check-invalid-version-string,33
 Sophos,E008,check-invalid-vendor-string,1
 Sophos,E009,check-invalid-product-string,1
 Splunk,E004,check-leading-trailing-space,11
@@ -487,7 +487,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1803
+dell,E007,check-invalid-version-string,1805
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -624,13 +624,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36391
+microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108902
-mitre,E008,check-invalid-vendor-string,108878
-mitre,E009,check-invalid-product-string,108878
+mitre,E007,check-invalid-version-string,108939
+mitre,E008,check-invalid-vendor-string,108915
+mitre,E009,check-invalid-product-string,108915
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
