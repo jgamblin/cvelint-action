@@ -26,6 +26,7 @@ ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,3
 ASUS,E007,check-invalid-version-string,29
 ASUSTOR1,E004,check-leading-trailing-space,6
+ASUSTOR1,E007,check-invalid-version-string,2
 AlgoSec,E004,check-leading-trailing-space,2
 AlgoSec,E007,check-invalid-version-string,2
 Alias,E007,check-invalid-version-string,20
@@ -128,7 +129,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13141
+GitHub_M,E007,check-invalid-version-string,13142
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -479,7 +480,7 @@ cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
 cloudflare,E007,check-invalid-version-string,12
 crafter,E004,check-leading-trailing-space,1
-dahua,E007,check-invalid-version-string,47
+dahua,E007,check-invalid-version-string,51
 dahua,E008,check-invalid-vendor-string,26
 debian,E002,check-duplicate-reference-url,19
 debian,E007,check-invalid-version-string,623
@@ -569,7 +570,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2609
+ibm,E007,check-invalid-version-string,2613
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
@@ -600,7 +601,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4734
+jpcert,E007,check-invalid-version-string,4735
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -695,7 +696,7 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,3898
+sap,E007,check-invalid-version-string,3901
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
@@ -711,13 +712,13 @@ siemens,E007,check-invalid-version-string,9474
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,858
+snyk,E008,check-invalid-vendor-string,861
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,386
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,135
+suse,E007,check-invalid-version-string,136
 suse,E008,check-invalid-vendor-string,2
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2
