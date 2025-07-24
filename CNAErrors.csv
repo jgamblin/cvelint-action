@@ -129,7 +129,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13142
+GitHub_M,E007,check-invalid-version-string,13151
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -376,7 +376,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1053
 VulDB,E008,check-invalid-vendor-string,889
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,35
+VulnCheck,E007,check-invalid-version-string,37
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -443,7 +443,7 @@ blackberry,E004,check-leading-trailing-space,5
 blackberry,E007,check-invalid-version-string,58
 blackberry,E008,check-invalid-vendor-string,24
 blackberry,E009,check-invalid-product-string,9
-bosch,E007,check-invalid-version-string,1022
+bosch,E007,check-invalid-version-string,1023
 bosch,E008,check-invalid-vendor-string,1
 bosch,E009,check-invalid-product-string,1
 brocade,E004,check-leading-trailing-space,24
@@ -541,6 +541,7 @@ freebsd,E004,check-leading-trailing-space,3
 freebsd,E007,check-invalid-version-string,156
 freebsd,E008,check-invalid-vendor-string,87
 freebsd,E009,check-invalid-product-string,35
+glibc,E006,check-affected-product-present,1
 google_android,E004,check-leading-trailing-space,85
 google_android,E007,check-invalid-version-string,2396
 google_android,E008,check-invalid-vendor-string,3103
@@ -570,7 +571,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2613
+ibm,E007,check-invalid-version-string,2619
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
@@ -618,7 +619,7 @@ larry_cashdollar,E007,check-invalid-version-string,1
 larry_cashdollar,E008,check-invalid-vendor-string,3
 larry_cashdollar,E009,check-invalid-product-string,1
 lenovo,E004,check-leading-trailing-space,53
-lenovo,E007,check-invalid-version-string,871
+lenovo,E007,check-invalid-version-string,870
 lenovo,E008,check-invalid-vendor-string,1
 microfocus,E007,check-invalid-version-string,376
 microfocus,E008,check-invalid-vendor-string,209
@@ -629,9 +630,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108962
-mitre,E008,check-invalid-vendor-string,108938
-mitre,E009,check-invalid-product-string,108938
+mitre,E007,check-invalid-version-string,108968
+mitre,E008,check-invalid-vendor-string,108944
+mitre,E009,check-invalid-product-string,108944
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -716,7 +717,7 @@ snyk,E008,check-invalid-vendor-string,861
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
-sonicwall,E007,check-invalid-version-string,386
+sonicwall,E007,check-invalid-version-string,390
 suse,E004,check-leading-trailing-space,8
 suse,E007,check-invalid-version-string,136
 suse,E008,check-invalid-vendor-string,2

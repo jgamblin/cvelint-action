@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-23T12:10:47Z",
+  "generatedAt": "2025-07-24T00:24:18Z",
   "results": [
     {
       "cna": "360ST",
@@ -494,7 +494,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 4},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13142},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13151},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1411,7 +1411,7 @@
       "cna": "VulnCheck",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 35}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 37}
       ]
     },
     {
@@ -1608,7 +1608,7 @@
     {
       "cna": "bosch",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1022},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1023},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
       ]
@@ -1844,6 +1844,12 @@
       ]
     },
     {
+      "cna": "glibc",
+      "errors": [
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1}
+      ]
+    },
+    {
       "cna": "google_android",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 85},
@@ -1910,7 +1916,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 6},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2613},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2619},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1854},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1835}
       ]
@@ -2028,7 +2034,7 @@
       "cna": "lenovo",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 53},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 871},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 870},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1}
       ]
     },
@@ -2054,9 +2060,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108962},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108938},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108938},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 108968},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 108944},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 108944},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2281,7 +2287,7 @@
       "cna": "sonicwall",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 17},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 386}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 390}
       ]
     },
     {
