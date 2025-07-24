@@ -1,7 +1,13 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-4395,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2025/4xxx/CVE-2025-4395.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "June 25, 2025"
+CVE-2025-4395,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2025/4xxx/CVE-2025-4395.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "June 25, 2025"
+CVE-2025-4394,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2025/4xxx/CVE-2025-4394.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "June 25, 2025"
+CVE-2025-4394,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2025/4xxx/CVE-2025-4394.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "June 25, 2025"
+CVE-2025-4393,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2025/4xxx/CVE-2025-4393.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "June 25, 2025"
+CVE-2025-4393,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2025/4xxx/CVE-2025-4393.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "June 25, 2025"
 CVE-2023-31222,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2023/31xxx/CVE-2023-31222.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Versions 1.11 and earlier"
+CVE-2023-25931,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2023/25xxx/CVE-2023-25931.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-25931,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2023/25xxx/CVE-2023-25931.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Micro Clinician "
 CVE-2023-25931,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2023/25xxx/CVE-2023-25931.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "InterStim X Clinician"
-CVE-2023-25931,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2023/25xxx/CVE-2023-25931.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2022-32537,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2022/32xxx/CVE-2022-32537.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "620G, 630G, 640G, 670G"
 CVE-2022-32537,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2022/32xxx/CVE-2022-32537.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2022-32537,Medtronic,/home/runner/.cache/cvelint/cvelistV5/cves/2022/32xxx/CVE-2022-32537.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "620G, 630G, 640G, 670G"

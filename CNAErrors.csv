@@ -210,7 +210,7 @@ Mattermost,E007,check-invalid-version-string,18
 Mautic,E007,check-invalid-version-string,61
 MediaTek,E007,check-invalid-version-string,779
 Medtronic,E004,check-leading-trailing-space,2
-Medtronic,E007,check-invalid-version-string,4
+Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
@@ -241,6 +241,7 @@ Netskope,E007,check-invalid-version-string,5
 Nokia,E003,check-description-length,1
 Nokia,E007,check-invalid-version-string,23
 Nozomi,E007,check-invalid-version-string,66
+OB,E007,check-invalid-version-string,1
 ODA,E004,check-leading-trailing-space,1
 OMRON,E007,check-invalid-version-string,32
 ONEKEY,E004,check-leading-trailing-space,7
@@ -340,7 +341,7 @@ Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,53
-SolarWinds,E007,check-invalid-version-string,176
+SolarWinds,E007,check-invalid-version-string,177
 Solidigm,E006,check-affected-product-present,8
 Sophos,E004,check-leading-trailing-space,1
 Sophos,E007,check-invalid-version-string,33
@@ -503,6 +504,7 @@ duo,E009,check-invalid-product-string,1
 dwf,E007,check-invalid-version-string,133
 dwf,E008,check-invalid-vendor-string,3
 eclipse,E004,check-leading-trailing-space,11
+eclipse,E006,check-affected-product-present,1
 eclipse,E007,check-invalid-version-string,26
 eclipse,E008,check-invalid-vendor-string,1
 eclipse,E009,check-invalid-product-string,1

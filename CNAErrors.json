@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-07-24T00:24:18Z",
+  "generatedAt": "2025-07-24T12:11:33Z",
   "results": [
     {
       "cna": "360ST",
@@ -790,7 +790,7 @@
       "cna": "Medtronic",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10}
       ]
     },
     {
@@ -896,6 +896,12 @@
       "cna": "Nozomi",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 66}
+      ]
+    },
+    {
+      "cna": "OB",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
       ]
     },
     {
@@ -1265,7 +1271,7 @@
       "cna": "SolarWinds",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 53},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 176}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 177}
       ]
     },
     {
@@ -1758,6 +1764,7 @@
       "cna": "eclipse",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 26},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
