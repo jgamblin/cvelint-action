@@ -377,7 +377,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1053
 VulDB,E008,check-invalid-vendor-string,889
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,37
+VulnCheck,E007,check-invalid-version-string,78
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -559,7 +559,7 @@ hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
 hp,E004,check-leading-trailing-space,3
-hp,E007,check-invalid-version-string,1052
+hp,E007,check-invalid-version-string,1053
 hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,166
@@ -577,9 +577,9 @@ ibm,E007,check-invalid-version-string,2630
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
-icscert,E007,check-invalid-version-string,3045
-icscert,E008,check-invalid-vendor-string,1363
-icscert,E009,check-invalid-product-string,545
+icscert,E007,check-invalid-version-string,3044
+icscert,E008,check-invalid-vendor-string,1362
+icscert,E009,check-invalid-product-string,544
 imaginationtech,E007,check-invalid-version-string,130
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -632,9 +632,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108974
-mitre,E008,check-invalid-vendor-string,108950
-mitre,E009,check-invalid-product-string,108950
+mitre,E007,check-invalid-version-string,108996
+mitre,E008,check-invalid-vendor-string,108972
+mitre,E009,check-invalid-product-string,108972
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
