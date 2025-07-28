@@ -175,7 +175,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,100
+INCIBE,E007,check-invalid-version-string,101
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,1
 JFROG,E004,check-leading-trailing-space,12
@@ -375,7 +375,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1053
-VulDB,E008,check-invalid-vendor-string,892
+VulDB,E008,check-invalid-vendor-string,896
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,78
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -715,7 +715,7 @@ siemens,E007,check-invalid-version-string,9474
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,861
+snyk,E008,check-invalid-vendor-string,867
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
