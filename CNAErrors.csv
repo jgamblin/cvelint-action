@@ -47,6 +47,7 @@ BD,E007,check-invalid-version-string,23
 BD,E008,check-invalid-vendor-string,1
 BLSOPS,E004,check-leading-trailing-space,2
 BT,E004,check-leading-trailing-space,2
+BT,E007,check-invalid-version-string,2
 BT,E010,check-invalid-self-references,1
 Baicells,E004,check-leading-trailing-space,4
 Baicells,E007,check-invalid-version-string,2
@@ -129,7 +130,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,12
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13167
+GitHub_M,E007,check-invalid-version-string,13174
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -181,7 +182,7 @@ Insyde,E007,check-invalid-version-string,1
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
 JetBrains,E004,check-leading-trailing-space,3
-JetBrains,E007,check-invalid-version-string,22
+JetBrains,E007,check-invalid-version-string,23
 Joomla,E007,check-invalid-version-string,11
 Joomla,E008,check-invalid-vendor-string,1
 KNIME,E004,check-leading-trailing-space,3
@@ -288,7 +289,6 @@ Perforce,E004,check-leading-trailing-space,7
 Perforce,E007,check-invalid-version-string,25
 Philips,E007,check-invalid-version-string,3
 Philips,E010,check-invalid-self-references,3
-Phoenix,E004,check-leading-trailing-space,3
 Ping Identity,E004,check-leading-trailing-space,6
 Ping Identity,E007,check-invalid-version-string,1
 Ping Identity,E008,check-invalid-vendor-string,1
@@ -559,7 +559,7 @@ hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
 hp,E004,check-leading-trailing-space,3
-hp,E007,check-invalid-version-string,1053
+hp,E007,check-invalid-version-string,1054
 hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,166
@@ -577,9 +577,9 @@ ibm,E007,check-invalid-version-string,2630
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
-icscert,E007,check-invalid-version-string,3044
-icscert,E008,check-invalid-vendor-string,1362
-icscert,E009,check-invalid-product-string,544
+icscert,E007,check-invalid-version-string,3043
+icscert,E008,check-invalid-vendor-string,1361
+icscert,E009,check-invalid-product-string,543
 imaginationtech,E007,check-invalid-version-string,130
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -632,9 +632,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,108996
-mitre,E008,check-invalid-vendor-string,108972
-mitre,E009,check-invalid-product-string,108972
+mitre,E007,check-invalid-version-string,109011
+mitre,E008,check-invalid-vendor-string,108987
+mitre,E009,check-invalid-product-string,108987
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
