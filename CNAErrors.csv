@@ -341,7 +341,7 @@ Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,53
-SolarWinds,E007,check-invalid-version-string,177
+SolarWinds,E007,check-invalid-version-string,178
 Solidigm,E006,check-affected-product-present,8
 Sophos,E004,check-leading-trailing-space,1
 Sophos,E007,check-invalid-version-string,33
@@ -534,7 +534,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,358
+fortinet,E003,check-description-length,364
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -604,7 +604,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4735
+jpcert,E007,check-invalid-version-string,4736
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -715,7 +715,7 @@ siemens,E007,check-invalid-version-string,9474
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,867
+snyk,E008,check-invalid-vendor-string,868
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
