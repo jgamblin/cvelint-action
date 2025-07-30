@@ -127,10 +127,10 @@ GRAFANA,E007,check-invalid-version-string,55
 Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,80
 GandC,E004,check-leading-trailing-space,10
-Genetec,E007,check-invalid-version-string,12
+Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13174
+GitHub_M,E007,check-invalid-version-string,13189
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -148,7 +148,7 @@ GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,10
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,266
+HCL,E007,check-invalid-version-string,267
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6
@@ -357,7 +357,7 @@ TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,5
 TR-CERT,E004,check-leading-trailing-space,186
 TR-CERT,E006,check-affected-product-present,1
-TR-CERT,E007,check-invalid-version-string,22
+TR-CERT,E007,check-invalid-version-string,24
 TV,E004,check-leading-trailing-space,1
 Temporal,E004,check-leading-trailing-space,3
 Teradici,E007,check-invalid-version-string,16
@@ -578,8 +578,8 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,358
 icscert,E007,check-invalid-version-string,3043
-icscert,E008,check-invalid-vendor-string,1361
-icscert,E009,check-invalid-product-string,543
+icscert,E008,check-invalid-vendor-string,1360
+icscert,E009,check-invalid-product-string,542
 imaginationtech,E007,check-invalid-version-string,130
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -632,9 +632,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109011
-mitre,E008,check-invalid-vendor-string,108987
-mitre,E009,check-invalid-product-string,108987
+mitre,E007,check-invalid-version-string,109030
+mitre,E008,check-invalid-vendor-string,109006
+mitre,E009,check-invalid-product-string,109006
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -719,7 +719,7 @@ snyk,E008,check-invalid-vendor-string,868
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
-sonicwall,E007,check-invalid-version-string,390
+sonicwall,E007,check-invalid-version-string,391
 suse,E004,check-leading-trailing-space,8
 suse,E007,check-invalid-version-string,136
 suse,E008,check-invalid-vendor-string,2
@@ -753,7 +753,7 @@ twcert,E004,check-leading-trailing-space,25
 twcert,E007,check-invalid-version-string,225
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
-vmware,E007,check-invalid-version-string,775
+vmware,E007,check-invalid-version-string,779
 vmware,E008,check-invalid-vendor-string,384
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
