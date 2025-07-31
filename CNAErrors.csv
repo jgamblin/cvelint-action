@@ -130,7 +130,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13189
+GitHub_M,E007,check-invalid-version-string,13218
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -489,7 +489,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1805
+dell,E007,check-invalid-version-string,1809
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -559,7 +559,7 @@ hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
 hp,E004,check-leading-trailing-space,3
-hp,E007,check-invalid-version-string,1054
+hp,E007,check-invalid-version-string,1055
 hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,166
@@ -632,9 +632,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109030
-mitre,E008,check-invalid-vendor-string,109006
-mitre,E009,check-invalid-product-string,109006
+mitre,E007,check-invalid-version-string,109043
+mitre,E008,check-invalid-vendor-string,109019
+mitre,E009,check-invalid-product-string,109019
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -721,7 +721,7 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,391
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,136
+suse,E007,check-invalid-version-string,150
 suse,E008,check-invalid-vendor-string,2
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2
