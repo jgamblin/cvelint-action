@@ -24,7 +24,7 @@ ASR,E006,check-affected-product-present,3
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,3
-ASUS,E007,check-invalid-version-string,29
+ASUS,E007,check-invalid-version-string,30
 ASUSTOR1,E004,check-leading-trailing-space,6
 ASUSTOR1,E007,check-invalid-version-string,2
 AlgoSec,E004,check-leading-trailing-space,2
@@ -367,7 +367,7 @@ TianoCore,E007,check-invalid-version-string,2
 TianoCore,E008,check-invalid-vendor-string,1
 Tigera,E004,check-leading-trailing-space,2
 Toshiba,E007,check-invalid-version-string,43
-Unisoc,E007,check-invalid-version-string,569
+Unisoc,E007,check-invalid-version-string,570
 VDOO,E007,check-invalid-version-string,10
 VDOO,E008,check-invalid-vendor-string,10
 VDOO,E009,check-invalid-product-string,2
@@ -534,7 +534,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,372
+fortinet,E003,check-description-length,382
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -632,7 +632,7 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109069
+mitre,E007,check-invalid-version-string,109070
 mitre,E008,check-invalid-vendor-string,109045
 mitre,E009,check-invalid-product-string,109045
 mitre,E010,check-invalid-self-references,164
