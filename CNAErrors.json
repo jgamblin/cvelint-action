@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-02T12:09:48Z",
+  "generatedAt": "2025-08-03T00:26:50Z",
   "results": [
     {
       "cna": "360ST",
@@ -2062,7 +2062,7 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109088},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109090},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 109063},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 109063},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
@@ -2123,7 +2123,7 @@
       "cna": "nvidia",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 24},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 588},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 596},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 32},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
