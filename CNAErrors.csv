@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,396
+3DS,E007,check-invalid-version-string,420
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,10
 @huntr_ai,E007,check-invalid-version-string,20
@@ -209,7 +209,7 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,18
 Mautic,E007,check-invalid-version-string,61
-MediaTek,E007,check-invalid-version-string,779
+MediaTek,E007,check-invalid-version-string,788
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
@@ -604,7 +604,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4756
+jpcert,E007,check-invalid-version-string,4770
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
