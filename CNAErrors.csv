@@ -375,7 +375,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1053
-VulDB,E008,check-invalid-vendor-string,896
+VulDB,E008,check-invalid-vendor-string,897
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,82
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -489,7 +489,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1809
+dell,E007,check-invalid-version-string,1828
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -580,7 +580,7 @@ icscert,E004,check-leading-trailing-space,358
 icscert,E007,check-invalid-version-string,3044
 icscert,E008,check-invalid-vendor-string,1360
 icscert,E009,check-invalid-product-string,542
-imaginationtech,E007,check-invalid-version-string,130
+imaginationtech,E007,check-invalid-version-string,133
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
 intel,E007,check-invalid-version-string,1917
@@ -632,9 +632,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109090
-mitre,E008,check-invalid-vendor-string,109063
-mitre,E009,check-invalid-product-string,109063
+mitre,E007,check-invalid-version-string,109114
+mitre,E008,check-invalid-vendor-string,109081
+mitre,E009,check-invalid-product-string,109081
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
