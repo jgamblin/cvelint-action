@@ -130,7 +130,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13268
+GitHub_M,E007,check-invalid-version-string,13291
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -306,7 +306,7 @@ Qualys,E007,check-invalid-version-string,3
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
-Rockwell,E007,check-invalid-version-string,236
+Rockwell,E007,check-invalid-version-string,239
 Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,35
 SEL,E004,check-leading-trailing-space,37
@@ -375,9 +375,9 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1053
-VulDB,E008,check-invalid-vendor-string,897
+VulDB,E008,check-invalid-vendor-string,900
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,82
+VulnCheck,E007,check-invalid-version-string,84
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -632,9 +632,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109114
-mitre,E008,check-invalid-vendor-string,109081
-mitre,E009,check-invalid-product-string,109081
+mitre,E007,check-invalid-version-string,109133
+mitre,E008,check-invalid-vendor-string,109100
+mitre,E009,check-invalid-product-string,109100
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -746,7 +746,7 @@ tibco,E008,check-invalid-vendor-string,1
 tibco,E009,check-invalid-product-string,1
 trellix,E004,check-leading-trailing-space,34
 trellix,E007,check-invalid-version-string,150
-trendmicro,E007,check-invalid-version-string,444
+trendmicro,E007,check-invalid-version-string,446
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
 twcert,E004,check-leading-trailing-space,25
