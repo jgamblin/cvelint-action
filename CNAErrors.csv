@@ -187,7 +187,7 @@ Joomla,E007,check-invalid-version-string,11
 Joomla,E008,check-invalid-vendor-string,1
 KNIME,E004,check-leading-trailing-space,3
 Kaspersky,E002,check-duplicate-reference-url,1
-Kaspersky,E007,check-invalid-version-string,122
+Kaspersky,E007,check-invalid-version-string,123
 Kaspersky,E008,check-invalid-vendor-string,30
 Kong,E007,check-invalid-version-string,1
 KoreLogic,E007,check-invalid-version-string,4
@@ -215,7 +215,7 @@ Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3077
+Mitsubishi,E007,check-invalid-version-string,3084
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -332,7 +332,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,268
+SamsungMobile,E007,check-invalid-version-string,278
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,2
@@ -366,6 +366,7 @@ Teradici,E009,check-invalid-product-string,2
 TianoCore,E007,check-invalid-version-string,2
 TianoCore,E008,check-invalid-vendor-string,1
 Tigera,E004,check-leading-trailing-space,2
+Toreon,E007,check-invalid-version-string,1
 Toshiba,E007,check-invalid-version-string,43
 Unisoc,E007,check-invalid-version-string,570
 VDOO,E007,check-invalid-version-string,10
@@ -534,7 +535,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,389
+fortinet,E003,check-description-length,398
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -604,7 +605,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4770
+jpcert,E007,check-invalid-version-string,4774
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -682,7 +683,7 @@ qnap,E004,check-leading-trailing-space,99
 qnap,E007,check-invalid-version-string,651
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
-qualcomm,E007,check-invalid-version-string,23165
+qualcomm,E007,check-invalid-version-string,23702
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
@@ -761,7 +762,7 @@ wolfSSL,E004,check-leading-trailing-space,5
 wolfSSL,E007,check-invalid-version-string,1
 yandex,E007,check-invalid-version-string,26
 yandex,E008,check-invalid-vendor-string,14
-zdi,E007,check-invalid-version-string,567
+zdi,E007,check-invalid-version-string,588
 zdi,E008,check-invalid-vendor-string,7
 zdi,E009,check-invalid-product-string,7
 zephyr,E004,check-leading-trailing-space,2
