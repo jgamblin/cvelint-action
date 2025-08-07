@@ -130,7 +130,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13296
+GitHub_M,E007,check-invalid-version-string,13303
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -421,7 +421,7 @@ adobe,E009,check-invalid-product-string,1875
 airbus,E007,check-invalid-version-string,28
 alibaba,E008,check-invalid-vendor-string,1
 apache,E002,check-duplicate-reference-url,42
-apache,E004,check-leading-trailing-space,160
+apache,E004,check-leading-trailing-space,158
 apache,E006,check-affected-product-present,1
 apache,E007,check-invalid-version-string,1209
 apache,E008,check-invalid-vendor-string,142
@@ -605,7 +605,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4774
+jpcert,E007,check-invalid-version-string,4776
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -633,9 +633,9 @@ microsoft,E007,check-invalid-version-string,36389
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109158
-mitre,E008,check-invalid-vendor-string,109125
-mitre,E009,check-invalid-product-string,109125
+mitre,E007,check-invalid-version-string,109157
+mitre,E008,check-invalid-vendor-string,109124
+mitre,E009,check-invalid-product-string,109124
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
