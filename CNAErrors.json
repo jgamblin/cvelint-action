@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-08T00:24:23Z",
+  "generatedAt": "2025-08-08T12:10:57Z",
   "results": [
     {
       "cna": "360ST",
@@ -495,7 +495,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 4},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13305},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13308},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1914,7 +1914,7 @@
       "cna": "huawei",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 16},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1888},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1891},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 449},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
       ]
@@ -2000,7 +2000,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4776},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4779},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
