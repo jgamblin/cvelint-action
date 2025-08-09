@@ -376,9 +376,9 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1053
-VulDB,E008,check-invalid-vendor-string,902
+VulDB,E008,check-invalid-vendor-string,904
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,84
+VulnCheck,E007,check-invalid-version-string,85
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -574,14 +574,14 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2633
+ibm,E007,check-invalid-version-string,2635
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3044
+icscert,E007,check-invalid-version-string,3072
 icscert,E008,check-invalid-vendor-string,1360
 icscert,E009,check-invalid-product-string,542
-imaginationtech,E007,check-invalid-version-string,133
+imaginationtech,E007,check-invalid-version-string,145
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
 intel,E007,check-invalid-version-string,1917
@@ -633,9 +633,9 @@ microsoft,E007,check-invalid-version-string,36393
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109195
-mitre,E008,check-invalid-vendor-string,109162
-mitre,E009,check-invalid-product-string,109162
+mitre,E007,check-invalid-version-string,109204
+mitre,E008,check-invalid-vendor-string,109171
+mitre,E009,check-invalid-product-string,109171
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2

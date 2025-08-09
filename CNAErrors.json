@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-08T12:10:57Z",
+  "generatedAt": "2025-08-09T00:22:35Z",
   "results": [
     {
       "cna": "360ST",
@@ -1411,14 +1411,14 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1053},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 902}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 904}
       ]
     },
     {
       "cna": "VulnCheck",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 84}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 85}
       ]
     },
     {
@@ -1924,7 +1924,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 6},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2633},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2635},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1854},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1835}
       ]
@@ -1933,7 +1933,7 @@
       "cna": "icscert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 356},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3044},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3072},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1360},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 542}
       ]
@@ -1941,7 +1941,7 @@
     {
       "cna": "imaginationtech",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 133}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 145}
       ]
     },
     {
@@ -2068,9 +2068,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109195},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 109162},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 109162},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109204},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 109171},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 109171},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
