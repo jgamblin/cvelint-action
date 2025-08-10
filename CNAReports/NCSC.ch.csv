@@ -1,7 +1,7 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
-CVE-2025-40846,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2025/40xxx/CVE-2025-40846.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: ">= 2.184.21"
 CVE-2025-40846,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2025/40xxx/CVE-2025-40846.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: ">= 2.174.101"
 CVE-2025-40846,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2025/40xxx/CVE-2025-40846.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
+CVE-2025-40846,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2025/40xxx/CVE-2025-40846.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: ">= 2.184.21"
 CVE-2024-24551,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2024/24xxx/CVE-2024-24551.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "v3.9.0 beta 1"
 CVE-2024-9044,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2024/9xxx/CVE-2024-9044.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "<= 2021"
 CVE-2024-6203,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2024/6xxx/CVE-2024-6203.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "< 2.146.1"
@@ -36,10 +36,10 @@ CVE-2023-37875,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/37xxx/CVE
 CVE-2023-28733,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/28xxx/CVE-2023-28733.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-28732,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/28xxx/CVE-2023-28732.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-28731,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/28xxx/CVE-2023-28731.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2023-6481,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6481.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-6481,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6481.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
-CVE-2023-6378,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6378.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-6481,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6481.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-6378,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6378.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
+CVE-2023-6378,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6378.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-3066,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/3xxx/CVE-2023-3066.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-3065,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/3xxx/CVE-2023-3065.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-3064,NCSC.ch,/home/runner/.cache/cvelint/cvelistV5/cves/2023/3xxx/CVE-2023-3064.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
