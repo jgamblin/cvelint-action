@@ -10,7 +10,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 @huntrdev,E007,check-invalid-version-string,19
 @huntrdev,E010,check-invalid-self-references,1
 ABB,E004,check-leading-trailing-space,31
-ABB,E007,check-invalid-version-string,199
+ABB,E007,check-invalid-version-string,206
 AHA,E004,check-leading-trailing-space,1
 AHA,E007,check-invalid-version-string,1
 AMD,E004,check-leading-trailing-space,86
@@ -131,7 +131,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13329
+GitHub_M,E007,check-invalid-version-string,13343
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -256,7 +256,7 @@ OX,E004,check-leading-trailing-space,36
 Octopus,E004,check-leading-trailing-space,1
 Octopus,E007,check-invalid-version-string,1
 Okta,E007,check-invalid-version-string,6
-Omnissa,E007,check-invalid-version-string,4
+Omnissa,E007,check-invalid-version-string,14
 OpenHarmony,E004,check-leading-trailing-space,20
 OpenNMS,E004,check-leading-trailing-space,9
 OpenNMS,E007,check-invalid-version-string,7
@@ -377,7 +377,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1054
-VulDB,E008,check-invalid-vendor-string,916
+VulDB,E008,check-invalid-vendor-string,917
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,85
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -634,9 +634,9 @@ microsoft,E007,check-invalid-version-string,36393
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109203
-mitre,E008,check-invalid-vendor-string,109170
-mitre,E009,check-invalid-product-string,109170
+mitre,E007,check-invalid-version-string,109206
+mitre,E008,check-invalid-vendor-string,109173
+mitre,E009,check-invalid-product-string,109173
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
