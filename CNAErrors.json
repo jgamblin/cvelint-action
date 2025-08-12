@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-12T00:22:44Z",
+  "generatedAt": "2025-08-12T12:10:28Z",
   "results": [
     {
       "cna": "360ST",
@@ -1048,7 +1048,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2023},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11759},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11760},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1272,7 +1272,7 @@
       "cna": "SolarWinds",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 53},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 178}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 179}
       ]
     },
     {
@@ -1607,6 +1607,12 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
+      ]
+    },
+    {
+      "cna": "bcorg",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
       ]
     },
     {
@@ -2252,7 +2258,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 217},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3901},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3959},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
@@ -2284,7 +2290,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 9474},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8034},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },
