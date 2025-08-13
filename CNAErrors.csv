@@ -12,7 +12,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 ABB,E004,check-leading-trailing-space,31
 ABB,E007,check-invalid-version-string,206
 AHA,E004,check-leading-trailing-space,1
-AHA,E007,check-invalid-version-string,1
+AHA,E007,check-invalid-version-string,389
 AMD,E004,check-leading-trailing-space,86
 AMD,E006,check-affected-product-present,3
 AMD,E007,check-invalid-version-string,1268
@@ -131,7 +131,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13343
+GitHub_M,E007,check-invalid-version-string,13355
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -318,7 +318,7 @@ SICK AG,E008,check-invalid-vendor-string,28
 SK-CERT,E004,check-leading-trailing-space,2
 SK-CERT,E007,check-invalid-version-string,8
 SN,E004,check-leading-trailing-space,5
-SN,E007,check-invalid-version-string,92
+SN,E007,check-invalid-version-string,98
 SNPS,E004,check-leading-trailing-space,4
 SNPS,E007,check-invalid-version-string,28
 SRA,E004,check-leading-trailing-space,2
@@ -406,7 +406,7 @@ ZUSO ART,E007,check-invalid-version-string,2
 Zabbix,E004,check-leading-trailing-space,2
 Zabbix,E007,check-invalid-version-string,26
 Zoom,E004,check-leading-trailing-space,8
-Zoom,E007,check-invalid-version-string,137
+Zoom,E007,check-invalid-version-string,139
 Zoom,E008,check-invalid-vendor-string,9
 Zscaler,E004,check-leading-trailing-space,21
 Zscaler,E007,check-invalid-version-string,7
@@ -586,14 +586,14 @@ icscert,E009,check-invalid-product-string,542
 imaginationtech,E007,check-invalid-version-string,145
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
-intel,E007,check-invalid-version-string,1917
-intel,E008,check-invalid-vendor-string,1669
+intel,E007,check-invalid-version-string,1983
+intel,E008,check-invalid-vendor-string,1735
 intel,E009,check-invalid-product-string,20
 isc,E007,check-invalid-version-string,119
 isc,E008,check-invalid-vendor-string,1
 isc,E009,check-invalid-product-string,1
 ivanti,E006,check-affected-product-present,1
-ivanti,E007,check-invalid-version-string,89
+ivanti,E007,check-invalid-version-string,93
 jci,E002,check-duplicate-reference-url,1
 jci,E004,check-leading-trailing-space,3
 jci,E006,check-affected-product-present,4
@@ -631,7 +631,7 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36393
+microsoft,E007,check-invalid-version-string,36474
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
