@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-13T00:23:05Z",
+  "generatedAt": "2025-08-13T12:10:36Z",
   "results": [
     {
       "cna": "360ST",
@@ -201,7 +201,7 @@
       "cna": "CERT-In",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 33},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 61}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 65}
       ]
     },
     {
@@ -669,7 +669,7 @@
     {
       "cna": "Insyde",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 24}
       ]
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1054},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1060},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 917}
       ]
     },
@@ -1612,7 +1612,7 @@
     {
       "cna": "bcorg",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5}
       ]
     },
     {

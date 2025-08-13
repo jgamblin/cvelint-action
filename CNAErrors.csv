@@ -56,7 +56,7 @@ Baxter,E007,check-invalid-version-string,10
 Bitdefender,E004,check-leading-trailing-space,10
 Bitdefender,E007,check-invalid-version-string,11
 CERT-In,E004,check-leading-trailing-space,33
-CERT-In,E007,check-invalid-version-string,61
+CERT-In,E007,check-invalid-version-string,65
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,13
 CERTVDE,E004,check-leading-trailing-space,47
@@ -179,7 +179,7 @@ INCIBE,E004,check-leading-trailing-space,20
 INCIBE,E006,check-affected-product-present,3
 INCIBE,E007,check-invalid-version-string,102
 Illumio,E004,check-leading-trailing-space,1
-Insyde,E007,check-invalid-version-string,12
+Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
 JetBrains,E004,check-leading-trailing-space,3
@@ -376,7 +376,7 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1054
+VulDB,E007,check-invalid-version-string,1060
 VulDB,E008,check-invalid-vendor-string,917
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,85
@@ -442,7 +442,7 @@ avaya,E004,check-leading-trailing-space,1
 avaya,E007,check-invalid-version-string,12
 avaya,E008,check-invalid-vendor-string,1
 avaya,E009,check-invalid-product-string,1
-bcorg,E007,check-invalid-version-string,2
+bcorg,E007,check-invalid-version-string,5
 blackberry,E004,check-leading-trailing-space,5
 blackberry,E007,check-invalid-version-string,58
 blackberry,E008,check-invalid-vendor-string,24
