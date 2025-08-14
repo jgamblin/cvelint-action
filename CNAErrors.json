@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-14T00:23:01Z",
+  "generatedAt": "2025-08-14T12:10:48Z",
   "results": [
     {
       "cna": "360ST",
@@ -208,7 +208,7 @@
       "cna": "CERT-PL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 21},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14}
       ]
     },
     {
@@ -889,7 +889,7 @@
       "cna": "Netskope",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7}
       ]
     },
     {
@@ -933,7 +933,7 @@
       "cna": "OPPO",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 12}
       ]
     },
@@ -1048,7 +1048,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2023},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11760},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 11871},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]

@@ -58,7 +58,7 @@ Bitdefender,E007,check-invalid-version-string,11
 CERT-In,E004,check-leading-trailing-space,33
 CERT-In,E007,check-invalid-version-string,65
 CERT-PL,E004,check-leading-trailing-space,21
-CERT-PL,E007,check-invalid-version-string,13
+CERT-PL,E007,check-invalid-version-string,14
 CERTVDE,E004,check-leading-trailing-space,47
 CERTVDE,E007,check-invalid-version-string,1006
 CERTVDE,E008,check-invalid-vendor-string,2
@@ -239,7 +239,7 @@ NX,E004,check-leading-trailing-space,1
 NetMotion,E007,check-invalid-version-string,2
 NetMotion,E008,check-invalid-vendor-string,2
 Netskope,E004,check-leading-trailing-space,3
-Netskope,E007,check-invalid-version-string,5
+Netskope,E007,check-invalid-version-string,7
 Nokia,E003,check-description-length,1
 Nokia,E007,check-invalid-version-string,23
 Nozomi,E007,check-invalid-version-string,66
@@ -248,7 +248,7 @@ ODA,E004,check-leading-trailing-space,1
 OMRON,E007,check-invalid-version-string,32
 ONEKEY,E004,check-leading-trailing-space,7
 OPPO,E004,check-leading-trailing-space,2
-OPPO,E007,check-invalid-version-string,11
+OPPO,E007,check-invalid-version-string,12
 OPPO,E008,check-invalid-vendor-string,12
 OTRS,E004,check-leading-trailing-space,16
 OTRS,E007,check-invalid-version-string,18
@@ -278,7 +278,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,11760
+Patchstack,E007,check-invalid-version-string,11871
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
