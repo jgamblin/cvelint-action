@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-18T00:24:54Z",
+  "generatedAt": "2025-08-18T12:10:55Z",
   "results": [
     {
       "cna": "360ST",
@@ -1384,7 +1384,7 @@
     {
       "cna": "Unisoc",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 570}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 573}
       ]
     },
     {
@@ -1417,7 +1417,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1061},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 922}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 923}
       ]
     },
     {
@@ -2267,7 +2267,7 @@
       "cna": "schneider",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 62},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 874},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 881},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 323},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 27}
       ]
