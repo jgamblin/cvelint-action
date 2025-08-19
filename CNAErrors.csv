@@ -131,7 +131,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13391
+GitHub_M,E007,check-invalid-version-string,13407
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -307,7 +307,7 @@ Qualys,E007,check-invalid-version-string,3
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
-Rockwell,E007,check-invalid-version-string,249
+Rockwell,E007,check-invalid-version-string,250
 Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,35
 SEL,E004,check-leading-trailing-space,37
@@ -576,7 +576,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2629
+ibm,E007,check-invalid-version-string,2627
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,356
@@ -635,9 +635,9 @@ microsoft,E007,check-invalid-version-string,36474
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109255
-mitre,E008,check-invalid-vendor-string,109222
-mitre,E009,check-invalid-product-string,109222
+mitre,E007,check-invalid-version-string,109265
+mitre,E008,check-invalid-vendor-string,109232
+mitre,E009,check-invalid-product-string,109232
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
