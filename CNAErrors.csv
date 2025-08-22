@@ -59,7 +59,7 @@ CERT-In,E004,check-leading-trailing-space,33
 CERT-In,E007,check-invalid-version-string,65
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,14
-CERTVDE,E004,check-leading-trailing-space,47
+CERTVDE,E004,check-leading-trailing-space,46
 CERTVDE,E007,check-invalid-version-string,1006
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
@@ -442,7 +442,7 @@ avaya,E004,check-leading-trailing-space,1
 avaya,E007,check-invalid-version-string,12
 avaya,E008,check-invalid-vendor-string,1
 avaya,E009,check-invalid-product-string,1
-bcorg,E007,check-invalid-version-string,7
+bcorg,E007,check-invalid-version-string,9
 blackberry,E004,check-leading-trailing-space,5
 blackberry,E007,check-invalid-version-string,58
 blackberry,E008,check-invalid-vendor-string,24
@@ -607,7 +607,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4813
+jpcert,E007,check-invalid-version-string,4814
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
