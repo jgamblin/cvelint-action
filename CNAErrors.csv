@@ -141,6 +141,7 @@ Google,E006,check-affected-product-present,4
 Google,E007,check-invalid-version-string,9
 Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
+GoogleCloud,E007,check-invalid-version-string,2
 Google_Devices,E004,check-leading-trailing-space,7
 Google_Devices,E007,check-invalid-version-string,155
 GovTech CSG,E004,check-leading-trailing-space,2
@@ -216,7 +217,7 @@ Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3084
+Mitsubishi,E007,check-invalid-version-string,3156
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -278,7 +279,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2023
-Patchstack,E007,check-invalid-version-string,12051
+Patchstack,E007,check-invalid-version-string,12052
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -377,7 +378,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1068
-VulDB,E008,check-invalid-vendor-string,945
+VulDB,E008,check-invalid-vendor-string,947
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,93
 WDC PSIRT,E004,check-leading-trailing-space,15

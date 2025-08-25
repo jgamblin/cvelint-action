@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-25T00:22:54Z",
+  "generatedAt": "2025-08-25T12:10:16Z",
   "results": [
     {
       "cna": "360ST",
@@ -529,6 +529,12 @@
       ]
     },
     {
+      "cna": "GoogleCloud",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
+      ]
+    },
+    {
       "cna": "Google_Devices",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
@@ -811,7 +817,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3084},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3156},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -1048,7 +1054,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2023},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12051},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12052},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1417,7 +1423,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1068},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 945}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 947}
       ]
     },
     {
