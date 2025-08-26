@@ -131,7 +131,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13457
+GitHub_M,E007,check-invalid-version-string,13473
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -378,7 +378,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1068
-VulDB,E008,check-invalid-vendor-string,947
+VulDB,E008,check-invalid-vendor-string,948
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,93
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -445,8 +445,8 @@ avaya,E008,check-invalid-vendor-string,1
 avaya,E009,check-invalid-product-string,1
 bcorg,E007,check-invalid-version-string,9
 blackberry,E004,check-leading-trailing-space,4
-blackberry,E007,check-invalid-version-string,54
-blackberry,E008,check-invalid-vendor-string,20
+blackberry,E007,check-invalid-version-string,53
+blackberry,E008,check-invalid-vendor-string,19
 blackberry,E009,check-invalid-product-string,8
 bosch,E007,check-invalid-version-string,1023
 bosch,E008,check-invalid-vendor-string,1
@@ -581,9 +581,9 @@ ibm,E007,check-invalid-version-string,2614
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3078
-icscert,E008,check-invalid-vendor-string,1355
-icscert,E009,check-invalid-product-string,537
+icscert,E007,check-invalid-version-string,3076
+icscert,E008,check-invalid-vendor-string,1353
+icscert,E009,check-invalid-product-string,535
 imaginationtech,E007,check-invalid-version-string,145
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -636,9 +636,9 @@ microsoft,E007,check-invalid-version-string,36476
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109382
-mitre,E008,check-invalid-vendor-string,109349
-mitre,E009,check-invalid-product-string,109349
+mitre,E007,check-invalid-version-string,109415
+mitre,E008,check-invalid-vendor-string,109382
+mitre,E009,check-invalid-product-string,109382
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -736,7 +736,7 @@ symantec,E009,check-invalid-product-string,133
 synology,E007,check-invalid-version-string,53
 synology,E008,check-invalid-vendor-string,8
 synology,E009,check-invalid-product-string,8
-talos,E007,check-invalid-version-string,1419
+talos,E007,check-invalid-version-string,1443
 talos,E008,check-invalid-vendor-string,727
 talos,E009,check-invalid-product-string,94
 tenable,E002,check-duplicate-reference-url,1
