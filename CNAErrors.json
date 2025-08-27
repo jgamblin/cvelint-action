@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-27T00:21:59Z",
+  "generatedAt": "2025-08-27T12:10:08Z",
   "results": [
     {
       "cna": "360ST",
@@ -817,7 +817,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3159},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3162},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -1053,8 +1053,8 @@
     {
       "cna": "Patchstack",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2023},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12053},
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2022},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12057},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -2018,7 +2018,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4814},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4822},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
