@@ -131,7 +131,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13486
+GitHub_M,E007,check-invalid-version-string,13517
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -184,7 +184,7 @@ Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
 JetBrains,E004,check-leading-trailing-space,3
-JetBrains,E007,check-invalid-version-string,23
+JetBrains,E007,check-invalid-version-string,25
 Joomla,E007,check-invalid-version-string,11
 Joomla,E008,check-invalid-vendor-string,1
 KNIME,E004,check-leading-trailing-space,3
@@ -279,7 +279,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2022
-Patchstack,E007,check-invalid-version-string,12078
+Patchstack,E007,check-invalid-version-string,12168
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -345,6 +345,7 @@ SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,53
 SolarWinds,E007,check-invalid-version-string,179
 Solidigm,E006,check-affected-product-present,8
+Solidigm,E007,check-invalid-version-string,1
 Sophos,E004,check-leading-trailing-space,1
 Sophos,E007,check-invalid-version-string,33
 Sophos,E008,check-invalid-vendor-string,1
@@ -378,7 +379,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1068
-VulDB,E008,check-invalid-vendor-string,948
+VulDB,E008,check-invalid-vendor-string,949
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,99
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -517,7 +518,7 @@ elastic,E006,check-affected-product-present,1
 elastic,E007,check-invalid-version-string,124
 elastic,E008,check-invalid-vendor-string,3
 elastic,E009,check-invalid-product-string,3
-f5,E004,check-leading-trailing-space,71
+f5,E004,check-leading-trailing-space,69
 f5,E007,check-invalid-version-string,434
 f5,E008,check-invalid-vendor-string,246
 f5,E009,check-invalid-product-string,1
@@ -577,7 +578,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2607
+ibm,E007,check-invalid-version-string,2599
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,356
@@ -632,13 +633,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36476
+microsoft,E007,check-invalid-version-string,36475
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109462
-mitre,E008,check-invalid-vendor-string,109429
-mitre,E009,check-invalid-product-string,109429
+mitre,E007,check-invalid-version-string,109477
+mitre,E008,check-invalid-vendor-string,109444
+mitre,E009,check-invalid-product-string,109444
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
