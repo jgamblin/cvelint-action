@@ -379,7 +379,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1068
-VulDB,E008,check-invalid-vendor-string,949
+VulDB,E008,check-invalid-vendor-string,950
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,99
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -539,7 +539,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,447
+fortinet,E003,check-description-length,455
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -559,7 +559,7 @@ hackerone,E008,check-invalid-vendor-string,571
 hackerone,E009,check-invalid-product-string,160
 harborist,E007,check-invalid-version-string,4
 hikvision,E004,check-leading-trailing-space,2
-hikvision,E007,check-invalid-version-string,92
+hikvision,E007,check-invalid-version-string,96
 hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
@@ -609,7 +609,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4835
+jpcert,E007,check-invalid-version-string,4860
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -756,7 +756,7 @@ trendmicro,E007,check-invalid-version-string,446
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
 twcert,E004,check-leading-trailing-space,25
-twcert,E007,check-invalid-version-string,225
+twcert,E007,check-invalid-version-string,226
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,779

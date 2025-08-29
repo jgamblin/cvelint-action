@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-29T00:22:00Z",
+  "generatedAt": "2025-08-29T12:10:04Z",
   "results": [
     {
       "cna": "360ST",
@@ -1424,7 +1424,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1068},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 949}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 950}
       ]
     },
     {
@@ -1854,7 +1854,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 447},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 455},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -1904,7 +1904,7 @@
       "cna": "hikvision",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 92},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 96},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
       ]
@@ -2019,7 +2019,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4835},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4860},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2391,7 +2391,7 @@
       "cna": "twcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 25},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 225}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 226}
       ]
     },
     {
