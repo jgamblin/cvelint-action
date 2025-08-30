@@ -131,7 +131,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13517
+GitHub_M,E007,check-invalid-version-string,13540
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -262,7 +262,7 @@ OpenHarmony,E004,check-leading-trailing-space,20
 OpenNMS,E004,check-leading-trailing-space,9
 OpenNMS,E007,check-invalid-version-string,7
 OpenText,E004,check-leading-trailing-space,40
-OpenText,E007,check-invalid-version-string,72
+OpenText,E007,check-invalid-version-string,73
 OpenText,E008,check-invalid-vendor-string,2
 OpenVPN,E004,check-leading-trailing-space,1
 OpenVPN,E007,check-invalid-version-string,23
@@ -379,7 +379,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1068
-VulDB,E008,check-invalid-vendor-string,950
+VulDB,E008,check-invalid-vendor-string,957
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,99
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -637,9 +637,9 @@ microsoft,E007,check-invalid-version-string,36475
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109477
-mitre,E008,check-invalid-vendor-string,109444
-mitre,E009,check-invalid-product-string,109444
+mitre,E007,check-invalid-version-string,109486
+mitre,E008,check-invalid-vendor-string,109453
+mitre,E009,check-invalid-product-string,109453
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -685,7 +685,7 @@ puppet,E007,check-invalid-version-string,67
 puppet,E008,check-invalid-vendor-string,22
 puppet,E009,check-invalid-product-string,3
 qnap,E004,check-leading-trailing-space,99
-qnap,E007,check-invalid-version-string,651
+qnap,E007,check-invalid-version-string,690
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
 qualcomm,E007,check-invalid-version-string,23702
