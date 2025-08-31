@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-08-30T12:08:54Z",
+  "generatedAt": "2025-08-31T00:23:51Z",
   "results": [
     {
       "cna": "360ST",
@@ -1424,14 +1424,14 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1068},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 961}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 962}
       ]
     },
     {
       "cna": "VulnCheck",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 99}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 102}
       ]
     },
     {
