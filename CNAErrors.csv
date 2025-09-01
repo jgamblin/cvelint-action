@@ -211,13 +211,13 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,18
 Mautic,E007,check-invalid-version-string,61
-MediaTek,E007,check-invalid-version-string,788
+MediaTek,E007,check-invalid-version-string,794
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3162
+Mitsubishi,E007,check-invalid-version-string,3312
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -371,7 +371,7 @@ TianoCore,E008,check-invalid-vendor-string,1
 Tigera,E004,check-leading-trailing-space,2
 Toreon,E007,check-invalid-version-string,1
 Toshiba,E007,check-invalid-version-string,43
-Unisoc,E007,check-invalid-version-string,573
+Unisoc,E007,check-invalid-version-string,579
 VDOO,E007,check-invalid-version-string,10
 VDOO,E008,check-invalid-vendor-string,10
 VDOO,E009,check-invalid-product-string,2
@@ -379,7 +379,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1069
-VulDB,E008,check-invalid-vendor-string,973
+VulDB,E008,check-invalid-vendor-string,977
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,102
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -578,7 +578,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2599
+ibm,E007,check-invalid-version-string,2580
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,356
@@ -609,7 +609,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4860
+jpcert,E007,check-invalid-version-string,4861
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1

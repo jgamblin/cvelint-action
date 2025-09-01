@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-01T00:26:13Z",
+  "generatedAt": "2025-09-01T12:10:20Z",
   "results": [
     {
       "cna": "360ST",
@@ -796,7 +796,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 788}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 794}
       ]
     },
     {
@@ -817,7 +817,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3162},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3312},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -1391,7 +1391,7 @@
     {
       "cna": "Unisoc",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 573}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 579}
       ]
     },
     {
@@ -1424,7 +1424,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1069},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 973}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 977}
       ]
     },
     {
@@ -1943,7 +1943,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 6},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2599},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2580},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1854},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1835}
       ]
@@ -2019,7 +2019,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4860},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4861},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
