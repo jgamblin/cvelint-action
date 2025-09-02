@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-01T12:10:20Z",
+  "generatedAt": "2025-09-02T00:21:47Z",
   "results": [
     {
       "cna": "360ST",
@@ -501,7 +501,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 4},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13540},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13542},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1278,7 +1278,7 @@
       "cna": "SolarWinds",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 53},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 179}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 180}
       ]
     },
     {
@@ -1423,8 +1423,8 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1069},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 977}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1075},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 979}
       ]
     },
     {
