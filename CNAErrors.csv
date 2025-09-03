@@ -132,7 +132,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13548
+GitHub_M,E007,check-invalid-version-string,13552
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -211,7 +211,7 @@ Mandiant,E007,check-invalid-version-string,1
 Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,18
-Mautic,E007,check-invalid-version-string,61
+Mautic,E007,check-invalid-version-string,67
 MediaTek,E007,check-invalid-version-string,794
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,10
@@ -280,7 +280,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2022
-Patchstack,E007,check-invalid-version-string,12174
+Patchstack,E007,check-invalid-version-string,12176
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -335,7 +335,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,278
+SamsungMobile,E007,check-invalid-version-string,306
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,2
@@ -610,7 +610,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4863
+jpcert,E007,check-invalid-version-string,4865
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -728,7 +728,7 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,391
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,157
+suse,E007,check-invalid-version-string,156
 suse,E008,check-invalid-vendor-string,2
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-03T00:20:28Z",
+  "generatedAt": "2025-09-03T12:10:21Z",
   "results": [
     {
       "cna": "360ST",
@@ -507,7 +507,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 4},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13548},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13552},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -796,7 +796,7 @@
     {
       "cna": "Mautic",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 61}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 67}
       ]
     },
     {
@@ -1060,7 +1060,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2022},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12174},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12176},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1245,7 +1245,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 278}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 306}
       ]
     },
     {
@@ -2025,7 +2025,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4863},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4865},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2328,7 +2328,7 @@
       "cna": "suse",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 157},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 156},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2}
       ]
     },
