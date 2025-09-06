@@ -15,7 +15,7 @@ AHA,E004,check-leading-trailing-space,1
 AHA,E007,check-invalid-version-string,389
 AMD,E004,check-leading-trailing-space,86
 AMD,E006,check-affected-product-present,3
-AMD,E007,check-invalid-version-string,1268
+AMD,E007,check-invalid-version-string,1297
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
 AMZN,E007,check-invalid-version-string,1
@@ -132,7 +132,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13587
+GitHub_M,E007,check-invalid-version-string,13596
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -280,7 +280,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2022
-Patchstack,E007,check-invalid-version-string,12221
+Patchstack,E007,check-invalid-version-string,12336
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -477,7 +477,7 @@ checkpoint,E007,check-invalid-version-string,92
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
 cisa-cg,E007,check-invalid-version-string,35
-cisa-cg,E010,check-invalid-self-references,12
+cisa-cg,E010,check-invalid-self-references,17
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
@@ -583,9 +583,9 @@ ibm,E007,check-invalid-version-string,2586
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3077
-icscert,E008,check-invalid-vendor-string,1353
-icscert,E009,check-invalid-product-string,535
+icscert,E007,check-invalid-version-string,3089
+icscert,E008,check-invalid-vendor-string,1347
+icscert,E009,check-invalid-product-string,529
 imaginationtech,E007,check-invalid-version-string,145
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
