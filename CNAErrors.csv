@@ -61,7 +61,7 @@ CERT-In,E007,check-invalid-version-string,65
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,14
 CERTVDE,E004,check-leading-trailing-space,46
-CERTVDE,E007,check-invalid-version-string,1022
+CERTVDE,E007,check-invalid-version-string,1027
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
 CSA,E007,check-invalid-version-string,28
@@ -179,7 +179,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,104
+INCIBE,E007,check-invalid-version-string,105
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
@@ -279,7 +279,7 @@ Panasonic_Holdings_Corporation,E007,check-invalid-version-string,4
 PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
-Patchstack,E004,check-leading-trailing-space,2022
+Patchstack,E004,check-leading-trailing-space,2021
 Patchstack,E007,check-invalid-version-string,12336
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
@@ -610,7 +610,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4870
+jpcert,E007,check-invalid-version-string,4871
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
