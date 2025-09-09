@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-09T00:21:59Z",
+  "generatedAt": "2025-09-09T12:10:23Z",
   "results": [
     {
       "cna": "360ST",
@@ -1430,7 +1430,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1076},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 980}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 984}
       ]
     },
     {
@@ -2271,7 +2271,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 217},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3959},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4014},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
@@ -2303,7 +2303,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8034},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8042},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },
