@@ -132,14 +132,14 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13632
+GitHub_M,E007,check-invalid-version-string,13664
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
 GitLab,E007,check-invalid-version-string,1607
 Google,E004,check-leading-trailing-space,24
 Google,E006,check-affected-product-present,4
-Google,E007,check-invalid-version-string,10
+Google,E007,check-invalid-version-string,11
 Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
 GoogleCloud,E007,check-invalid-version-string,2
@@ -174,7 +174,7 @@ Honor,E007,check-invalid-version-string,2
 ICT,E004,check-leading-trailing-space,1
 IDEMIA,E004,check-leading-trailing-space,7
 INCD,E004,check-leading-trailing-space,59
-INCD,E007,check-invalid-version-string,289
+INCD,E007,check-invalid-version-string,295
 INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
@@ -200,7 +200,7 @@ LGE,E008,check-invalid-vendor-string,6
 LGE,E009,check-invalid-product-string,1
 LINE,E007,check-invalid-version-string,7
 Lexmark,E004,check-leading-trailing-space,4
-Lexmark,E007,check-invalid-version-string,334
+Lexmark,E007,check-invalid-version-string,374
 Liferay,E004,check-leading-trailing-space,1
 Logitech,E006,check-affected-product-present,1
 Logitech,E007,check-invalid-version-string,1
@@ -280,7 +280,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,12336
+Patchstack,E007,check-invalid-version-string,12379
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -309,7 +309,7 @@ Qualys,E007,check-invalid-version-string,3
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
-Rockwell,E007,check-invalid-version-string,250
+Rockwell,E007,check-invalid-version-string,258
 Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,35
 SEL,E004,check-leading-trailing-space,37
@@ -348,7 +348,7 @@ SolarWinds,E007,check-invalid-version-string,180
 Solidigm,E006,check-affected-product-present,8
 Solidigm,E007,check-invalid-version-string,1
 Sophos,E004,check-leading-trailing-space,1
-Sophos,E007,check-invalid-version-string,33
+Sophos,E007,check-invalid-version-string,34
 Sophos,E008,check-invalid-vendor-string,1
 Sophos,E009,check-invalid-product-string,1
 Splunk,E004,check-leading-trailing-space,11
@@ -379,7 +379,7 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1076
+VulDB,E007,check-invalid-version-string,1077
 VulDB,E008,check-invalid-vendor-string,984
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,102
@@ -409,7 +409,7 @@ ZUSO ART,E007,check-invalid-version-string,2
 Zabbix,E004,check-leading-trailing-space,2
 Zabbix,E007,check-invalid-version-string,26
 Zoom,E004,check-leading-trailing-space,8
-Zoom,E007,check-invalid-version-string,139
+Zoom,E007,check-invalid-version-string,145
 Zoom,E008,check-invalid-vendor-string,9
 Zscaler,E004,check-leading-trailing-space,21
 Zscaler,E007,check-invalid-version-string,7
@@ -477,7 +477,7 @@ checkpoint,E007,check-invalid-version-string,92
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
 cisa-cg,E007,check-invalid-version-string,35
-cisa-cg,E010,check-invalid-self-references,17
+cisa-cg,E010,check-invalid-self-references,18
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
@@ -565,7 +565,7 @@ hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
 hp,E004,check-leading-trailing-space,3
-hp,E007,check-invalid-version-string,1057
+hp,E007,check-invalid-version-string,1058
 hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,166
@@ -596,7 +596,7 @@ isc,E007,check-invalid-version-string,119
 isc,E008,check-invalid-vendor-string,1
 isc,E009,check-invalid-product-string,1
 ivanti,E006,check-affected-product-present,1
-ivanti,E007,check-invalid-version-string,93
+ivanti,E007,check-invalid-version-string,108
 jci,E002,check-duplicate-reference-url,1
 jci,E004,check-leading-trailing-space,3
 jci,E006,check-affected-product-present,4
@@ -634,13 +634,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36480
+microsoft,E007,check-invalid-version-string,36555
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109551
-mitre,E008,check-invalid-vendor-string,109518
-mitre,E009,check-invalid-product-string,109518
+mitre,E007,check-invalid-version-string,109580
+mitre,E008,check-invalid-vendor-string,109547
+mitre,E009,check-invalid-product-string,109547
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -659,10 +659,10 @@ netgear,E007,check-invalid-version-string,6
 netgear,E008,check-invalid-vendor-string,1
 nodejs,E007,check-invalid-version-string,30
 nvidia,E004,check-leading-trailing-space,24
-nvidia,E007,check-invalid-version-string,656
+nvidia,E007,check-invalid-version-string,659
 nvidia,E008,check-invalid-vendor-string,32
 nvidia,E009,check-invalid-product-string,4
-nvidia,E010,check-invalid-self-references,38
+nvidia,E010,check-invalid-self-references,41
 obdev,E007,check-invalid-version-string,5
 obdev,E008,check-invalid-vendor-string,4
 openEuler,E004,check-leading-trailing-space,12
@@ -710,7 +710,7 @@ sap,E007,check-invalid-version-string,4014
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
-schneider,E007,check-invalid-version-string,919
+schneider,E007,check-invalid-version-string,955
 schneider,E008,check-invalid-vendor-string,323
 schneider,E009,check-invalid-product-string,27
 securin,E007,check-invalid-version-string,1
