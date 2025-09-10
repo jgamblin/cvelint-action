@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-10T00:21:22Z",
+  "generatedAt": "2025-09-10T12:09:47Z",
   "results": [
     {
       "cna": "360ST",
@@ -336,7 +336,7 @@
     {
       "cna": "DIVD",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 48},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 52},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
     },
@@ -669,7 +669,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 105}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 106}
       ]
     },
     {
@@ -1430,7 +1430,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1077},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 984}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 985}
       ]
     },
     {
