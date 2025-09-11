@@ -103,7 +103,7 @@ Dragos,E007,check-invalid-version-string,9
 EA,E007,check-invalid-version-string,1
 EA,E008,check-invalid-vendor-string,1
 EDB,E004,check-leading-trailing-space,1
-EEF,E007,check-invalid-version-string,3
+EEF,E007,check-invalid-version-string,15
 ERIC,E004,check-leading-trailing-space,1
 ESET,E004,check-leading-trailing-space,3
 ESET,E006,check-affected-product-present,2
@@ -380,7 +380,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1077
-VulDB,E008,check-invalid-vendor-string,989
+VulDB,E008,check-invalid-vendor-string,991
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,102
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -722,7 +722,7 @@ siemens,E007,check-invalid-version-string,8042
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,867
+snyk,E008,check-invalid-vendor-string,870
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
