@@ -132,7 +132,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13664
+GitHub_M,E007,check-invalid-version-string,13681
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -285,7 +285,7 @@ Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
 Pega,E004,check-leading-trailing-space,4
-Pega,E007,check-invalid-version-string,1
+Pega,E007,check-invalid-version-string,2
 Pentraze,E004,check-leading-trailing-space,2
 Pentraze,E007,check-invalid-version-string,4
 Perforce,E004,check-leading-trailing-space,7
@@ -380,7 +380,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1077
-VulDB,E008,check-invalid-vendor-string,985
+VulDB,E008,check-invalid-vendor-string,989
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,102
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -463,7 +463,7 @@ ca,E009,check-invalid-product-string,1
 canonical,E002,check-duplicate-reference-url,1
 canonical,E004,check-leading-trailing-space,2
 canonical,E006,check-affected-product-present,7
-canonical,E007,check-invalid-version-string,345
+canonical,E007,check-invalid-version-string,352
 canonical,E008,check-invalid-vendor-string,173
 canonical,E009,check-invalid-product-string,160
 canonical,E010,check-invalid-self-references,35
@@ -495,7 +495,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1842
+dell,E007,check-invalid-version-string,1856
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -638,9 +638,9 @@ microsoft,E007,check-invalid-version-string,36555
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109580
-mitre,E008,check-invalid-vendor-string,109547
-mitre,E009,check-invalid-product-string,109547
+mitre,E007,check-invalid-version-string,109598
+mitre,E008,check-invalid-vendor-string,109565
+mitre,E009,check-invalid-product-string,109565
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
