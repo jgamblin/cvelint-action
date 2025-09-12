@@ -132,7 +132,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13687
+GitHub_M,E007,check-invalid-version-string,13688
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -311,7 +311,7 @@ Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
 Rockwell,E007,check-invalid-version-string,258
 Rockwell,E008,check-invalid-vendor-string,2
-SEC-VLab,E007,check-invalid-version-string,35
+SEC-VLab,E007,check-invalid-version-string,36
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
@@ -335,7 +335,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,307
+SamsungMobile,E007,check-invalid-version-string,309
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,2
@@ -359,7 +359,7 @@ THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,5
-TR-CERT,E004,check-leading-trailing-space,186
+TR-CERT,E004,check-leading-trailing-space,185
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,24
 TV,E004,check-leading-trailing-space,1
@@ -446,7 +446,7 @@ avaya,E004,check-leading-trailing-space,1
 avaya,E007,check-invalid-version-string,12
 avaya,E008,check-invalid-vendor-string,1
 avaya,E009,check-invalid-product-string,1
-bcorg,E007,check-invalid-version-string,10
+bcorg,E007,check-invalid-version-string,4
 blackberry,E004,check-leading-trailing-space,4
 blackberry,E007,check-invalid-version-string,53
 blackberry,E008,check-invalid-vendor-string,19
@@ -611,7 +611,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4871
+jpcert,E007,check-invalid-version-string,4873
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -758,7 +758,7 @@ trendmicro,E007,check-invalid-version-string,446
 trendmicro,E008,check-invalid-vendor-string,11
 trendmicro,E009,check-invalid-product-string,10
 twcert,E004,check-leading-trailing-space,25
-twcert,E007,check-invalid-version-string,226
+twcert,E007,check-invalid-version-string,251
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,779

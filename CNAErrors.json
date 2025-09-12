@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-12T00:21:25Z",
+  "generatedAt": "2025-09-12T12:10:28Z",
   "results": [
     {
       "cna": "360ST",
@@ -507,7 +507,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 4},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13687},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13688},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1161,7 +1161,7 @@
     {
       "cna": "SEC-VLab",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 35}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36}
       ]
     },
     {
@@ -1245,7 +1245,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 307}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 309}
       ]
     },
     {
@@ -1344,7 +1344,7 @@
     {
       "cna": "TR-CERT",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 186},
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 185},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 24}
       ]
@@ -1631,7 +1631,7 @@
     {
       "cna": "bcorg",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4}
       ]
     },
     {
@@ -2031,7 +2031,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4871},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4873},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2403,7 +2403,7 @@
       "cna": "twcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 25},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 226}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 251}
       ]
     },
     {
