@@ -132,7 +132,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13681
+GitHub_M,E007,check-invalid-version-string,13687
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -380,7 +380,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1077
-VulDB,E008,check-invalid-vendor-string,991
+VulDB,E008,check-invalid-vendor-string,993
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,102
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -393,10 +393,11 @@ WPScan,E009,check-invalid-product-string,11
 WSO2,E004,check-leading-trailing-space,3
 WatchGuard,E004,check-leading-trailing-space,2
 WatchGuard,E007,check-invalid-version-string,4
+WindRiver,E007,check-invalid-version-string,1
 Wordfence,E007,check-invalid-version-string,12
 Wordfence,E008,check-invalid-vendor-string,53
 XEN,E004,check-leading-trailing-space,15
-XEN,E007,check-invalid-version-string,119
+XEN,E007,check-invalid-version-string,124
 XI,E004,check-leading-trailing-space,24
 Xerox,E007,check-invalid-version-string,1
 Xiaomi,E007,check-invalid-version-string,56
@@ -583,7 +584,7 @@ ibm,E007,check-invalid-version-string,2598
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3089
+icscert,E007,check-invalid-version-string,3090
 icscert,E008,check-invalid-vendor-string,1347
 icscert,E009,check-invalid-product-string,529
 imaginationtech,E007,check-invalid-version-string,145
@@ -627,7 +628,7 @@ larry_cashdollar,E007,check-invalid-version-string,1
 larry_cashdollar,E008,check-invalid-vendor-string,3
 larry_cashdollar,E009,check-invalid-product-string,1
 lenovo,E004,check-leading-trailing-space,53
-lenovo,E007,check-invalid-version-string,870
+lenovo,E007,check-invalid-version-string,872
 lenovo,E008,check-invalid-vendor-string,1
 microfocus,E007,check-invalid-version-string,376
 microfocus,E008,check-invalid-vendor-string,209
@@ -638,9 +639,9 @@ microsoft,E007,check-invalid-version-string,36555
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109598
-mitre,E008,check-invalid-vendor-string,109565
-mitre,E009,check-invalid-product-string,109565
+mitre,E007,check-invalid-version-string,109599
+mitre,E008,check-invalid-vendor-string,109566
+mitre,E009,check-invalid-product-string,109566
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
