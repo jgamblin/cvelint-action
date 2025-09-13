@@ -132,7 +132,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13688
+GitHub_M,E007,check-invalid-version-string,13692
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -167,7 +167,7 @@ Hitachi Energy,E004,check-leading-trailing-space,23
 Hitachi Energy,E007,check-invalid-version-string,413
 Hitachi Energy,E008,check-invalid-vendor-string,3
 Hitachi Energy,E009,check-invalid-product-string,3
-Honeywell,E004,check-leading-trailing-space,26
+Honeywell,E004,check-leading-trailing-space,23
 Honeywell,E007,check-invalid-version-string,348
 Honor,E004,check-leading-trailing-space,30
 Honor,E007,check-invalid-version-string,2
@@ -380,7 +380,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1077
-VulDB,E008,check-invalid-vendor-string,993
+VulDB,E008,check-invalid-vendor-string,995
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,102
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -639,9 +639,9 @@ microsoft,E007,check-invalid-version-string,36555
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109599
-mitre,E008,check-invalid-vendor-string,109566
-mitre,E009,check-invalid-product-string,109566
+mitre,E007,check-invalid-version-string,109614
+mitre,E008,check-invalid-vendor-string,109581
+mitre,E009,check-invalid-product-string,109581
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -677,6 +677,7 @@ oracle,E007,check-invalid-version-string,5869
 oracle,E008,check-invalid-vendor-string,3301
 oracle,E009,check-invalid-product-string,3291
 palo_alto,E004,check-leading-trailing-space,9
+palo_alto,E006,check-affected-product-present,1
 palo_alto,E007,check-invalid-version-string,183
 palo_alto,E008,check-invalid-vendor-string,16
 php,E004,check-leading-trailing-space,3
