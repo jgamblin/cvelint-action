@@ -359,7 +359,7 @@ THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,5
-TR-CERT,E004,check-leading-trailing-space,185
+TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,24
 TV,E004,check-leading-trailing-space,1
@@ -639,9 +639,9 @@ microsoft,E007,check-invalid-version-string,36555
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109632
-mitre,E008,check-invalid-vendor-string,109599
-mitre,E009,check-invalid-product-string,109599
+mitre,E007,check-invalid-version-string,109635
+mitre,E008,check-invalid-vendor-string,109601
+mitre,E009,check-invalid-product-string,109601
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
