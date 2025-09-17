@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,420
+3DS,E007,check-invalid-version-string,426
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,10
 @huntr_ai,E007,check-invalid-version-string,20
@@ -185,7 +185,7 @@ Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,16
 JetBrains,E004,check-leading-trailing-space,3
-JetBrains,E007,check-invalid-version-string,25
+JetBrains,E007,check-invalid-version-string,26
 Joomla,E007,check-invalid-version-string,11
 Joomla,E008,check-invalid-vendor-string,1
 KNIME,E004,check-leading-trailing-space,3
@@ -228,7 +228,7 @@ NCSC.ch,E004,check-leading-trailing-space,24
 NCSC.ch,E006,check-affected-product-present,3
 NCSC.ch,E007,check-invalid-version-string,40
 NEC,E004,check-leading-trailing-space,8
-NEC,E007,check-invalid-version-string,876
+NEC,E007,check-invalid-version-string,881
 NEC,E008,check-invalid-vendor-string,1
 NEC,E009,check-invalid-product-string,1
 NI,E004,check-leading-trailing-space,7
@@ -361,7 +361,7 @@ TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,5
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
-TR-CERT,E007,check-invalid-version-string,25
+TR-CERT,E007,check-invalid-version-string,26
 TV,E004,check-leading-trailing-space,1
 Temporal,E004,check-leading-trailing-space,3
 Teradici,E007,check-invalid-version-string,16
@@ -392,7 +392,7 @@ WPScan,E008,check-invalid-vendor-string,11
 WPScan,E009,check-invalid-product-string,11
 WSO2,E004,check-leading-trailing-space,3
 WatchGuard,E004,check-leading-trailing-space,2
-WatchGuard,E007,check-invalid-version-string,4
+WatchGuard,E007,check-invalid-version-string,5
 WindRiver,E007,check-invalid-version-string,1
 Wordfence,E007,check-invalid-version-string,12
 Wordfence,E008,check-invalid-vendor-string,53
@@ -611,7 +611,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4873
+jpcert,E007,check-invalid-version-string,4878
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
