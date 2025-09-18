@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-18T00:20:58Z",
+  "generatedAt": "2025-09-18T12:10:36Z",
   "results": [
     {
       "cna": "360ST",
@@ -908,7 +908,7 @@
       "cna": "Nokia",
       "errors": [
         {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 23}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25}
       ]
     },
     {
@@ -1429,8 +1429,8 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1079},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1003}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1081},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1004}
       ]
     },
     {
