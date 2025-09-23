@@ -88,7 +88,7 @@ Cybellum,E004,check-leading-trailing-space,1
 Cybellum,E007,check-invalid-version-string,2
 CyberArk,E007,check-invalid-version-string,1
 CyberDanube,E004,check-leading-trailing-space,2
-CyberDanube,E007,check-invalid-version-string,5
+CyberDanube,E007,check-invalid-version-string,10
 DEVOLUTIONS,E004,check-leading-trailing-space,36
 DEVOLUTIONS,E007,check-invalid-version-string,3
 DIVD,E007,check-invalid-version-string,52
@@ -149,7 +149,7 @@ GovTech CSG,E004,check-leading-trailing-space,2
 GovTech CSG,E007,check-invalid-version-string,13
 GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
-Gridware,E007,check-invalid-version-string,10
+Gridware,E007,check-invalid-version-string,14
 HCL,E004,check-leading-trailing-space,120
 HCL,E007,check-invalid-version-string,273
 HCL,E008,check-invalid-vendor-string,52
@@ -280,7 +280,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,12673
+Patchstack,E007,check-invalid-version-string,12674
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -344,7 +344,7 @@ Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,53
-SolarWinds,E007,check-invalid-version-string,180
+SolarWinds,E007,check-invalid-version-string,181
 Solidigm,E006,check-affected-product-present,8
 Solidigm,E007,check-invalid-version-string,1
 Sophos,E004,check-leading-trailing-space,1
@@ -361,7 +361,7 @@ TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,5
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
-TR-CERT,E007,check-invalid-version-string,27
+TR-CERT,E007,check-invalid-version-string,28
 TV,E004,check-leading-trailing-space,1
 Temporal,E004,check-leading-trailing-space,3
 Teradici,E007,check-invalid-version-string,16
@@ -541,7 +541,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,497
+fortinet,E003,check-description-length,510
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -700,7 +700,7 @@ rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
 redhat,E006,check-affected-product-present,27
-redhat,E007,check-invalid-version-string,9487
+redhat,E007,check-invalid-version-string,9488
 redhat,E008,check-invalid-vendor-string,8406
 redhat,E009,check-invalid-product-string,6771
 samsung.tv_appliance,E004,check-leading-trailing-space,3
@@ -708,7 +708,7 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,4014
+sap,E007,check-invalid-version-string,4015
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
