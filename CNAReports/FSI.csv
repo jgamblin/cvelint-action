@@ -1,2 +1,5 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-11221,FSI,/home/runner/.cache/cvelint/cvelistV5/cves/2025/11xxx/CVE-2025-11221.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "All versions"
+CVE-2025-11182,FSI,/home/runner/.cache/cvelint/cvelistV5/cves/2025/11xxx/CVE-2025-11182.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "All versions"
+CVE-2025-11020,FSI,/home/runner/.cache/cvelint/cvelistV5/cves/2025/11xxx/CVE-2025-11020.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "V7.0.* (V7.0.YYYY.MM.DD)"
 CVE-2024-11071,FSI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/11xxx/CVE-2024-11071.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "5.21.*, 5.20.*, 5.19.*"

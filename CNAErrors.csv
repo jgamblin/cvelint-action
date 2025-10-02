@@ -113,7 +113,7 @@ Eaton,E007,check-invalid-version-string,3
 Esri,E004,check-leading-trailing-space,3
 Esri,E007,check-invalid-version-string,17
 F-SecureUS,E007,check-invalid-version-string,32
-FSI,E007,check-invalid-version-string,1
+FSI,E007,check-invalid-version-string,4
 Fidelis,E007,check-invalid-version-string,32
 Fluid Attacks,E003,check-description-length,1
 Fluid Attacks,E004,check-leading-trailing-space,97
@@ -179,7 +179,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,106
+INCIBE,E007,check-invalid-version-string,109
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
@@ -541,7 +541,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,543
+fortinet,E003,check-description-length,550
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -612,7 +612,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4880
+jpcert,E007,check-invalid-version-string,4887
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1

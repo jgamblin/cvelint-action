@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-02T00:20:46Z",
+  "generatedAt": "2025-10-02T12:10:07Z",
   "results": [
     {
       "cna": "360ST",
@@ -433,7 +433,7 @@
     {
       "cna": "FSI",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4}
       ]
     },
     {
@@ -669,7 +669,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 106}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109}
       ]
     },
     {
@@ -1866,7 +1866,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 543},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 550},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2032,7 +2032,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4880},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4887},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
