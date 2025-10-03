@@ -27,6 +27,7 @@ ASRG,E007,check-invalid-version-string,3
 ASUS,E007,check-invalid-version-string,30
 ASUSTOR1,E004,check-leading-trailing-space,6
 ASUSTOR1,E007,check-invalid-version-string,2
+Absolute,E007,check-invalid-version-string,3
 AlgoSec,E004,check-leading-trailing-space,2
 AlgoSec,E007,check-invalid-version-string,2
 Alias,E007,check-invalid-version-string,20
@@ -132,7 +133,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13865
+GitHub_M,E007,check-invalid-version-string,13878
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -179,7 +180,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,109
+INCIBE,E007,check-invalid-version-string,150
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
@@ -477,7 +478,7 @@ certcc,E009,check-invalid-product-string,2471
 checkpoint,E007,check-invalid-version-string,92
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
-cisa-cg,E007,check-invalid-version-string,69
+cisa-cg,E007,check-invalid-version-string,67
 cisa-cg,E010,check-invalid-self-references,32
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
@@ -585,9 +586,9 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3084
-icscert,E008,check-invalid-vendor-string,1321
-icscert,E009,check-invalid-product-string,503
+icscert,E007,check-invalid-version-string,3086
+icscert,E008,check-invalid-vendor-string,1316
+icscert,E009,check-invalid-product-string,498
 imaginationtech,E007,check-invalid-version-string,157
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -640,9 +641,9 @@ microsoft,E007,check-invalid-version-string,36533
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109843
-mitre,E008,check-invalid-vendor-string,109804
-mitre,E009,check-invalid-product-string,109804
+mitre,E007,check-invalid-version-string,109865
+mitre,E008,check-invalid-vendor-string,109826
+mitre,E009,check-invalid-product-string,109826
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -731,7 +732,7 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,391
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,156
+suse,E007,check-invalid-version-string,157
 suse,E008,check-invalid-vendor-string,2
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2
