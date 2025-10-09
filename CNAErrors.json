@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-09T00:21:09Z",
+  "generatedAt": "2025-10-09T12:10:46Z",
   "results": [
     {
       "cna": "360ST",
@@ -1442,7 +1442,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1087},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1050}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1051}
       ]
     },
     {
@@ -2254,7 +2254,7 @@
     {
       "cna": "qualcomm",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 24323},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 24592},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 123},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 124}
       ]
