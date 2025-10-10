@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-10T00:21:52Z",
+  "generatedAt": "2025-10-10T12:10:32Z",
   "results": [
     {
       "cna": "360ST",
@@ -681,7 +681,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 150}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 151}
       ]
     },
     {
@@ -835,7 +835,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3321},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3327},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -1202,7 +1202,7 @@
       "cna": "SN",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 5},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 98}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 118}
       ]
     },
     {
@@ -1257,7 +1257,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 309}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 323}
       ]
     },
     {
@@ -1492,7 +1492,7 @@
       "cna": "Wordfence",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 54}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 56}
       ]
     },
     {
@@ -2044,7 +2044,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4888},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4898},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2112,7 +2112,7 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109933},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 109939},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 109888},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 109888},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
@@ -2332,7 +2332,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 876},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 878},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]

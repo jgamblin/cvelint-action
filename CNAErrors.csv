@@ -181,7 +181,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,150
+INCIBE,E007,check-invalid-version-string,151
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
@@ -220,7 +220,7 @@ Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3321
+Mitsubishi,E007,check-invalid-version-string,3327
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -322,7 +322,7 @@ SICK AG,E008,check-invalid-vendor-string,28
 SK-CERT,E004,check-leading-trailing-space,2
 SK-CERT,E007,check-invalid-version-string,8
 SN,E004,check-leading-trailing-space,5
-SN,E007,check-invalid-version-string,98
+SN,E007,check-invalid-version-string,118
 SNPS,E004,check-leading-trailing-space,4
 SNPS,E007,check-invalid-version-string,28
 SRA,E004,check-leading-trailing-space,2
@@ -337,7 +337,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,309
+SamsungMobile,E007,check-invalid-version-string,323
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,2
@@ -397,7 +397,7 @@ WatchGuard,E004,check-leading-trailing-space,2
 WatchGuard,E007,check-invalid-version-string,5
 WindRiver,E007,check-invalid-version-string,1
 Wordfence,E007,check-invalid-version-string,12
-Wordfence,E008,check-invalid-vendor-string,54
+Wordfence,E008,check-invalid-vendor-string,56
 XEN,E004,check-leading-trailing-space,15
 XEN,E007,check-invalid-version-string,124
 XI,E004,check-leading-trailing-space,24
@@ -614,7 +614,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4888
+jpcert,E007,check-invalid-version-string,4898
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -642,7 +642,7 @@ microsoft,E007,check-invalid-version-string,36542
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109933
+mitre,E007,check-invalid-version-string,109939
 mitre,E008,check-invalid-vendor-string,109888
 mitre,E009,check-invalid-product-string,109888
 mitre,E010,check-invalid-self-references,164
@@ -727,7 +727,7 @@ siemens,E007,check-invalid-version-string,8042
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,876
+snyk,E008,check-invalid-vendor-string,878
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
