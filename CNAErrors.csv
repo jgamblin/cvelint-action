@@ -134,7 +134,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13941
+GitHub_M,E007,check-invalid-version-string,13950
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -301,7 +301,7 @@ Ping Identity,E009,check-invalid-product-string,1
 PostgreSQL,E007,check-invalid-version-string,6
 PostgreSQL,E008,check-invalid-vendor-string,14
 ProgressSoftware,E004,check-leading-trailing-space,33
-ProgressSoftware,E007,check-invalid-version-string,92
+ProgressSoftware,E007,check-invalid-version-string,94
 Proofpoint,E004,check-leading-trailing-space,9
 Proofpoint,E007,check-invalid-version-string,61
 PureStorage,E004,check-leading-trailing-space,6
@@ -381,7 +381,7 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1087
+VulDB,E007,check-invalid-version-string,1089
 VulDB,E008,check-invalid-vendor-string,1051
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,114
@@ -480,7 +480,7 @@ checkpoint,E007,check-invalid-version-string,92
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
 cisa-cg,E007,check-invalid-version-string,67
-cisa-cg,E010,check-invalid-self-references,36
+cisa-cg,E010,check-invalid-self-references,49
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
@@ -582,7 +582,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2602
+ibm,E007,check-invalid-version-string,2590
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -620,7 +620,7 @@ jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
 juniper,E004,check-leading-trailing-space,72
 juniper,E006,check-affected-product-present,2
-juniper,E007,check-invalid-version-string,2124
+juniper,E007,check-invalid-version-string,2134
 juniper,E008,check-invalid-vendor-string,11
 juniper,E009,check-invalid-product-string,11
 krcert,E004,check-leading-trailing-space,9
@@ -638,13 +638,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36533
+microsoft,E007,check-invalid-version-string,36542
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109921
-mitre,E008,check-invalid-vendor-string,109876
-mitre,E009,check-invalid-product-string,109876
+mitre,E007,check-invalid-version-string,109933
+mitre,E008,check-invalid-vendor-string,109888
+mitre,E009,check-invalid-product-string,109888
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
