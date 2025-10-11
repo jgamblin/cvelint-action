@@ -134,7 +134,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13950
+GitHub_M,E007,check-invalid-version-string,13971
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -382,7 +382,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1089
-VulDB,E008,check-invalid-vendor-string,1051
+VulDB,E008,check-invalid-vendor-string,1053
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,114
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -504,7 +504,7 @@ dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
 dotCMS,E007,check-invalid-version-string,4
 drupal,E004,check-leading-trailing-space,1
-drupal,E007,check-invalid-version-string,51
+drupal,E007,check-invalid-version-string,54
 drupal,E008,check-invalid-vendor-string,3
 drupal,E009,check-invalid-product-string,1
 duo,E007,check-invalid-version-string,1
@@ -642,9 +642,9 @@ microsoft,E007,check-invalid-version-string,36542
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109939
-mitre,E008,check-invalid-vendor-string,109888
-mitre,E009,check-invalid-product-string,109888
+mitre,E007,check-invalid-version-string,109954
+mitre,E008,check-invalid-vendor-string,109903
+mitre,E009,check-invalid-product-string,109903
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -663,10 +663,10 @@ netgear,E007,check-invalid-version-string,6
 netgear,E008,check-invalid-vendor-string,1
 nodejs,E007,check-invalid-version-string,30
 nvidia,E004,check-leading-trailing-space,24
-nvidia,E007,check-invalid-version-string,691
+nvidia,E007,check-invalid-version-string,728
 nvidia,E008,check-invalid-vendor-string,32
 nvidia,E009,check-invalid-product-string,4
-nvidia,E010,check-invalid-self-references,62
+nvidia,E010,check-invalid-self-references,65
 obdev,E007,check-invalid-version-string,5
 obdev,E008,check-invalid-vendor-string,4
 openEuler,E004,check-leading-trailing-space,12
