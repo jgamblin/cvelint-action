@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-13T00:23:09Z",
+  "generatedAt": "2025-10-13T12:10:41Z",
   "results": [
     {
       "cna": "360ST",
@@ -12,7 +12,7 @@
       "cna": "3DS",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 5},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 426}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 452}
       ]
     },
     {
@@ -89,7 +89,7 @@
     {
       "cna": "ASUS",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 30}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 33}
       ]
     },
     {
@@ -405,7 +405,8 @@
     {
       "cna": "ERIC",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1}
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5}
       ]
     },
     {
@@ -583,7 +584,7 @@
       "cna": "HCL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 281},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 284},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
       ]
     },

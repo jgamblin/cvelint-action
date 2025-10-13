@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,426
+3DS,E007,check-invalid-version-string,452
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,10
 @huntr_ai,E007,check-invalid-version-string,20
@@ -24,7 +24,7 @@ ASR,E006,check-affected-product-present,3
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,3
-ASUS,E007,check-invalid-version-string,30
+ASUS,E007,check-invalid-version-string,33
 ASUSTOR1,E004,check-leading-trailing-space,6
 ASUSTOR1,E007,check-invalid-version-string,2
 Absolute,E007,check-invalid-version-string,3
@@ -106,6 +106,7 @@ EA,E008,check-invalid-vendor-string,1
 EDB,E004,check-leading-trailing-space,1
 EEF,E007,check-invalid-version-string,15
 ERIC,E004,check-leading-trailing-space,1
+ERIC,E007,check-invalid-version-string,5
 ESET,E004,check-leading-trailing-space,3
 ESET,E006,check-affected-product-present,2
 ESET,E007,check-invalid-version-string,3
@@ -153,7 +154,7 @@ GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,14
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,281
+HCL,E007,check-invalid-version-string,284
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6

@@ -1,2 +1,7 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-27259,ERIC,/home/runner/.cache/cvelint/cvelistV5/cves/2025/27xxx/CVE-2025-27259.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "all versions prior to 25.2"
+CVE-2025-27259,ERIC,/home/runner/.cache/cvelint/cvelistV5/cves/2025/27xxx/CVE-2025-27259.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "Version 25.2 or later"
+CVE-2025-27258,ERIC,/home/runner/.cache/cvelint/cvelistV5/cves/2025/27xxx/CVE-2025-27258.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "Version 25.1 or later"
+CVE-2025-0636,ERIC,/home/runner/.cache/cvelint/cvelistV5/cves/2025/0xxx/CVE-2025-0636.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "S24.Q2, S24.Q3.1 S24.Q4 S25.Q1"
+CVE-2025-0636,ERIC,/home/runner/.cache/cvelint/cvelistV5/cves/2025/0xxx/CVE-2025-0636.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.changes.#.at,Invalid version string: "4.Q1.C5 24.Q2 24.Q3 24.Q4 25.Q1 RCG123.1 RCG123.2 RCG123.3"
 CVE-2024-25007,ERIC,/home/runner/.cache/cvelint/cvelistV5/cves/2024/25xxx/CVE-2024-25007.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
