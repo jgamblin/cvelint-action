@@ -1,12 +1,12 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
 CVE-2024-23612,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23612.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2024 Q1"
-CVE-2024-23611,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23611.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2024 Q1"
 CVE-2024-23611,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23611.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2024-23610,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23610.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2024-23611,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23611.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2024 Q1"
 CVE-2024-23610,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23610.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2024 Q1"
+CVE-2024-23610,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23610.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-23609,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23609.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2024 Q1"
-CVE-2024-23608,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23608.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-23608,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23608.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2024 Q1"
+CVE-2024-23608,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/23xxx/CVE-2024-23608.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-4044,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4044.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-1156,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/1xxx/CVE-2024-1156.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2023 Q3"
 CVE-2024-1156,NI,/home/runner/.cache/cvelint/cvelistV5/cves/2024/1xxx/CVE-2024-1156.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "2022 Q3"
