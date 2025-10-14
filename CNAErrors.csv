@@ -215,7 +215,7 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,18
 Mautic,E007,check-invalid-version-string,85
-MediaTek,E007,check-invalid-version-string,794
+MediaTek,E007,check-invalid-version-string,810
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
@@ -712,7 +712,7 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,4015
+sap,E007,check-invalid-version-string,4042
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
@@ -724,7 +724,7 @@ sgi,E007,check-invalid-version-string,11
 sgi,E008,check-invalid-vendor-string,11
 sgi,E009,check-invalid-product-string,11
 siemens,E002,check-duplicate-reference-url,3
-siemens,E007,check-invalid-version-string,8042
+siemens,E007,check-invalid-version-string,8056
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
@@ -780,5 +780,5 @@ zdi,E009,check-invalid-product-string,7
 zephyr,E004,check-leading-trailing-space,2
 zephyr,E007,check-invalid-version-string,10
 zte,E004,check-leading-trailing-space,16
-zte,E007,check-invalid-version-string,97
+zte,E007,check-invalid-version-string,98
 zte,E008,check-invalid-vendor-string,67

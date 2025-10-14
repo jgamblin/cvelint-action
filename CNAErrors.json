@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-14T00:21:11Z",
+  "generatedAt": "2025-10-14T12:11:10Z",
   "results": [
     {
       "cna": "360ST",
@@ -815,7 +815,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 794}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 810}
       ]
     },
     {
@@ -2292,7 +2292,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 217},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4015},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4042},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
@@ -2324,7 +2324,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8042},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8056},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },
@@ -2470,7 +2470,7 @@
       "cna": "zte",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 16},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 97},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 98},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 67}
       ]
     }
