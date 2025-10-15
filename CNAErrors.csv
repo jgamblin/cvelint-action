@@ -385,7 +385,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1117
 VulDB,E008,check-invalid-vendor-string,1053
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,114
+VulnCheck,E007,check-invalid-version-string,119
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -423,7 +423,7 @@ Zyxel,E004,check-leading-trailing-space,8
 Zyxel,E007,check-invalid-version-string,369
 adobe,E002,check-duplicate-reference-url,54
 adobe,E004,check-leading-trailing-space,4
-adobe,E007,check-invalid-version-string,3932
+adobe,E007,check-invalid-version-string,3938
 adobe,E008,check-invalid-vendor-string,2535
 adobe,E009,check-invalid-product-string,1875
 airbus,E007,check-invalid-version-string,28
@@ -491,7 +491,7 @@ cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
 cloudflare,E007,check-invalid-version-string,12
 crafter,E004,check-leading-trailing-space,1
-dahua,E007,check-invalid-version-string,51
+dahua,E007,check-invalid-version-string,53
 dahua,E008,check-invalid-vendor-string,26
 debian,E002,check-duplicate-reference-url,19
 debian,E007,check-invalid-version-string,623
@@ -544,7 +544,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,560
+fortinet,E003,check-description-length,569
 fortinet,E007,check-invalid-version-string,391
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -615,7 +615,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4898
+jpcert,E007,check-invalid-version-string,4902
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1

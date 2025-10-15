@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-15T00:21:48Z",
+  "generatedAt": "2025-10-15T12:11:06Z",
   "results": [
     {
       "cna": "360ST",
@@ -1450,7 +1450,7 @@
       "cna": "VulnCheck",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 114}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 119}
       ]
     },
     {
@@ -1578,7 +1578,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 54},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 4},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3932},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3938},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2535},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1875}
       ]
@@ -1746,7 +1746,7 @@
     {
       "cna": "dahua",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 51},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 53},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 26}
       ]
     },
@@ -1879,7 +1879,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 560},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 569},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2045,7 +2045,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4898},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4902},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
