@@ -15,7 +15,7 @@ AHA,E004,check-leading-trailing-space,1
 AHA,E007,check-invalid-version-string,238
 AMD,E004,check-leading-trailing-space,86
 AMD,E006,check-affected-product-present,3
-AMD,E007,check-invalid-version-string,1608
+AMD,E007,check-invalid-version-string,1610
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
 AMZN,E007,check-invalid-version-string,1
@@ -135,7 +135,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,13999
+GitHub_M,E007,check-invalid-version-string,14016
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -312,7 +312,7 @@ Qualys,E007,check-invalid-version-string,3
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
-Rockwell,E007,check-invalid-version-string,258
+Rockwell,E007,check-invalid-version-string,268
 Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,36
 SEL,E004,check-leading-trailing-space,37
@@ -364,7 +364,7 @@ TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,6
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
-TR-CERT,E007,check-invalid-version-string,31
+TR-CERT,E007,check-invalid-version-string,32
 TV,E004,check-leading-trailing-space,1
 Temporal,E004,check-leading-trailing-space,3
 Teradici,E007,check-invalid-version-string,16
@@ -423,7 +423,7 @@ Zyxel,E004,check-leading-trailing-space,8
 Zyxel,E007,check-invalid-version-string,369
 adobe,E002,check-duplicate-reference-url,54
 adobe,E004,check-leading-trailing-space,4
-adobe,E007,check-invalid-version-string,3926
+adobe,E007,check-invalid-version-string,3932
 adobe,E008,check-invalid-vendor-string,2535
 adobe,E009,check-invalid-product-string,1875
 airbus,E007,check-invalid-version-string,28
@@ -639,13 +639,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36542
+microsoft,E007,check-invalid-version-string,36604
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109954
-mitre,E008,check-invalid-vendor-string,109903
-mitre,E009,check-invalid-product-string,109903
+mitre,E007,check-invalid-version-string,109963
+mitre,E008,check-invalid-vendor-string,109912
+mitre,E009,check-invalid-product-string,109912
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -664,7 +664,7 @@ netgear,E007,check-invalid-version-string,6
 netgear,E008,check-invalid-vendor-string,1
 nodejs,E007,check-invalid-version-string,30
 nvidia,E004,check-leading-trailing-space,24
-nvidia,E007,check-invalid-version-string,728
+nvidia,E007,check-invalid-version-string,735
 nvidia,E008,check-invalid-vendor-string,32
 nvidia,E009,check-invalid-product-string,4
 nvidia,E010,check-invalid-self-references,65
