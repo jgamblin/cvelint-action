@@ -154,7 +154,7 @@ GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,14
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,284
+HCL,E007,check-invalid-version-string,288
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6
@@ -545,7 +545,7 @@ forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
 fortinet,E003,check-description-length,569
-fortinet,E007,check-invalid-version-string,391
+fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
 freebsd,E002,check-duplicate-reference-url,2
@@ -615,7 +615,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,4902
+jpcert,E007,check-invalid-version-string,4916
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
