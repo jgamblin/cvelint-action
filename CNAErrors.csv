@@ -4,7 +4,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 3DS,E004,check-leading-trailing-space,5
 3DS,E007,check-invalid-version-string,452
 42Gears,E004,check-leading-trailing-space,2
-@huntr_ai,E004,check-leading-trailing-space,10
+@huntr_ai,E004,check-leading-trailing-space,9
 @huntr_ai,E007,check-invalid-version-string,20
 @huntrdev,E004,check-leading-trailing-space,86
 @huntrdev,E007,check-invalid-version-string,19
@@ -135,7 +135,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14016
+GitHub_M,E007,check-invalid-version-string,14028
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -413,7 +413,7 @@ ZUSO ART,E007,check-invalid-version-string,2
 Zabbix,E004,check-leading-trailing-space,2
 Zabbix,E007,check-invalid-version-string,26
 Zoom,E004,check-leading-trailing-space,8
-Zoom,E007,check-invalid-version-string,145
+Zoom,E007,check-invalid-version-string,146
 Zoom,E008,check-invalid-vendor-string,9
 Zscaler,E004,check-leading-trailing-space,21
 Zscaler,E007,check-invalid-version-string,7
@@ -485,7 +485,7 @@ cisa-cg,E010,check-invalid-self-references,49
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
-cisco,E007,check-invalid-version-string,78593
+cisco,E007,check-invalid-version-string,78834
 cisco,E008,check-invalid-vendor-string,2950
 cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
@@ -569,7 +569,7 @@ hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
 hp,E004,check-leading-trailing-space,3
-hp,E007,check-invalid-version-string,1061
+hp,E007,check-invalid-version-string,1063
 hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,166
@@ -583,7 +583,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2590
+ibm,E007,check-invalid-version-string,2592
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -643,9 +643,9 @@ microsoft,E007,check-invalid-version-string,36604
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109963
-mitre,E008,check-invalid-vendor-string,109912
-mitre,E009,check-invalid-product-string,109912
+mitre,E007,check-invalid-version-string,109966
+mitre,E008,check-invalid-vendor-string,109915
+mitre,E009,check-invalid-product-string,109915
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
