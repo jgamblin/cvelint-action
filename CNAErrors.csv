@@ -564,7 +564,7 @@ hackerone,E008,check-invalid-vendor-string,571
 hackerone,E009,check-invalid-product-string,160
 harborist,E007,check-invalid-version-string,4
 hikvision,E004,check-leading-trailing-space,2
-hikvision,E007,check-invalid-version-string,96
+hikvision,E007,check-invalid-version-string,98
 hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
@@ -728,7 +728,7 @@ siemens,E007,check-invalid-version-string,8056
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,878
+snyk,E008,check-invalid-vendor-string,882
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
