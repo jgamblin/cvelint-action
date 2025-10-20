@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-20T00:23:47Z",
+  "generatedAt": "2025-10-20T12:10:40Z",
   "results": [
     {
       "cna": "360ST",
@@ -653,7 +653,7 @@
       "cna": "Honor",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3}
       ]
     },
     {
@@ -682,7 +682,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 151}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 152}
       ]
     },
     {
@@ -2045,7 +2045,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4916},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4925},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
