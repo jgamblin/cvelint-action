@@ -135,7 +135,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14092
+GitHub_M,E007,check-invalid-version-string,14104
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -385,7 +385,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1117
 VulDB,E008,check-invalid-vendor-string,1057
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,119
+VulnCheck,E007,check-invalid-version-string,122
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -643,9 +643,9 @@ microsoft,E007,check-invalid-version-string,36604
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,109993
-mitre,E008,check-invalid-vendor-string,109940
-mitre,E009,check-invalid-product-string,109940
+mitre,E007,check-invalid-version-string,110012
+mitre,E008,check-invalid-vendor-string,109959
+mitre,E009,check-invalid-product-string,109959
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
