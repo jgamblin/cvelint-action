@@ -314,7 +314,7 @@ Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
 Rockwell,E007,check-invalid-version-string,268
 Rockwell,E008,check-invalid-vendor-string,2
-SEC-VLab,E007,check-invalid-version-string,36
+SEC-VLab,E007,check-invalid-version-string,39
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
@@ -347,7 +347,7 @@ Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,53
-SolarWinds,E007,check-invalid-version-string,181
+SolarWinds,E007,check-invalid-version-string,182
 Solidigm,E006,check-affected-product-present,8
 Solidigm,E007,check-invalid-version-string,1
 Sophos,E004,check-leading-trailing-space,1
@@ -361,7 +361,7 @@ TECNOMobile,E007,check-invalid-version-string,2
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,6
+TPLink,E007,check-invalid-version-string,18
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,32
@@ -420,7 +420,7 @@ Zscaler,E007,check-invalid-version-string,7
 Zscaler,E008,check-invalid-vendor-string,4
 Zscaler,E009,check-invalid-product-string,3
 Zyxel,E004,check-leading-trailing-space,8
-Zyxel,E007,check-invalid-version-string,369
+Zyxel,E007,check-invalid-version-string,377
 adobe,E002,check-duplicate-reference-url,54
 adobe,E004,check-leading-trailing-space,4
 adobe,E007,check-invalid-version-string,3937
@@ -544,7 +544,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,578
+fortinet,E003,check-description-length,586
 fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12

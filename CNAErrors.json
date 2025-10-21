@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-21T00:22:16Z",
+  "generatedAt": "2025-10-21T12:11:05Z",
   "results": [
     {
       "cna": "360ST",
@@ -1174,7 +1174,7 @@
     {
       "cna": "SEC-VLab",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 39}
       ]
     },
     {
@@ -1297,7 +1297,7 @@
       "cna": "SolarWinds",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 53},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 181}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 182}
       ]
     },
     {
@@ -1351,7 +1351,7 @@
     {
       "cna": "TPLink",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18}
       ]
     },
     {
@@ -1570,7 +1570,7 @@
       "cna": "Zyxel",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 369}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 377}
       ]
     },
     {
@@ -1879,7 +1879,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 578},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 586},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 390},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
