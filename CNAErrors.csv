@@ -60,7 +60,7 @@ Bitdefender,E007,check-invalid-version-string,11
 CERT-In,E004,check-leading-trailing-space,33
 CERT-In,E007,check-invalid-version-string,65
 CERT-PL,E004,check-leading-trailing-space,21
-CERT-PL,E007,check-invalid-version-string,14
+CERT-PL,E007,check-invalid-version-string,15
 CERTVDE,E004,check-leading-trailing-space,46
 CERTVDE,E007,check-invalid-version-string,1027
 CERTVDE,E008,check-invalid-vendor-string,2
@@ -135,7 +135,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14104
+GitHub_M,E007,check-invalid-version-string,14111
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -383,7 +383,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1117
-VulDB,E008,check-invalid-vendor-string,1057
+VulDB,E008,check-invalid-vendor-string,1059
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,122
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -439,7 +439,7 @@ apple,E007,check-invalid-version-string,4855
 apple,E008,check-invalid-vendor-string,3082
 apple,E009,check-invalid-product-string,2894
 atlassian,E004,check-leading-trailing-space,1
-atlassian,E007,check-invalid-version-string,756
+atlassian,E007,check-invalid-version-string,771
 atlassian,E008,check-invalid-vendor-string,3
 atlassian,E009,check-invalid-product-string,3
 autodesk,E004,check-leading-trailing-space,9
@@ -553,7 +553,6 @@ freebsd,E004,check-leading-trailing-space,3
 freebsd,E007,check-invalid-version-string,156
 freebsd,E008,check-invalid-vendor-string,87
 freebsd,E009,check-invalid-product-string,35
-glibc,E006,check-affected-product-present,1
 google_android,E004,check-leading-trailing-space,85
 google_android,E007,check-invalid-version-string,2399
 google_android,E008,check-invalid-vendor-string,3103
@@ -588,7 +587,7 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3078
+icscert,E007,check-invalid-version-string,3081
 icscert,E008,check-invalid-vendor-string,1289
 icscert,E009,check-invalid-product-string,471
 imaginationtech,E007,check-invalid-version-string,157
@@ -643,9 +642,9 @@ microsoft,E007,check-invalid-version-string,36604
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110012
-mitre,E008,check-invalid-vendor-string,109959
-mitre,E009,check-invalid-product-string,109959
+mitre,E007,check-invalid-version-string,110038
+mitre,E008,check-invalid-vendor-string,109985
+mitre,E009,check-invalid-product-string,109985
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -771,7 +770,7 @@ vmware,E008,check-invalid-vendor-string,384
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
 wolfSSL,E004,check-leading-trailing-space,5
-wolfSSL,E007,check-invalid-version-string,1
+wolfSSL,E007,check-invalid-version-string,2
 yandex,E007,check-invalid-version-string,26
 yandex,E008,check-invalid-vendor-string,14
 zdi,E007,check-invalid-version-string,608
