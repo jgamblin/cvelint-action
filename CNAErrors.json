@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-22T00:22:30Z",
+  "generatedAt": "2025-10-22T12:10:52Z",
   "results": [
     {
       "cna": "360ST",
@@ -227,7 +227,7 @@
       "cna": "CERTVDE",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 46},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1027},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1063},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1073,7 +1073,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12770},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12769},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1619,7 +1619,7 @@
       "cna": "atlassian",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 771},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 776},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 3},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3}
       ]

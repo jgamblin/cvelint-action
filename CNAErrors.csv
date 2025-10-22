@@ -62,7 +62,7 @@ CERT-In,E007,check-invalid-version-string,65
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,15
 CERTVDE,E004,check-leading-trailing-space,46
-CERTVDE,E007,check-invalid-version-string,1027
+CERTVDE,E007,check-invalid-version-string,1063
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
 CSA,E007,check-invalid-version-string,29
@@ -283,7 +283,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,12770
+Patchstack,E007,check-invalid-version-string,12769
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -439,7 +439,7 @@ apple,E007,check-invalid-version-string,4855
 apple,E008,check-invalid-vendor-string,3082
 apple,E009,check-invalid-product-string,2894
 atlassian,E004,check-leading-trailing-space,1
-atlassian,E007,check-invalid-version-string,771
+atlassian,E007,check-invalid-version-string,776
 atlassian,E008,check-invalid-vendor-string,3
 atlassian,E009,check-invalid-product-string,3
 autodesk,E004,check-leading-trailing-space,9
