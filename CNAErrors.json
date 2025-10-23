@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-23T00:22:06Z",
+  "generatedAt": "2025-10-23T12:11:07Z",
   "results": [
     {
       "cna": "360ST",
@@ -500,7 +500,7 @@
       "cna": "Gallagher",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 16},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 80}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 97}
       ]
     },
     {
@@ -682,7 +682,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 152}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 153}
       ]
     },
     {
@@ -1879,7 +1879,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 586},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 595},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 390},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2039,7 +2039,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4925},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4955},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
