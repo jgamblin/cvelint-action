@@ -182,7 +182,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,153
+INCIBE,E007,check-invalid-version-string,154
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
@@ -283,7 +283,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,13190
+Patchstack,E007,check-invalid-version-string,13392
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -314,11 +314,11 @@ Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
 Rockwell,E007,check-invalid-version-string,268
 Rockwell,E008,check-invalid-vendor-string,2
-SEC-VLab,E007,check-invalid-version-string,39
+SEC-VLab,E007,check-invalid-version-string,42
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
-SICK AG,E007,check-invalid-version-string,278
+SICK AG,E007,check-invalid-version-string,286
 SICK AG,E008,check-invalid-vendor-string,28
 SK-CERT,E004,check-leading-trailing-space,2
 SK-CERT,E007,check-invalid-version-string,8
@@ -382,8 +382,8 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1117
-VulDB,E008,check-invalid-vendor-string,1059
+VulDB,E007,check-invalid-version-string,1125
+VulDB,E008,check-invalid-vendor-string,1075
 VulnCheck,E004,check-leading-trailing-space,30
 VulnCheck,E007,check-invalid-version-string,124
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -779,5 +779,5 @@ zdi,E009,check-invalid-product-string,7
 zephyr,E004,check-leading-trailing-space,2
 zephyr,E007,check-invalid-version-string,10
 zte,E004,check-leading-trailing-space,16
-zte,E007,check-invalid-version-string,98
+zte,E007,check-invalid-version-string,100
 zte,E008,check-invalid-vendor-string,67
