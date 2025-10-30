@@ -302,7 +302,7 @@ Ping Identity,E009,check-invalid-product-string,1
 PostgreSQL,E007,check-invalid-version-string,6
 PostgreSQL,E008,check-invalid-vendor-string,14
 ProgressSoftware,E004,check-leading-trailing-space,33
-ProgressSoftware,E007,check-invalid-version-string,94
+ProgressSoftware,E007,check-invalid-version-string,95
 Proofpoint,E004,check-leading-trailing-space,9
 Proofpoint,E007,check-invalid-version-string,61
 PureStorage,E004,check-leading-trailing-space,6
@@ -431,7 +431,7 @@ alibaba,E008,check-invalid-vendor-string,1
 apache,E002,check-duplicate-reference-url,42
 apache,E004,check-leading-trailing-space,158
 apache,E006,check-affected-product-present,1
-apache,E007,check-invalid-version-string,1209
+apache,E007,check-invalid-version-string,1210
 apache,E008,check-invalid-vendor-string,142
 apache,E009,check-invalid-product-string,3
 apple,E002,check-duplicate-reference-url,2
@@ -733,7 +733,7 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,391
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,157
+suse,E007,check-invalid-version-string,161
 suse,E008,check-invalid-vendor-string,2
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2

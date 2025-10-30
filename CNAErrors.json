@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-30T00:22:58Z",
+  "generatedAt": "2025-10-30T12:10:50Z",
   "results": [
     {
       "cna": "360ST",
@@ -1132,7 +1132,7 @@
       "cna": "ProgressSoftware",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 33},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 95}
       ]
     },
     {
@@ -1601,7 +1601,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 42},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 158},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1209},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1210},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 142},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3}
       ]
@@ -2343,7 +2343,7 @@
       "cna": "suse",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 157},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 161},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2}
       ]
     },
