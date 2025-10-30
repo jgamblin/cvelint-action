@@ -35,7 +35,7 @@ Anolis,E004,check-leading-trailing-space,6
 Anolis,E007,check-invalid-version-string,1
 Anolis,E008,check-invalid-vendor-string,1
 Arista,E004,check-leading-trailing-space,4
-Arista,E007,check-invalid-version-string,13
+Arista,E007,check-invalid-version-string,38
 Arista,E008,check-invalid-vendor-string,1
 Arm,E004,check-leading-trailing-space,16
 Arm,E007,check-invalid-version-string,8
@@ -135,7 +135,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,22
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14171
+GitHub_M,E007,check-invalid-version-string,14195
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -587,7 +587,7 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3153
+icscert,E007,check-invalid-version-string,3155
 icscert,E008,check-invalid-vendor-string,1289
 icscert,E009,check-invalid-product-string,471
 imaginationtech,E007,check-invalid-version-string,157
@@ -642,9 +642,9 @@ microsoft,E007,check-invalid-version-string,36607
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110157
-mitre,E008,check-invalid-vendor-string,110104
-mitre,E009,check-invalid-product-string,110104
+mitre,E007,check-invalid-version-string,110171
+mitre,E008,check-invalid-vendor-string,110118
+mitre,E009,check-invalid-product-string,110118
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
