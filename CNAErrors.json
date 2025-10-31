@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-31T00:22:30Z",
+  "generatedAt": "2025-10-31T12:10:58Z",
   "results": [
     {
       "cna": "360ST",
@@ -1073,7 +1073,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13455},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13491},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1500,7 +1500,7 @@
       "cna": "XEN",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 15},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 124}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 127}
       ]
     },
     {
@@ -2039,7 +2039,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4958},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4968},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2336,7 +2336,7 @@
       "cna": "sonicwall",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 17},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 391}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 392}
       ]
     },
     {
