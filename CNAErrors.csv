@@ -132,10 +132,10 @@ GRAFANA,E007,check-invalid-version-string,55
 Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,97
 GandC,E004,check-leading-trailing-space,10
-Genetec,E007,check-invalid-version-string,22
+Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14195
+GitHub_M,E007,check-invalid-version-string,14205
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -385,7 +385,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1125
 VulDB,E008,check-invalid-vendor-string,1078
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,143
+VulnCheck,E007,check-invalid-version-string,144
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -499,7 +499,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1983
+dell,E007,check-invalid-version-string,1990
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -568,7 +568,7 @@ hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
 hp,E004,check-leading-trailing-space,3
-hp,E007,check-invalid-version-string,1065
+hp,E007,check-invalid-version-string,1066
 hp,E008,check-invalid-vendor-string,723
 hp,E009,check-invalid-product-string,646
 hpe,E004,check-leading-trailing-space,166
@@ -582,7 +582,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2599
+ibm,E007,check-invalid-version-string,2604
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -642,9 +642,9 @@ microsoft,E007,check-invalid-version-string,36607
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110171
-mitre,E008,check-invalid-vendor-string,110118
-mitre,E009,check-invalid-product-string,110118
+mitre,E007,check-invalid-version-string,110197
+mitre,E008,check-invalid-vendor-string,110144
+mitre,E009,check-invalid-product-string,110144
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -727,7 +727,7 @@ siemens,E007,check-invalid-version-string,8056
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,882
+snyk,E008,check-invalid-vendor-string,881
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
