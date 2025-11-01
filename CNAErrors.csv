@@ -108,7 +108,7 @@ EEF,E007,check-invalid-version-string,15
 ERIC,E004,check-leading-trailing-space,1
 ERIC,E007,check-invalid-version-string,5
 ESET,E004,check-leading-trailing-space,3
-ESET,E006,check-affected-product-present,2
+ESET,E006,check-affected-product-present,3
 ESET,E007,check-invalid-version-string,3
 Eaton,E004,check-leading-trailing-space,2
 Eaton,E007,check-invalid-version-string,3
@@ -135,7 +135,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,4
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14205
+GitHub_M,E007,check-invalid-version-string,14206
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -271,7 +271,7 @@ OpenText,E008,check-invalid-vendor-string,2
 OpenVPN,E004,check-leading-trailing-space,1
 OpenVPN,E007,check-invalid-version-string,23
 OpenVPN,E008,check-invalid-vendor-string,14
-Opera,E007,check-invalid-version-string,5
+Opera,E007,check-invalid-version-string,6
 Opera,E008,check-invalid-vendor-string,4
 PSF,E004,check-leading-trailing-space,3
 Palantir,E004,check-leading-trailing-space,9
@@ -481,7 +481,7 @@ checkpoint,E007,check-invalid-version-string,92
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
 cisa-cg,E007,check-invalid-version-string,67
-cisa-cg,E010,check-invalid-self-references,51
+cisa-cg,E010,check-invalid-self-references,54
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
@@ -588,8 +588,8 @@ ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,356
 icscert,E007,check-invalid-version-string,3155
-icscert,E008,check-invalid-vendor-string,1289
-icscert,E009,check-invalid-product-string,471
+icscert,E008,check-invalid-vendor-string,1283
+icscert,E009,check-invalid-product-string,465
 imaginationtech,E007,check-invalid-version-string,157
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
@@ -642,9 +642,9 @@ microsoft,E007,check-invalid-version-string,36607
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110197
-mitre,E008,check-invalid-vendor-string,110144
-mitre,E009,check-invalid-product-string,110144
+mitre,E007,check-invalid-version-string,110219
+mitre,E008,check-invalid-vendor-string,110166
+mitre,E009,check-invalid-product-string,110166
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
