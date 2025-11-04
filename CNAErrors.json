@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-04T00:22:30Z",
+  "generatedAt": "2025-11-04T12:11:00Z",
   "results": [
     {
       "cna": "360ST",
@@ -520,7 +520,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 4},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14206},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14207},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -577,7 +577,7 @@
     {
       "cna": "Gridware",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15}
       ]
     },
     {
@@ -815,7 +815,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 810}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 835}
       ]
     },
     {
@@ -2249,7 +2249,7 @@
     {
       "cna": "qualcomm",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 24592},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 24681},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 123},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 124}
       ]
