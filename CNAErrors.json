@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-05T00:23:15Z",
+  "generatedAt": "2025-11-05T12:11:07Z",
   "results": [
     {
       "cna": "360ST",
@@ -1258,7 +1258,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 323}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 327}
       ]
     },
     {
@@ -1879,7 +1879,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 609},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 617},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 390},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2039,7 +2039,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4968},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4973},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
