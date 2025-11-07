@@ -18,7 +18,7 @@ AMD,E006,check-affected-product-present,3
 AMD,E007,check-invalid-version-string,1610
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
-AMZN,E006,check-affected-product-present,1
+AMZN,E006,check-affected-product-present,2
 AMZN,E007,check-invalid-version-string,1
 ASR,E004,check-leading-trailing-space,4
 ASR,E006,check-affected-product-present,3
@@ -136,7 +136,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14231
+GitHub_M,E007,check-invalid-version-string,14253
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -284,7 +284,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,13492
+Patchstack,E007,check-invalid-version-string,13786
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -386,7 +386,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1125
 VulDB,E008,check-invalid-vendor-string,1076
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,145
+VulnCheck,E007,check-invalid-version-string,150
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -500,7 +500,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,1997
+dell,E007,check-invalid-version-string,1999
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -643,9 +643,9 @@ microsoft,E007,check-invalid-version-string,36607
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110279
-mitre,E008,check-invalid-vendor-string,110226
-mitre,E009,check-invalid-product-string,110226
+mitre,E007,check-invalid-version-string,110291
+mitre,E008,check-invalid-vendor-string,110238
+mitre,E009,check-invalid-product-string,110238
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -774,7 +774,7 @@ wolfSSL,E004,check-leading-trailing-space,5
 wolfSSL,E007,check-invalid-version-string,2
 yandex,E007,check-invalid-version-string,26
 yandex,E008,check-invalid-vendor-string,14
-zdi,E007,check-invalid-version-string,608
+zdi,E007,check-invalid-version-string,609
 zdi,E008,check-invalid-vendor-string,7
 zdi,E009,check-invalid-product-string,7
 zephyr,E004,check-leading-trailing-space,2
