@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-07T12:10:54Z",
+  "generatedAt": "2025-11-08T00:21:21Z",
   "results": [
     {
       "cna": "360ST",
@@ -68,7 +68,7 @@
     {
       "cna": "AMZN",
       "errors": [
-        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 2},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
       ]
     },
@@ -521,7 +521,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14268},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14292},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1305,7 +1305,7 @@
       "cna": "Solidigm",
       "errors": [
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10}
       ]
     },
     {
@@ -1444,14 +1444,14 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1125},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1076}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1081}
       ]
     },
     {
       "cna": "VulnCheck",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 150}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 224}
       ]
     },
     {
@@ -2108,9 +2108,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 110291},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 110238},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 110238},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 110314},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 110261},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 110261},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2242,7 +2242,7 @@
       "cna": "qnap",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 99},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 756},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 763},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 17},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
