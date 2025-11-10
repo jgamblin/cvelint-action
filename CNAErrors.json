@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-10T00:24:18Z",
+  "generatedAt": "2025-11-10T12:11:00Z",
   "results": [
     {
       "cna": "360ST",
@@ -683,7 +683,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 156}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 157}
       ]
     },
     {
@@ -1444,7 +1444,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1125},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1082}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1083}
       ]
     },
     {
@@ -2040,7 +2040,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4978},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4982},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2328,7 +2328,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 881},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 882},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
