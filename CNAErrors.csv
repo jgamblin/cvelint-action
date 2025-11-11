@@ -183,7 +183,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,157
+INCIBE,E007,check-invalid-version-string,159
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,24
 JFROG,E004,check-leading-trailing-space,12
@@ -319,7 +319,7 @@ SEC-VLab,E007,check-invalid-version-string,42
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
-SICK AG,E007,check-invalid-version-string,286
+SICK AG,E007,check-invalid-version-string,285
 SICK AG,E008,check-invalid-vendor-string,28
 SK-CERT,E004,check-leading-trailing-space,2
 SK-CERT,E007,check-invalid-version-string,8
@@ -376,7 +376,7 @@ TianoCore,E008,check-invalid-vendor-string,1
 Tigera,E004,check-leading-trailing-space,2
 Toreon,E007,check-invalid-version-string,1
 Toshiba,E007,check-invalid-version-string,43
-Unisoc,E007,check-invalid-version-string,581
+Unisoc,E007,check-invalid-version-string,582
 VDOO,E007,check-invalid-version-string,10
 VDOO,E008,check-invalid-vendor-string,10
 VDOO,E009,check-invalid-product-string,2
@@ -712,7 +712,7 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,4042
+sap,E007,check-invalid-version-string,4094
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
