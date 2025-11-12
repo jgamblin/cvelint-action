@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-11T12:10:48Z",
+  "generatedAt": "2025-11-12T00:23:17Z",
   "results": [
     {
       "cna": "360ST",
@@ -292,7 +292,7 @@
       "cna": "Citrix",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 13},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 102}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 106}
       ]
     },
     {
@@ -683,7 +683,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 159}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163}
       ]
     },
     {
@@ -1168,7 +1168,7 @@
       "cna": "Rockwell",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 63},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 268},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 273},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2}
       ]
     },
@@ -1360,7 +1360,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 183},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 33}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 34}
       ]
     },
     {
@@ -1989,8 +1989,8 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 22},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 5},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1983},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1735},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2046},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1798},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 20}
       ]
     },
@@ -2006,7 +2006,7 @@
       "cna": "ivanti",
       "errors": [
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 134}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 133}
       ]
     },
     {
@@ -2099,7 +2099,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 212},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 440},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36607},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36646},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2918},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2913}
       ]
@@ -2108,9 +2108,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 110336},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 110283},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 110283},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 110337},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 110284},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 110284},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2169,10 +2169,10 @@
       "cna": "nvidia",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 24},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 824},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 830},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 32},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4},
-        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 74}
+        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 80}
       ]
     },
     {
@@ -2319,7 +2319,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8056},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8021},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },
