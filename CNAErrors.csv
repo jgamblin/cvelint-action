@@ -29,8 +29,8 @@ ASUS,E007,check-invalid-version-string,34
 ASUSTOR1,E004,check-leading-trailing-space,6
 ASUSTOR1,E007,check-invalid-version-string,2
 Absolute,E007,check-invalid-version-string,3
-AlgoSec,E004,check-leading-trailing-space,2
-AlgoSec,E007,check-invalid-version-string,2
+AlgoSec,E004,check-leading-trailing-space,1
+AlgoSec,E007,check-invalid-version-string,4
 Alias,E007,check-invalid-version-string,20
 Anolis,E004,check-leading-trailing-space,6
 Anolis,E007,check-invalid-version-string,1
@@ -724,7 +724,7 @@ sgi,E007,check-invalid-version-string,11
 sgi,E008,check-invalid-vendor-string,11
 sgi,E009,check-invalid-product-string,11
 siemens,E002,check-duplicate-reference-url,3
-siemens,E007,check-invalid-version-string,8021
+siemens,E007,check-invalid-version-string,8001
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163

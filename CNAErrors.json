@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-12T00:23:17Z",
+  "generatedAt": "2025-11-12T12:11:09Z",
   "results": [
     {
       "cna": "360ST",
@@ -109,8 +109,8 @@
     {
       "cna": "AlgoSec",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4}
       ]
     },
     {
@@ -2319,7 +2319,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8021},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8001},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },
