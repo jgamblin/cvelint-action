@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-13T00:23:01Z",
+  "generatedAt": "2025-11-13T12:11:16Z",
   "results": [
     {
       "cna": "360ST",
@@ -90,7 +90,7 @@
     {
       "cna": "ASUS",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 34}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 37}
       ]
     },
     {
@@ -521,7 +521,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 524},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14371},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14374},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1074,7 +1074,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13787},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13831},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
