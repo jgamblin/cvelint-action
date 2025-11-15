@@ -136,7 +136,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14403
+GitHub_M,E007,check-invalid-version-string,14404
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -313,7 +313,7 @@ Qualys,E007,check-invalid-version-string,3
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
-Rockwell,E007,check-invalid-version-string,273
+Rockwell,E007,check-invalid-version-string,274
 Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,42
 SEL,E004,check-leading-trailing-space,37
@@ -384,9 +384,9 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1125
-VulDB,E008,check-invalid-vendor-string,1086
+VulDB,E008,check-invalid-vendor-string,1087
 VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,224
+VulnCheck,E007,check-invalid-version-string,225
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -588,7 +588,7 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3182
+icscert,E007,check-invalid-version-string,3203
 icscert,E008,check-invalid-vendor-string,1266
 icscert,E009,check-invalid-product-string,448
 imaginationtech,E007,check-invalid-version-string,157
@@ -643,9 +643,9 @@ microsoft,E007,check-invalid-version-string,36646
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110391
-mitre,E008,check-invalid-vendor-string,110337
-mitre,E009,check-invalid-product-string,110337
+mitre,E007,check-invalid-version-string,110421
+mitre,E008,check-invalid-vendor-string,110367
+mitre,E009,check-invalid-product-string,110367
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
