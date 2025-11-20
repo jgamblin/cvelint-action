@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-20T00:22:52Z",
+  "generatedAt": "2025-11-20T12:11:20Z",
   "results": [
     {
       "cna": "360ST",
@@ -585,7 +585,7 @@
       "cna": "HCL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 290},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 291},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
       ]
     },
@@ -1352,7 +1352,7 @@
     {
       "cna": "TPLink",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 19}
       ]
     },
     {
