@@ -15,10 +15,10 @@ AHA,E004,check-leading-trailing-space,1
 AHA,E007,check-invalid-version-string,238
 AMD,E004,check-leading-trailing-space,86
 AMD,E006,check-affected-product-present,3
-AMD,E007,check-invalid-version-string,1610
+AMD,E007,check-invalid-version-string,1619
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
-AMZN,E006,check-affected-product-present,3
+AMZN,E006,check-affected-product-present,4
 AMZN,E007,check-invalid-version-string,1
 ASR,E004,check-leading-trailing-space,4
 ASR,E006,check-affected-product-present,3
@@ -135,8 +135,8 @@ Gallagher,E007,check-invalid-version-string,97
 GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
-GitHub_M,E004,check-leading-trailing-space,524
-GitHub_M,E007,check-invalid-version-string,14470
+GitHub_M,E004,check-leading-trailing-space,523
+GitHub_M,E007,check-invalid-version-string,14492
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -284,7 +284,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,13828
+Patchstack,E007,check-invalid-version-string,13924
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -385,8 +385,8 @@ Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1126
 VulDB,E008,check-invalid-vendor-string,1090
-VulnCheck,E004,check-leading-trailing-space,30
-VulnCheck,E007,check-invalid-version-string,225
+VulnCheck,E004,check-leading-trailing-space,27
+VulnCheck,E007,check-invalid-version-string,224
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
