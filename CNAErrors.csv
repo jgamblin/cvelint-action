@@ -136,7 +136,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,14500
+GitHub_M,E007,check-invalid-version-string,14526
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -155,7 +155,7 @@ GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,15
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,291
+HCL,E007,check-invalid-version-string,292
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6
@@ -643,9 +643,9 @@ microsoft,E007,check-invalid-version-string,36651
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110570
-mitre,E008,check-invalid-vendor-string,110516
-mitre,E009,check-invalid-product-string,110516
+mitre,E007,check-invalid-version-string,110591
+mitre,E008,check-invalid-vendor-string,110537
+mitre,E009,check-invalid-product-string,110537
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -664,10 +664,10 @@ netgear,E007,check-invalid-version-string,6
 netgear,E008,check-invalid-vendor-string,1
 nodejs,E007,check-invalid-version-string,30
 nvidia,E004,check-leading-trailing-space,24
-nvidia,E007,check-invalid-version-string,832
+nvidia,E007,check-invalid-version-string,849
 nvidia,E008,check-invalid-vendor-string,32
 nvidia,E009,check-invalid-product-string,4
-nvidia,E010,check-invalid-self-references,82
+nvidia,E010,check-invalid-self-references,99
 obdev,E007,check-invalid-version-string,5
 obdev,E008,check-invalid-vendor-string,4
 openEuler,E004,check-leading-trailing-space,12
@@ -704,9 +704,9 @@ rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
 redhat,E006,check-affected-product-present,27
-redhat,E007,check-invalid-version-string,9488
-redhat,E008,check-invalid-vendor-string,8406
-redhat,E009,check-invalid-product-string,6771
+redhat,E007,check-invalid-version-string,9487
+redhat,E008,check-invalid-vendor-string,8405
+redhat,E009,check-invalid-product-string,6770
 samsung.tv_appliance,E004,check-leading-trailing-space,3
 samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
