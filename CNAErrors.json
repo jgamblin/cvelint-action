@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-27T00:22:51Z",
+  "generatedAt": "2025-11-27T12:10:50Z",
   "results": [
     {
       "cna": "360ST",
@@ -838,7 +838,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3416},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3417},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -2329,7 +2329,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 882},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 883},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
