@@ -217,7 +217,7 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,24
 Mautic,E007,check-invalid-version-string,85
-MediaTek,E007,check-invalid-version-string,835
+MediaTek,E007,check-invalid-version-string,865
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,10
 Mend,E007,check-invalid-version-string,50
@@ -340,7 +340,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,327
+SamsungMobile,E007,check-invalid-version-string,335
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,2
@@ -359,6 +359,7 @@ Sophos,E009,check-invalid-product-string,1
 Splunk,E004,check-leading-trailing-space,11
 Splunk,E007,check-invalid-version-string,48
 Synaptics,E007,check-invalid-version-string,12
+TCS-CERT,E007,check-invalid-version-string,3
 TECNOMobile,E007,check-invalid-version-string,2
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3

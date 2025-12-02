@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-02T00:23:20Z",
+  "generatedAt": "2025-12-02T12:11:14Z",
   "results": [
     {
       "cna": "360ST",
@@ -817,7 +817,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 835}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 865}
       ]
     },
     {
@@ -1260,7 +1260,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 327}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 335}
       ]
     },
     {
@@ -1329,6 +1329,12 @@
       "cna": "Synaptics",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12}
+      ]
+    },
+    {
+      "cna": "TCS-CERT",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3}
       ]
     },
     {
