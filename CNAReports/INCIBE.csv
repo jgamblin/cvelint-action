@@ -92,9 +92,9 @@ CVE-2025-2202,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-20
 CVE-2025-2201,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2201.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "all versions"
 CVE-2025-2200,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2200.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "all versions"
 CVE-2025-2199,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/2xxx/CVE-2025-2199.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "all versions"
-CVE-2025-1868,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1868.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2.5.4594.1 and earlier"
-CVE-2025-1868,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1868.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2.5.3869 and earlier"
 CVE-2025-1868,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1868.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
+CVE-2025-1868,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1868.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2.5.3869 and earlier"
+CVE-2025-1868,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1868.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2.5.4594.1 and earlier"
 CVE-2025-1739,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1739.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2025-1738,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1738.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2025-1271,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2025/1xxx/CVE-2025-1271.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "all versions"
@@ -114,8 +114,8 @@ CVE-2024-5524,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/5xxx/CVE-20
 CVE-2024-5523,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/5xxx/CVE-2024-5523.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "03/10/2023"
 CVE-2024-5312,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/5xxx/CVE-2024-5312.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "3,2,0"
 CVE-2024-4466,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4466.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2023 version"
-CVE-2024-4304,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4304.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-4304,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4304.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2.0 (r2301)"
+CVE-2024-4304,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4304.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-4175,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4175.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2024-3654,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/3xxx/CVE-2024-3654.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "1.42.42-stable version"
 CVE-2024-2636,INCIBE,/home/runner/.cache/cvelint/cvelistV5/cves/2024/2xxx/CVE-2024-2636.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
