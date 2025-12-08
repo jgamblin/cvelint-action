@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,460
+3DS,E007,check-invalid-version-string,468
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,9
 @huntr_ai,E007,check-invalid-version-string,20
@@ -107,6 +107,7 @@ EA,E007,check-invalid-version-string,1
 EA,E008,check-invalid-vendor-string,1
 EDB,E004,check-leading-trailing-space,1
 EEF,E007,check-invalid-version-string,15
+ENISA,E010,check-invalid-self-references,2
 ERIC,E004,check-leading-trailing-space,1
 ERIC,E007,check-invalid-version-string,5
 ESET,E004,check-leading-trailing-space,3
@@ -232,7 +233,7 @@ NCSC-NL,E007,check-invalid-version-string,8
 NCSC.ch,E004,check-leading-trailing-space,24
 NCSC.ch,E006,check-affected-product-present,3
 NCSC.ch,E007,check-invalid-version-string,40
-NEC,E004,check-leading-trailing-space,8
+NEC,E004,check-leading-trailing-space,7
 NEC,E007,check-invalid-version-string,884
 NEC,E008,check-invalid-vendor-string,1
 NEC,E009,check-invalid-product-string,1
@@ -386,7 +387,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1128
-VulDB,E008,check-invalid-vendor-string,1101
+VulDB,E008,check-invalid-vendor-string,1102
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,218
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -617,7 +618,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5009
+jpcert,E007,check-invalid-version-string,5011
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
