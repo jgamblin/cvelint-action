@@ -138,7 +138,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,14819
+GitHub_M,E007,check-invalid-version-string,14845
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -291,7 +291,7 @@ Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
 Pega,E004,check-leading-trailing-space,4
-Pega,E007,check-invalid-version-string,3
+Pega,E007,check-invalid-version-string,4
 Pentraze,E004,check-leading-trailing-space,2
 Pentraze,E007,check-invalid-version-string,4
 Perforce,E004,check-leading-trailing-space,7
@@ -389,7 +389,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1129
 VulDB,E008,check-invalid-vendor-string,1103
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,237
+VulnCheck,E007,check-invalid-version-string,240
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -471,7 +471,7 @@ ca,E009,check-invalid-product-string,1
 canonical,E002,check-duplicate-reference-url,1
 canonical,E004,check-leading-trailing-space,2
 canonical,E006,check-affected-product-present,7
-canonical,E007,check-invalid-version-string,356
+canonical,E007,check-invalid-version-string,358
 canonical,E008,check-invalid-vendor-string,173
 canonical,E009,check-invalid-product-string,160
 canonical,E010,check-invalid-self-references,35
@@ -485,7 +485,7 @@ checkpoint,E007,check-invalid-version-string,92
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
 cisa-cg,E007,check-invalid-version-string,75
-cisa-cg,E010,check-invalid-self-references,55
+cisa-cg,E010,check-invalid-self-references,56
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
@@ -646,9 +646,9 @@ microsoft,E007,check-invalid-version-string,36729
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110788
-mitre,E008,check-invalid-vendor-string,110734
-mitre,E009,check-invalid-product-string,110734
+mitre,E007,check-invalid-version-string,110824
+mitre,E008,check-invalid-vendor-string,110770
+mitre,E009,check-invalid-product-string,110770
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
