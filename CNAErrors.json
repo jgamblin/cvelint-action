@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-11T12:11:33Z",
+  "generatedAt": "2025-12-12T00:24:11Z",
   "results": [
     {
       "cna": "360ST",
@@ -305,7 +305,7 @@
     {
       "cna": "ConnectWise",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6}
       ]
     },
     {
@@ -528,7 +528,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14853},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14862},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -565,7 +565,7 @@
       "cna": "Google_Devices",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 178}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 200}
       ]
     },
     {
@@ -592,7 +592,7 @@
       "cna": "HCL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 292},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 293},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
       ]
     },
@@ -1457,14 +1457,14 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1129},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1103}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1104}
       ]
     },
     {
       "cna": "VulnCheck",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 240}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 241}
       ]
     },
     {
@@ -1986,7 +1986,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 356},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3206},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3213},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1266},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 448}
       ]
@@ -2121,9 +2121,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 110824},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 110770},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 110770},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 110880},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 110826},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 110826},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },

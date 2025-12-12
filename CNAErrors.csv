@@ -85,7 +85,7 @@ Ciena,E007,check-invalid-version-string,19
 Citrix,E004,check-leading-trailing-space,13
 Citrix,E007,check-invalid-version-string,106
 ConcreteCMS,E004,check-leading-trailing-space,3
-ConnectWise,E007,check-invalid-version-string,5
+ConnectWise,E007,check-invalid-version-string,6
 CoolKit,E004,check-leading-trailing-space,1
 Cybellum,E004,check-leading-trailing-space,1
 Cybellum,E007,check-invalid-version-string,2
@@ -138,7 +138,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,14853
+GitHub_M,E007,check-invalid-version-string,14862
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -150,14 +150,14 @@ Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
 GoogleCloud,E007,check-invalid-version-string,2
 Google_Devices,E004,check-leading-trailing-space,7
-Google_Devices,E007,check-invalid-version-string,178
+Google_Devices,E007,check-invalid-version-string,200
 GovTech CSG,E004,check-leading-trailing-space,2
 GovTech CSG,E007,check-invalid-version-string,13
 GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,15
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,292
+HCL,E007,check-invalid-version-string,293
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6
@@ -387,9 +387,9 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1129
-VulDB,E008,check-invalid-vendor-string,1103
+VulDB,E008,check-invalid-vendor-string,1104
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,240
+VulnCheck,E007,check-invalid-version-string,241
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -591,7 +591,7 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3206
+icscert,E007,check-invalid-version-string,3213
 icscert,E008,check-invalid-vendor-string,1266
 icscert,E009,check-invalid-product-string,448
 imaginationtech,E007,check-invalid-version-string,172
@@ -646,9 +646,9 @@ microsoft,E007,check-invalid-version-string,36729
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110824
-mitre,E008,check-invalid-vendor-string,110770
-mitre,E009,check-invalid-product-string,110770
+mitre,E007,check-invalid-version-string,110880
+mitre,E008,check-invalid-vendor-string,110826
+mitre,E009,check-invalid-product-string,110826
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
