@@ -138,7 +138,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,14875
+GitHub_M,E007,check-invalid-version-string,14880
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -164,7 +164,7 @@ HYPR,E004,check-leading-trailing-space,6
 HYPR,E007,check-invalid-version-string,1
 Hanwha_Vision,E004,check-leading-trailing-space,3
 Hanwha_Vision,E007,check-invalid-version-string,11
-HeroDevs,E007,check-invalid-version-string,45
+HeroDevs,E007,check-invalid-version-string,47
 HiddenLayer,E004,check-leading-trailing-space,6
 Hillstone,E007,check-invalid-version-string,1
 Hitachi,E004,check-leading-trailing-space,32
@@ -387,9 +387,9 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1129
-VulDB,E008,check-invalid-vendor-string,1104
+VulDB,E008,check-invalid-vendor-string,1105
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,241
+VulnCheck,E007,check-invalid-version-string,240
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -485,7 +485,7 @@ checkpoint,E007,check-invalid-version-string,92
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,15
 cisa-cg,E007,check-invalid-version-string,75
-cisa-cg,E010,check-invalid-self-references,56
+cisa-cg,E010,check-invalid-self-references,57
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
@@ -646,9 +646,9 @@ microsoft,E007,check-invalid-version-string,36729
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110880
-mitre,E008,check-invalid-vendor-string,110826
-mitre,E009,check-invalid-product-string,110826
+mitre,E007,check-invalid-version-string,110890
+mitre,E008,check-invalid-vendor-string,110836
+mitre,E009,check-invalid-product-string,110836
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
