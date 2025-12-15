@@ -12,8 +12,8 @@ CVE-2024-11681,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/11xxx/CVE-
 CVE-2024-10604,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10604.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2024-10604,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10604.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Release F19"
 CVE-2024-10603,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10603.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
-CVE-2024-10026,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10026.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2024-10026,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10026.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Release 20241028.0"
+CVE-2024-10026,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10026.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2024-8375,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/8xxx/CVE-2024-8375.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "https://github.com/google-deepmind/reverb/commit/6a0dcf4c9e842b7f999912f792aaa6f6bd261a25"
 CVE-2024-6284,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/6xxx/CVE-2024-6284.json,check-invalid-product-string,E009,containers.cna.affected.#.product,Invalid product string: "https://github.com/google/nftables"
 CVE-2024-4128,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/4xxx/CVE-2024-4128.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
@@ -24,8 +24,8 @@ CVE-2023-37243,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/37xxx/CVE-
 CVE-2023-32731,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/32xxx/CVE-2023-32731.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-23586,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/23xxx/CVE-2023-23586.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-6562,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/6xxx/CVE-2023-6562.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2023-5072,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/5xxx/CVE-2023-5072.json,check-invalid-vendor-string,E008,containers.cna.affected.#.vendor,Invalid vendor string: "https://github.com/stleary/JSON-java"
 CVE-2023-5072,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/5xxx/CVE-2023-5072.json,check-invalid-product-string,E009,containers.cna.affected.#.product,Invalid product string: "n/a"
+CVE-2023-5072,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/5xxx/CVE-2023-5072.json,check-invalid-vendor-string,E008,containers.cna.affected.#.vendor,Invalid vendor string: "https://github.com/stleary/JSON-java"
 CVE-2023-4949,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/4xxx/CVE-2023-4949.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-4785,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/4xxx/CVE-2023-4785.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-3894,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2023/3xxx/CVE-2023-3894.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
