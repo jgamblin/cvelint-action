@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-16T00:24:44Z",
+  "generatedAt": "2025-12-16T12:11:11Z",
   "results": [
     {
       "cna": "360ST",
@@ -528,7 +528,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14887},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14904},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -592,7 +592,7 @@
       "cna": "HCL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 293},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 294},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
       ]
     },
@@ -1081,7 +1081,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14329},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14509},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -2053,7 +2053,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5045},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5049},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2255,7 +2255,7 @@
       "cna": "qnap",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 99},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 763},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 775},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 17},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
