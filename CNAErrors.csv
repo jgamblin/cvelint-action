@@ -26,7 +26,7 @@ ASR,E007,check-invalid-version-string,1
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,3
-ASUS,E007,check-invalid-version-string,37
+ASUS,E007,check-invalid-version-string,52
 ASUSTOR1,E004,check-leading-trailing-space,6
 ASUSTOR1,E007,check-invalid-version-string,4
 Absolute,E007,check-invalid-version-string,3
@@ -224,7 +224,7 @@ Medtronic,E007,check-invalid-version-string,14
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3417
+Mitsubishi,E007,check-invalid-version-string,3419
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -312,6 +312,7 @@ PureStorage,E004,check-leading-trailing-space,6
 PureStorage,E007,check-invalid-version-string,3
 Qualys,E004,check-leading-trailing-space,7
 Qualys,E007,check-invalid-version-string,3
+Radiometer,E007,check-invalid-version-string,6
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,63
@@ -361,7 +362,7 @@ Splunk,E004,check-leading-trailing-space,11
 Splunk,E007,check-invalid-version-string,48
 Synaptics,E007,check-invalid-version-string,12
 TCS-CERT,E007,check-invalid-version-string,3
-TECNOMobile,E007,check-invalid-version-string,2
+TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
@@ -591,7 +592,7 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,356
-icscert,E007,check-invalid-version-string,3217
+icscert,E007,check-invalid-version-string,3218
 icscert,E008,check-invalid-vendor-string,1266
 icscert,E009,check-invalid-product-string,448
 imaginationtech,E007,check-invalid-version-string,172
@@ -618,7 +619,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5049
+jpcert,E007,check-invalid-version-string,5050
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1

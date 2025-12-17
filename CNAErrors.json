@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-17T00:23:46Z",
+  "generatedAt": "2025-12-17T12:11:18Z",
   "results": [
     {
       "cna": "360ST",
@@ -91,7 +91,7 @@
     {
       "cna": "ASUS",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 37}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 52}
       ]
     },
     {
@@ -844,7 +844,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3417},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3419},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 45}
       ]
     },
@@ -1165,6 +1165,12 @@
       ]
     },
     {
+      "cna": "Radiometer",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6}
+      ]
+    },
+    {
       "cna": "Replicated",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1},
@@ -1346,7 +1352,7 @@
     {
       "cna": "TECNOMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3}
       ]
     },
     {
@@ -1986,7 +1992,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 356},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3217},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3218},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1266},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 448}
       ]
@@ -2053,7 +2059,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5049},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5050},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
