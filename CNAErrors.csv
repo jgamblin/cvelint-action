@@ -127,6 +127,7 @@ Fluid Attacks,E007,check-invalid-version-string,6
 Fluid Attacks,E008,check-invalid-vendor-string,76
 Fortra,E004,check-leading-trailing-space,4
 Fortra,E007,check-invalid-version-string,8
+Foxit,E007,check-invalid-version-string,55
 GE GP,E004,check-leading-trailing-space,1
 GEHC,E007,check-invalid-version-string,1
 GE_Vernova,E007,check-invalid-version-string,2
@@ -224,7 +225,7 @@ Medtronic,E007,check-invalid-version-string,14
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3419
+Mitsubishi,E007,check-invalid-version-string,3426
 Mitsubishi,E008,check-invalid-vendor-string,45
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -388,7 +389,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1128
-VulDB,E008,check-invalid-vendor-string,1108
+VulDB,E008,check-invalid-vendor-string,1110
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,245
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -400,7 +401,7 @@ WPScan,E008,check-invalid-vendor-string,11
 WPScan,E009,check-invalid-product-string,11
 WSO2,E004,check-leading-trailing-space,3
 WatchGuard,E004,check-leading-trailing-space,2
-WatchGuard,E007,check-invalid-version-string,9
+WatchGuard,E007,check-invalid-version-string,10
 WindRiver,E007,check-invalid-version-string,1
 Wordfence,E007,check-invalid-version-string,14
 Wordfence,E008,check-invalid-vendor-string,56
@@ -549,7 +550,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,697
+fortinet,E003,check-description-length,706
 fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -568,7 +569,7 @@ hackerone,E008,check-invalid-vendor-string,571
 hackerone,E009,check-invalid-product-string,160
 harborist,E007,check-invalid-version-string,4
 hikvision,E004,check-leading-trailing-space,2
-hikvision,E007,check-invalid-version-string,98
+hikvision,E007,check-invalid-version-string,102
 hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
@@ -732,7 +733,7 @@ siemens,E007,check-invalid-version-string,7657
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,884
+snyk,E008,check-invalid-vendor-string,885
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
