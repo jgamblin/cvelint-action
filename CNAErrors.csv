@@ -139,7 +139,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,14964
+GitHub_M,E007,check-invalid-version-string,14976
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -279,7 +279,7 @@ Opera,E007,check-invalid-version-string,6
 Opera,E008,check-invalid-vendor-string,4
 PSF,E004,check-leading-trailing-space,3
 Palantir,E004,check-leading-trailing-space,9
-Palantir,E006,check-affected-product-present,3
+Palantir,E006,check-affected-product-present,5
 Palantir,E007,check-invalid-version-string,3
 Panasonic Corporation,E007,check-invalid-version-string,3
 Panasonic_Holdings_Corporation,E007,check-invalid-version-string,4
@@ -389,7 +389,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1128
-VulDB,E008,check-invalid-vendor-string,1110
+VulDB,E008,check-invalid-vendor-string,1114
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,245
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -648,9 +648,9 @@ microsoft,E007,check-invalid-version-string,36715
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,110999
-mitre,E008,check-invalid-vendor-string,110945
-mitre,E009,check-invalid-product-string,110945
+mitre,E007,check-invalid-version-string,111008
+mitre,E008,check-invalid-vendor-string,110954
+mitre,E009,check-invalid-product-string,110954
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -708,7 +708,7 @@ rapid7,E007,check-invalid-version-string,2526
 rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
-redhat,E006,check-affected-product-present,27
+redhat,E006,check-affected-product-present,26
 redhat,E007,check-invalid-version-string,9486
 redhat,E008,check-invalid-vendor-string,8405
 redhat,E009,check-invalid-product-string,6770
