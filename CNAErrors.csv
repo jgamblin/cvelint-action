@@ -114,7 +114,7 @@ ESET,E004,check-leading-trailing-space,3
 ESET,E006,check-affected-product-present,3
 ESET,E007,check-invalid-version-string,3
 Eaton,E004,check-leading-trailing-space,2
-Eaton,E007,check-invalid-version-string,3
+Eaton,E007,check-invalid-version-string,4
 Esri,E004,check-leading-trailing-space,3
 Esri,E007,check-invalid-version-string,17
 ExtremeNetworks,E007,check-invalid-version-string,1
@@ -139,7 +139,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,14989
+GitHub_M,E007,check-invalid-version-string,14990
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -287,7 +287,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,14944
+Patchstack,E007,check-invalid-version-string,14952
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -550,7 +550,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,706
+fortinet,E003,check-description-length,712
 fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
