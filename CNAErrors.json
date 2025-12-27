@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-26T12:10:58Z",
+  "generatedAt": "2025-12-27T00:24:04Z",
   "results": [
     {
       "cna": "360ST",
@@ -534,7 +534,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15000},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15017},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1988,7 +1988,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 6},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2612},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2613},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1854},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1835}
       ]
@@ -2133,9 +2133,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111056},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 110997},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 110997},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111069},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111010},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111010},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
