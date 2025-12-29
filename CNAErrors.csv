@@ -67,7 +67,7 @@ CERTVDE,E004,check-leading-trailing-space,46
 CERTVDE,E007,check-invalid-version-string,1063
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
-CSA,E007,check-invalid-version-string,29
+CSA,E007,check-invalid-version-string,30
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
@@ -119,7 +119,7 @@ Esri,E004,check-leading-trailing-space,3
 Esri,E007,check-invalid-version-string,17
 ExtremeNetworks,E007,check-invalid-version-string,1
 F-SecureUS,E007,check-invalid-version-string,32
-FSI,E007,check-invalid-version-string,4
+FSI,E007,check-invalid-version-string,5
 Fidelis,E007,check-invalid-version-string,32
 Fluid Attacks,E003,check-description-length,1
 Fluid Attacks,E004,check-leading-trailing-space,95
@@ -389,7 +389,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1133
-VulDB,E008,check-invalid-vendor-string,1132
+VulDB,E008,check-invalid-vendor-string,1133
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,287
 WDC PSIRT,E004,check-leading-trailing-space,15
