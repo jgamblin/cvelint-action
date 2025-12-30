@@ -139,7 +139,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15021
+GitHub_M,E007,check-invalid-version-string,15033
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -181,7 +181,7 @@ Honor,E007,check-invalid-version-string,4
 ICT,E004,check-leading-trailing-space,1
 IDEMIA,E004,check-leading-trailing-space,7
 INCD,E004,check-leading-trailing-space,59
-INCD,E007,check-invalid-version-string,295
+INCD,E007,check-invalid-version-string,300
 INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
@@ -287,7 +287,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,15125
+Patchstack,E007,check-invalid-version-string,15151
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -367,7 +367,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,28
+TPLink,E007,check-invalid-version-string,29
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,35
@@ -389,7 +389,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1133
-VulDB,E008,check-invalid-vendor-string,1133
+VulDB,E008,check-invalid-vendor-string,1134
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,287
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -567,7 +567,7 @@ hackerone,E004,check-leading-trailing-space,48
 hackerone,E007,check-invalid-version-string,1219
 hackerone,E008,check-invalid-vendor-string,571
 hackerone,E009,check-invalid-product-string,160
-harborist,E007,check-invalid-version-string,4
+harborist,E007,check-invalid-version-string,5
 hikvision,E004,check-leading-trailing-space,2
 hikvision,E007,check-invalid-version-string,102
 hikvision,E008,check-invalid-vendor-string,1
@@ -648,9 +648,9 @@ microsoft,E007,check-invalid-version-string,36715
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111069
-mitre,E008,check-invalid-vendor-string,111010
-mitre,E009,check-invalid-product-string,111010
+mitre,E007,check-invalid-version-string,111091
+mitre,E008,check-invalid-vendor-string,111032
+mitre,E009,check-invalid-product-string,111032
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
