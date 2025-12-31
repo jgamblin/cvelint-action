@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-31T00:25:29Z",
+  "generatedAt": "2025-12-31T12:11:00Z",
   "results": [
     {
       "cna": "360ST",
@@ -534,7 +534,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15047},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15048},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1087,7 +1087,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15278},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15304},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1468,8 +1468,8 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1142},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1138}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1149},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1141}
       ]
     },
     {
