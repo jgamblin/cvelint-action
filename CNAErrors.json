@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-03T00:23:31Z",
+  "generatedAt": "2026-01-03T12:10:42Z",
   "results": [
     {
       "cna": "360ST",
@@ -534,7 +534,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15079},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15080},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1905,7 +1905,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 721},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 730},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 390},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
