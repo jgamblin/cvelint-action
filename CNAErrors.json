@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-02T12:11:19Z",
+  "generatedAt": "2026-01-03T00:23:31Z",
   "results": [
     {
       "cna": "360ST",
@@ -534,7 +534,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15061},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15079},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1469,7 +1469,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1149},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1148}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1150}
       ]
     },
     {
@@ -2133,9 +2133,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111105},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111046},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111046},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111113},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111054},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111054},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2267,7 +2267,7 @@
       "cna": "qnap",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 99},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 775},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 840},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 17},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
