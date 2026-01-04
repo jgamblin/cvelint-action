@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-04T00:27:11Z",
+  "generatedAt": "2026-01-04T12:10:46Z",
   "results": [
     {
       "cna": "360ST",
@@ -715,7 +715,7 @@
       "cna": "JFROG",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 12},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18}
       ]
     },
     {
@@ -1469,7 +1469,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1149},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1150}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1152}
       ]
     },
     {
