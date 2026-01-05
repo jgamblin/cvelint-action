@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-05T00:27:01Z",
+  "generatedAt": "2026-01-05T12:11:59Z",
   "results": [
     {
       "cna": "360ST",
@@ -1087,7 +1087,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15426},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15439},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1469,7 +1469,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1149},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1152}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1153}
       ]
     },
     {
