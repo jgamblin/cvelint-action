@@ -26,7 +26,7 @@ ASR,E007,check-invalid-version-string,1
 ASRG,E004,check-leading-trailing-space,16
 ASRG,E006,check-affected-product-present,1
 ASRG,E007,check-invalid-version-string,3
-ASUS,E007,check-invalid-version-string,52
+ASUS,E007,check-invalid-version-string,55
 ASUSTOR1,E004,check-leading-trailing-space,6
 ASUSTOR1,E007,check-invalid-version-string,4
 Absolute,E007,check-invalid-version-string,3
@@ -139,7 +139,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15121
+GitHub_M,E007,check-invalid-version-string,15132
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -219,7 +219,7 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,24
 Mautic,E007,check-invalid-version-string,87
-MediaTek,E007,check-invalid-version-string,865
+MediaTek,E007,check-invalid-version-string,893
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,14
 Mend,E007,check-invalid-version-string,50
@@ -421,7 +421,7 @@ Zabbix,E007,check-invalid-version-string,26
 Zoom,E004,check-leading-trailing-space,8
 Zoom,E007,check-invalid-version-string,151
 Zoom,E008,check-invalid-vendor-string,9
-Zscaler,E004,check-leading-trailing-space,21
+Zscaler,E004,check-leading-trailing-space,20
 Zscaler,E007,check-invalid-version-string,7
 Zscaler,E008,check-invalid-vendor-string,4
 Zscaler,E009,check-invalid-product-string,3
@@ -550,7 +550,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,730
+fortinet,E003,check-description-length,737
 fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -620,7 +620,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5059
+jpcert,E007,check-invalid-version-string,5065
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
