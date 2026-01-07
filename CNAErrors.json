@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-07T00:23:44Z",
+  "generatedAt": "2026-01-07T12:11:35Z",
   "results": [
     {
       "cna": "360ST",
@@ -935,7 +935,7 @@
       "cna": "Nokia",
       "errors": [
         {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 29}
       ]
     },
     {
@@ -1087,7 +1087,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15526},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15533},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1377,7 +1377,7 @@
     {
       "cna": "TPLink",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 29}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 30}
       ]
     },
     {
@@ -1469,7 +1469,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1149},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1153}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1154}
       ]
     },
     {
@@ -1905,7 +1905,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 737},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 744},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 390},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -2065,7 +2065,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5065},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5066},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]

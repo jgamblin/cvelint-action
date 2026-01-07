@@ -250,7 +250,7 @@ NetMotion,E008,check-invalid-vendor-string,2
 Netskope,E004,check-leading-trailing-space,3
 Netskope,E007,check-invalid-version-string,7
 Nokia,E003,check-description-length,1
-Nokia,E007,check-invalid-version-string,25
+Nokia,E007,check-invalid-version-string,29
 Nozomi,E007,check-invalid-version-string,67
 OB,E007,check-invalid-version-string,1
 ODA,E004,check-leading-trailing-space,1
@@ -287,7 +287,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,15526
+Patchstack,E007,check-invalid-version-string,15533
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -367,7 +367,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,29
+TPLink,E007,check-invalid-version-string,30
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,35
@@ -389,7 +389,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1149
-VulDB,E008,check-invalid-vendor-string,1153
+VulDB,E008,check-invalid-vendor-string,1154
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,355
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -550,7 +550,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,737
+fortinet,E003,check-description-length,744
 fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -620,7 +620,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5065
+jpcert,E007,check-invalid-version-string,5066
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
