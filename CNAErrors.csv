@@ -139,7 +139,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15132
+GitHub_M,E007,check-invalid-version-string,15144
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -287,7 +287,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,15452
+Patchstack,E007,check-invalid-version-string,15526
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -391,7 +391,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1149
 VulDB,E008,check-invalid-vendor-string,1153
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,319
+VulnCheck,E007,check-invalid-version-string,355
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -505,7 +505,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,2014
+dell,E007,check-invalid-version-string,2016
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -648,9 +648,9 @@ microsoft,E007,check-invalid-version-string,36715
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111130
-mitre,E008,check-invalid-vendor-string,111071
-mitre,E009,check-invalid-product-string,111071
+mitre,E007,check-invalid-version-string,111134
+mitre,E008,check-invalid-vendor-string,111075
+mitre,E009,check-invalid-product-string,111075
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -700,7 +700,7 @@ qnap,E004,check-leading-trailing-space,99
 qnap,E007,check-invalid-version-string,840
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
-qualcomm,E007,check-invalid-version-string,24924
+qualcomm,E007,check-invalid-version-string,25408
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
