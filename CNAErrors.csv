@@ -60,7 +60,7 @@ Baxter,E007,check-invalid-version-string,10
 Bitdefender,E004,check-leading-trailing-space,10
 Bitdefender,E007,check-invalid-version-string,11
 CERT-In,E004,check-leading-trailing-space,33
-CERT-In,E007,check-invalid-version-string,65
+CERT-In,E007,check-invalid-version-string,89
 CERT-PL,E004,check-leading-trailing-space,21
 CERT-PL,E007,check-invalid-version-string,24
 CERTVDE,E004,check-leading-trailing-space,46
@@ -225,12 +225,12 @@ Medtronic,E007,check-invalid-version-string,14
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3442
-Mitsubishi,E008,check-invalid-vendor-string,44
+Mitsubishi,E007,check-invalid-version-string,3495
+Mitsubishi,E008,check-invalid-vendor-string,37
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
 NCSC-NL,E004,check-leading-trailing-space,1
-NCSC-NL,E007,check-invalid-version-string,8
+NCSC-NL,E007,check-invalid-version-string,14
 NCSC.ch,E004,check-leading-trailing-space,24
 NCSC.ch,E006,check-affected-product-present,3
 NCSC.ch,E007,check-invalid-version-string,40
@@ -287,7 +287,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,15671
+Patchstack,E007,check-invalid-version-string,15669
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -343,7 +343,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,335
+SamsungMobile,E007,check-invalid-version-string,342
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,2
@@ -550,7 +550,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,749
+fortinet,E003,check-description-length,756
 fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -620,7 +620,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5076
+jpcert,E007,check-invalid-version-string,5077
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
