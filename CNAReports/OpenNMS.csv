@@ -1,16 +1,16 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2025-53122,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53122.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "33.1.6, 33.1.7"
 CVE-2025-53122,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53122.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "2024.2.6, 2024.2.7"
 CVE-2025-53122,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53122.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "33.1.6, 33.1.7"
-CVE-2025-53122,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53122.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "33.1.6, 33.1.7"
+CVE-2025-53121,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53121.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "2024.2.6, 2024.2.7"
+CVE-2025-53121,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53121.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "2024.2.6, 2024.2.7"
 CVE-2025-53121,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53121.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "33.1.6, 33.1.7"
-CVE-2025-53121,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53121.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "2024.2.6, 2024.2.7"
-CVE-2025-53121,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2025/53xxx/CVE-2025-53121.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThan,Invalid version string: "2024.2.6, 2024.2.7"
 CVE-2023-40314,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/40xxx/CVE-2023-40314.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-40312,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/40xxx/CVE-2023-40312.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-40311,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/40xxx/CVE-2023-40311.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-0871,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0871.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2023-0870,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0870.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2021.1.0 "
 CVE-2023-0870,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0870.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-0870,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0870.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "2021.1.0 "
 CVE-2023-0869,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0869.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-0868,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0868.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
 CVE-2023-0867,OpenNMS,/home/runner/.cache/cvelint/cvelistV5/cves/2023/0xxx/CVE-2023-0867.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-08T12:11:53Z",
+  "generatedAt": "2026-01-09T00:24:47Z",
   "results": [
     {
       "cna": "360ST",
@@ -534,7 +534,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15213},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15248},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -625,7 +625,7 @@
     {
       "cna": "HeroDevs",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 47}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 48}
       ]
     },
     {
@@ -1087,7 +1087,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15660},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15671},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1741,8 +1741,8 @@
       "cna": "cisa-cg",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 15},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 75},
-        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 62}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 76},
+        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 69}
       ]
     },
     {
@@ -2133,9 +2133,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111143},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111084},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111084},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111166},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111107},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111107},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2369,8 +2369,8 @@
       "cna": "suse",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 167},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 6}
       ]
     },
     {
@@ -2429,7 +2429,7 @@
     {
       "cna": "trendmicro",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 446},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 452},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 10}
       ]
