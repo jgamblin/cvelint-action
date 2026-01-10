@@ -367,7 +367,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,30
+TPLink,E007,check-invalid-version-string,31
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,35
@@ -391,7 +391,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1149
 VulDB,E008,check-invalid-vendor-string,1153
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,370
+VulnCheck,E007,check-invalid-version-string,382
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -480,7 +480,7 @@ canonical,E010,check-invalid-self-references,35
 certcc,E002,check-duplicate-reference-url,47
 certcc,E004,check-leading-trailing-space,1
 certcc,E006,check-affected-product-present,4
-certcc,E007,check-invalid-version-string,2699
+certcc,E007,check-invalid-version-string,2700
 certcc,E008,check-invalid-vendor-string,2539
 certcc,E009,check-invalid-product-string,2471
 checkpoint,E007,check-invalid-version-string,94
@@ -648,9 +648,9 @@ microsoft,E007,check-invalid-version-string,36715
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111166
-mitre,E008,check-invalid-vendor-string,111107
-mitre,E009,check-invalid-product-string,111107
+mitre,E007,check-invalid-version-string,111183
+mitre,E008,check-invalid-vendor-string,111124
+mitre,E009,check-invalid-product-string,111124
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
