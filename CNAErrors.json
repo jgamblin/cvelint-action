@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-12T00:26:12Z",
+  "generatedAt": "2026-01-12T12:12:02Z",
   "results": [
     {
       "cna": "360ST",
@@ -237,7 +237,7 @@
     {
       "cna": "CSA",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 30}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 35}
       ]
     },
     {
@@ -696,7 +696,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 169}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 173}
       ]
     },
     {
@@ -1702,7 +1702,7 @@
     {
       "cna": "ca",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 47},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 67},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 25},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
       ]
@@ -2266,7 +2266,7 @@
     {
       "cna": "qnap",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 99},
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 97},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 840},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 17},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}

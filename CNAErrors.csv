@@ -67,7 +67,7 @@ CERTVDE,E004,check-leading-trailing-space,46
 CERTVDE,E007,check-invalid-version-string,1063
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
-CSA,E007,check-invalid-version-string,30
+CSA,E007,check-invalid-version-string,35
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
@@ -186,7 +186,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,169
+INCIBE,E007,check-invalid-version-string,173
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,25
 JFROG,E004,check-leading-trailing-space,12
@@ -467,7 +467,7 @@ brocade,E004,check-leading-trailing-space,24
 brocade,E006,check-affected-product-present,1
 brocade,E007,check-invalid-version-string,159
 brocade,E008,check-invalid-vendor-string,59
-ca,E007,check-invalid-version-string,47
+ca,E007,check-invalid-version-string,67
 ca,E008,check-invalid-vendor-string,25
 ca,E009,check-invalid-product-string,1
 canonical,E002,check-duplicate-reference-url,1
@@ -696,7 +696,7 @@ puppet,E004,check-leading-trailing-space,2
 puppet,E007,check-invalid-version-string,67
 puppet,E008,check-invalid-vendor-string,22
 puppet,E009,check-invalid-product-string,3
-qnap,E004,check-leading-trailing-space,99
+qnap,E004,check-leading-trailing-space,97
 qnap,E007,check-invalid-version-string,840
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
