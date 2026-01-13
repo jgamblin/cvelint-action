@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T00:21:38Z",
+  "generatedAt": "2026-01-13T12:11:51Z",
   "results": [
     {
       "cna": "360ST",
@@ -1905,7 +1905,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 756},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 765},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 390},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 39},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 12}
@@ -1949,7 +1949,7 @@
       "cna": "hikvision",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 102},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 225},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
       ]
@@ -2312,7 +2312,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 217},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4139},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4187},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
@@ -2344,7 +2344,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7657},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7664},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },

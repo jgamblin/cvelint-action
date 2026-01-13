@@ -550,7 +550,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,756
+fortinet,E003,check-description-length,765
 fortinet,E007,check-invalid-version-string,390
 fortinet,E008,check-invalid-vendor-string,39
 fortinet,E009,check-invalid-product-string,12
@@ -569,7 +569,7 @@ hackerone,E008,check-invalid-vendor-string,571
 hackerone,E009,check-invalid-product-string,160
 harborist,E007,check-invalid-version-string,5
 hikvision,E004,check-leading-trailing-space,2
-hikvision,E007,check-invalid-version-string,102
+hikvision,E007,check-invalid-version-string,225
 hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
@@ -717,7 +717,7 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,4139
+sap,E007,check-invalid-version-string,4187
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
@@ -729,7 +729,7 @@ sgi,E007,check-invalid-version-string,11
 sgi,E008,check-invalid-vendor-string,11
 sgi,E009,check-invalid-product-string,11
 siemens,E002,check-duplicate-reference-url,3
-siemens,E007,check-invalid-version-string,7657
+siemens,E007,check-invalid-version-string,7664
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
