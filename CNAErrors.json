@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T00:25:48Z",
+  "generatedAt": "2026-01-14T12:11:30Z",
   "results": [
     {
       "cna": "360ST",
@@ -708,7 +708,7 @@
     {
       "cna": "Insyde",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 29}
       ]
     },
     {
@@ -1087,7 +1087,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15669},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15670},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -2065,7 +2065,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5077},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5078},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2369,8 +2369,8 @@
       "cna": "suse",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 167},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 6}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 169},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 9}
       ]
     },
     {
@@ -2446,7 +2446,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 38},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 792},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 793},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 384},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 14}
       ]

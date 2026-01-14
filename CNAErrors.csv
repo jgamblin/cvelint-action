@@ -188,7 +188,7 @@ INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
 INCIBE,E007,check-invalid-version-string,177
 Illumio,E004,check-leading-trailing-space,1
-Insyde,E007,check-invalid-version-string,25
+Insyde,E007,check-invalid-version-string,29
 JFROG,E004,check-leading-trailing-space,12
 JFROG,E007,check-invalid-version-string,18
 JetBrains,E004,check-leading-trailing-space,3
@@ -287,7 +287,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,15669
+Patchstack,E007,check-invalid-version-string,15670
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -620,7 +620,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5077
+jpcert,E007,check-invalid-version-string,5078
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -739,8 +739,8 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,398
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,167
-suse,E008,check-invalid-vendor-string,6
+suse,E007,check-invalid-version-string,169
+suse,E008,check-invalid-vendor-string,9
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2
 symantec,E007,check-invalid-version-string,346
@@ -771,7 +771,7 @@ twcert,E004,check-leading-trailing-space,25
 twcert,E007,check-invalid-version-string,253
 vmware,E004,check-leading-trailing-space,38
 vmware,E006,check-affected-product-present,1
-vmware,E007,check-invalid-version-string,792
+vmware,E007,check-invalid-version-string,793
 vmware,E008,check-invalid-vendor-string,384
 vmware,E009,check-invalid-product-string,14
 wikimedia-foundation,E007,check-invalid-version-string,7
