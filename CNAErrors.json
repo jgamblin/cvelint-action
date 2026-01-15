@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T12:11:30Z",
+  "generatedAt": "2026-01-15T00:23:27Z",
   "results": [
     {
       "cna": "360ST",
@@ -534,7 +534,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15385},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15409},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1733,7 +1733,7 @@
     {
       "cna": "checkpoint",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 95},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 46}
       ]
     },
@@ -2107,7 +2107,7 @@
       "cna": "lenovo",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 53},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 872},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 884},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1}
       ]
     },
@@ -2133,9 +2133,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111216},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111157},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111157},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111227},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111168},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111168},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2194,10 +2194,10 @@
       "cna": "nvidia",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 24},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 861},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 862},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 32},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4},
-        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 112}
+        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 113}
       ]
     },
     {
