@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-16T00:25:12Z",
+  "generatedAt": "2026-01-16T12:11:20Z",
   "results": [
     {
       "cna": "360ST",
@@ -251,7 +251,7 @@
       "cna": "Canon",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 370}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 376}
       ]
     },
     {
@@ -1906,7 +1906,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 774},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 780},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 389},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 38},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11}
@@ -2066,7 +2066,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5078},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5081},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2354,7 +2354,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 885},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 886},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]

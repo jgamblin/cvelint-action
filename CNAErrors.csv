@@ -71,7 +71,7 @@ CSA,E007,check-invalid-version-string,35
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
-Canon,E007,check-invalid-version-string,370
+Canon,E007,check-invalid-version-string,376
 Canon_EMEA,E007,check-invalid-version-string,2
 Carrier,E004,check-leading-trailing-space,1
 Carrier,E007,check-invalid-version-string,1
@@ -551,7 +551,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,774
+fortinet,E003,check-description-length,780
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -621,7 +621,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5078
+jpcert,E007,check-invalid-version-string,5081
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -734,7 +734,7 @@ siemens,E007,check-invalid-version-string,7664
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,885
+snyk,E008,check-invalid-vendor-string,886
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
