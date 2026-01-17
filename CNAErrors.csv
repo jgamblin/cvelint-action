@@ -15,7 +15,7 @@ AHA,E004,check-leading-trailing-space,1
 AHA,E007,check-invalid-version-string,238
 AMD,E004,check-leading-trailing-space,86
 AMD,E006,check-affected-product-present,3
-AMD,E007,check-invalid-version-string,1626
+AMD,E007,check-invalid-version-string,1629
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
 AMZN,E006,check-affected-product-present,9
@@ -85,7 +85,7 @@ Ciena,E007,check-invalid-version-string,19
 Citrix,E004,check-leading-trailing-space,13
 Citrix,E007,check-invalid-version-string,106
 ConcreteCMS,E004,check-leading-trailing-space,3
-ConnectWise,E007,check-invalid-version-string,7
+ConnectWise,E007,check-invalid-version-string,9
 CoolKit,E004,check-leading-trailing-space,1
 Cybellum,E004,check-leading-trailing-space,1
 Cybellum,E007,check-invalid-version-string,2
@@ -124,7 +124,7 @@ Fidelis,E007,check-invalid-version-string,32
 Fluid Attacks,E002,check-duplicate-reference-url,1
 Fluid Attacks,E003,check-description-length,1
 Fluid Attacks,E004,check-leading-trailing-space,95
-Fluid Attacks,E007,check-invalid-version-string,6
+Fluid Attacks,E007,check-invalid-version-string,7
 Fluid Attacks,E008,check-invalid-vendor-string,76
 Fortra,E004,check-leading-trailing-space,4
 Fortra,E007,check-invalid-version-string,8
@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15439
+GitHub_M,E007,check-invalid-version-string,15466
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -390,7 +390,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1149
-VulDB,E008,check-invalid-vendor-string,1153
+VulDB,E008,check-invalid-vendor-string,1155
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,402
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -561,7 +561,7 @@ freebsd,E007,check-invalid-version-string,156
 freebsd,E008,check-invalid-vendor-string,87
 freebsd,E009,check-invalid-product-string,35
 google_android,E004,check-leading-trailing-space,85
-google_android,E007,check-invalid-version-string,2404
+google_android,E007,check-invalid-version-string,2405
 google_android,E008,check-invalid-vendor-string,3103
 google_android,E009,check-invalid-product-string,571
 hackerone,E004,check-leading-trailing-space,48
@@ -645,13 +645,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36750
+microsoft,E007,check-invalid-version-string,36751
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111259
-mitre,E008,check-invalid-vendor-string,111200
-mitre,E009,check-invalid-product-string,111200
+mitre,E007,check-invalid-version-string,111264
+mitre,E008,check-invalid-vendor-string,111205
+mitre,E009,check-invalid-product-string,111205
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
