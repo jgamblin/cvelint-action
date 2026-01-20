@@ -128,7 +128,7 @@ Fluid Attacks,E007,check-invalid-version-string,7
 Fluid Attacks,E008,check-invalid-vendor-string,76
 Fortra,E004,check-leading-trailing-space,4
 Fortra,E007,check-invalid-version-string,8
-Foxit,E007,check-invalid-version-string,55
+Foxit,E007,check-invalid-version-string,56
 GE GP,E004,check-leading-trailing-space,1
 GEHC,E007,check-invalid-version-string,1
 GE_Vernova,E007,check-invalid-version-string,2
@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15521
+GitHub_M,E007,check-invalid-version-string,15528
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -187,7 +187,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,177
+INCIBE,E007,check-invalid-version-string,180
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 JFROG,E004,check-leading-trailing-space,12
@@ -390,7 +390,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1150
-VulDB,E008,check-invalid-vendor-string,1166
+VulDB,E008,check-invalid-vendor-string,1171
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,402
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -551,7 +551,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,780
+fortinet,E003,check-description-length,789
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
