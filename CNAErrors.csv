@@ -187,7 +187,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,180
+INCIBE,E007,check-invalid-version-string,185
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 JFROG,E004,check-leading-trailing-space,12
@@ -318,7 +318,7 @@ Radiometer,E007,check-invalid-version-string,18
 Replicated,E007,check-invalid-version-string,1
 Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,62
-Rockwell,E007,check-invalid-version-string,278
+Rockwell,E007,check-invalid-version-string,291
 Rockwell,E008,check-invalid-vendor-string,2
 SEC-VLab,E007,check-invalid-version-string,42
 SEL,E004,check-leading-trailing-space,37
@@ -496,7 +496,7 @@ cisco,E007,check-invalid-version-string,83000
 cisco,E008,check-invalid-vendor-string,2950
 cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
-cloudflare,E007,check-invalid-version-string,12
+cloudflare,E007,check-invalid-version-string,13
 crafter,E004,check-leading-trailing-space,1
 dahua,E007,check-invalid-version-string,53
 dahua,E008,check-invalid-vendor-string,26
@@ -589,7 +589,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2613
+ibm,E007,check-invalid-version-string,2621
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -649,9 +649,9 @@ microsoft,E007,check-invalid-version-string,36751
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111264
-mitre,E008,check-invalid-vendor-string,111205
-mitre,E009,check-invalid-product-string,111205
+mitre,E007,check-invalid-version-string,111279
+mitre,E008,check-invalid-vendor-string,111220
+mitre,E009,check-invalid-product-string,111220
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -670,10 +670,10 @@ netgear,E007,check-invalid-version-string,6
 netgear,E008,check-invalid-vendor-string,1
 nodejs,E007,check-invalid-version-string,30
 nvidia,E004,check-leading-trailing-space,24
-nvidia,E007,check-invalid-version-string,862
+nvidia,E007,check-invalid-version-string,867
 nvidia,E008,check-invalid-vendor-string,32
 nvidia,E009,check-invalid-product-string,4
-nvidia,E010,check-invalid-self-references,113
+nvidia,E010,check-invalid-self-references,118
 obdev,E007,check-invalid-version-string,5
 obdev,E008,check-invalid-vendor-string,4
 openEuler,E004,check-leading-trailing-space,12
