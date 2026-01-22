@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15529
+GitHub_M,E007,check-invalid-version-string,15595
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -392,7 +392,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1150
 VulDB,E008,check-invalid-vendor-string,1171
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,402
+VulnCheck,E007,check-invalid-version-string,406
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -492,7 +492,7 @@ cisa-cg,E010,check-invalid-self-references,71
 cisco,E002,check-duplicate-reference-url,1
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
-cisco,E007,check-invalid-version-string,83000
+cisco,E007,check-invalid-version-string,83102
 cisco,E008,check-invalid-vendor-string,2950
 cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
@@ -649,9 +649,9 @@ microsoft,E007,check-invalid-version-string,36751
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111279
-mitre,E008,check-invalid-vendor-string,111220
-mitre,E009,check-invalid-product-string,111220
+mitre,E007,check-invalid-version-string,111291
+mitre,E008,check-invalid-vendor-string,111232
+mitre,E009,check-invalid-product-string,111232
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
