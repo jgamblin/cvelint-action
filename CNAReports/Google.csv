@@ -1,4 +1,5 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
+CVE-2026-1260,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2026/1xxx/CVE-2026-1260.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "All versions prior to 0.2.1"
 CVE-2025-13425,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2025/13xxx/CVE-2025-13425.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "< 0.3.4"
 CVE-2025-9951,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2025/9xxx/CVE-2025-9951.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "< 8.0"
 CVE-2025-7709,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2025/7xxx/CVE-2025-7709.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "3.49.1 < 3.50"
@@ -9,8 +10,8 @@ CVE-2024-54462,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/54xxx/CVE-
 CVE-2024-54462,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/54xxx/CVE-2024-54462.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "0.8.5+6"
 CVE-2024-54461,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/54xxx/CVE-2024-54461.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.lessThanOrEqual,Invalid version string: "0.5.1+11"
 CVE-2024-11681,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/11xxx/CVE-2024-11681.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "< 2.10.5"
-CVE-2024-10604,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10604.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2024-10604,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10604.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Release F19"
+CVE-2024-10604,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10604.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2024-10603,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10603.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2024-10026,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10026.json,check-affected-product-present,E006,containers.cna.affected,No affected product found
 CVE-2024-10026,Google,/home/runner/.cache/cvelint/cvelistV5/cves/2024/10xxx/CVE-2024-10026.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Release 20241028.0"
