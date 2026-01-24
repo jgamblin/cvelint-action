@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-24T00:24:25Z",
+  "generatedAt": "2026-01-24T12:10:41Z",
   "results": [
     {
       "cna": "360ST",
@@ -535,7 +535,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 523},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15663},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15678},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1264,7 +1264,7 @@
     {
       "cna": "Salesforce",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 26},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 30},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 10}
       ]
     },
@@ -1906,7 +1906,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 805},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 813},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 389},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 38},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11}
@@ -2007,7 +2007,7 @@
     {
       "cna": "imaginationtech",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 196}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 204}
       ]
     },
     {

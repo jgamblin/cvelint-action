@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15663
+GitHub_M,E007,check-invalid-version-string,15678
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -339,7 +339,7 @@ SWI,E007,check-invalid-version-string,6
 SWI,E008,check-invalid-vendor-string,2
 SailPoint,E004,check-leading-trailing-space,1
 SailPoint,E007,check-invalid-version-string,3
-Salesforce,E007,check-invalid-version-string,26
+Salesforce,E007,check-invalid-version-string,30
 Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
@@ -551,7 +551,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,805
+fortinet,E003,check-description-length,813
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -597,7 +597,7 @@ icscert,E004,check-leading-trailing-space,356
 icscert,E007,check-invalid-version-string,3219
 icscert,E008,check-invalid-vendor-string,1266
 icscert,E009,check-invalid-product-string,448
-imaginationtech,E007,check-invalid-version-string,196
+imaginationtech,E007,check-invalid-version-string,204
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,5
 intel,E007,check-invalid-version-string,2046
