@@ -18,7 +18,7 @@ AMD,E006,check-affected-product-present,3
 AMD,E007,check-invalid-version-string,1629
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
-AMZN,E006,check-affected-product-present,9
+AMZN,E006,check-affected-product-present,10
 AMZN,E007,check-invalid-version-string,1
 ASR,E004,check-leading-trailing-space,4
 ASR,E006,check-affected-product-present,3
@@ -140,14 +140,14 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15653
+GitHub_M,E007,check-invalid-version-string,15663
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
 GitLab,E007,check-invalid-version-string,1607
 Google,E004,check-leading-trailing-space,23
 Google,E006,check-affected-product-present,4
-Google,E007,check-invalid-version-string,13
+Google,E007,check-invalid-version-string,14
 Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
 GoogleCloud,E007,check-invalid-version-string,2
@@ -288,7 +288,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,16288
+Patchstack,E007,check-invalid-version-string,16480
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -392,7 +392,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1150
 VulDB,E008,check-invalid-vendor-string,1171
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,405
+VulnCheck,E007,check-invalid-version-string,406
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -649,9 +649,9 @@ microsoft,E007,check-invalid-version-string,36760
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111302
-mitre,E008,check-invalid-vendor-string,111243
-mitre,E009,check-invalid-product-string,111243
+mitre,E007,check-invalid-version-string,111323
+mitre,E008,check-invalid-vendor-string,111264
+mitre,E009,check-invalid-product-string,111264
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
