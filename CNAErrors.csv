@@ -67,7 +67,7 @@ CERTVDE,E004,check-leading-trailing-space,46
 CERTVDE,E007,check-invalid-version-string,1063
 CERTVDE,E008,check-invalid-vendor-string,2
 CERTVDE,E009,check-invalid-product-string,2
-CSA,E007,check-invalid-version-string,35
+CSA,E007,check-invalid-version-string,38
 CSW,E007,check-invalid-version-string,5
 CSW,E008,check-invalid-vendor-string,10
 Canon,E004,check-leading-trailing-space,8
@@ -187,7 +187,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,185
+INCIBE,E007,check-invalid-version-string,186
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 JFROG,E004,check-leading-trailing-space,12
@@ -320,7 +320,7 @@ Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,62
 Rockwell,E007,check-invalid-version-string,291
 Rockwell,E008,check-invalid-vendor-string,2
-SEC-VLab,E007,check-invalid-version-string,42
+SEC-VLab,E007,check-invalid-version-string,70
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
@@ -390,7 +390,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1151
-VulDB,E008,check-invalid-vendor-string,1171
+VulDB,E008,check-invalid-vendor-string,1175
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,406
 WDC PSIRT,E004,check-leading-trailing-space,15
