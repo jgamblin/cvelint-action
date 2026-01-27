@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,468
+3DS,E007,check-invalid-version-string,474
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,9
 @huntr_ai,E007,check-invalid-version-string,20
@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15678
+GitHub_M,E007,check-invalid-version-string,15693
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -368,7 +368,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,50
+TPLink,E007,check-invalid-version-string,51
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,35
@@ -392,7 +392,7 @@ Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1151
 VulDB,E008,check-invalid-vendor-string,1175
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,406
+VulnCheck,E007,check-invalid-version-string,417
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -645,13 +645,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36760
+microsoft,E007,check-invalid-version-string,36764
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111323
-mitre,E008,check-invalid-vendor-string,111264
-mitre,E009,check-invalid-product-string,111264
+mitre,E007,check-invalid-version-string,111327
+mitre,E008,check-invalid-vendor-string,111268
+mitre,E009,check-invalid-product-string,111268
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
