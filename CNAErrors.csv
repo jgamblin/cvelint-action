@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15760
+GitHub_M,E007,check-invalid-version-string,15768
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -353,7 +353,7 @@ Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,53
-SolarWinds,E007,check-invalid-version-string,187
+SolarWinds,E007,check-invalid-version-string,193
 Solidigm,E006,check-affected-product-present,8
 Solidigm,E007,check-invalid-version-string,10
 Sophos,E004,check-leading-trailing-space,1
@@ -446,7 +446,7 @@ apple,E007,check-invalid-version-string,4855
 apple,E008,check-invalid-vendor-string,3082
 apple,E009,check-invalid-product-string,2894
 atlassian,E004,check-leading-trailing-space,1
-atlassian,E007,check-invalid-version-string,853
+atlassian,E007,check-invalid-version-string,854
 atlassian,E008,check-invalid-vendor-string,3
 atlassian,E009,check-invalid-product-string,3
 autodesk,E004,check-leading-trailing-space,9
@@ -551,7 +551,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,813
+fortinet,E003,check-description-length,822
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -611,7 +611,7 @@ ivanti,E007,check-invalid-version-string,137
 jci,E002,check-duplicate-reference-url,1
 jci,E004,check-leading-trailing-space,3
 jci,E006,check-affected-product-present,4
-jci,E007,check-invalid-version-string,63
+jci,E007,check-invalid-version-string,64
 jci,E008,check-invalid-vendor-string,1
 jci,E009,check-invalid-product-string,1
 jenkins,E007,check-invalid-version-string,707
