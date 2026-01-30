@@ -416,7 +416,7 @@ YokogawaGroup,E004,check-leading-trailing-space,1
 YokogawaGroup,E007,check-invalid-version-string,9
 Yugabyte,E004,check-leading-trailing-space,5
 Yugabyte,E007,check-invalid-version-string,1
-ZUSO ART,E007,check-invalid-version-string,2
+ZUSO ART,E007,check-invalid-version-string,4
 Zabbix,E004,check-leading-trailing-space,2
 Zabbix,E007,check-invalid-version-string,26
 Zoom,E004,check-leading-trailing-space,8
@@ -506,7 +506,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,2040
+dell,E007,check-invalid-version-string,2042
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -551,7 +551,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,822
+fortinet,E003,check-description-length,830
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -570,7 +570,7 @@ hackerone,E008,check-invalid-vendor-string,571
 hackerone,E009,check-invalid-product-string,160
 harborist,E007,check-invalid-version-string,5
 hikvision,E004,check-leading-trailing-space,2
-hikvision,E007,check-invalid-version-string,225
+hikvision,E007,check-invalid-version-string,231
 hikvision,E008,check-invalid-vendor-string,1
 hikvision,E009,check-invalid-product-string,1
 hp,E002,check-duplicate-reference-url,594
@@ -611,7 +611,7 @@ ivanti,E007,check-invalid-version-string,141
 jci,E002,check-duplicate-reference-url,1
 jci,E004,check-leading-trailing-space,3
 jci,E006,check-affected-product-present,4
-jci,E007,check-invalid-version-string,64
+jci,E007,check-invalid-version-string,69
 jci,E008,check-invalid-vendor-string,1
 jci,E009,check-invalid-product-string,1
 jenkins,E007,check-invalid-version-string,707
@@ -621,7 +621,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5097
+jpcert,E007,check-invalid-version-string,5098
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
