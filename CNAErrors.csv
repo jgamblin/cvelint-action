@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,523
-GitHub_M,E007,check-invalid-version-string,15848
+GitHub_M,E007,check-invalid-version-string,15877
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -368,7 +368,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,57
+TPLink,E007,check-invalid-version-string,64
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,35
@@ -390,9 +390,9 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1151
-VulDB,E008,check-invalid-vendor-string,1179
+VulDB,E008,check-invalid-vendor-string,1181
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,422
+VulnCheck,E007,check-invalid-version-string,426
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -607,7 +607,7 @@ isc,E007,check-invalid-version-string,119
 isc,E008,check-invalid-vendor-string,1
 isc,E009,check-invalid-product-string,1
 ivanti,E006,check-affected-product-present,1
-ivanti,E007,check-invalid-version-string,137
+ivanti,E007,check-invalid-version-string,141
 jci,E002,check-duplicate-reference-url,1
 jci,E004,check-leading-trailing-space,3
 jci,E006,check-affected-product-present,4
@@ -645,13 +645,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36763
+microsoft,E007,check-invalid-version-string,36762
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111358
-mitre,E008,check-invalid-vendor-string,111299
-mitre,E009,check-invalid-product-string,111299
+mitre,E007,check-invalid-version-string,111375
+mitre,E008,check-invalid-vendor-string,111316
+mitre,E009,check-invalid-product-string,111316
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -722,7 +722,7 @@ sap,E007,check-invalid-version-string,4188
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
-schneider,E007,check-invalid-version-string,970
+schneider,E007,check-invalid-version-string,972
 schneider,E008,check-invalid-vendor-string,323
 schneider,E009,check-invalid-product-string,27
 securin,E007,check-invalid-version-string,1
