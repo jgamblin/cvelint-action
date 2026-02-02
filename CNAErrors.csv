@@ -220,7 +220,7 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,24
 Mautic,E007,check-invalid-version-string,87
-MediaTek,E007,check-invalid-version-string,893
+MediaTek,E007,check-invalid-version-string,914
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,14
 Mend,E007,check-invalid-version-string,50
@@ -251,7 +251,7 @@ NetMotion,E008,check-invalid-vendor-string,2
 Netskope,E004,check-leading-trailing-space,3
 Netskope,E007,check-invalid-version-string,7
 Nokia,E003,check-description-length,1
-Nokia,E007,check-invalid-version-string,29
+Nokia,E007,check-invalid-version-string,31
 Nozomi,E007,check-invalid-version-string,67
 OB,E007,check-invalid-version-string,1
 ODA,E004,check-leading-trailing-space,1
@@ -288,7 +288,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,16479
+Patchstack,E007,check-invalid-version-string,16478
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -390,7 +390,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1151
-VulDB,E008,check-invalid-vendor-string,1182
+VulDB,E008,check-invalid-vendor-string,1186
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,430
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -621,7 +621,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5098
+jpcert,E007,check-invalid-version-string,5102
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
