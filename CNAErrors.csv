@@ -18,7 +18,7 @@ AMD,E006,check-affected-product-present,3
 AMD,E007,check-invalid-version-string,1629
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
-AMZN,E006,check-affected-product-present,10
+AMZN,E006,check-affected-product-present,12
 AMZN,E007,check-invalid-version-string,1
 ASR,E004,check-leading-trailing-space,4
 ASR,E006,check-affected-product-present,3
@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,522
-GitHub_M,E007,check-invalid-version-string,15894
+GitHub_M,E007,check-invalid-version-string,15920
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -320,7 +320,7 @@ Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,62
 Rockwell,E007,check-invalid-version-string,291
 Rockwell,E008,check-invalid-vendor-string,2
-SEC-VLab,E007,check-invalid-version-string,70
+SEC-VLab,E007,check-invalid-version-string,72
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
@@ -368,7 +368,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,64
+TPLink,E007,check-invalid-version-string,74
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,35
@@ -465,8 +465,8 @@ bosch,E007,check-invalid-version-string,1023
 bosch,E008,check-invalid-vendor-string,1
 bosch,E009,check-invalid-product-string,1
 brocade,E004,check-leading-trailing-space,24
-brocade,E006,check-affected-product-present,1
-brocade,E007,check-invalid-version-string,159
+brocade,E006,check-affected-product-present,4
+brocade,E007,check-invalid-version-string,162
 brocade,E008,check-invalid-vendor-string,59
 ca,E007,check-invalid-version-string,67
 ca,E008,check-invalid-vendor-string,25
@@ -589,7 +589,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2621
+ibm,E007,check-invalid-version-string,2626
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -649,9 +649,9 @@ microsoft,E007,check-invalid-version-string,36762
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111377
-mitre,E008,check-invalid-vendor-string,111318
-mitre,E009,check-invalid-product-string,111318
+mitre,E007,check-invalid-version-string,111380
+mitre,E008,check-invalid-vendor-string,111321
+mitre,E009,check-invalid-product-string,111321
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -701,7 +701,7 @@ qnap,E004,check-leading-trailing-space,97
 qnap,E007,check-invalid-version-string,840
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
-qualcomm,E007,check-invalid-version-string,25408
+qualcomm,E007,check-invalid-version-string,25546
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
@@ -775,7 +775,7 @@ vmware,E006,check-affected-product-present,1
 vmware,E007,check-invalid-version-string,793
 vmware,E008,check-invalid-vendor-string,384
 vmware,E009,check-invalid-product-string,14
-wikimedia-foundation,E007,check-invalid-version-string,7
+wikimedia-foundation,E007,check-invalid-version-string,31
 wolfSSL,E004,check-leading-trailing-space,5
 wolfSSL,E007,check-invalid-version-string,2
 yandex,E007,check-invalid-version-string,26
