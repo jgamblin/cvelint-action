@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T00:30:48Z",
+  "generatedAt": "2026-02-03T12:15:47Z",
   "results": [
     {
       "cna": "360ST",
@@ -483,7 +483,7 @@
     {
       "cna": "Foxit",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 56}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 58}
       ]
     },
     {
@@ -697,7 +697,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 199}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 200}
       ]
     },
     {
@@ -1345,6 +1345,12 @@
       ]
     },
     {
+      "cna": "Supermicro",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+      ]
+    },
+    {
       "cna": "Synaptics",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12}
@@ -1695,8 +1701,8 @@
       "cna": "brocade",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 24},
-        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 4},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 162},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 171},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 59}
       ]
     },
@@ -1855,7 +1861,7 @@
     {
       "cna": "f5",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 65},
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 64},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 434},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 246},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
@@ -2066,7 +2072,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5102},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5122},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2455,7 +2461,7 @@
     {
       "cna": "wikimedia-foundation",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 31}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 52}
       ]
     },
     {
