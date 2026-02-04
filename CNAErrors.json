@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T00:27:26Z",
+  "generatedAt": "2026-02-04T12:15:45Z",
   "results": [
     {
       "cna": "360ST",
@@ -871,7 +871,7 @@
       "cna": "NCSC-NL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15}
       ]
     },
     {
@@ -1088,7 +1088,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16566},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16564},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1279,7 +1279,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 342}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 349}
       ]
     },
     {
@@ -1347,7 +1347,7 @@
     {
       "cna": "Supermicro",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
       ]
     },
     {
@@ -2072,7 +2072,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5122},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5178},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2140,9 +2140,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111420},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111361},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111361},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111422},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111363},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111363},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },

@@ -231,7 +231,7 @@ Mitsubishi,E008,check-invalid-vendor-string,37
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
 NCSC-NL,E004,check-leading-trailing-space,1
-NCSC-NL,E007,check-invalid-version-string,14
+NCSC-NL,E007,check-invalid-version-string,15
 NCSC.ch,E004,check-leading-trailing-space,24
 NCSC.ch,E006,check-affected-product-present,3
 NCSC.ch,E007,check-invalid-version-string,40
@@ -288,7 +288,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,16566
+Patchstack,E007,check-invalid-version-string,16564
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -344,7 +344,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1007
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,342
+SamsungMobile,E007,check-invalid-version-string,349
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,2
@@ -362,7 +362,7 @@ Sophos,E008,check-invalid-vendor-string,1
 Sophos,E009,check-invalid-product-string,1
 Splunk,E004,check-leading-trailing-space,11
 Splunk,E007,check-invalid-version-string,48
-Supermicro,E007,check-invalid-version-string,1
+Supermicro,E007,check-invalid-version-string,2
 Synaptics,E007,check-invalid-version-string,12
 TCS-CERT,E007,check-invalid-version-string,3
 TECNOMobile,E007,check-invalid-version-string,3
@@ -622,7 +622,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5122
+jpcert,E007,check-invalid-version-string,5178
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -650,9 +650,9 @@ microsoft,E007,check-invalid-version-string,36762
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111420
-mitre,E008,check-invalid-vendor-string,111361
-mitre,E009,check-invalid-product-string,111361
+mitre,E007,check-invalid-version-string,111422
+mitre,E008,check-invalid-vendor-string,111363
+mitre,E009,check-invalid-product-string,111363
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
