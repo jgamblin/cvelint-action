@@ -226,7 +226,7 @@ Medtronic,E007,check-invalid-version-string,14
 Mend,E007,check-invalid-version-string,50
 Mend,E008,check-invalid-vendor-string,52
 Mitsubishi,E004,check-leading-trailing-space,7
-Mitsubishi,E007,check-invalid-version-string,3495
+Mitsubishi,E007,check-invalid-version-string,3503
 Mitsubishi,E008,check-invalid-vendor-string,37
 Moxa,E004,check-leading-trailing-space,20
 N-able,E007,check-invalid-version-string,4
@@ -251,7 +251,7 @@ NetMotion,E008,check-invalid-vendor-string,2
 Netskope,E004,check-leading-trailing-space,3
 Netskope,E007,check-invalid-version-string,7
 Nokia,E003,check-description-length,1
-Nokia,E007,check-invalid-version-string,31
+Nokia,E007,check-invalid-version-string,33
 Nozomi,E007,check-invalid-version-string,67
 OB,E007,check-invalid-version-string,1
 ODA,E004,check-leading-trailing-space,1
@@ -390,8 +390,8 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1151
-VulDB,E008,check-invalid-vendor-string,1192
+VulDB,E007,check-invalid-version-string,1152
+VulDB,E008,check-invalid-vendor-string,1195
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,435
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -428,7 +428,7 @@ Zscaler,E007,check-invalid-version-string,7
 Zscaler,E008,check-invalid-vendor-string,4
 Zscaler,E009,check-invalid-product-string,3
 Zyxel,E004,check-leading-trailing-space,8
-Zyxel,E007,check-invalid-version-string,379
+Zyxel,E007,check-invalid-version-string,383
 adobe,E002,check-duplicate-reference-url,54
 adobe,E004,check-leading-trailing-space,4
 adobe,E007,check-invalid-version-string,3937
@@ -622,7 +622,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5178
+jpcert,E007,check-invalid-version-string,5179
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
