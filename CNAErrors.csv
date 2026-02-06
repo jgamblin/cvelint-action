@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,522
-GitHub_M,E007,check-invalid-version-string,16080
+GitHub_M,E007,check-invalid-version-string,16087
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -152,7 +152,7 @@ Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
 GoogleCloud,E007,check-invalid-version-string,2
 Google_Devices,E004,check-leading-trailing-space,7
-Google_Devices,E007,check-invalid-version-string,201
+Google_Devices,E007,check-invalid-version-string,202
 GovTech CSG,E004,check-leading-trailing-space,2
 GovTech CSG,E007,check-invalid-version-string,15
 GovTech CSG,E008,check-invalid-vendor-string,3
@@ -187,7 +187,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,200
+INCIBE,E007,check-invalid-version-string,202
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 JFROG,E004,check-leading-trailing-space,12
@@ -369,7 +369,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,32
-TPLink,E007,check-invalid-version-string,87
+TPLink,E007,check-invalid-version-string,91
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,35
@@ -390,8 +390,8 @@ VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
-VulDB,E007,check-invalid-version-string,1152
-VulDB,E008,check-invalid-vendor-string,1195
+VulDB,E007,check-invalid-version-string,1151
+VulDB,E008,check-invalid-vendor-string,1198
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,435
 WDC PSIRT,E004,check-leading-trailing-space,15
@@ -590,7 +590,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2637
+ibm,E007,check-invalid-version-string,2642
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -646,13 +646,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36762
+microsoft,E007,check-invalid-version-string,36765
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111426
-mitre,E008,check-invalid-vendor-string,111367
-mitre,E009,check-invalid-product-string,111367
+mitre,E007,check-invalid-version-string,111435
+mitre,E008,check-invalid-vendor-string,111376
+mitre,E009,check-invalid-product-string,111376
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
@@ -710,7 +710,7 @@ rapid7,E007,check-invalid-version-string,2526
 rapid7,E008,check-invalid-vendor-string,2
 rapid7,E009,check-invalid-product-string,2
 redhat,E002,check-duplicate-reference-url,675
-redhat,E006,check-affected-product-present,26
+redhat,E006,check-affected-product-present,27
 redhat,E007,check-invalid-version-string,9486
 redhat,E008,check-invalid-vendor-string,8405
 redhat,E009,check-invalid-product-string,6770
