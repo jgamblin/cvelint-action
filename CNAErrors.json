@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T00:28:18Z",
+  "generatedAt": "2026-02-06T12:15:38Z",
   "results": [
     {
       "cna": "360ST",
@@ -1475,8 +1475,8 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1151},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1198}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1152},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1206}
       ]
     },
     {
@@ -1912,7 +1912,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 830},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 837},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 389},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 38},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11}
