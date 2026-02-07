@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T12:15:38Z",
+  "generatedAt": "2026-02-07T00:28:58Z",
   "results": [
     {
       "cna": "360ST",
@@ -181,7 +181,7 @@
       "cna": "BT",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 1}
       ]
     },
@@ -535,7 +535,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 522},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16087},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16196},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -565,7 +565,7 @@
     {
       "cna": "GoogleCloud",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3}
       ]
     },
     {
@@ -1476,14 +1476,15 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1152},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1206}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1207}
       ]
     },
     {
       "cna": "VulnCheck",
       "errors": [
+        {"errorCode": "E001", "errorName": "check-reference-url-protocol", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 435}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 439}
       ]
     },
     {

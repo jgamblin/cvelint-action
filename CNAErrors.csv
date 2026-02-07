@@ -51,7 +51,7 @@ BD,E007,check-invalid-version-string,23
 BD,E008,check-invalid-vendor-string,1
 BLSOPS,E004,check-leading-trailing-space,2
 BT,E004,check-leading-trailing-space,2
-BT,E007,check-invalid-version-string,2
+BT,E007,check-invalid-version-string,4
 BT,E010,check-invalid-self-references,1
 Baicells,E004,check-leading-trailing-space,4
 Baicells,E007,check-invalid-version-string,2
@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,32
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,522
-GitHub_M,E007,check-invalid-version-string,16087
+GitHub_M,E007,check-invalid-version-string,16196
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -150,7 +150,7 @@ Google,E006,check-affected-product-present,4
 Google,E007,check-invalid-version-string,14
 Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
-GoogleCloud,E007,check-invalid-version-string,2
+GoogleCloud,E007,check-invalid-version-string,3
 Google_Devices,E004,check-leading-trailing-space,7
 Google_Devices,E007,check-invalid-version-string,202
 GovTech CSG,E004,check-leading-trailing-space,2
@@ -391,9 +391,10 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1152
-VulDB,E008,check-invalid-vendor-string,1206
+VulDB,E008,check-invalid-vendor-string,1207
+VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,435
+VulnCheck,E007,check-invalid-version-string,439
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
