@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T00:28:58Z",
+  "generatedAt": "2026-02-07T12:11:50Z",
   "results": [
     {
       "cna": "360ST",
@@ -599,7 +599,7 @@
       "cna": "HCL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 298},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 299},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
       ]
     },
@@ -1476,7 +1476,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1152},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1207}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1208}
       ]
     },
     {
@@ -1913,7 +1913,7 @@
     {
       "cna": "fortinet",
       "errors": [
-        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 837},
+        {"errorCode": "E003", "errorName": "check-description-length", "errorCount": 846},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 389},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 38},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11}
