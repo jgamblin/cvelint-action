@@ -3,4 +3,4 @@ CVE-2025-15284,harborist,/home/runner/.cache/cvelint/cvelistV5/cves/2025/15xxx/C
 CVE-2025-7783,harborist,/home/runner/.cache/cvelint/cvelistV5/cves/2025/7xxx/CVE-2025-7783.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "< 2.5.4"
 CVE-2025-7783,harborist,/home/runner/.cache/cvelint/cvelistV5/cves/2025/7xxx/CVE-2025-7783.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "3.0.0 - 3.0.3"
 CVE-2025-7783,harborist,/home/runner/.cache/cvelint/cvelistV5/cves/2025/7xxx/CVE-2025-7783.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "4.0.0 - 4.0.3"
-CVE-2025-6547,harborist,/home/runner/.cache/cvelint/cvelistV5/cves/2025/6xxx/CVE-2025-6547.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "<=3.1.2"
+CVE-2025-6547,harborist,/home/runner/.cache/cvelint/cvelistV5/cves/2025/6xxx/CVE-2025-6547.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: ">= 1 <=3.1.2"

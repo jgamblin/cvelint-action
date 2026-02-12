@@ -133,7 +133,7 @@ GE GP,E004,check-leading-trailing-space,1
 GEHC,E007,check-invalid-version-string,1
 GE_Vernova,E007,check-invalid-version-string,4
 GRAFANA,E004,check-leading-trailing-space,4
-GRAFANA,E007,check-invalid-version-string,55
+GRAFANA,E007,check-invalid-version-string,67
 Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,97
 GandC,E004,check-leading-trailing-space,10
@@ -187,7 +187,8 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,202
+INCIBE,E007,check-invalid-version-string,203
+INCIBE,E008,check-invalid-vendor-string,1
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 JFROG,E004,check-leading-trailing-space,12
@@ -321,7 +322,7 @@ Replicated,E008,check-invalid-vendor-string,1
 Rockwell,E004,check-leading-trailing-space,62
 Rockwell,E007,check-invalid-version-string,291
 Rockwell,E008,check-invalid-vendor-string,2
-SEC-VLab,E007,check-invalid-version-string,72
+SEC-VLab,E007,check-invalid-version-string,87
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
@@ -509,7 +510,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,2043
+dell,E007,check-invalid-version-string,2046
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -554,7 +555,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,864
+fortinet,E003,check-description-length,872
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -737,7 +738,7 @@ siemens,E007,check-invalid-version-string,7666
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,888
+snyk,E008,check-invalid-vendor-string,889
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
