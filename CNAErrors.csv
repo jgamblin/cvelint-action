@@ -188,7 +188,6 @@ INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
 INCIBE,E007,check-invalid-version-string,203
-INCIBE,E008,check-invalid-vendor-string,1
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 JFROG,E004,check-leading-trailing-space,12
@@ -417,7 +416,7 @@ Xerox,E007,check-invalid-version-string,1
 Xiaomi,E007,check-invalid-version-string,56
 Xiaomi,E008,check-invalid-vendor-string,38
 YokogawaGroup,E004,check-leading-trailing-space,1
-YokogawaGroup,E007,check-invalid-version-string,9
+YokogawaGroup,E007,check-invalid-version-string,15
 Yugabyte,E004,check-leading-trailing-space,5
 Yugabyte,E007,check-invalid-version-string,1
 ZUSO ART,E007,check-invalid-version-string,4
@@ -555,7 +554,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,872
+fortinet,E003,check-description-length,881
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -625,7 +624,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5182
+jpcert,E007,check-invalid-version-string,5184
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
