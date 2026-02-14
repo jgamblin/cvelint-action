@@ -554,7 +554,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,881
+fortinet,E003,check-description-length,890
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -737,7 +737,7 @@ siemens,E007,check-invalid-version-string,7666
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,889
+snyk,E008,check-invalid-vendor-string,890
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
