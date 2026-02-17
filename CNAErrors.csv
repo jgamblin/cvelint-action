@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,474
+3DS,E007,check-invalid-version-string,491
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,9
 @huntr_ai,E007,check-invalid-version-string,20
@@ -392,7 +392,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1152
-VulDB,E008,check-invalid-vendor-string,1232
+VulDB,E008,check-invalid-vendor-string,1235
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,462
@@ -652,9 +652,9 @@ microsoft,E007,check-invalid-version-string,36788
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111493
-mitre,E008,check-invalid-vendor-string,111434
-mitre,E009,check-invalid-product-string,111434
+mitre,E007,check-invalid-version-string,111496
+mitre,E008,check-invalid-vendor-string,111437
+mitre,E009,check-invalid-product-string,111437
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
