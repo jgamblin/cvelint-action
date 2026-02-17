@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-17T00:31:01Z",
+  "generatedAt": "2026-02-17T12:17:21Z",
   "results": [
     {
       "cna": "360ST",
@@ -697,7 +697,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 206}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 207}
       ]
     },
     {
@@ -1094,7 +1094,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2021},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16564},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16561},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
