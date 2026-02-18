@@ -288,13 +288,13 @@ Panasonic_Holdings_Corporation,E007,check-invalid-version-string,4
 PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
-Patchstack,E004,check-leading-trailing-space,2021
-Patchstack,E007,check-invalid-version-string,16561
+Patchstack,E004,check-leading-trailing-space,2020
+Patchstack,E007,check-invalid-version-string,16563
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
 Pega,E004,check-leading-trailing-space,4
-Pega,E007,check-invalid-version-string,5
+Pega,E007,check-invalid-version-string,6
 Pentraze,E004,check-leading-trailing-space,2
 Pentraze,E007,check-invalid-version-string,4
 Perforce,E004,check-leading-trailing-space,7
@@ -373,7 +373,7 @@ TML,E004,check-leading-trailing-space,32
 TPLink,E007,check-invalid-version-string,95
 TR-CERT,E004,check-leading-trailing-space,183
 TR-CERT,E006,check-affected-product-present,1
-TR-CERT,E007,check-invalid-version-string,38
+TR-CERT,E007,check-invalid-version-string,39
 TV,E004,check-leading-trailing-space,1
 Temporal,E004,check-leading-trailing-space,3
 Teradici,E007,check-invalid-version-string,16
@@ -392,10 +392,10 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1152
-VulDB,E008,check-invalid-vendor-string,1235
+VulDB,E008,check-invalid-vendor-string,1237
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,462
+VulnCheck,E007,check-invalid-version-string,463
 WDC PSIRT,E004,check-leading-trailing-space,15
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -509,7 +509,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,2045
+dell,E007,check-invalid-version-string,2064
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,4
@@ -592,7 +592,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2642
+ibm,E007,check-invalid-version-string,2654
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -652,9 +652,9 @@ microsoft,E007,check-invalid-version-string,36788
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111496
-mitre,E008,check-invalid-vendor-string,111437
-mitre,E009,check-invalid-product-string,111437
+mitre,E007,check-invalid-version-string,111511
+mitre,E008,check-invalid-vendor-string,111452
+mitre,E009,check-invalid-product-string,111452
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
