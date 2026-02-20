@@ -107,7 +107,7 @@ Dragos,E007,check-invalid-version-string,9
 EA,E007,check-invalid-version-string,1
 EA,E008,check-invalid-vendor-string,1
 EDB,E004,check-leading-trailing-space,1
-EEF,E007,check-invalid-version-string,15
+EEF,E007,check-invalid-version-string,18
 ENISA,E010,check-invalid-self-references,2
 ERIC,E004,check-leading-trailing-space,1
 ERIC,E007,check-invalid-version-string,5
@@ -141,7 +141,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,34
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,522
-GitHub_M,E007,check-invalid-version-string,16465
+GitHub_M,E007,check-invalid-version-string,16483
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -393,7 +393,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1156
-VulDB,E008,check-invalid-vendor-string,1245
+VulDB,E008,check-invalid-vendor-string,1246
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,471
@@ -554,7 +554,7 @@ forcepoint,E004,check-leading-trailing-space,5
 forcepoint,E006,check-affected-product-present,3
 forcepoint,E007,check-invalid-version-string,18
 forcepoint,E008,check-invalid-vendor-string,4
-fortinet,E003,check-description-length,898
+fortinet,E003,check-description-length,907
 fortinet,E007,check-invalid-version-string,389
 fortinet,E008,check-invalid-vendor-string,38
 fortinet,E009,check-invalid-product-string,11
@@ -624,7 +624,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,11
-jpcert,E007,check-invalid-version-string,5183
+jpcert,E007,check-invalid-version-string,5185
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -737,7 +737,7 @@ siemens,E007,check-invalid-version-string,7666
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,890
+snyk,E008,check-invalid-vendor-string,891
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
