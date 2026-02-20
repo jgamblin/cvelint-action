@@ -97,7 +97,7 @@ DEVOLUTIONS,E007,check-invalid-version-string,3
 DIVD,E007,check-invalid-version-string,52
 DIVD,E009,check-invalid-product-string,2
 DeepSurface,E007,check-invalid-version-string,1
-Delinea,E007,check-invalid-version-string,4
+Delinea,E007,check-invalid-version-string,6
 Dfinity,E004,check-leading-trailing-space,2
 Digi,E007,check-invalid-version-string,1
 Docker,E004,check-leading-trailing-space,8
@@ -141,7 +141,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,34
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,522
-GitHub_M,E007,check-invalid-version-string,16395
+GitHub_M,E007,check-invalid-version-string,16465
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -290,7 +290,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2020
-Patchstack,E007,check-invalid-version-string,16785
+Patchstack,E007,check-invalid-version-string,16799
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -484,7 +484,7 @@ canonical,E009,check-invalid-product-string,160
 canonical,E010,check-invalid-self-references,35
 certcc,E002,check-duplicate-reference-url,47
 certcc,E006,check-affected-product-present,4
-certcc,E007,check-invalid-version-string,2700
+certcc,E007,check-invalid-version-string,2696
 certcc,E008,check-invalid-vendor-string,2539
 certcc,E009,check-invalid-product-string,2471
 checkpoint,E007,check-invalid-version-string,95
@@ -592,7 +592,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,120
-ibm,E007,check-invalid-version-string,2654
+ibm,E007,check-invalid-version-string,2653
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
@@ -648,13 +648,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,440
-microsoft,E007,check-invalid-version-string,36788
+microsoft,E007,check-invalid-version-string,36789
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111525
-mitre,E008,check-invalid-vendor-string,111466
-mitre,E009,check-invalid-product-string,111466
+mitre,E007,check-invalid-version-string,111531
+mitre,E008,check-invalid-vendor-string,111472
+mitre,E009,check-invalid-product-string,111472
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,11
 mongodb,E007,check-invalid-version-string,2
