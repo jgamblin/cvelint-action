@@ -141,7 +141,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,34
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,522
-GitHub_M,E007,check-invalid-version-string,16573
+GitHub_M,E007,check-invalid-version-string,16658
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -290,7 +290,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2020
-Patchstack,E007,check-invalid-version-string,17227
+Patchstack,E007,check-invalid-version-string,17225
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -355,7 +355,7 @@ Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,53
-SolarWinds,E007,check-invalid-version-string,193
+SolarWinds,E007,check-invalid-version-string,197
 Solidigm,E006,check-affected-product-present,8
 Solidigm,E007,check-invalid-version-string,10
 Sophos,E004,check-leading-trailing-space,1
@@ -393,7 +393,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1156
-VulDB,E008,check-invalid-vendor-string,1265
+VulDB,E008,check-invalid-vendor-string,1270
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,473
@@ -431,7 +431,7 @@ Zscaler,E007,check-invalid-version-string,7
 Zscaler,E008,check-invalid-vendor-string,4
 Zscaler,E009,check-invalid-product-string,3
 Zyxel,E004,check-leading-trailing-space,8
-Zyxel,E007,check-invalid-version-string,383
+Zyxel,E007,check-invalid-version-string,394
 adobe,E002,check-duplicate-reference-url,54
 adobe,E004,check-leading-trailing-space,4
 adobe,E007,check-invalid-version-string,3941
@@ -499,7 +499,7 @@ cisco,E007,check-invalid-version-string,83204
 cisco,E008,check-invalid-vendor-string,2950
 cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
-cloudflare,E007,check-invalid-version-string,13
+cloudflare,E007,check-invalid-version-string,14
 crafter,E004,check-leading-trailing-space,1
 dahua,E007,check-invalid-version-string,53
 dahua,E008,check-invalid-vendor-string,26
@@ -721,7 +721,7 @@ samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
 sap,E004,check-leading-trailing-space,217
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,4267
+sap,E007,check-invalid-version-string,4269
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62

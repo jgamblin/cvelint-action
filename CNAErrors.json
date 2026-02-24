@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T00:29:40Z",
+  "generatedAt": "2026-02-24T12:19:27Z",
   "results": [
     {
       "cna": "360ST",
@@ -541,7 +541,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 522},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16573},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16658},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1100,7 +1100,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2020},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17227},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17225},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1330,7 +1330,7 @@
       "cna": "SolarWinds",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 53},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 193}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 197}
       ]
     },
     {
@@ -1488,7 +1488,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1156},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1265}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1270}
       ]
     },
     {
@@ -1616,7 +1616,7 @@
       "cna": "Zyxel",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 383}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 394}
       ]
     },
     {
@@ -1779,7 +1779,7 @@
       "cna": "cloudflare",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 29},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14}
       ]
     },
     {
@@ -2331,7 +2331,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 217},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4267},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4269},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
