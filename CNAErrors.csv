@@ -141,7 +141,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,520
-GitHub_M,E007,check-invalid-version-string,16696
+GitHub_M,E007,check-invalid-version-string,16738
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -392,7 +392,7 @@ VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,14
 VulDB,E007,check-invalid-version-string,1156
-VulDB,E008,check-invalid-vendor-string,1271
+VulDB,E008,check-invalid-vendor-string,1274
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,473
@@ -623,7 +623,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,10
-jpcert,E007,check-invalid-version-string,5185
+jpcert,E007,check-invalid-version-string,5186
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -651,9 +651,9 @@ microsoft,E007,check-invalid-version-string,36789
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111560
-mitre,E008,check-invalid-vendor-string,111501
-mitre,E009,check-invalid-product-string,111501
+mitre,E007,check-invalid-version-string,111559
+mitre,E008,check-invalid-vendor-string,111500
+mitre,E009,check-invalid-product-string,111500
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,6
 mongodb,E007,check-invalid-version-string,2
@@ -718,9 +718,9 @@ redhat,E009,check-invalid-product-string,6770
 samsung.tv_appliance,E004,check-leading-trailing-space,3
 samsung.tv_appliance,E006,check-affected-product-present,1
 sap,E002,check-duplicate-reference-url,1
-sap,E004,check-leading-trailing-space,209
+sap,E004,check-leading-trailing-space,208
 sap,E006,check-affected-product-present,1
-sap,E007,check-invalid-version-string,4269
+sap,E007,check-invalid-version-string,4268
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
@@ -742,7 +742,7 @@ snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
 sonicwall,E007,check-invalid-version-string,410
 suse,E004,check-leading-trailing-space,8
-suse,E007,check-invalid-version-string,169
+suse,E007,check-invalid-version-string,170
 suse,E008,check-invalid-vendor-string,9
 symantec,E004,check-leading-trailing-space,1
 symantec,E006,check-affected-product-present,2
