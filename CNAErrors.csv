@@ -323,7 +323,7 @@ SEC-VLab,E007,check-invalid-version-string,93
 SEL,E004,check-leading-trailing-space,37
 SICK AG,E002,check-duplicate-reference-url,19
 SICK AG,E004,check-leading-trailing-space,26
-SICK AG,E007,check-invalid-version-string,294
+SICK AG,E007,check-invalid-version-string,298
 SICK AG,E008,check-invalid-vendor-string,28
 SK-CERT,E004,check-leading-trailing-space,2
 SK-CERT,E007,check-invalid-version-string,8
@@ -387,9 +387,9 @@ VDOO,E008,check-invalid-vendor-string,10
 VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,3
 Vaadin,E004,check-leading-trailing-space,1
-Vivo,E007,check-invalid-version-string,14
+Vivo,E007,check-invalid-version-string,16
 VulDB,E007,check-invalid-version-string,1156
-VulDB,E008,check-invalid-vendor-string,1274
+VulDB,E008,check-invalid-vendor-string,1279
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,479
@@ -590,7 +590,7 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,344
-icscert,E007,check-invalid-version-string,3241
+icscert,E007,check-invalid-version-string,3248
 icscert,E008,check-invalid-vendor-string,1266
 icscert,E009,check-invalid-product-string,448
 imaginationtech,E007,check-invalid-version-string,204
@@ -607,7 +607,7 @@ ivanti,E007,check-invalid-version-string,132
 jci,E002,check-duplicate-reference-url,1
 jci,E004,check-leading-trailing-space,3
 jci,E006,check-affected-product-present,4
-jci,E007,check-invalid-version-string,69
+jci,E007,check-invalid-version-string,75
 jci,E008,check-invalid-vendor-string,1
 jci,E009,check-invalid-product-string,1
 jenkins,E007,check-invalid-version-string,707
@@ -617,7 +617,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,10
-jpcert,E007,check-invalid-version-string,5190
+jpcert,E007,check-invalid-version-string,5193
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
