@@ -15,7 +15,7 @@ AHA,E004,check-leading-trailing-space,1
 AHA,E007,check-invalid-version-string,238
 AMD,E004,check-leading-trailing-space,84
 AMD,E006,check-affected-product-present,3
-AMD,E007,check-invalid-version-string,1973
+AMD,E007,check-invalid-version-string,2005
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
 AMZN,E006,check-affected-product-present,12
@@ -140,7 +140,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,16940
+GitHub_M,E007,check-invalid-version-string,17015
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -150,7 +150,7 @@ Google,E006,check-affected-product-present,4
 Google,E007,check-invalid-version-string,14
 Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
-GoogleCloud,E007,check-invalid-version-string,3
+GoogleCloud,E007,check-invalid-version-string,5
 Google_Devices,E004,check-leading-trailing-space,7
 Google_Devices,E007,check-invalid-version-string,202
 GovTech CSG,E004,check-leading-trailing-space,2
@@ -392,7 +392,7 @@ VulDB,E007,check-invalid-version-string,1156
 VulDB,E008,check-invalid-vendor-string,1274
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,473
+VulnCheck,E007,check-invalid-version-string,479
 WDC PSIRT,E004,check-leading-trailing-space,13
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -590,7 +590,7 @@ ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,344
-icscert,E007,check-invalid-version-string,3224
+icscert,E007,check-invalid-version-string,3241
 icscert,E008,check-invalid-vendor-string,1266
 icscert,E009,check-invalid-product-string,448
 imaginationtech,E007,check-invalid-version-string,204
@@ -645,9 +645,9 @@ microsoft,E007,check-invalid-version-string,36789
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111558
-mitre,E008,check-invalid-vendor-string,111499
-mitre,E009,check-invalid-product-string,111499
+mitre,E007,check-invalid-version-string,111562
+mitre,E008,check-invalid-vendor-string,111503
+mitre,E009,check-invalid-product-string,111503
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
