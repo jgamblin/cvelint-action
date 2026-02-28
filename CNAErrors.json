@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T00:26:27Z",
+  "generatedAt": "2026-02-28T12:11:47Z",
   "results": [
     {
       "cna": "360ST",
@@ -868,6 +868,12 @@
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 50},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
+      ]
+    },
+    {
+      "cna": "Microchip",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
       ]
     },
     {
