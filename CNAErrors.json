@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T12:15:30Z",
+  "generatedAt": "2026-02-28T00:26:27Z",
   "results": [
     {
       "cna": "360ST",
@@ -264,6 +264,12 @@
       "cna": "Carrier",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+      ]
+    },
+    {
+      "cna": "Centreon",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4}
       ]
     },
     {
@@ -540,7 +546,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17015},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17068},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -715,6 +721,12 @@
       "cna": "Insyde",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 29}
+      ]
+    },
+    {
+      "cna": "Intigriti",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
       ]
     },
     {
@@ -1492,7 +1504,7 @@
       "errors": [
         {"errorCode": "E001", "errorName": "check-reference-url-protocol", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 479}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 478}
       ]
     },
     {
@@ -2145,9 +2157,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111562},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111503},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111503},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111563},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111504},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111504},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2226,6 +2238,12 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 38},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 21},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
+      ]
+    },
+    {
+      "cna": "openjs",
+      "errors": [
+        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
     },
     {

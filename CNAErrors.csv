@@ -74,6 +74,7 @@ Canon,E004,check-leading-trailing-space,8
 Canon,E007,check-invalid-version-string,376
 Canon_EMEA,E007,check-invalid-version-string,2
 Carrier,E007,check-invalid-version-string,1
+Centreon,E007,check-invalid-version-string,4
 Chrome,E002,check-duplicate-reference-url,2
 Chrome,E007,check-invalid-version-string,1290
 Chrome,E008,check-invalid-vendor-string,1260
@@ -140,7 +141,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,17015
+GitHub_M,E007,check-invalid-version-string,17068
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -190,6 +191,7 @@ INCIBE,E006,check-affected-product-present,3
 INCIBE,E007,check-invalid-version-string,210
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
+Intigriti,E007,check-invalid-version-string,1
 JFROG,E004,check-leading-trailing-space,11
 JFROG,E007,check-invalid-version-string,18
 JetBrains,E004,check-leading-trailing-space,3
@@ -392,7 +394,7 @@ VulDB,E007,check-invalid-version-string,1156
 VulDB,E008,check-invalid-vendor-string,1279
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,479
+VulnCheck,E007,check-invalid-version-string,478
 WDC PSIRT,E004,check-leading-trailing-space,13
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -645,9 +647,9 @@ microsoft,E007,check-invalid-version-string,36789
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111562
-mitre,E008,check-invalid-vendor-string,111503
-mitre,E009,check-invalid-product-string,111503
+mitre,E007,check-invalid-version-string,111563
+mitre,E008,check-invalid-vendor-string,111504
+mitre,E009,check-invalid-product-string,111504
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
@@ -676,6 +678,7 @@ openEuler,E004,check-leading-trailing-space,12
 openEuler,E007,check-invalid-version-string,38
 openEuler,E008,check-invalid-vendor-string,21
 openEuler,E009,check-invalid-product-string,1
+openjs,E010,check-invalid-self-references,2
 openssl,E004,check-leading-trailing-space,1
 openssl,E007,check-invalid-version-string,64
 oracle,E002,check-duplicate-reference-url,683
