@@ -118,7 +118,7 @@ Eaton,E004,check-leading-trailing-space,2
 Eaton,E007,check-invalid-version-string,4
 Esri,E004,check-leading-trailing-space,3
 Esri,E007,check-invalid-version-string,17
-ExtremeNetworks,E007,check-invalid-version-string,1
+ExtremeNetworks,E007,check-invalid-version-string,2
 F-SecureUS,E007,check-invalid-version-string,32
 FSI,E007,check-invalid-version-string,5
 Fidelis,E007,check-invalid-version-string,32
@@ -141,7 +141,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,17068
+GitHub_M,E007,check-invalid-version-string,17115
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -370,7 +370,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,31
-TPLink,E007,check-invalid-version-string,95
+TPLink,E007,check-invalid-version-string,98
 TR-CERT,E004,check-leading-trailing-space,182
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,40
@@ -560,7 +560,7 @@ freebsd,E007,check-invalid-version-string,156
 freebsd,E008,check-invalid-vendor-string,87
 freebsd,E009,check-invalid-product-string,35
 google_android,E004,check-leading-trailing-space,85
-google_android,E007,check-invalid-version-string,2405
+google_android,E007,check-invalid-version-string,2414
 google_android,E008,check-invalid-vendor-string,3103
 google_android,E009,check-invalid-product-string,571
 hackerone,E004,check-leading-trailing-space,48
@@ -648,9 +648,9 @@ microsoft,E007,check-invalid-version-string,36789
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111563
-mitre,E008,check-invalid-vendor-string,111504
-mitre,E009,check-invalid-product-string,111504
+mitre,E007,check-invalid-version-string,111599
+mitre,E008,check-invalid-vendor-string,111540
+mitre,E009,check-invalid-product-string,111540
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
@@ -701,7 +701,7 @@ qnap,E004,check-leading-trailing-space,96
 qnap,E007,check-invalid-version-string,880
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
-qualcomm,E007,check-invalid-version-string,25546
+qualcomm,E007,check-invalid-version-string,26122
 qualcomm,E008,check-invalid-vendor-string,123
 qualcomm,E009,check-invalid-product-string,124
 rapid7,E004,check-leading-trailing-space,23
