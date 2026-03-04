@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T00:29:24Z",
+  "generatedAt": "2026-03-04T12:16:37Z",
   "results": [
     {
       "cna": "360ST",
@@ -304,7 +304,8 @@
     {
       "cna": "ConcreteCMS",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3}
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1}
       ]
     },
     {
@@ -662,7 +663,7 @@
     {
       "cna": "Hitachi Energy",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 23},
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 22},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 413},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 3},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3}
@@ -2398,7 +2399,7 @@
       "cna": "sonicwall",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 17},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 410}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 413}
       ]
     },
     {
