@@ -18,7 +18,7 @@ AMD,E006,check-affected-product-present,3
 AMD,E007,check-invalid-version-string,2005
 AMD,E008,check-invalid-vendor-string,6
 AMI,E004,check-leading-trailing-space,25
-AMZN,E006,check-affected-product-present,12
+AMZN,E006,check-affected-product-present,13
 AMZN,E007,check-invalid-version-string,1
 ASR,E004,check-leading-trailing-space,4
 ASR,E006,check-affected-product-present,3
@@ -141,7 +141,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,17115
+GitHub_M,E007,check-invalid-version-string,17135
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -151,7 +151,7 @@ Google,E006,check-affected-product-present,4
 Google,E007,check-invalid-version-string,14
 Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
-GoogleCloud,E007,check-invalid-version-string,5
+GoogleCloud,E007,check-invalid-version-string,6
 Google_Devices,E004,check-leading-trailing-space,7
 Google_Devices,E007,check-invalid-version-string,202
 GovTech CSG,E004,check-leading-trailing-space,2
@@ -395,7 +395,7 @@ VulDB,E007,check-invalid-version-string,1156
 VulDB,E008,check-invalid-vendor-string,1286
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,478
+VulnCheck,E007,check-invalid-version-string,480
 WDC PSIRT,E004,check-leading-trailing-space,13
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -405,7 +405,7 @@ WPScan,E008,check-invalid-vendor-string,11
 WPScan,E009,check-invalid-product-string,11
 WSO2,E004,check-leading-trailing-space,3
 WatchGuard,E004,check-leading-trailing-space,2
-WatchGuard,E007,check-invalid-version-string,10
+WatchGuard,E007,check-invalid-version-string,11
 WindRiver,E007,check-invalid-version-string,1
 Wordfence,E007,check-invalid-version-string,14
 Wordfence,E008,check-invalid-vendor-string,58
@@ -505,7 +505,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,2094
+dell,E007,check-invalid-version-string,2095
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,3
@@ -588,12 +588,12 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,119
-ibm,E007,check-invalid-version-string,2653
+ibm,E007,check-invalid-version-string,2669
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
 icscert,E004,check-leading-trailing-space,344
-icscert,E007,check-invalid-version-string,3248
+icscert,E007,check-invalid-version-string,3249
 icscert,E008,check-invalid-vendor-string,1266
 icscert,E009,check-invalid-product-string,448
 imaginationtech,E007,check-invalid-version-string,204
@@ -648,9 +648,9 @@ microsoft,E007,check-invalid-version-string,36789
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111599
-mitre,E008,check-invalid-vendor-string,111540
-mitre,E009,check-invalid-product-string,111540
+mitre,E007,check-invalid-version-string,111646
+mitre,E008,check-invalid-vendor-string,111587
+mitre,E009,check-invalid-product-string,111587
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
@@ -750,7 +750,7 @@ symantec,E009,check-invalid-product-string,133
 synology,E007,check-invalid-version-string,53
 synology,E008,check-invalid-vendor-string,8
 synology,E009,check-invalid-product-string,8
-talos,E007,check-invalid-version-string,1443
+talos,E007,check-invalid-version-string,1446
 talos,E008,check-invalid-vendor-string,727
 talos,E009,check-invalid-product-string,94
 tenable,E002,check-duplicate-reference-url,1
