@@ -85,6 +85,7 @@ Ciena,E007,check-invalid-version-string,19
 Citrix,E004,check-leading-trailing-space,10
 Citrix,E007,check-invalid-version-string,102
 ConcreteCMS,E004,check-leading-trailing-space,3
+ConcreteCMS,E006,check-affected-product-present,1
 ConnectWise,E007,check-invalid-version-string,9
 CoolKit,E004,check-leading-trailing-space,1
 Cybellum,E004,check-leading-trailing-space,1
@@ -172,7 +173,7 @@ HiddenLayer,E004,check-leading-trailing-space,6
 Hillstone,E007,check-invalid-version-string,1
 Hitachi,E004,check-leading-trailing-space,29
 Hitachi,E007,check-invalid-version-string,46
-Hitachi Energy,E004,check-leading-trailing-space,23
+Hitachi Energy,E004,check-leading-trailing-space,22
 Hitachi Energy,E007,check-invalid-version-string,413
 Hitachi Energy,E008,check-invalid-vendor-string,3
 Hitachi Energy,E009,check-invalid-product-string,3
@@ -738,7 +739,7 @@ snyk,E008,check-invalid-vendor-string,893
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
-sonicwall,E007,check-invalid-version-string,410
+sonicwall,E007,check-invalid-version-string,413
 suse,E004,check-leading-trailing-space,8
 suse,E007,check-invalid-version-string,170
 suse,E008,check-invalid-vendor-string,9
