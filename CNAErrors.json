@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T12:16:37Z",
+  "generatedAt": "2026-03-05T00:30:01Z",
   "results": [
     {
       "cna": "360ST",
@@ -547,7 +547,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17135},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17167},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1782,7 +1782,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 13},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 83825},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 83826},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2950},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2146}
       ]
@@ -1791,7 +1791,8 @@
       "cna": "cloudflare",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 29},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3}
       ]
     },
     {
@@ -1821,7 +1822,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2095},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2127},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323}
       ]
@@ -2164,9 +2165,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111646},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111587},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111587},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111663},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111604},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111604},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2197,7 +2198,7 @@
       "cna": "netapp",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 12},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 103},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 104},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 63}
       ]
     },
@@ -2250,7 +2251,7 @@
     {
       "cna": "openjs",
       "errors": [
-        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
+        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 3}
       ]
     },
     {

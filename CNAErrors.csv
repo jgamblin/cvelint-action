@@ -142,7 +142,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,17135
+GitHub_M,E007,check-invalid-version-string,17167
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -492,11 +492,12 @@ cisa-cg,E007,check-invalid-version-string,76
 cisa-cg,E010,check-invalid-self-references,71
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
-cisco,E007,check-invalid-version-string,83825
+cisco,E007,check-invalid-version-string,83826
 cisco,E008,check-invalid-vendor-string,2950
 cisco,E009,check-invalid-product-string,2146
 cloudflare,E004,check-leading-trailing-space,29
 cloudflare,E007,check-invalid-version-string,14
+cloudflare,E009,check-invalid-product-string,3
 crafter,E004,check-leading-trailing-space,1
 dahua,E007,check-invalid-version-string,53
 dahua,E008,check-invalid-vendor-string,26
@@ -506,7 +507,7 @@ debian,E008,check-invalid-vendor-string,566
 debian,E009,check-invalid-product-string,509
 dell,E004,check-leading-trailing-space,311
 dell,E006,check-affected-product-present,1
-dell,E007,check-invalid-version-string,2095
+dell,E007,check-invalid-version-string,2127
 dell,E008,check-invalid-vendor-string,473
 dell,E009,check-invalid-product-string,323
 directcyber,E004,check-leading-trailing-space,3
@@ -649,9 +650,9 @@ microsoft,E007,check-invalid-version-string,36789
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111646
-mitre,E008,check-invalid-vendor-string,111587
-mitre,E009,check-invalid-product-string,111587
+mitre,E007,check-invalid-version-string,111663
+mitre,E008,check-invalid-vendor-string,111604
+mitre,E009,check-invalid-product-string,111604
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
@@ -662,7 +663,7 @@ mozilla,E009,check-invalid-product-string,601
 mozilla,E010,check-invalid-self-references,1
 naver,E007,check-invalid-version-string,1
 netapp,E004,check-leading-trailing-space,12
-netapp,E007,check-invalid-version-string,103
+netapp,E007,check-invalid-version-string,104
 netapp,E008,check-invalid-vendor-string,63
 netflix,E007,check-invalid-version-string,10
 netflix,E008,check-invalid-vendor-string,9
@@ -680,7 +681,7 @@ openEuler,E004,check-leading-trailing-space,12
 openEuler,E007,check-invalid-version-string,38
 openEuler,E008,check-invalid-vendor-string,21
 openEuler,E009,check-invalid-product-string,1
-openjs,E010,check-invalid-self-references,2
+openjs,E010,check-invalid-self-references,3
 openssl,E004,check-leading-trailing-space,1
 openssl,E007,check-invalid-version-string,64
 oracle,E002,check-duplicate-reference-url,683
