@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T12:14:47Z",
+  "generatedAt": "2026-03-07T00:28:57Z",
   "results": [
     {
       "cna": "360ST",
@@ -547,7 +547,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17290},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17361},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -2030,7 +2030,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 344},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3253},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3261},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1266},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 448}
       ]
@@ -2165,9 +2165,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111680},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111621},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111621},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 111690},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111631},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111631},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
@@ -2251,7 +2251,7 @@
     {
       "cna": "openjs",
       "errors": [
-        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 3}
+        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 4}
       ]
     },
     {
