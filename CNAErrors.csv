@@ -189,7 +189,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,211
+INCIBE,E007,check-invalid-version-string,213
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 Intigriti,E007,check-invalid-version-string,1
@@ -385,14 +385,14 @@ TianoCore,E008,check-invalid-vendor-string,1
 Tigera,E004,check-leading-trailing-space,2
 Toreon,E007,check-invalid-version-string,1
 Toshiba,E007,check-invalid-version-string,43
-Unisoc,E007,check-invalid-version-string,593
+Unisoc,E007,check-invalid-version-string,600
 VDOO,E007,check-invalid-version-string,10
 VDOO,E008,check-invalid-vendor-string,10
 VDOO,E009,check-invalid-product-string,2
 VULSec,E007,check-invalid-version-string,9
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,16
-VulDB,E007,check-invalid-version-string,1157
+VulDB,E007,check-invalid-version-string,1167
 VulDB,E008,check-invalid-vendor-string,1298
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
@@ -622,7 +622,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,10
-jpcert,E007,check-invalid-version-string,5200
+jpcert,E007,check-invalid-version-string,5201
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1

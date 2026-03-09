@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T00:29:59Z",
+  "generatedAt": "2026-03-09T12:16:29Z",
   "results": [
     {
       "cna": "360ST",
@@ -709,7 +709,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 211}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 213}
       ]
     },
     {
@@ -1470,7 +1470,7 @@
     {
       "cna": "Unisoc",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 593}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 600}
       ]
     },
     {
@@ -1502,7 +1502,7 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1157},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1167},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1298}
       ]
     },
@@ -2097,7 +2097,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5200},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5201},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
