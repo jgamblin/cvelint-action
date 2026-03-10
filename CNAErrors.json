@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T00:26:38Z",
+  "generatedAt": "2026-03-10T12:16:10Z",
   "results": [
     {
       "cna": "360ST",
@@ -611,7 +611,7 @@
       "cna": "HCL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 301},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 302},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
       ]
     },
@@ -881,7 +881,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3507},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3527},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 37}
       ]
     },
@@ -2350,7 +2350,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 181},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4268},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4342},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
