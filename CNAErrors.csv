@@ -142,7 +142,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,17483
+GitHub_M,E007,check-invalid-version-string,17658
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -154,7 +154,7 @@ Google,E008,check-invalid-vendor-string,2
 Google,E009,check-invalid-product-string,2
 GoogleCloud,E007,check-invalid-version-string,6
 Google_Devices,E004,check-leading-trailing-space,7
-Google_Devices,E007,check-invalid-version-string,202
+Google_Devices,E007,check-invalid-version-string,221
 GovTech CSG,E004,check-leading-trailing-space,2
 GovTech CSG,E007,check-invalid-version-string,15
 GovTech CSG,E008,check-invalid-vendor-string,3
@@ -434,7 +434,7 @@ Zyxel,E004,check-leading-trailing-space,2
 Zyxel,E007,check-invalid-version-string,394
 adobe,E002,check-duplicate-reference-url,54
 adobe,E004,check-leading-trailing-space,4
-adobe,E007,check-invalid-version-string,3941
+adobe,E007,check-invalid-version-string,3943
 adobe,E008,check-invalid-vendor-string,2535
 adobe,E009,check-invalid-product-string,1875
 airbus,E007,check-invalid-version-string,28
@@ -562,7 +562,7 @@ freebsd,E007,check-invalid-version-string,156
 freebsd,E008,check-invalid-vendor-string,87
 freebsd,E009,check-invalid-product-string,35
 google_android,E004,check-leading-trailing-space,85
-google_android,E007,check-invalid-version-string,2414
+google_android,E007,check-invalid-version-string,2415
 google_android,E008,check-invalid-vendor-string,3103
 google_android,E009,check-invalid-product-string,571
 hackerone,E004,check-leading-trailing-space,48
@@ -601,8 +601,8 @@ icscert,E009,check-invalid-product-string,448
 imaginationtech,E007,check-invalid-version-string,212
 intel,E002,check-duplicate-reference-url,22
 intel,E004,check-leading-trailing-space,4
-intel,E007,check-invalid-version-string,2081
-intel,E008,check-invalid-vendor-string,1833
+intel,E007,check-invalid-version-string,2091
+intel,E008,check-invalid-vendor-string,1843
 intel,E009,check-invalid-product-string,20
 isc,E007,check-invalid-version-string,119
 isc,E008,check-invalid-vendor-string,1
@@ -646,13 +646,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,2
-microsoft,E007,check-invalid-version-string,36794
+microsoft,E007,check-invalid-version-string,36819
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111714
-mitre,E008,check-invalid-vendor-string,111655
-mitre,E009,check-invalid-product-string,111655
+mitre,E007,check-invalid-version-string,111734
+mitre,E008,check-invalid-vendor-string,111675
+mitre,E009,check-invalid-product-string,111675
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
@@ -724,7 +724,7 @@ sap,E007,check-invalid-version-string,4342
 sap,E008,check-invalid-vendor-string,4
 sap,E009,check-invalid-product-string,4
 schneider,E004,check-leading-trailing-space,62
-schneider,E007,check-invalid-version-string,976
+schneider,E007,check-invalid-version-string,990
 schneider,E008,check-invalid-vendor-string,323
 schneider,E009,check-invalid-product-string,27
 securin,E007,check-invalid-version-string,1
@@ -732,7 +732,7 @@ sgi,E007,check-invalid-version-string,11
 sgi,E008,check-invalid-vendor-string,11
 sgi,E009,check-invalid-product-string,11
 siemens,E002,check-duplicate-reference-url,3
-siemens,E007,check-invalid-version-string,7666
+siemens,E007,check-invalid-version-string,7670
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
