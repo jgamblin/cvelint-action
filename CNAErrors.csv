@@ -622,7 +622,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,10
-jpcert,E007,check-invalid-version-string,5212
+jpcert,E007,check-invalid-version-string,5218
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
@@ -650,9 +650,9 @@ microsoft,E007,check-invalid-version-string,36819
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111734
-mitre,E008,check-invalid-vendor-string,111675
-mitre,E009,check-invalid-product-string,111675
+mitre,E007,check-invalid-version-string,111748
+mitre,E008,check-invalid-vendor-string,111674
+mitre,E009,check-invalid-product-string,111674
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
@@ -700,7 +700,7 @@ puppet,E007,check-invalid-version-string,67
 puppet,E008,check-invalid-vendor-string,22
 puppet,E009,check-invalid-product-string,3
 qnap,E004,check-leading-trailing-space,96
-qnap,E007,check-invalid-version-string,880
+qnap,E007,check-invalid-version-string,884
 qnap,E008,check-invalid-vendor-string,17
 qnap,E009,check-invalid-product-string,4
 qualcomm,E007,check-invalid-version-string,26122
@@ -736,7 +736,7 @@ siemens,E007,check-invalid-version-string,7670
 siemens,E008,check-invalid-vendor-string,40
 snyk,E004,check-leading-trailing-space,36
 snyk,E007,check-invalid-version-string,163
-snyk,E008,check-invalid-vendor-string,893
+snyk,E008,check-invalid-vendor-string,894
 snyk,E009,check-invalid-product-string,5
 snyk,E010,check-invalid-self-references,2
 sonicwall,E004,check-leading-trailing-space,17
