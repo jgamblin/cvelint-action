@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T00:30:40Z",
+  "generatedAt": "2026-03-13T12:15:39Z",
   "results": [
     {
       "cna": "360ST",
@@ -413,7 +413,7 @@
     {
       "cna": "EEF",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 27}
       ]
     },
     {
@@ -1116,7 +1116,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2020},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17774},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18054},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1496,7 +1496,7 @@
     {
       "cna": "Vivo",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17}
       ]
     },
     {
