@@ -2,7 +2,7 @@ CNA,ErrorCode,ErrorName,ErrorCount
 360ST,E007,check-invalid-version-string,1
 360ST,E008,check-invalid-vendor-string,4
 3DS,E004,check-leading-trailing-space,5
-3DS,E007,check-invalid-version-string,491
+3DS,E007,check-invalid-version-string,494
 42Gears,E004,check-leading-trailing-space,2
 @huntr_ai,E004,check-leading-trailing-space,9
 @huntr_ai,E007,check-invalid-version-string,20
@@ -189,7 +189,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,213
+INCIBE,E007,check-invalid-version-string,218
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 Intigriti,E007,check-invalid-version-string,1
@@ -346,7 +346,7 @@ Salesforce,E008,check-invalid-vendor-string,10
 Samsung Mobile,E006,check-affected-product-present,1
 Samsung Mobile,E007,check-invalid-version-string,1006
 Samsung Mobile,E008,check-invalid-vendor-string,1
-SamsungMobile,E007,check-invalid-version-string,349
+SamsungMobile,E007,check-invalid-version-string,354
 Secomea,E004,check-leading-trailing-space,5
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,3
@@ -393,7 +393,7 @@ VULSec,E007,check-invalid-version-string,9
 Vaadin,E004,check-leading-trailing-space,1
 Vivo,E007,check-invalid-version-string,17
 VulDB,E007,check-invalid-version-string,1179
-VulDB,E008,check-invalid-vendor-string,1313
+VulDB,E008,check-invalid-vendor-string,1318
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
 VulnCheck,E007,check-invalid-version-string,492
@@ -622,7 +622,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,10
-jpcert,E007,check-invalid-version-string,5218
+jpcert,E007,check-invalid-version-string,5221
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
