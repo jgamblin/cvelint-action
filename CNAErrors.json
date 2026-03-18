@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T00:31:39Z",
+  "generatedAt": "2026-03-18T12:21:52Z",
   "results": [
     {
       "cna": "360ST",
@@ -547,7 +547,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17967},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17993},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1116,7 +1116,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2020},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18055},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18056},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1804,7 +1804,7 @@
     {
       "cna": "dahua",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 53},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 56},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 26}
       ]
     },
