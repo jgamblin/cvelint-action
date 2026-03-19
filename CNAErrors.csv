@@ -161,7 +161,7 @@ GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,15
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,306
+HCL,E007,check-invalid-version-string,307
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6
@@ -291,7 +291,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2020
-Patchstack,E007,check-invalid-version-string,18056
+Patchstack,E007,check-invalid-version-string,18084
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -348,6 +348,7 @@ Samsung Mobile,E007,check-invalid-version-string,1006
 Samsung Mobile,E008,check-invalid-vendor-string,1
 SamsungMobile,E007,check-invalid-version-string,354
 Secomea,E004,check-leading-trailing-space,5
+Secomea,E007,check-invalid-version-string,1
 Silabs,E004,check-leading-trailing-space,16
 Silabs,E007,check-invalid-version-string,3
 Silver Peak,E007,check-invalid-version-string,16
@@ -590,7 +591,7 @@ huawei,E008,check-invalid-vendor-string,449
 huawei,E009,check-invalid-product-string,12
 ibm,E002,check-duplicate-reference-url,6
 ibm,E004,check-leading-trailing-space,119
-ibm,E007,check-invalid-version-string,2666
+ibm,E007,check-invalid-version-string,2670
 ibm,E008,check-invalid-vendor-string,1854
 ibm,E009,check-invalid-product-string,1835
 icscert,E002,check-duplicate-reference-url,1
