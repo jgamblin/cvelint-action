@@ -142,7 +142,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,18076
+GitHub_M,E007,check-invalid-version-string,18204
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -291,7 +291,7 @@ PandoraFMS,E004,check-leading-trailing-space,1
 PandoraFMS,E007,check-invalid-version-string,4
 PaperCut,E004,check-leading-trailing-space,1
 Patchstack,E004,check-leading-trailing-space,2020
-Patchstack,E007,check-invalid-version-string,18084
+Patchstack,E007,check-invalid-version-string,18085
 Patchstack,E008,check-invalid-vendor-string,2
 Patchstack,E009,check-invalid-product-string,2
 Payara,E004,check-leading-trailing-space,1
@@ -372,7 +372,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,31
-TPLink,E007,check-invalid-version-string,162
+TPLink,E007,check-invalid-version-string,165
 TR-CERT,E004,check-leading-trailing-space,182
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,40
@@ -397,7 +397,7 @@ VulDB,E007,check-invalid-version-string,1179
 VulDB,E008,check-invalid-vendor-string,1320
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,492
+VulnCheck,E007,check-invalid-version-string,493
 WDC PSIRT,E004,check-leading-trailing-space,13
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -490,7 +490,7 @@ checkpoint,E007,check-invalid-version-string,95
 checkpoint,E008,check-invalid-vendor-string,46
 cisa-cg,E004,check-leading-trailing-space,13
 cisa-cg,E007,check-invalid-version-string,76
-cisa-cg,E010,check-invalid-self-references,79
+cisa-cg,E010,check-invalid-self-references,84
 cisco,E004,check-leading-trailing-space,13
 cisco,E006,check-affected-product-present,1
 cisco,E007,check-invalid-version-string,83948
@@ -647,13 +647,13 @@ microfocus,E008,check-invalid-vendor-string,209
 microfocus,E009,check-invalid-product-string,109
 microsoft,E002,check-duplicate-reference-url,212
 microsoft,E004,check-leading-trailing-space,2
-microsoft,E007,check-invalid-version-string,36819
+microsoft,E007,check-invalid-version-string,36830
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111812
-mitre,E008,check-invalid-vendor-string,111738
-mitre,E009,check-invalid-product-string,111738
+mitre,E007,check-invalid-version-string,111823
+mitre,E008,check-invalid-vendor-string,111749
+mitre,E009,check-invalid-product-string,111749
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
