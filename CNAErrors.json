@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T00:33:29Z",
+  "generatedAt": "2026-03-23T12:20:49Z",
   "results": [
     {
       "cna": "360ST",
@@ -1116,7 +1116,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2020},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18089},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18088},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1469,6 +1469,12 @@
       ]
     },
     {
+      "cna": "TuranSec",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+      ]
+    },
+    {
       "cna": "Unisoc",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 600}
@@ -1562,7 +1568,7 @@
       "cna": "XEN",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 15},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 129}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 131}
       ]
     },
     {
@@ -2393,7 +2399,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 895},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 901},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
