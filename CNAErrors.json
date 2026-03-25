@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T00:31:08Z",
+  "generatedAt": "2026-03-25T12:20:54Z",
   "results": [
     {
       "cna": "360ST",
@@ -1690,7 +1690,7 @@
       "cna": "apple",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4859},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4858},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 3082},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2894}
       ]
@@ -2116,7 +2116,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5221},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5233},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
