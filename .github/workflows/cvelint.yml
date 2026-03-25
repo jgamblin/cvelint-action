@@ -13,7 +13,7 @@ jobs:
   CVE-Lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       # Install CVE Lint
       - name: Install Needed Packages
