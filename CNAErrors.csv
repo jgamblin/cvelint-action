@@ -143,7 +143,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,18714
+GitHub_M,E007,check-invalid-version-string,18722
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -190,7 +190,7 @@ INCD,E008,check-invalid-vendor-string,2
 INCD,E009,check-invalid-product-string,2
 INCIBE,E004,check-leading-trailing-space,19
 INCIBE,E006,check-affected-product-present,3
-INCIBE,E007,check-invalid-version-string,219
+INCIBE,E007,check-invalid-version-string,221
 Illumio,E004,check-leading-trailing-space,1
 Insyde,E007,check-invalid-version-string,29
 Intigriti,E007,check-invalid-version-string,1
@@ -389,7 +389,8 @@ TianoCore,E008,check-invalid-vendor-string,1
 Tigera,E004,check-leading-trailing-space,2
 Toreon,E007,check-invalid-version-string,1
 Toshiba,E007,check-invalid-version-string,43
-TuranSec,E007,check-invalid-version-string,7
+TuranSec,E002,check-duplicate-reference-url,1
+TuranSec,E007,check-invalid-version-string,8
 Unisoc,E007,check-invalid-version-string,600
 VDOO,E007,check-invalid-version-string,10
 VDOO,E008,check-invalid-vendor-string,10
@@ -627,7 +628,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,10
-jpcert,E007,check-invalid-version-string,5233
+jpcert,E007,check-invalid-version-string,5236
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1

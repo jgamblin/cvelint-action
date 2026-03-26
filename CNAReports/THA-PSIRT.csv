@@ -1,6 +1,6 @@
 CVE,CNA,File,RuleName,ErrorCode,ErrorText
 CVE-2024-0197,THA-PSIRT,/home/runner/.cache/cvelint/cvelistV5/cves/2024/0xxx/CVE-2024-0197.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
-CVE-2023-2737,THA-PSIRT,/home/runner/.cache/cvelint/cvelistV5/cves/2023/2xxx/CVE-2023-2737.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "SafeNet Authentication Service Agent "
 CVE-2023-2737,THA-PSIRT,/home/runner/.cache/cvelint/cvelistV5/cves/2023/2xxx/CVE-2023-2737.json,check-leading-trailing-space,E004,containers.cna.descriptions.0.value,Trailing or leading whitespace in description
+CVE-2023-2737,THA-PSIRT,/home/runner/.cache/cvelint/cvelistV5/cves/2023/2xxx/CVE-2023-2737.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "SafeNet Authentication Service Agent "
 CVE-2021-42810,THA-PSIRT,/home/runner/.cache/cvelint/cvelistV5/cves/2021/42xxx/CVE-2021-42810.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Remote Desktop Gateway"
 CVE-2021-42138,THA-PSIRT,/home/runner/.cache/cvelint/cvelistV5/cves/2021/42xxx/CVE-2021-42138.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "Windows Logon Agent"
