@@ -136,14 +136,14 @@ GE GP,E004,check-leading-trailing-space,1
 GEHC,E007,check-invalid-version-string,1
 GE_Vernova,E007,check-invalid-version-string,4
 GRAFANA,E004,check-leading-trailing-space,4
-GRAFANA,E007,check-invalid-version-string,67
+GRAFANA,E007,check-invalid-version-string,71
 Gallagher,E004,check-leading-trailing-space,16
 Gallagher,E007,check-invalid-version-string,101
 GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,18722
+GitHub_M,E007,check-invalid-version-string,18846
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -162,7 +162,7 @@ GovTech CSG,E008,check-invalid-vendor-string,3
 GreenRocketSecurity,E004,check-leading-trailing-space,1
 Gridware,E007,check-invalid-version-string,15
 HCL,E004,check-leading-trailing-space,120
-HCL,E007,check-invalid-version-string,309
+HCL,E007,check-invalid-version-string,326
 HCL,E008,check-invalid-vendor-string,52
 HITVAN,E004,check-leading-trailing-space,21
 HYPR,E004,check-leading-trailing-space,6
@@ -359,7 +359,7 @@ Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
 SolarWinds,E004,check-leading-trailing-space,49
-SolarWinds,E007,check-invalid-version-string,196
+SolarWinds,E007,check-invalid-version-string,198
 Solidigm,E006,check-affected-product-present,8
 Solidigm,E007,check-invalid-version-string,10
 Sophos,E004,check-leading-trailing-space,1
@@ -375,7 +375,7 @@ TECNOMobile,E007,check-invalid-version-string,3
 THA-PSIRT,E004,check-leading-trailing-space,2
 THA-PSIRT,E007,check-invalid-version-string,3
 TML,E004,check-leading-trailing-space,31
-TPLink,E007,check-invalid-version-string,209
+TPLink,E007,check-invalid-version-string,211
 TR-CERT,E004,check-leading-trailing-space,182
 TR-CERT,E006,check-affected-product-present,1
 TR-CERT,E007,check-invalid-version-string,40
@@ -402,7 +402,7 @@ VulDB,E007,check-invalid-version-string,1184
 VulDB,E008,check-invalid-vendor-string,1333
 VulnCheck,E001,check-reference-url-protocol,1
 VulnCheck,E004,check-leading-trailing-space,2
-VulnCheck,E007,check-invalid-version-string,480
+VulnCheck,E007,check-invalid-version-string,481
 WDC PSIRT,E004,check-leading-trailing-space,13
 WDC PSIRT,E007,check-invalid-version-string,43
 WDC PSIRT,E008,check-invalid-vendor-string,1
@@ -656,9 +656,9 @@ microsoft,E007,check-invalid-version-string,36835
 microsoft,E008,check-invalid-vendor-string,2918
 microsoft,E009,check-invalid-product-string,2913
 mitre,E002,check-duplicate-reference-url,1096
-mitre,E007,check-invalid-version-string,111874
-mitre,E008,check-invalid-vendor-string,111800
-mitre,E009,check-invalid-product-string,111800
+mitre,E007,check-invalid-version-string,111882
+mitre,E008,check-invalid-vendor-string,111808
+mitre,E009,check-invalid-product-string,111808
 mitre,E010,check-invalid-self-references,164
 mongodb,E004,check-leading-trailing-space,5
 mongodb,E007,check-invalid-version-string,1
