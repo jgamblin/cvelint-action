@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T00:32:58Z",
+  "generatedAt": "2026-03-27T12:19:38Z",
   "results": [
     {
       "cna": "360ST",
@@ -553,7 +553,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 5},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18846},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18869},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -860,7 +860,7 @@
     {
       "cna": "MediaTek",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 935}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 934}
       ]
     },
     {
@@ -921,7 +921,7 @@
       "cna": "NEC",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1043},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1095},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
       ]
@@ -1358,6 +1358,12 @@
       "cna": "SoftIron",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3}
+      ]
+    },
+    {
+      "cna": "Softing",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2}
       ]
     },
     {
@@ -2123,7 +2129,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5236},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5242},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]

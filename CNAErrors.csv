@@ -143,7 +143,7 @@ GandC,E004,check-leading-trailing-space,10
 Genetec,E007,check-invalid-version-string,38
 GitHub_M,E002,check-duplicate-reference-url,5
 GitHub_M,E004,check-leading-trailing-space,519
-GitHub_M,E007,check-invalid-version-string,18846
+GitHub_M,E007,check-invalid-version-string,18869
 GitHub_M,E008,check-invalid-vendor-string,33
 GitHub_M,E009,check-invalid-product-string,32
 GitHub_P,E004,check-leading-trailing-space,33
@@ -225,7 +225,7 @@ Mandiant,E010,check-invalid-self-references,3
 Mattermost,E004,check-leading-trailing-space,115
 Mattermost,E007,check-invalid-version-string,24
 Mautic,E007,check-invalid-version-string,89
-MediaTek,E007,check-invalid-version-string,935
+MediaTek,E007,check-invalid-version-string,934
 Medtronic,E004,check-leading-trailing-space,2
 Medtronic,E007,check-invalid-version-string,14
 Mend,E007,check-invalid-version-string,50
@@ -241,7 +241,7 @@ NCSC.ch,E004,check-leading-trailing-space,24
 NCSC.ch,E006,check-affected-product-present,3
 NCSC.ch,E007,check-invalid-version-string,40
 NEC,E004,check-leading-trailing-space,7
-NEC,E007,check-invalid-version-string,1043
+NEC,E007,check-invalid-version-string,1095
 NEC,E008,check-invalid-vendor-string,1
 NEC,E009,check-invalid-product-string,1
 NI,E004,check-leading-trailing-space,7
@@ -358,6 +358,7 @@ Silver Peak,E007,check-invalid-version-string,16
 Snow,E004,check-leading-trailing-space,4
 Snow,E007,check-invalid-version-string,2
 SoftIron,E004,check-leading-trailing-space,3
+Softing,E007,check-invalid-version-string,2
 SolarWinds,E004,check-leading-trailing-space,49
 SolarWinds,E007,check-invalid-version-string,198
 Solidigm,E006,check-affected-product-present,8
@@ -628,7 +629,7 @@ joshbressers,E007,check-invalid-version-string,2
 joshbressers,E008,check-invalid-vendor-string,1
 joshbressers,E009,check-invalid-product-string,1
 jpcert,E004,check-leading-trailing-space,10
-jpcert,E007,check-invalid-version-string,5236
+jpcert,E007,check-invalid-version-string,5242
 jpcert,E008,check-invalid-vendor-string,794
 jpcert,E009,check-invalid-product-string,794
 juniper,E002,check-duplicate-reference-url,1
