@@ -9,9 +9,9 @@ Automated CVE data quality monitoring. Runs [CVELint](https://github.com/mprpic/
 <!-- STATS:START -->
 | Metric | Value |
 |--------|-------|
-| Total Errors | — |
-| CNAs with Errors | — |
-| Last Run | — |
+| Total Errors | 11,854 |
+| CNAs with Errors | 227 |
+| Last Run | 2026-03-28T12:14:02Z |
 <!-- STATS:END -->
 
 ## Reports
