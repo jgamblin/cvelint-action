@@ -15,62 +15,113 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      # Install CVE Lint
-      - name: Install Needed Packages
+      - name: Install Packages
         run: |
           sudo apt-get update
           sudo apt-get install -y wget jq
-          mkdir -p CNAReports
 
-      - name: Install CVELINT
+      - name: Install CVELint
         run: |
-          wget https://github.com/mprpic/cvelint/releases/latest/download/cvelint_Linux_x86_64.tar.gz
-          tar -xvf cvelint_Linux_x86_64.tar.gz
+          wget -q https://github.com/mprpic/cvelint/releases/latest/download/cvelint_Linux_x86_64.tar.gz
+          tar -xzf cvelint_Linux_x86_64.tar.gz
           chmod +x cvelint
 
-      - name: Grab Needed Data
+      - name: Clone CVE Dataset
         run: |
           git clone https://github.com/CVEProject/cvelistV5 --depth=1
 
-      - name: Run CVELINT CSV
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Run CVELint Full Scan (JSON)
         run: |
-          ./cvelint -ignore="E007,E008,E009" -format csv ./cvelistV5/cves > CVEV5Errors.csv
-        continue-on-error: true  
+          ./cvelint -ignore="E007,E008,E009" -format json ./cvelistV5/cves > CVEV5Errors.json || {
+            exit_code=$?
+            if [ ! -s CVEV5Errors.json ]; then
+              echo "::error::CVELint crashed with exit code $exit_code and produced no output"
+              exit $exit_code
+            fi
+          }
 
-      - name: Run CVELINT JSON
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Derive Full Scan CSV
         run: |
-          ./cvelint -ignore="E007,E008,E009" -format json ./cvelistV5/cves > CVEV5Errors.json
-        continue-on-error: true
+          jq -r '
+            ["CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"],
+            (.results[] | [.cve, .cna, .file, .ruleName, .errorCode, .errorPath, .errorText])
+            | @csv
+          ' CVEV5Errors.json > CVEV5Errors.csv
 
-      - name: Run CVELINT CNA CSV
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Run CVELint CNA Summary (JSON)
         run: |
-          ./cvelint -summary -format csv ./cvelistV5/cves > CNAErrors.csv
-        continue-on-error: true
+          ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json || {
+            exit_code=$?
+            if [ ! -s CNAErrors.json ]; then
+              echo "::error::CVELint crashed with exit code $exit_code and produced no output"
+              exit $exit_code
+            fi
+          }
 
-      - name: Run CVELINT CNA JSON
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Derive CNA Summary CSV
         run: |
-          ./cvelint -summary -format json ./cvelistV5/cves > CNAErrors.json
-        continue-on-error: true
+          jq -r '
+            ["CNA","ErrorCode","ErrorName","ErrorCount"],
+            (.results[] | .cna as $cna | .errors[] | [$cna, .errorCode, .errorName, .errorCount])
+            | @csv
+          ' CNAErrors.json > CNAErrors.csv
 
-      - name: Run CVELINT CNA Reports
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Generate Per-CNA Reports
         run: |
-          jq -r '.results[].cna' CNAErrors.json | while read CNA; do
-            echo "Running CVELINT for $CNA"
-            ./cvelint -cna="$CNA" -format=csv > "CNAReports/$CNA.csv" || true
+          mkdir -p CNAReports
+          jq -r '.results[].cna' CVEV5Errors.json | sort -u | while read -r CNA; do
+            jq -r --arg cna "$CNA" '
+              ["CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"],
+              (.results[] | select(.cna == $cna) | [.cve, .cna, .file, .ruleName, .errorCode, .errorPath, .errorText])
+              | @csv
+            ' CVEV5Errors.json > "CNAReports/${CNA}.csv"
           done
-        continue-on-error: true
 
-      - name: Commit changes
+      - name: Update Trends
+        run: |
+          TIMESTAMP=$(jq -r '.generatedAt' CVEV5Errors.json)
+          TOTAL_ERRORS=$(jq '.results | length' CVEV5Errors.json)
+          TOTAL_CNAS=$(jq -r '[.results[].cna] | unique | length' CVEV5Errors.json)
+
+          # Count errors per error code
+          ERROR_COUNTS=$(jq -r '
+            [.results[].errorCode] | group_by(.) | map({(.[0]): length}) | add
+            | to_entries | sort_by(.key) | map(.value) | join(",")
+          ' CVEV5Errors.json)
+          ERROR_HEADERS=$(jq -r '
+            [.results[].errorCode] | group_by(.) | map(.[0]) | sort | join(",")
+          ' CVEV5Errors.json)
+
+          # Create header if file doesn't exist
+          if [ ! -f trends.csv ]; then
+            echo "timestamp,total_errors,total_cnas,${ERROR_HEADERS}" > trends.csv
+          fi
+
+          echo "${TIMESTAMP},${TOTAL_ERRORS},${TOTAL_CNAS},${ERROR_COUNTS}" >> trends.csv
+
+      - name: Update README Stats
+        run: |
+          TIMESTAMP=$(jq -r '.generatedAt' CVEV5Errors.json)
+          TOTAL_ERRORS=$(jq '.results | length' CVEV5Errors.json)
+          TOTAL_CNAS=$(jq -r '[.results[].cna] | unique | length' CVEV5Errors.json)
+
+          # Build the stats block
+          STATS_BLOCK="| Metric | Value |
+          |--------|-------|
+          | Total Errors | ${TOTAL_ERRORS} |
+          | CNAs with Errors | ${TOTAL_CNAS} |
+          | Last Run | ${TIMESTAMP} |"
+
+          # Replace content between markers
+          sed -i '/<!-- STATS:START -->/,/<!-- STATS:END -->/{
+            /<!-- STATS:START -->/{
+              p
+              r /dev/stdin
+            }
+            /<!-- STATS:END -->/!d
+          }' README.md <<< "$STATS_BLOCK"
+
+      - name: Commit Changes
         if: github.event_name != 'pull_request'
         uses: EndBug/add-and-commit@v10
         with:
