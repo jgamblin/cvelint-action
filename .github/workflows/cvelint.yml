@@ -31,6 +31,7 @@ jobs:
           git clone https://github.com/CVEProject/cvelistV5 --depth=1
 
       - name: Run CVELint Full Scan (JSON)
+        # E007, E008, E009 excluded: output exceeds 248MB with all rules (over GitHub's 100MB limit)
         run: |
           ./cvelint -ignore="E007,E008,E009" -format json ./cvelistV5/cves > CVEV5Errors.json || {
             exit_code=$?
