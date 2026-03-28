@@ -85,7 +85,7 @@ jobs:
 
           # Count errors per error code
           ERROR_COUNTS=$(jq -r '
-            [.results[].errorCode] | group_by(.) | map({(.[0]): length}) | add
+            [.results[].errorCode] | group_by(.) | map({(.[0]): length}) | (add // {})
             | to_entries | sort_by(.key) | map(.value) | join(",")
           ' CVEV5Errors.json)
           ERROR_HEADERS=$(jq -r '
@@ -105,12 +105,13 @@ jobs:
           TOTAL_ERRORS=$(jq '.results | length' CVEV5Errors.json)
           TOTAL_CNAS=$(jq -r '[.results[].cna] | unique | length' CVEV5Errors.json)
 
-          # Build the stats block
-          STATS_BLOCK="| Metric | Value |
-          |--------|-------|
-          | Total Errors | ${TOTAL_ERRORS} |
-          | CNAs with Errors | ${TOTAL_CNAS} |
-          | Last Run | ${TIMESTAMP} |"
+          # Build the stats block (printf to avoid YAML indentation issues)
+          STATS_BLOCK=$(printf '%s\n' \
+            "| Metric | Value |" \
+            "|--------|-------|" \
+            "| Total Errors | ${TOTAL_ERRORS} |" \
+            "| CNAs with Errors | ${TOTAL_CNAS} |" \
+            "| Last Run | ${TIMESTAMP} |")
 
           # Replace content between markers
           sed -i '/<!-- STATS:START -->/,/<!-- STATS:END -->/{
