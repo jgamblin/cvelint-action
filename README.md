@@ -1,65 +1,37 @@
-# cvelint-action
+# cvelint
 
-Automated CVE data quality monitoring. Runs [CVELint](https://github.com/mprpic/cvelint) every 12 hours against the full [CVE v5 dataset](https://github.com/CVEProject/cvelistV5), producing error reports that help security researchers assess CVE data quality and help CNAs fix their records.
+CVE records in the [v5 JSON schema](https://github.com/CVEProject/cve-schema/tree/master/schema/v5.0) may include errors that are neither enforceable by a schema, nor validated on the backend in CVE Services when a CVE record is created/updated.
+This CLI tool aims to validate CVE records for such errors so they can be fixed, and changes to the CVE schema can be made based on these findings.
 
-[![CVELint](https://github.com/jgamblin/cvelint-action/actions/workflows/cvelint.yml/badge.svg)](https://github.com/jgamblin/cvelint-action/actions/workflows/cvelint.yml)
+## Installation
 
-## Latest Stats
+### Binary Releases
 
-<!-- STATS:START -->
-| Metric | Value |
-|--------|-------|
-| Total Errors | 11,854 |
-| CNAs with Errors | 227 |
-| Last Run | 2026-03-28T12:14:02Z |
-<!-- STATS:END -->
+For Linux, macOS, or Windows, you can download a binary release [here](https://github.com/mprpic/cvelint/releases).
 
-## Reports
+### Build from Source
 
-### All Errors
+```bash
+$ git clone https://github.com/mprpic/cvelint; cd cvelint
+$ make build
+$ ./bin/cvelint -h
+```
 
-- [`CVEV5Errors.json`](CVEV5Errors.json) — every lint error in the CVE v5 dataset (JSON)
-- [`CVEV5Errors.csv`](CVEV5Errors.csv) — same data in CSV format
+## Usage
 
-Each record contains:
+```bash
+$ git clone https://github.com/CVEProject/cvelistV5  # Download all CVE v5 records
+$ ./cvelint -select E005 -cna redhat ./cvelistV5/cves/2023/
+Collected 13501 files; checked 222 files.
 
-| Field | Description |
-|-------|-------------|
-| `cve` | CVE ID (e.g., CVE-2026-33994) |
-| `cna` | CVE Numbering Authority short name |
-| `file` | Path to the CVE record file |
-| `ruleName` | Lint rule that triggered |
-| `errorCode` | Error code (e.g., E002) |
-| `errorPath` | JSON path to the error location |
-| `errorText` | Human-readable error description |
+CVE-2023-3618 (redhat) -- /home/user/cvelistV5/cves/2023/3xxx/CVE-2023-3618.json
+  E005  Incorrect CVSS v3 severity: "high"; should be "medium" (at "containers.cna.metrics.1.cvssV3_1")
 
-### CNA Summary
+Found 1 error.
+$ ./cvelint -show-rules  # Display available validation rules
+$ ./cvelint -h  # Display help
+```
 
-- [`CNAErrors.json`](CNAErrors.json) — error counts grouped by CNA and error code (JSON)
-- [`CNAErrors.csv`](CNAErrors.csv) — same data in CSV format
+## GitHub Action
 
-### Per-CNA Reports
-
-The [`CNAReports/`](CNAReports/) directory contains individual CSV reports for each CNA, making it easy to find errors for a specific organization.
-
-### Trends
-
-[`trends.csv`](trends.csv) tracks error counts over time — one row per run, with total errors, CNA count, and per-error-code breakdowns.
-
-## Error Codes
-
-| Code | Rule | Description |
-|------|------|-------------|
-| E001 | check-public-date | Invalid or missing public date |
-| E002 | check-duplicate-reference-url | Duplicate reference URL in a CVE record |
-| E003 | check-missing-reference-tags | Reference URL missing required tags |
-| E004 | check-leading-trailing-space | Leading or trailing whitespace in fields |
-| E005 | check-incorrect-cvss-severity | CVSS severity doesn't match the score |
-| E006 | check-bogus-url | Reference URL is not reachable |
-| E010 | check-invalid-self-references | Unnecessary self-reference URL |
-
-> **Note:** E007 (invalid version string), E008 (invalid vendor string), and E009 are excluded from reports due to high volume. See [cvelint rules](https://github.com/mprpic/cvelint) for full details.
-
-## About CVELint
-
-This action wraps [CVELint](https://github.com/mprpic/cvelint) by [@mprpic](https://github.com/mprpic) — a CLI tool that validates CVE records for errors that aren't enforceable by the [CVE v5 JSON schema](https://github.com/CVEProject/cve-schema/tree/master/schema/v5.0) or validated by CVE Services.
+[cvelint-action](https://github.com/jgamblin/cvelint-action) runs daily and produces a CSV and JSON output of all errors in the current CVE v5 data set.
