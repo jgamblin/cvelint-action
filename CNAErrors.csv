@@ -143,7 +143,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",7
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",18985
+"GitHub_M","E007","check-invalid-version-string",19023
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -225,7 +225,7 @@
 "Mattermost","E004","check-leading-trailing-space",115
 "Mattermost","E007","check-invalid-version-string",24
 "Mautic","E007","check-invalid-version-string",89
-"MediaTek","E007","check-invalid-version-string",989
+"MediaTek","E007","check-invalid-version-string",865
 "Medtronic","E004","check-leading-trailing-space",2
 "Medtronic","E007","check-invalid-version-string",14
 "Mend","E007","check-invalid-version-string",50
@@ -403,7 +403,7 @@
 "VulDB","E008","check-invalid-vendor-string",1337
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E007","check-invalid-version-string",496
+"VulnCheck","E007","check-invalid-version-string",498
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -413,7 +413,7 @@
 "WPScan","E009","check-invalid-product-string",11
 "WSO2","E004","check-leading-trailing-space",3
 "WatchGuard","E004","check-leading-trailing-space",2
-"WatchGuard","E007","check-invalid-version-string",11
+"WatchGuard","E007","check-invalid-version-string",12
 "WindRiver","E007","check-invalid-version-string",1
 "Wordfence","E007","check-invalid-version-string",14
 "Wordfence","E008","check-invalid-vendor-string",58
@@ -492,7 +492,7 @@
 "certcc","E007","check-invalid-version-string",2696
 "certcc","E008","check-invalid-vendor-string",2539
 "certcc","E009","check-invalid-product-string",2471
-"checkpoint","E007","check-invalid-version-string",95
+"checkpoint","E007","check-invalid-version-string",96
 "checkpoint","E008","check-invalid-vendor-string",46
 "cisa-cg","E004","check-leading-trailing-space",13
 "cisa-cg","E007","check-invalid-version-string",84
@@ -657,9 +657,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",111907
-"mitre","E008","check-invalid-vendor-string",111832
-"mitre","E009","check-invalid-product-string",111832
+"mitre","E007","check-invalid-version-string",111935
+"mitre","E008","check-invalid-vendor-string",111860
+"mitre","E009","check-invalid-product-string",111860
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -715,7 +715,7 @@
 "qualcomm","E008","check-invalid-vendor-string",123
 "qualcomm","E009","check-invalid-product-string",124
 "rapid7","E004","check-leading-trailing-space",23
-"rapid7","E007","check-invalid-version-string",2526
+"rapid7","E007","check-invalid-version-string",2536
 "rapid7","E008","check-invalid-vendor-string",2
 "rapid7","E009","check-invalid-product-string",2
 "redhat","E002","check-duplicate-reference-url",675
