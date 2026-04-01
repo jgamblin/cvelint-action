@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T00:36:23Z",
+  "generatedAt": "2026-04-01T12:23:47Z",
   "results": [
     {
       "cna": "360ST",
@@ -431,6 +431,7 @@
     {
       "cna": "ENISA",
       "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
     },
@@ -507,7 +508,7 @@
     {
       "cna": "Foxit",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 58}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 81}
       ]
     },
     {
@@ -1542,7 +1543,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1186},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1339}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1341}
       ]
     },
     {
@@ -1861,7 +1862,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2130},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2144},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323}
       ]
