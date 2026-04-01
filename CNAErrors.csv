@@ -18,7 +18,7 @@
 "AMD","E007","check-invalid-version-string",2005
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
-"AMZN","E006","check-affected-product-present",13
+"AMZN","E006","check-affected-product-present",14
 "AMZN","E007","check-invalid-version-string",1
 "ASR","E004","check-leading-trailing-space",4
 "ASR","E006","check-affected-product-present",3
@@ -144,7 +144,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",7
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",19046
+"GitHub_M","E007","check-invalid-version-string",19206
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -277,7 +277,7 @@
 "OpenNMS","E004","check-leading-trailing-space",9
 "OpenNMS","E007","check-invalid-version-string",7
 "OpenText","E004","check-leading-trailing-space",40
-"OpenText","E007","check-invalid-version-string",74
+"OpenText","E007","check-invalid-version-string",77
 "OpenText","E008","check-invalid-vendor-string",2
 "OpenVPN","E004","check-leading-trailing-space",1
 "OpenVPN","E007","check-invalid-version-string",23
@@ -301,7 +301,7 @@
 "Patchstack","E009","check-invalid-product-string",2
 "Payara","E004","check-leading-trailing-space",1
 "Pega","E004","check-leading-trailing-space",4
-"Pega","E007","check-invalid-version-string",6
+"Pega","E007","check-invalid-version-string",7
 "Pentraze","E004","check-leading-trailing-space",2
 "Pentraze","E007","check-invalid-version-string",4
 "Perforce","E004","check-leading-trailing-space",7
@@ -402,10 +402,10 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1186
-"VulDB","E008","check-invalid-vendor-string",1337
+"VulDB","E008","check-invalid-vendor-string",1339
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E007","check-invalid-version-string",498
+"VulnCheck","E007","check-invalid-version-string",497
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -604,7 +604,7 @@
 "ibm","E009","check-invalid-product-string",1835
 "icscert","E002","check-duplicate-reference-url",1
 "icscert","E004","check-leading-trailing-space",344
-"icscert","E007","check-invalid-version-string",3281
+"icscert","E007","check-invalid-version-string",3286
 "icscert","E008","check-invalid-vendor-string",1266
 "icscert","E009","check-invalid-product-string",448
 "imaginationtech","E007","check-invalid-version-string",226
@@ -659,9 +659,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",111935
-"mitre","E008","check-invalid-vendor-string",111860
-"mitre","E009","check-invalid-product-string",111860
+"mitre","E007","check-invalid-version-string",111955
+"mitre","E008","check-invalid-vendor-string",111880
+"mitre","E009","check-invalid-product-string",111880
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -680,10 +680,10 @@
 "netgear","E008","check-invalid-vendor-string",1
 "nodejs","E007","check-invalid-version-string",30
 "nvidia","E004","check-leading-trailing-space",24
-"nvidia","E007","check-invalid-version-string",973
+"nvidia","E007","check-invalid-version-string",981
 "nvidia","E008","check-invalid-vendor-string",32
 "nvidia","E009","check-invalid-product-string",4
-"nvidia","E010","check-invalid-self-references",156
+"nvidia","E010","check-invalid-self-references",161
 "obdev","E007","check-invalid-version-string",5
 "obdev","E008","check-invalid-vendor-string",4
 "openEuler","E004","check-leading-trailing-space",12
@@ -750,7 +750,7 @@
 "snyk","E009","check-invalid-product-string",5
 "snyk","E010","check-invalid-self-references",2
 "sonicwall","E004","check-leading-trailing-space",17
-"sonicwall","E007","check-invalid-version-string",413
+"sonicwall","E007","check-invalid-version-string",419
 "suse","E004","check-leading-trailing-space",8
 "suse","E007","check-invalid-version-string",172
 "suse","E008","check-invalid-vendor-string",9
