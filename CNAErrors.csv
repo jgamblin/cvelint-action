@@ -111,6 +111,7 @@
 "EA","E008","check-invalid-vendor-string",1
 "EDB","E004","check-leading-trailing-space",1
 "EEF","E007","check-invalid-version-string",27
+"ENISA","E007","check-invalid-version-string",1
 "ENISA","E010","check-invalid-self-references",2
 "ERIC","E004","check-leading-trailing-space",1
 "ERIC","E007","check-invalid-version-string",5
@@ -132,7 +133,7 @@
 "Fluid Attacks","E008","check-invalid-vendor-string",76
 "Fortra","E004","check-leading-trailing-space",4
 "Fortra","E007","check-invalid-version-string",8
-"Foxit","E007","check-invalid-version-string",58
+"Foxit","E007","check-invalid-version-string",81
 "GE GP","E004","check-leading-trailing-space",1
 "GEHC","E007","check-invalid-version-string",1
 "GE_Vernova","E007","check-invalid-version-string",4
@@ -402,7 +403,7 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1186
-"VulDB","E008","check-invalid-vendor-string",1339
+"VulDB","E008","check-invalid-vendor-string",1341
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
 "VulnCheck","E007","check-invalid-version-string",497
@@ -516,7 +517,7 @@
 "debian","E009","check-invalid-product-string",509
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",2130
+"dell","E007","check-invalid-version-string",2144
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "directcyber","E004","check-leading-trailing-space",3
