@@ -1,4 +1,5 @@
 "CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
 "CVE-2024-0840","VulnCheck","cvelistV5/cves/2024/0xxx/CVE-2024-0840.json","check-leading-trailing-space","E004","containers.cna.descriptions.0.value","Trailing or leading whitespace in description"
 "CVE-2024-0241","VulnCheck","cvelistV5/cves/2024/0xxx/CVE-2024-0241.json","check-leading-trailing-space","E004","containers.cna.descriptions.0.value","Trailing or leading whitespace in description"
+"CVE-2022-4986","VulnCheck","cvelistV5/cves/2022/4xxx/CVE-2022-4986.json","check-affected-product-present","E006","containers.cna.affected","No affected product found"
 "CVE-2019-25293","VulnCheck","cvelistV5/cves/2019/25xxx/CVE-2019-25293.json","check-reference-url-protocol","E001","containers.cna.references.1.url","Invalid reference URL: https:/www.bluestacks.com"
