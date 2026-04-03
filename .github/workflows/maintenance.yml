@@ -57,10 +57,17 @@ jobs:
             exit 0
           fi
 
+          # Check if KEEP_FROM is the root commit (no parent to squash into)
+          ROOT_COMMIT=$(git rev-list --max-parents=0 HEAD)
+          if [ "$KEEP_FROM" = "$ROOT_COMMIT" ]; then
+            echo "Oldest kept commit is already the root — nothing to squash"
+            exit 0
+          fi
+
           # Find the parent of the oldest kept commit
           SQUASH_UNTIL=$(git rev-parse "${KEEP_FROM}^" 2>/dev/null)
 
-          if [ -z "$SQUASH_UNTIL" ]; then
+          if [ -z "$SQUASH_UNTIL" ] || ! git cat-file -e "$SQUASH_UNTIL" 2>/dev/null; then
             echo "Nothing old enough to squash"
             exit 0
           fi
