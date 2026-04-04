@@ -18,7 +18,7 @@
 "AMD","E007","check-invalid-version-string",2005
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
-"AMZN","E006","check-affected-product-present",14
+"AMZN","E006","check-affected-product-present",20
 "AMZN","E007","check-invalid-version-string",1
 "ASR","E004","check-leading-trailing-space",4
 "ASR","E006","check-affected-product-present",3
@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",7
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",19376
+"GitHub_M","E007","check-invalid-version-string",19489
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -379,7 +379,7 @@
 "THA-PSIRT","E004","check-leading-trailing-space",2
 "THA-PSIRT","E007","check-invalid-version-string",3
 "TML","E004","check-leading-trailing-space",31
-"TPLink","E007","check-invalid-version-string",219
+"TPLink","E007","check-invalid-version-string",220
 "TR-CERT","E004","check-leading-trailing-space",182
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",40
@@ -403,11 +403,10 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1186
-"VulDB","E008","check-invalid-vendor-string",1348
+"VulDB","E008","check-invalid-vendor-string",1350
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E006","check-affected-product-present",1
-"VulnCheck","E007","check-invalid-version-string",497
+"VulnCheck","E007","check-invalid-version-string",502
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -657,13 +656,13 @@
 "microfocus","E009","check-invalid-product-string",109
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",36841
+"microsoft","E007","check-invalid-version-string",36842
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",111989
-"mitre","E008","check-invalid-vendor-string",111914
-"mitre","E009","check-invalid-product-string",111914
+"mitre","E007","check-invalid-version-string",111993
+"mitre","E008","check-invalid-vendor-string",111918
+"mitre","E009","check-invalid-product-string",111918
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
