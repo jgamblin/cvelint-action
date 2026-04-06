@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T12:14:52Z",
+  "generatedAt": "2026-04-06T00:34:26Z",
   "results": [
     {
       "cna": "360ST",
@@ -686,7 +686,7 @@
       "cna": "Honeywell",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 23},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 348}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 351}
       ]
     },
     {
@@ -1543,7 +1543,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1186},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1351}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1352}
       ]
     },
     {
@@ -1551,7 +1551,7 @@
       "errors": [
         {"errorCode": "E001", "errorName": "check-reference-url-protocol", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 502}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 513}
       ]
     },
     {
