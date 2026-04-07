@@ -110,7 +110,6 @@
 "EA","E007","check-invalid-version-string",1
 "EA","E008","check-invalid-vendor-string",1
 "EDB","E004","check-leading-trailing-space",1
-"EEF","E007","check-invalid-version-string",27
 "ENISA","E007","check-invalid-version-string",1
 "ENISA","E010","check-invalid-self-references",2
 "ERIC","E004","check-leading-trailing-space",1
@@ -143,9 +142,9 @@
 "Gallagher","E007","check-invalid-version-string",101
 "GandC","E004","check-leading-trailing-space",10
 "Genetec","E007","check-invalid-version-string",38
-"GitHub_M","E002","check-duplicate-reference-url",7
+"GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",19492
+"GitHub_M","E007","check-invalid-version-string",19631
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -297,7 +296,7 @@
 "PaperCut","E004","check-leading-trailing-space",1
 "PaperCut","E007","check-invalid-version-string",1
 "Patchstack","E004","check-leading-trailing-space",1893
-"Patchstack","E007","check-invalid-version-string",6359
+"Patchstack","E007","check-invalid-version-string",6361
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
 "Payara","E004","check-leading-trailing-space",1
@@ -403,7 +402,7 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1187
-"VulDB","E008","check-invalid-vendor-string",1354
+"VulDB","E008","check-invalid-vendor-string",1355
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
 "VulnCheck","E007","check-invalid-version-string",513
@@ -572,7 +571,7 @@
 "freebsd","E008","check-invalid-vendor-string",87
 "freebsd","E009","check-invalid-product-string",35
 "google_android","E004","check-leading-trailing-space",85
-"google_android","E007","check-invalid-version-string",2415
+"google_android","E007","check-invalid-version-string",2416
 "google_android","E008","check-invalid-vendor-string",3103
 "google_android","E009","check-invalid-product-string",571
 "hackerone","E004","check-leading-trailing-space",48
@@ -660,9 +659,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",111993
-"mitre","E008","check-invalid-vendor-string",111918
-"mitre","E009","check-invalid-product-string",111918
+"mitre","E007","check-invalid-version-string",112023
+"mitre","E008","check-invalid-vendor-string",111948
+"mitre","E009","check-invalid-product-string",111948
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -714,7 +713,7 @@
 "qnap","E007","check-invalid-version-string",884
 "qnap","E008","check-invalid-vendor-string",17
 "qnap","E009","check-invalid-product-string",4
-"qualcomm","E007","check-invalid-version-string",26122
+"qualcomm","E007","check-invalid-version-string",26425
 "qualcomm","E008","check-invalid-vendor-string",123
 "qualcomm","E009","check-invalid-product-string",124
 "rapid7","E004","check-leading-trailing-space",23
