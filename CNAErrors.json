@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T00:34:25Z",
+  "generatedAt": "2026-04-07T12:24:03Z",
   "results": [
     {
       "cna": "360ST",
@@ -1136,7 +1136,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1893},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6361},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6371},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -2357,7 +2357,7 @@
       "cna": "rapid7",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 23},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2536},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2642},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -2367,9 +2367,9 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 675},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 27},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 9481},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8400},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6765}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 9479},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8398},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6763}
       ]
     },
     {
