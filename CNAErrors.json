@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T00:34:31Z",
+  "generatedAt": "2026-04-08T12:23:46Z",
   "results": [
     {
       "cna": "360ST",
@@ -1856,7 +1856,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2146},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2147},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323}
       ]
@@ -2131,7 +2131,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5247},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5292},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2199,9 +2199,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 112035},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111960},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111960},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 112034},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 111959},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 111959},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
