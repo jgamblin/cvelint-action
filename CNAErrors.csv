@@ -144,7 +144,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",19631
+"GitHub_M","E007","check-invalid-version-string",19788
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -258,7 +258,7 @@
 "Netskope","E004","check-leading-trailing-space",3
 "Netskope","E007","check-invalid-version-string",8
 "Nokia","E003","check-description-length",1
-"Nokia","E007","check-invalid-version-string",33
+"Nokia","E007","check-invalid-version-string",36
 "Nozomi","E007","check-invalid-version-string",67
 "OB","E007","check-invalid-version-string",1
 "ODA","E004","check-leading-trailing-space",1
@@ -343,7 +343,7 @@
 "SRA","E004","check-leading-trailing-space",2
 "STAR_Labs","E004","check-leading-trailing-space",7
 "SWI","E004","check-leading-trailing-space",7
-"SWI","E007","check-invalid-version-string",6
+"SWI","E007","check-invalid-version-string",15
 "SWI","E008","check-invalid-vendor-string",2
 "SailPoint","E007","check-invalid-version-string",3
 "Salesforce","E007","check-invalid-version-string",31
@@ -402,10 +402,10 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1187
-"VulDB","E008","check-invalid-vendor-string",1355
+"VulDB","E008","check-invalid-vendor-string",1357
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E007","check-invalid-version-string",513
+"VulnCheck","E007","check-invalid-version-string",512
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -659,9 +659,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112023
-"mitre","E008","check-invalid-vendor-string",111948
-"mitre","E009","check-invalid-product-string",111948
+"mitre","E007","check-invalid-version-string",112035
+"mitre","E008","check-invalid-vendor-string",111960
+"mitre","E009","check-invalid-product-string",111960
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -680,10 +680,10 @@
 "netgear","E008","check-invalid-vendor-string",1
 "nodejs","E007","check-invalid-version-string",30
 "nvidia","E004","check-leading-trailing-space",24
-"nvidia","E007","check-invalid-version-string",981
+"nvidia","E007","check-invalid-version-string",987
 "nvidia","E008","check-invalid-vendor-string",32
 "nvidia","E009","check-invalid-product-string",4
-"nvidia","E010","check-invalid-self-references",161
+"nvidia","E010","check-invalid-self-references",167
 "obdev","E007","check-invalid-version-string",5
 "obdev","E008","check-invalid-vendor-string",4
 "openEuler","E004","check-leading-trailing-space",12
@@ -762,7 +762,7 @@
 "synology","E007","check-invalid-version-string",53
 "synology","E008","check-invalid-vendor-string",8
 "synology","E009","check-invalid-product-string",8
-"talos","E007","check-invalid-version-string",1446
+"talos","E007","check-invalid-version-string",1454
 "talos","E008","check-invalid-vendor-string",727
 "talos","E009","check-invalid-product-string",94
 "tenable","E002","check-duplicate-reference-url",1
@@ -787,6 +787,7 @@
 "vmware","E007","check-invalid-version-string",794
 "vmware","E008","check-invalid-vendor-string",384
 "vmware","E009","check-invalid-product-string",14
+"wikimedia-foundation","E006","check-affected-product-present",4
 "wikimedia-foundation","E007","check-invalid-version-string",52
 "wolfSSL","E004","check-leading-trailing-space",5
 "wolfSSL","E007","check-invalid-version-string",2
