@@ -144,7 +144,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",19788
+"GitHub_M","E007","check-invalid-version-string",19900
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -233,7 +233,7 @@
 "Mend","E008","check-invalid-vendor-string",52
 "Microchip","E007","check-invalid-version-string",2
 "Mitsubishi","E004","check-leading-trailing-space",7
-"Mitsubishi","E007","check-invalid-version-string",3527
+"Mitsubishi","E007","check-invalid-version-string",3565
 "Mitsubishi","E008","check-invalid-vendor-string",37
 "Moxa","E004","check-leading-trailing-space",20
 "N-able","E007","check-invalid-version-string",4
@@ -378,7 +378,7 @@
 "THA-PSIRT","E004","check-leading-trailing-space",2
 "THA-PSIRT","E007","check-invalid-version-string",3
 "TML","E004","check-leading-trailing-space",31
-"TPLink","E007","check-invalid-version-string",220
+"TPLink","E007","check-invalid-version-string",225
 "TR-CERT","E004","check-leading-trailing-space",182
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",40
@@ -417,8 +417,8 @@
 "WatchGuard","E004","check-leading-trailing-space",2
 "WatchGuard","E007","check-invalid-version-string",12
 "WindRiver","E007","check-invalid-version-string",1
-"Wordfence","E007","check-invalid-version-string",14
-"Wordfence","E008","check-invalid-vendor-string",58
+"Wordfence","E007","check-invalid-version-string",8
+"Wordfence","E008","check-invalid-vendor-string",44
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",131
 "XI","E004","check-leading-trailing-space",24
@@ -516,7 +516,7 @@
 "debian","E009","check-invalid-product-string",509
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",2147
+"dell","E007","check-invalid-version-string",2151
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "directcyber","E004","check-leading-trailing-space",3
@@ -610,8 +610,8 @@
 "imaginationtech","E007","check-invalid-version-string",226
 "intel","E002","check-duplicate-reference-url",22
 "intel","E004","check-leading-trailing-space",4
-"intel","E007","check-invalid-version-string",2091
-"intel","E008","check-invalid-vendor-string",1843
+"intel","E007","check-invalid-version-string",2092
+"intel","E008","check-invalid-vendor-string",1844
 "intel","E009","check-invalid-product-string",20
 "isc","E007","check-invalid-version-string",119
 "isc","E008","check-invalid-vendor-string",1
@@ -637,7 +637,7 @@
 "juniper","E002","check-duplicate-reference-url",1
 "juniper","E004","check-leading-trailing-space",68
 "juniper","E006","check-affected-product-present",2
-"juniper","E007","check-invalid-version-string",2150
+"juniper","E007","check-invalid-version-string",2151
 "juniper","E008","check-invalid-vendor-string",11
 "juniper","E009","check-invalid-product-string",11
 "krcert","E004","check-leading-trailing-space",9
@@ -659,9 +659,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112034
-"mitre","E008","check-invalid-vendor-string",111959
-"mitre","E009","check-invalid-product-string",111959
+"mitre","E007","check-invalid-version-string",112071
+"mitre","E008","check-invalid-vendor-string",111996
+"mitre","E009","check-invalid-product-string",111996
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -787,7 +787,6 @@
 "vmware","E007","check-invalid-version-string",794
 "vmware","E008","check-invalid-vendor-string",384
 "vmware","E009","check-invalid-product-string",14
-"wikimedia-foundation","E006","check-affected-product-present",4
 "wikimedia-foundation","E007","check-invalid-version-string",52
 "wolfSSL","E004","check-leading-trailing-space",5
 "wolfSSL","E007","check-invalid-version-string",2
