@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T00:28:36Z",
+  "generatedAt": "2026-04-09T12:26:21Z",
   "results": [
     {
       "cna": "360ST",
@@ -229,7 +229,7 @@
       "cna": "CERTVDE",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 46},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1063},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1064},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -888,7 +888,7 @@
       "cna": "Mitsubishi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3565},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3583},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 37}
       ]
     },
@@ -1136,7 +1136,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1893},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6371},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6372},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1536,7 +1536,7 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1187},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1189},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1357}
       ]
     },
