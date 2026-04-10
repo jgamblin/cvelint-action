@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T00:33:29Z",
+  "generatedAt": "2026-04-10T12:21:04Z",
   "results": [
     {
       "cna": "360ST",
@@ -215,7 +215,7 @@
       "cna": "CERT-In",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 33},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 89}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 91}
       ]
     },
     {
@@ -922,7 +922,7 @@
       "cna": "NEC",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1095},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1104},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1}
       ]
@@ -1536,8 +1536,8 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1190},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1357}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1191},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1359}
       ]
     },
     {
@@ -2131,7 +2131,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5292},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5293},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
