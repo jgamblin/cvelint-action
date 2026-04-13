@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T00:37:14Z",
+  "generatedAt": "2026-04-13T12:27:51Z",
   "results": [
     {
       "cna": "360ST",
@@ -502,7 +502,7 @@
     {
       "cna": "Foxit",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 81}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 82}
       ]
     },
     {
@@ -1136,7 +1136,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1893},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6375},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6376},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1326,7 +1326,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 354}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 362}
       ]
     },
     {
@@ -2131,7 +2131,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5293},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5295},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
