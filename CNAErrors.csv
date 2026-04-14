@@ -13,7 +13,7 @@
 "ABB","E007","check-invalid-version-string",202
 "AHA","E004","check-leading-trailing-space",1
 "AHA","E007","check-invalid-version-string",238
-"AMD","E004","check-leading-trailing-space",84
+"AMD","E004","check-leading-trailing-space",83
 "AMD","E006","check-affected-product-present",3
 "AMD","E007","check-invalid-version-string",2005
 "AMD","E008","check-invalid-vendor-string",6
@@ -144,7 +144,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20098
+"GitHub_M","E007","check-invalid-version-string",20140
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -163,7 +163,7 @@
 "GreenRocketSecurity","E004","check-leading-trailing-space",1
 "Gridware","E007","check-invalid-version-string",15
 "HCL","E004","check-leading-trailing-space",120
-"HCL","E007","check-invalid-version-string",328
+"HCL","E007","check-invalid-version-string",329
 "HCL","E008","check-invalid-vendor-string",52
 "HITVAN","E004","check-leading-trailing-space",21
 "HYPR","E004","check-leading-trailing-space",6
@@ -233,7 +233,7 @@
 "Mend","E008","check-invalid-vendor-string",52
 "Microchip","E007","check-invalid-version-string",2
 "Mitsubishi","E004","check-leading-trailing-space",7
-"Mitsubishi","E007","check-invalid-version-string",3583
+"Mitsubishi","E007","check-invalid-version-string",3591
 "Mitsubishi","E008","check-invalid-vendor-string",37
 "Moxa","E004","check-leading-trailing-space",20
 "N-able","E007","check-invalid-version-string",4
@@ -402,7 +402,7 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1191
-"VulDB","E008","check-invalid-vendor-string",1359
+"VulDB","E008","check-invalid-vendor-string",1362
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
 "VulnCheck","E007","check-invalid-version-string",513
@@ -659,13 +659,14 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112094
-"mitre","E008","check-invalid-vendor-string",112018
-"mitre","E009","check-invalid-product-string",112018
+"mitre","E007","check-invalid-version-string",112130
+"mitre","E008","check-invalid-vendor-string",112054
+"mitre","E009","check-invalid-product-string",112054
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
 "mozilla","E004","check-leading-trailing-space",6
+"mozilla","E006","check-affected-product-present",334
 "mozilla","E007","check-invalid-version-string",780
 "mozilla","E008","check-invalid-vendor-string",607
 "mozilla","E009","check-invalid-product-string",601
@@ -730,7 +731,7 @@
 "sap","E002","check-duplicate-reference-url",1
 "sap","E004","check-leading-trailing-space",181
 "sap","E006","check-affected-product-present",1
-"sap","E007","check-invalid-version-string",4342
+"sap","E007","check-invalid-version-string",4364
 "sap","E008","check-invalid-vendor-string",4
 "sap","E009","check-invalid-product-string",4
 "schneider","E004","check-leading-trailing-space",62
