@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T00:39:05Z",
+  "generatedAt": "2026-04-14T12:26:36Z",
   "results": [
     {
       "cna": "360ST",
@@ -554,7 +554,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 8},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20140},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20159},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1243,7 +1243,7 @@
     {
       "cna": "SEC-VLab",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 93}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94}
       ]
     },
     {
@@ -2386,7 +2386,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 181},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4364},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4388},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 4}
       ]
@@ -2418,7 +2418,7 @@
       "cna": "siemens",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7670},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6864},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 40}
       ]
     },
