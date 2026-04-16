@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T00:39:43Z",
+  "generatedAt": "2026-04-16T12:28:27Z",
   "results": [
     {
       "cna": "360ST",
@@ -91,7 +91,7 @@
     {
       "cna": "ASUS",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 55}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 56}
       ]
     },
     {
@@ -797,6 +797,12 @@
       "cna": "LINE",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7}
+      ]
+    },
+    {
+      "cna": "LY-Corporation",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
       ]
     },
     {
@@ -1856,7 +1862,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2151},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2152},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323}
       ]
