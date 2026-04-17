@@ -15,7 +15,7 @@
 "AHA","E007","check-invalid-version-string",238
 "AMD","E004","check-leading-trailing-space",83
 "AMD","E006","check-affected-product-present",3
-"AMD","E007","check-invalid-version-string",2005
+"AMD","E007","check-invalid-version-string",2052
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
 "AMZN","E006","check-affected-product-present",20
@@ -144,7 +144,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20250
+"GitHub_M","E007","check-invalid-version-string",20290
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -339,6 +339,7 @@
 "SK-CERT","E007","check-invalid-version-string",8
 "SN","E004","check-leading-trailing-space",5
 "SN","E007","check-invalid-version-string",123
+"SNOWFLAKE","E007","check-invalid-version-string",1
 "SNPS","E004","check-leading-trailing-space",4
 "SNPS","E007","check-invalid-version-string",28
 "SRA","E004","check-leading-trailing-space",2
@@ -394,7 +395,7 @@
 "Toreon","E007","check-invalid-version-string",1
 "Toshiba","E007","check-invalid-version-string",43
 "TuranSec","E002","check-duplicate-reference-url",1
-"TuranSec","E007","check-invalid-version-string",9
+"TuranSec","E007","check-invalid-version-string",10
 "Unisoc","E007","check-invalid-version-string",600
 "VDOO","E007","check-invalid-version-string",10
 "VDOO","E008","check-invalid-vendor-string",10
@@ -660,9 +661,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112175
-"mitre","E008","check-invalid-vendor-string",112099
-"mitre","E009","check-invalid-product-string",112099
+"mitre","E007","check-invalid-version-string",112190
+"mitre","E008","check-invalid-vendor-string",112114
+"mitre","E009","check-invalid-product-string",112114
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
