@@ -518,7 +518,7 @@
 "debian","E009","check-invalid-product-string",509
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",2152
+"dell","E007","check-invalid-version-string",2200
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "directcyber","E004","check-leading-trailing-space",3
@@ -633,7 +633,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5296
+"jpcert","E007","check-invalid-version-string",5299
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
@@ -801,5 +801,5 @@
 "zephyr","E004","check-leading-trailing-space",2
 "zephyr","E007","check-invalid-version-string",10
 "zte","E004","check-leading-trailing-space",16
-"zte","E007","check-invalid-version-string",100
+"zte","E007","check-invalid-version-string",101
 "zte","E008","check-invalid-vendor-string",67

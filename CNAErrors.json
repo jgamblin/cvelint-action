@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T00:37:51Z",
+  "generatedAt": "2026-04-17T12:24:45Z",
   "results": [
     {
       "cna": "360ST",
@@ -1868,7 +1868,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2152},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2200},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323}
       ]
@@ -2143,7 +2143,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5296},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5299},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2576,7 +2576,7 @@
       "cna": "zte",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 16},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 100},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 101},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 67}
       ]
     }
