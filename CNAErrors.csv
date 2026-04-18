@@ -18,7 +18,7 @@
 "AMD","E007","check-invalid-version-string",2052
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
-"AMZN","E006","check-affected-product-present",20
+"AMZN","E006","check-affected-product-present",21
 "AMZN","E007","check-invalid-version-string",1
 "ASR","E004","check-leading-trailing-space",4
 "ASR","E006","check-affected-product-present",3
@@ -144,7 +144,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20290
+"GitHub_M","E007","check-invalid-version-string",20386
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -404,7 +404,7 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1191
-"VulDB","E008","check-invalid-vendor-string",1359
+"VulDB","E008","check-invalid-vendor-string",1361
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
 "VulnCheck","E007","check-invalid-version-string",513
@@ -606,10 +606,10 @@
 "ibm","E009","check-invalid-product-string",1835
 "icscert","E002","check-duplicate-reference-url",1
 "icscert","E004","check-leading-trailing-space",344
-"icscert","E007","check-invalid-version-string",3287
+"icscert","E007","check-invalid-version-string",3304
 "icscert","E008","check-invalid-vendor-string",1266
 "icscert","E009","check-invalid-product-string",448
-"imaginationtech","E007","check-invalid-version-string",226
+"imaginationtech","E007","check-invalid-version-string",234
 "intel","E002","check-duplicate-reference-url",22
 "intel","E004","check-leading-trailing-space",4
 "intel","E007","check-invalid-version-string",2092
@@ -661,9 +661,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112190
-"mitre","E008","check-invalid-vendor-string",112114
-"mitre","E009","check-invalid-product-string",112114
+"mitre","E007","check-invalid-version-string",112193
+"mitre","E008","check-invalid-vendor-string",112117
+"mitre","E009","check-invalid-product-string",112117
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
