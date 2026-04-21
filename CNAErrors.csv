@@ -88,7 +88,7 @@
 "Citrix","E007","check-invalid-version-string",102
 "ConcreteCMS","E004","check-leading-trailing-space",3
 "ConcreteCMS","E006","check-affected-product-present",1
-"ConnectWise","E007","check-invalid-version-string",10
+"ConnectWise","E007","check-invalid-version-string",11
 "CoolKit","E004","check-leading-trailing-space",1
 "Cybellum","E004","check-leading-trailing-space",1
 "Cybellum","E007","check-invalid-version-string",2
@@ -144,7 +144,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20401
+"GitHub_M","E007","check-invalid-version-string",20432
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -404,10 +404,10 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1191
-"VulDB","E008","check-invalid-vendor-string",1368
+"VulDB","E008","check-invalid-vendor-string",1369
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E007","check-invalid-version-string",513
+"VulnCheck","E007","check-invalid-version-string",514
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -518,7 +518,7 @@
 "debian","E009","check-invalid-product-string",509
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",2200
+"dell","E007","check-invalid-version-string",2233
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "directcyber","E004","check-leading-trailing-space",3
@@ -661,9 +661,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112193
-"mitre","E008","check-invalid-vendor-string",112117
-"mitre","E009","check-invalid-product-string",112117
+"mitre","E007","check-invalid-version-string",112208
+"mitre","E008","check-invalid-vendor-string",112132
+"mitre","E009","check-invalid-product-string",112132
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
