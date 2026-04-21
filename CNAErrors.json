@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T00:38:38Z",
+  "generatedAt": "2026-04-21T12:27:15Z",
   "results": [
     {
       "cna": "360ST",
@@ -215,7 +215,7 @@
       "cna": "CERT-In",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 33},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 91}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 95}
       ]
     },
     {
@@ -554,7 +554,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 8},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20432},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20453},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -1142,7 +1142,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1893},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6382},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6383},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1677,7 +1677,7 @@
       "cna": "Zyxel",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 394}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 395}
       ]
     },
     {
