@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20593
+"GitHub_M","E007","check-invalid-version-string",20622
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -298,7 +298,7 @@
 "PaperCut","E004","check-leading-trailing-space",1
 "PaperCut","E007","check-invalid-version-string",1
 "Patchstack","E004","check-leading-trailing-space",1893
-"Patchstack","E007","check-invalid-version-string",6383
+"Patchstack","E007","check-invalid-version-string",6384
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
 "Payara","E004","check-leading-trailing-space",1
@@ -504,7 +504,7 @@
 "cisa-cg","E010","check-invalid-self-references",90
 "cisco","E004","check-leading-trailing-space",13
 "cisco","E006","check-affected-product-present",1
-"cisco","E007","check-invalid-version-string",87227
+"cisco","E007","check-invalid-version-string",87223
 "cisco","E008","check-invalid-vendor-string",2950
 "cisco","E009","check-invalid-product-string",2146
 "cloudflare","E004","check-leading-trailing-space",29
@@ -519,7 +519,7 @@
 "debian","E009","check-invalid-product-string",509
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",2233
+"dell","E007","check-invalid-version-string",2237
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "directcyber","E004","check-leading-trailing-space",3
@@ -634,7 +634,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5324
+"jpcert","E007","check-invalid-version-string",5325
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
@@ -662,9 +662,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112218
-"mitre","E008","check-invalid-vendor-string",112142
-"mitre","E009","check-invalid-product-string",112142
+"mitre","E007","check-invalid-version-string",112221
+"mitre","E008","check-invalid-vendor-string",112145
+"mitre","E009","check-invalid-product-string",112145
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
