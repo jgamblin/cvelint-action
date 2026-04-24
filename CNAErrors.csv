@@ -72,7 +72,7 @@
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
 "Canon","E004","check-leading-trailing-space",8
-"Canon","E007","check-invalid-version-string",396
+"Canon","E007","check-invalid-version-string",411
 "Canon_EMEA","E007","check-invalid-version-string",2
 "Carrier","E007","check-invalid-version-string",1
 "Cato","E007","check-invalid-version-string",1
@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20640
+"GitHub_M","E007","check-invalid-version-string",20692
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -297,8 +297,8 @@
 "PandoraFMS","E007","check-invalid-version-string",4
 "PaperCut","E004","check-leading-trailing-space",1
 "PaperCut","E007","check-invalid-version-string",1
-"Patchstack","E004","check-leading-trailing-space",1893
-"Patchstack","E007","check-invalid-version-string",6388
+"Patchstack","E004","check-leading-trailing-space",1883
+"Patchstack","E007","check-invalid-version-string",5302
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
 "Payara","E004","check-leading-trailing-space",1
@@ -381,7 +381,7 @@
 "THA-PSIRT","E004","check-leading-trailing-space",2
 "THA-PSIRT","E007","check-invalid-version-string",3
 "TML","E004","check-leading-trailing-space",31
-"TPLink","E007","check-invalid-version-string",226
+"TPLink","E007","check-invalid-version-string",228
 "TR-CERT","E004","check-leading-trailing-space",182
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",40
@@ -408,7 +408,7 @@
 "VulDB","E008","check-invalid-vendor-string",1371
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E007","check-invalid-version-string",519
+"VulnCheck","E007","check-invalid-version-string",520
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -607,7 +607,7 @@
 "ibm","E009","check-invalid-product-string",1835
 "icscert","E002","check-duplicate-reference-url",1
 "icscert","E004","check-leading-trailing-space",344
-"icscert","E007","check-invalid-version-string",3304
+"icscert","E007","check-invalid-version-string",3307
 "icscert","E008","check-invalid-vendor-string",1266
 "icscert","E009","check-invalid-product-string",448
 "imaginationtech","E007","check-invalid-version-string",226
@@ -658,13 +658,13 @@
 "microfocus","E009","check-invalid-product-string",109
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",36895
+"microsoft","E007","check-invalid-version-string",36902
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112221
-"mitre","E008","check-invalid-vendor-string",112145
-"mitre","E009","check-invalid-product-string",112145
+"mitre","E007","check-invalid-version-string",112244
+"mitre","E008","check-invalid-vendor-string",112168
+"mitre","E009","check-invalid-product-string",112168
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -772,7 +772,7 @@
 "tenable","E002","check-duplicate-reference-url",1
 "tenable","E004","check-leading-trailing-space",30
 "tenable","E006","check-affected-product-present",1
-"tenable","E007","check-invalid-version-string",346
+"tenable","E007","check-invalid-version-string",347
 "tenable","E008","check-invalid-vendor-string",341
 "tenable","E009","check-invalid-product-string",4
 "tibco","E004","check-leading-trailing-space",12
