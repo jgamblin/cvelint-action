@@ -18,7 +18,7 @@
 "AMD","E007","check-invalid-version-string",2052
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
-"AMZN","E006","check-affected-product-present",21
+"AMZN","E006","check-affected-product-present",24
 "AMZN","E007","check-invalid-version-string",1
 "ASR","E004","check-leading-trailing-space",4
 "ASR","E006","check-affected-product-present",3
@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20727
+"GitHub_M","E007","check-invalid-version-string",20810
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -658,13 +658,13 @@
 "microfocus","E009","check-invalid-product-string",109
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",36902
+"microsoft","E007","check-invalid-version-string",36903
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112244
-"mitre","E008","check-invalid-vendor-string",112168
-"mitre","E009","check-invalid-product-string",112168
+"mitre","E007","check-invalid-version-string",112251
+"mitre","E008","check-invalid-vendor-string",112175
+"mitre","E009","check-invalid-product-string",112175
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
