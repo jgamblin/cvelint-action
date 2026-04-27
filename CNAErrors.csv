@@ -68,7 +68,7 @@
 "CERTVDE","E008","check-invalid-vendor-string",2
 "CERTVDE","E009","check-invalid-product-string",2
 "CODRA","E007","check-invalid-version-string",11
-"CSA","E007","check-invalid-version-string",38
+"CSA","E007","check-invalid-version-string",39
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
 "Canon","E004","check-leading-trailing-space",8
@@ -133,7 +133,7 @@
 "Fluid Attacks","E008","check-invalid-vendor-string",76
 "Fortra","E004","check-leading-trailing-space",4
 "Fortra","E007","check-invalid-version-string",8
-"Foxit","E007","check-invalid-version-string",82
+"Foxit","E007","check-invalid-version-string",108
 "GE GP","E004","check-leading-trailing-space",1
 "GEHC","E007","check-invalid-version-string",1
 "GE_Vernova","E007","check-invalid-version-string",4
@@ -298,7 +298,7 @@
 "PaperCut","E004","check-leading-trailing-space",1
 "PaperCut","E007","check-invalid-version-string",1
 "Patchstack","E004","check-leading-trailing-space",1883
-"Patchstack","E007","check-invalid-version-string",5302
+"Patchstack","E007","check-invalid-version-string",5306
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
 "Payara","E004","check-leading-trailing-space",1
@@ -404,7 +404,7 @@
 "VULSec","E007","check-invalid-version-string",9
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
-"VulDB","E007","check-invalid-version-string",1197
+"VulDB","E007","check-invalid-version-string",1198
 "VulDB","E008","check-invalid-vendor-string",1379
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
@@ -662,9 +662,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112251
-"mitre","E008","check-invalid-vendor-string",112175
-"mitre","E009","check-invalid-product-string",112175
+"mitre","E007","check-invalid-version-string",112250
+"mitre","E008","check-invalid-vendor-string",112174
+"mitre","E009","check-invalid-product-string",112174
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
