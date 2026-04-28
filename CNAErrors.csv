@@ -15,7 +15,7 @@
 "AHA","E007","check-invalid-version-string",238
 "AMD","E004","check-leading-trailing-space",83
 "AMD","E006","check-affected-product-present",3
-"AMD","E007","check-invalid-version-string",2052
+"AMD","E007","check-invalid-version-string",2054
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
 "AMZN","E006","check-affected-product-present",24
@@ -405,7 +405,7 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1198
-"VulDB","E008","check-invalid-vendor-string",1379
+"VulDB","E008","check-invalid-vendor-string",1382
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
 "VulnCheck","E007","check-invalid-version-string",520
@@ -658,13 +658,13 @@
 "microfocus","E009","check-invalid-product-string",109
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",36903
+"microsoft","E007","check-invalid-version-string",36902
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112250
-"mitre","E008","check-invalid-vendor-string",112174
-"mitre","E009","check-invalid-product-string",112174
+"mitre","E007","check-invalid-version-string",112268
+"mitre","E008","check-invalid-vendor-string",112192
+"mitre","E009","check-invalid-product-string",112192
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
