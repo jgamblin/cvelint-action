@@ -1,4 +1,5 @@
 "CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
+"CVE-2026-3893","icscert","cvelistV5/cves/2026/3xxx/CVE-2026-3893.json","check-invalid-self-references","E010","containers.cna.references.1.url","Unnecessary self-reference URL: https://www.cve.org/CVERecord?id=CVE-2026-3893"
 "CVE-2024-34033","icscert","cvelistV5/cves/2024/34xxx/CVE-2024-34033.json","check-leading-trailing-space","E004","containers.cna.descriptions.0.value","Trailing or leading whitespace in description"
 "CVE-2024-34032","icscert","cvelistV5/cves/2024/34xxx/CVE-2024-34032.json","check-leading-trailing-space","E004","containers.cna.descriptions.0.value","Trailing or leading whitespace in description"
 "CVE-2024-34031","icscert","cvelistV5/cves/2024/34xxx/CVE-2024-34031.json","check-leading-trailing-space","E004","containers.cna.descriptions.0.value","Trailing or leading whitespace in description"
