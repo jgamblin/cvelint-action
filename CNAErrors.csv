@@ -60,7 +60,7 @@
 "Bitdefender","E004","check-leading-trailing-space",10
 "Bitdefender","E007","check-invalid-version-string",11
 "CERT-In","E004","check-leading-trailing-space",33
-"CERT-In","E007","check-invalid-version-string",95
+"CERT-In","E007","check-invalid-version-string",101
 "CERT-PL","E004","check-leading-trailing-space",21
 "CERT-PL","E007","check-invalid-version-string",25
 "CERTVDE","E004","check-leading-trailing-space",46
@@ -298,7 +298,7 @@
 "PaperCut","E004","check-leading-trailing-space",1
 "PaperCut","E007","check-invalid-version-string",1
 "Patchstack","E004","check-leading-trailing-space",3
-"Patchstack","E007","check-invalid-version-string",5873
+"Patchstack","E007","check-invalid-version-string",5876
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
 "Payara","E004","check-leading-trailing-space",1
@@ -330,7 +330,7 @@
 "Rockwell","E004","check-leading-trailing-space",62
 "Rockwell","E007","check-invalid-version-string",291
 "Rockwell","E008","check-invalid-vendor-string",2
-"SEC-VLab","E007","check-invalid-version-string",95
+"SEC-VLab","E007","check-invalid-version-string",94
 "SEL","E004","check-leading-trailing-space",37
 "SICK AG","E002","check-duplicate-reference-url",19
 "SICK AG","E004","check-leading-trailing-space",26
@@ -354,7 +354,7 @@
 "Samsung Mobile","E006","check-affected-product-present",1
 "Samsung Mobile","E007","check-invalid-version-string",1006
 "Samsung Mobile","E008","check-invalid-vendor-string",1
-"SamsungMobile","E007","check-invalid-version-string",362
+"SamsungMobile","E007","check-invalid-version-string",363
 "Secomea","E004","check-leading-trailing-space",5
 "Secomea","E007","check-invalid-version-string",1
 "Silabs","E004","check-leading-trailing-space",16
@@ -519,7 +519,7 @@
 "debian","E009","check-invalid-product-string",509
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",2237
+"dell","E007","check-invalid-version-string",2240
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "directcyber","E004","check-leading-trailing-space",3

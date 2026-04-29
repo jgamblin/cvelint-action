@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T00:44:30Z",
+  "generatedAt": "2026-04-29T12:38:10Z",
   "results": [
     {
       "cna": "360ST",
@@ -215,7 +215,7 @@
       "cna": "CERT-In",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 33},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 95}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 101}
       ]
     },
     {
@@ -1148,7 +1148,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5873},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5876},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1255,7 +1255,7 @@
     {
       "cna": "SEC-VLab",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 95}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94}
       ]
     },
     {
@@ -1344,7 +1344,7 @@
     {
       "cna": "SamsungMobile",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 362}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 363}
       ]
     },
     {
@@ -1874,7 +1874,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2237},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2240},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323}
       ]
