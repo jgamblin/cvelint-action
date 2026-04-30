@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T00:44:08Z",
+  "generatedAt": "2026-04-30T12:37:23Z",
   "results": [
     {
       "cna": "360ST",
@@ -76,8 +76,8 @@
       "cna": "ASR",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 4},
-        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 4},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3}
       ]
     },
     {
@@ -754,7 +754,7 @@
       "cna": "JetBrains",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 26}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 27}
       ]
     },
     {
@@ -803,12 +803,6 @@
       "cna": "LINE",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7}
-      ]
-    },
-    {
-      "cna": "LY-Corporation",
-      "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1}
       ]
     },
     {
@@ -1027,6 +1021,7 @@
       "cna": "OPPO",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 12}
       ]
@@ -1250,6 +1245,12 @@
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 62},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 291},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2}
+      ]
+    },
+    {
+      "cna": "SCHUTZWERK",
+      "errors": [
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4}
       ]
     },
     {
@@ -2150,7 +2151,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5330},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5331},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
@@ -2446,7 +2447,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 903},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 904},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]

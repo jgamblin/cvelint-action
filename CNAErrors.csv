@@ -21,8 +21,8 @@
 "AMZN","E006","check-affected-product-present",24
 "AMZN","E007","check-invalid-version-string",1
 "ASR","E004","check-leading-trailing-space",4
-"ASR","E006","check-affected-product-present",3
-"ASR","E007","check-invalid-version-string",1
+"ASR","E006","check-affected-product-present",4
+"ASR","E007","check-invalid-version-string",3
 "ASRG","E004","check-leading-trailing-space",16
 "ASRG","E006","check-affected-product-present",1
 "ASRG","E007","check-invalid-version-string",6
@@ -199,7 +199,7 @@
 "JFROG","E004","check-leading-trailing-space",11
 "JFROG","E007","check-invalid-version-string",18
 "JetBrains","E004","check-leading-trailing-space",3
-"JetBrains","E007","check-invalid-version-string",26
+"JetBrains","E007","check-invalid-version-string",27
 "Joomla","E007","check-invalid-version-string",17
 "Joomla","E008","check-invalid-vendor-string",1
 "KNIME","E004","check-leading-trailing-space",3
@@ -213,7 +213,6 @@
 "LGE","E008","check-invalid-vendor-string",6
 "LGE","E009","check-invalid-product-string",1
 "LINE","E007","check-invalid-version-string",7
-"LY-Corporation","E007","check-invalid-version-string",1
 "Lexmark","E004","check-leading-trailing-space",4
 "Lexmark","E007","check-invalid-version-string",393
 "Liferay","E004","check-leading-trailing-space",1
@@ -267,6 +266,7 @@
 "OMRON","E007","check-invalid-version-string",33
 "ONEKEY","E004","check-leading-trailing-space",7
 "OPPO","E004","check-leading-trailing-space",2
+"OPPO","E006","check-affected-product-present",1
 "OPPO","E007","check-invalid-version-string",13
 "OPPO","E008","check-invalid-vendor-string",12
 "OTRS","E004","check-leading-trailing-space",16
@@ -330,6 +330,7 @@
 "Rockwell","E004","check-leading-trailing-space",62
 "Rockwell","E007","check-invalid-version-string",291
 "Rockwell","E008","check-invalid-vendor-string",2
+"SCHUTZWERK","E007","check-invalid-version-string",4
 "SEC-VLab","E007","check-invalid-version-string",94
 "SEL","E004","check-leading-trailing-space",37
 "SICK AG","E002","check-duplicate-reference-url",19
@@ -635,7 +636,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5330
+"jpcert","E007","check-invalid-version-string",5331
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
@@ -751,7 +752,7 @@
 "siemens","E008","check-invalid-vendor-string",40
 "snyk","E004","check-leading-trailing-space",36
 "snyk","E007","check-invalid-version-string",163
-"snyk","E008","check-invalid-vendor-string",903
+"snyk","E008","check-invalid-vendor-string",904
 "snyk","E009","check-invalid-product-string",5
 "snyk","E010","check-invalid-self-references",2
 "sonicwall","E004","check-leading-trailing-space",17
