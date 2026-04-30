@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20811
+"GitHub_M","E007","check-invalid-version-string",20818
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -258,7 +258,7 @@
 "NetMotion","E008","check-invalid-vendor-string",2
 "NetScaler","E007","check-invalid-version-string",1
 "Netskope","E004","check-leading-trailing-space",3
-"Netskope","E007","check-invalid-version-string",8
+"Netskope","E007","check-invalid-version-string",9
 "Nokia","E003","check-description-length",1
 "Nokia","E007","check-invalid-version-string",36
 "Nozomi","E007","check-invalid-version-string",67
@@ -381,10 +381,10 @@
 "THA-PSIRT","E004","check-leading-trailing-space",2
 "THA-PSIRT","E007","check-invalid-version-string",3
 "TML","E004","check-leading-trailing-space",31
-"TPLink","E007","check-invalid-version-string",228
+"TPLink","E007","check-invalid-version-string",229
 "TR-CERT","E004","check-leading-trailing-space",182
 "TR-CERT","E006","check-affected-product-present",1
-"TR-CERT","E007","check-invalid-version-string",40
+"TR-CERT","E007","check-invalid-version-string",42
 "TV","E004","check-leading-trailing-space",1
 "Temporal","E004","check-leading-trailing-space",3
 "Teradici","E007","check-invalid-version-string",16
@@ -405,7 +405,7 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1198
-"VulDB","E008","check-invalid-vendor-string",1385
+"VulDB","E008","check-invalid-vendor-string",1387
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
 "VulnCheck","E007","check-invalid-version-string",520
@@ -663,9 +663,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112275
-"mitre","E008","check-invalid-vendor-string",112199
-"mitre","E009","check-invalid-product-string",112199
+"mitre","E007","check-invalid-version-string",112287
+"mitre","E008","check-invalid-vendor-string",112211
+"mitre","E009","check-invalid-product-string",112211
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -755,7 +755,7 @@
 "snyk","E009","check-invalid-product-string",5
 "snyk","E010","check-invalid-self-references",2
 "sonicwall","E004","check-leading-trailing-space",17
-"sonicwall","E007","check-invalid-version-string",427
+"sonicwall","E007","check-invalid-version-string",439
 "suse","E004","check-leading-trailing-space",8
 "suse","E007","check-invalid-version-string",172
 "suse","E008","check-invalid-vendor-string",9
