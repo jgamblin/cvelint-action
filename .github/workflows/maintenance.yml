@@ -1,0 +1,88 @@
+name: Maintenance
+on:
+  schedule:
+    # Run weekly on Sundays at 3am UTC for run pruning
+    - cron: "0 3 * * 0"
+    # Run monthly on the 1st at 3am UTC for commit squashing
+    - cron: "0 3 1 * *"
+  workflow_dispatch:
+    inputs:
+      squash_commits:
+        description: "Also squash old automated commits"
+        type: boolean
+        default: false
+
+jobs:
+  prune-runs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete Old Workflow Runs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPO="${{ github.repository }}"
+          CUTOFF_DATE=$(date -d '30 days ago' -u +%Y-%m-%dT%H:%M:%SZ)
+
+          echo "Deleting workflow runs older than ${CUTOFF_DATE}"
+
+          # Get run IDs older than 30 days
+          gh api repos/${REPO}/actions/runs \
+            --paginate \
+            --jq ".workflow_runs[] | select(.created_at < \"${CUTOFF_DATE}\") | .id" \
+          | while read -r RUN_ID; do
+            echo "Deleting run ${RUN_ID}"
+            gh api repos/${REPO}/actions/runs/${RUN_ID} -X DELETE || true
+          done
+
+  squash-commits:
+    if: github.event.inputs.squash_commits == 'true' || (github.event_name == 'schedule' && github.event.schedule == '0 3 1 * *')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Squash Old Automated Commits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Find the oldest commit we want to KEEP (30 days ago)
+          CUTOFF_DATE=$(date -d '30 days ago' -u +%Y-%m-%d)
+          KEEP_FROM=$(git log --oneline --after="${CUTOFF_DATE}" --format="%H" | tail -1)
+
+          if [ -z "$KEEP_FROM" ]; then
+            echo "No commits to squash"
+            exit 0
+          fi
+
+          # Find the parent of the oldest kept commit
+          SQUASH_UNTIL=$(git rev-parse "${KEEP_FROM}^" 2>/dev/null)
+
+          if [ -z "$SQUASH_UNTIL" ]; then
+            echo "Nothing old enough to squash"
+            exit 0
+          fi
+
+          # Count how many automated commits we're squashing
+          SQUASH_COUNT=$(git log --oneline "${SQUASH_UNTIL}" --grep="Commit from GitHub Actions (CVELint)" | wc -l | tr -d ' ')
+
+          if [ "$SQUASH_COUNT" -lt 10 ]; then
+            echo "Only ${SQUASH_COUNT} automated commits to squash, skipping"
+            exit 0
+          fi
+
+          echo "Squashing ${SQUASH_COUNT} automated commits up to ${SQUASH_UNTIL}"
+
+          # Create a new root with the tree at SQUASH_UNTIL
+          NEW_ROOT=$(git commit-tree "${SQUASH_UNTIL}^{tree}" -m "Squashed ${SQUASH_COUNT} automated CVELint report commits
+
+          Historical reports squashed to reduce clone size.
+          See trends.csv for historical error counts.")
+
+          # Rebase the remaining commits on top
+          git rebase --onto "${NEW_ROOT}" "${SQUASH_UNTIL}" main
+
+          # Force push
+          git push --force origin main
