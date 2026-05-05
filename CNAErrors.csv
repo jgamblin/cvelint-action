@@ -18,7 +18,7 @@
 "AMD","E007","check-invalid-version-string",2054
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
-"AMZN","E006","check-affected-product-present",24
+"AMZN","E006","check-affected-product-present",25
 "AMZN","E007","check-invalid-version-string",1
 "ASR","E004","check-leading-trailing-space",4
 "ASR","E006","check-affected-product-present",4
@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20838
+"GitHub_M","E007","check-invalid-version-string",20912
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -385,7 +385,7 @@
 "TPLink","E007","check-invalid-version-string",229
 "TR-CERT","E004","check-leading-trailing-space",182
 "TR-CERT","E006","check-affected-product-present",1
-"TR-CERT","E007","check-invalid-version-string",42
+"TR-CERT","E007","check-invalid-version-string",41
 "TV","E004","check-leading-trailing-space",1
 "Temporal","E004","check-leading-trailing-space",3
 "Teradici","E007","check-invalid-version-string",16
@@ -406,7 +406,7 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1205
-"VulDB","E008","check-invalid-vendor-string",1409
+"VulDB","E008","check-invalid-vendor-string",1412
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
 "VulnCheck","E007","check-invalid-version-string",520
@@ -664,9 +664,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112352
-"mitre","E008","check-invalid-vendor-string",112276
-"mitre","E009","check-invalid-product-string",112276
+"mitre","E007","check-invalid-version-string",112365
+"mitre","E008","check-invalid-vendor-string",112289
+"mitre","E009","check-invalid-product-string",112289
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -719,7 +719,7 @@
 "qnap","E007","check-invalid-version-string",884
 "qnap","E008","check-invalid-vendor-string",17
 "qnap","E009","check-invalid-product-string",4
-"qualcomm","E007","check-invalid-version-string",26425
+"qualcomm","E007","check-invalid-version-string",26659
 "qualcomm","E008","check-invalid-vendor-string",123
 "qualcomm","E009","check-invalid-product-string",124
 "rapid7","E004","check-leading-trailing-space",23
