@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T00:40:36Z",
+  "generatedAt": "2026-05-06T12:42:51Z",
   "results": [
     {
       "cna": "360ST",
@@ -624,7 +624,7 @@
       "cna": "HCL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 120},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 329},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 334},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 52}
       ]
     },
@@ -1523,7 +1523,7 @@
     {
       "cna": "Unisoc",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 600}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 606}
       ]
     },
     {
