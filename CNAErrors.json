@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T00:43:23Z",
+  "generatedAt": "2026-05-07T12:42:59Z",
   "results": [
     {
       "cna": "360ST",
@@ -560,7 +560,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 8},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21032},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21083},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -670,7 +670,7 @@
       "cna": "Hitachi",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 29},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 46}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 114}
       ]
     },
     {
@@ -1143,7 +1143,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5877},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5887},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1465,7 +1465,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 182},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 41}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 42}
       ]
     },
     {
@@ -2584,7 +2584,7 @@
       "cna": "zte",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 16},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 101},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 102},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 67}
       ]
     }
