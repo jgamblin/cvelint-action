@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",20982
+"GitHub_M","E007","check-invalid-version-string",21032
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -505,7 +505,7 @@
 "cisa-cg","E010","check-invalid-self-references",91
 "cisco","E004","check-leading-trailing-space",13
 "cisco","E006","check-affected-product-present",1
-"cisco","E007","check-invalid-version-string",87223
+"cisco","E007","check-invalid-version-string",87459
 "cisco","E008","check-invalid-vendor-string",2950
 "cisco","E009","check-invalid-product-string",2146
 "cloudflare","E004","check-leading-trailing-space",29
@@ -589,7 +589,7 @@
 "hikvision","E009","check-invalid-product-string",1
 "hp","E002","check-duplicate-reference-url",594
 "hp","E004","check-leading-trailing-space",3
-"hp","E007","check-invalid-version-string",1107
+"hp","E007","check-invalid-version-string",1108
 "hp","E008","check-invalid-vendor-string",723
 "hp","E009","check-invalid-product-string",646
 "hpe","E004","check-leading-trailing-space",166
@@ -626,7 +626,7 @@
 "jci","E002","check-duplicate-reference-url",1
 "jci","E004","check-leading-trailing-space",3
 "jci","E006","check-affected-product-present",4
-"jci","E007","check-invalid-version-string",75
+"jci","E007","check-invalid-version-string",78
 "jci","E008","check-invalid-vendor-string",1
 "jci","E009","check-invalid-product-string",1
 "jenkins","E007","check-invalid-version-string",707
@@ -664,9 +664,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112379
-"mitre","E008","check-invalid-vendor-string",112303
-"mitre","E009","check-invalid-product-string",112303
+"mitre","E007","check-invalid-version-string",112382
+"mitre","E008","check-invalid-vendor-string",112306
+"mitre","E009","check-invalid-product-string",112306
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -723,7 +723,7 @@
 "qualcomm","E008","check-invalid-vendor-string",123
 "qualcomm","E009","check-invalid-product-string",124
 "rapid7","E004","check-leading-trailing-space",23
-"rapid7","E007","check-invalid-version-string",2643
+"rapid7","E007","check-invalid-version-string",2644
 "rapid7","E008","check-invalid-vendor-string",2
 "rapid7","E009","check-invalid-product-string",2
 "redhat","E002","check-duplicate-reference-url",675
