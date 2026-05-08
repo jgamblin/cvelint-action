@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T00:44:01Z",
+  "generatedAt": "2026-05-08T12:34:07Z",
   "results": [
     {
       "cna": "360ST",
@@ -560,7 +560,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 8},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21128},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21159},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32}
       ]
@@ -722,7 +722,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 19},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 219}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 220}
       ]
     },
     {
@@ -921,7 +921,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 24},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 40}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 41}
       ]
     },
     {
@@ -1556,7 +1556,7 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1205},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1413}
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1420}
       ]
     },
     {
@@ -2219,9 +2219,9 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 112395},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 112319},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 112319},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 112422},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 112346},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 112346},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164}
       ]
     },
