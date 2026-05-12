@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",21348
+"GitHub_M","E007","check-invalid-version-string",21485
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -192,14 +192,14 @@
 "INCD","E009","check-invalid-product-string",2
 "INCIBE","E004","check-leading-trailing-space",19
 "INCIBE","E006","check-affected-product-present",3
-"INCIBE","E007","check-invalid-version-string",220
+"INCIBE","E007","check-invalid-version-string",222
 "Illumio","E004","check-leading-trailing-space",1
 "Insyde","E007","check-invalid-version-string",29
 "Intigriti","E007","check-invalid-version-string",1
 "JFROG","E004","check-leading-trailing-space",11
 "JFROG","E007","check-invalid-version-string",18
 "JetBrains","E004","check-leading-trailing-space",3
-"JetBrains","E007","check-invalid-version-string",27
+"JetBrains","E007","check-invalid-version-string",28
 "Joomla","E007","check-invalid-version-string",17
 "Joomla","E008","check-invalid-vendor-string",1
 "KNIME","E004","check-leading-trailing-space",3
@@ -298,7 +298,7 @@
 "PaperCut","E004","check-leading-trailing-space",1
 "PaperCut","E007","check-invalid-version-string",1
 "Patchstack","E004","check-leading-trailing-space",3
-"Patchstack","E007","check-invalid-version-string",5888
+"Patchstack","E007","check-invalid-version-string",5889
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
 "Payara","E004","check-leading-trailing-space",1
@@ -406,10 +406,10 @@
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
 "VulDB","E007","check-invalid-version-string",1205
-"VulDB","E008","check-invalid-vendor-string",1446
+"VulDB","E008","check-invalid-vendor-string",1451
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E007","check-invalid-version-string",522
+"VulnCheck","E007","check-invalid-version-string",519
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -660,13 +660,13 @@
 "microfocus","E009","check-invalid-product-string",109
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",36914
+"microsoft","E007","check-invalid-version-string",36918
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112428
-"mitre","E008","check-invalid-vendor-string",112352
-"mitre","E009","check-invalid-product-string",112352
+"mitre","E007","check-invalid-version-string",112461
+"mitre","E008","check-invalid-vendor-string",112385
+"mitre","E009","check-invalid-product-string",112385
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -731,6 +731,7 @@
 "redhat","E007","check-invalid-version-string",9474
 "redhat","E008","check-invalid-vendor-string",8394
 "redhat","E009","check-invalid-product-string",6759
+"runZero","E007","check-invalid-version-string",4
 "samsung.tv_appliance","E004","check-leading-trailing-space",3
 "samsung.tv_appliance","E006","check-affected-product-present",1
 "sap","E002","check-duplicate-reference-url",1
@@ -793,7 +794,7 @@
 "vmware","E007","check-invalid-version-string",794
 "vmware","E008","check-invalid-vendor-string",384
 "vmware","E009","check-invalid-product-string",14
-"wikimedia-foundation","E007","check-invalid-version-string",52
+"wikimedia-foundation","E007","check-invalid-version-string",61
 "wolfSSL","E004","check-leading-trailing-space",5
 "wolfSSL","E007","check-invalid-version-string",2
 "yandex","E007","check-invalid-version-string",26
