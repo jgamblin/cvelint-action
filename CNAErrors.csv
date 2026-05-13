@@ -15,7 +15,7 @@
 "AHA","E007","check-invalid-version-string",238
 "AMD","E004","check-leading-trailing-space",83
 "AMD","E006","check-affected-product-present",3
-"AMD","E007","check-invalid-version-string",2054
+"AMD","E007","check-invalid-version-string",2070
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
 "AMZN","E006","check-affected-product-present",26
@@ -68,7 +68,7 @@
 "CERTVDE","E008","check-invalid-vendor-string",2
 "CERTVDE","E009","check-invalid-product-string",2
 "CODRA","E007","check-invalid-version-string",11
-"CSA","E007","check-invalid-version-string",39
+"CSA","E007","check-invalid-version-string",47
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
 "Canon","E004","check-leading-trailing-space",8
@@ -152,7 +152,7 @@
 "GitLab","E007","check-invalid-version-string",1607
 "Google","E004","check-leading-trailing-space",22
 "Google","E006","check-affected-product-present",4
-"Google","E007","check-invalid-version-string",15
+"Google","E007","check-invalid-version-string",16
 "Google","E008","check-invalid-vendor-string",2
 "Google","E009","check-invalid-product-string",2
 "GoogleCloud","E007","check-invalid-version-string",7
@@ -335,7 +335,7 @@
 "SEL","E004","check-leading-trailing-space",37
 "SICK AG","E002","check-duplicate-reference-url",19
 "SICK AG","E004","check-leading-trailing-space",26
-"SICK AG","E007","check-invalid-version-string",299
+"SICK AG","E007","check-invalid-version-string",255
 "SICK AG","E008","check-invalid-vendor-string",28
 "SK-CERT","E004","check-leading-trailing-space",2
 "SK-CERT","E007","check-invalid-version-string",8
@@ -355,7 +355,7 @@
 "Samsung Mobile","E006","check-affected-product-present",1
 "Samsung Mobile","E007","check-invalid-version-string",1006
 "Samsung Mobile","E008","check-invalid-vendor-string",1
-"SamsungMobile","E007","check-invalid-version-string",363
+"SamsungMobile","E007","check-invalid-version-string",370
 "Secomea","E004","check-leading-trailing-space",5
 "Secomea","E007","check-invalid-version-string",1
 "Silabs","E004","check-leading-trailing-space",16
@@ -636,7 +636,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5381
+"jpcert","E007","check-invalid-version-string",5421
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
@@ -759,7 +759,7 @@
 "sonicwall","E004","check-leading-trailing-space",17
 "sonicwall","E007","check-invalid-version-string",439
 "suse","E004","check-leading-trailing-space",8
-"suse","E007","check-invalid-version-string",172
+"suse","E007","check-invalid-version-string",175
 "suse","E008","check-invalid-vendor-string",9
 "symantec","E004","check-leading-trailing-space",1
 "symantec","E006","check-affected-product-present",2
