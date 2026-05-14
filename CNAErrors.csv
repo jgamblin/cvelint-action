@@ -138,21 +138,21 @@
 "GEHC","E007","check-invalid-version-string",1
 "GE_Vernova","E007","check-invalid-version-string",4
 "GRAFANA","E004","check-leading-trailing-space",4
-"GRAFANA","E007","check-invalid-version-string",71
+"GRAFANA","E007","check-invalid-version-string",121
 "Gallagher","E004","check-leading-trailing-space",16
 "Gallagher","E007","check-invalid-version-string",101
 "GandC","E004","check-leading-trailing-space",10
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",21599
+"GitHub_M","E007","check-invalid-version-string",21778
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
 "GitLab","E007","check-invalid-version-string",1607
 "Google","E004","check-leading-trailing-space",22
 "Google","E006","check-affected-product-present",4
-"Google","E007","check-invalid-version-string",16
+"Google","E007","check-invalid-version-string",17
 "Google","E008","check-invalid-vendor-string",2
 "Google","E009","check-invalid-product-string",2
 "GoogleCloud","E007","check-invalid-version-string",7
@@ -409,7 +409,7 @@
 "VulDB","E008","check-invalid-vendor-string",1451
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",2
-"VulnCheck","E007","check-invalid-version-string",519
+"VulnCheck","E007","check-invalid-version-string",520
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
@@ -545,7 +545,7 @@
 "elastic","E008","check-invalid-vendor-string",3
 "elastic","E009","check-invalid-product-string",3
 "f5","E004","check-leading-trailing-space",64
-"f5","E007","check-invalid-version-string",452
+"f5","E007","check-invalid-version-string",462
 "f5","E008","check-invalid-vendor-string",246
 "f5","E009","check-invalid-product-string",1
 "facebook","E007","check-invalid-version-string",21
@@ -636,7 +636,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5421
+"jpcert","E007","check-invalid-version-string",5422
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
@@ -664,9 +664,9 @@
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112496
-"mitre","E008","check-invalid-vendor-string",112420
-"mitre","E009","check-invalid-product-string",112420
+"mitre","E007","check-invalid-version-string",112514
+"mitre","E008","check-invalid-vendor-string",112438
+"mitre","E009","check-invalid-product-string",112438
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
@@ -706,7 +706,7 @@
 "oracle","E009","check-invalid-product-string",3291
 "palo_alto","E004","check-leading-trailing-space",9
 "palo_alto","E006","check-affected-product-present",1
-"palo_alto","E007","check-invalid-version-string",188
+"palo_alto","E007","check-invalid-version-string",239
 "palo_alto","E008","check-invalid-vendor-string",16
 "php","E004","check-leading-trailing-space",2
 "php","E007","check-invalid-version-string",14
