@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T00:45:48Z",
+  "generatedAt": "2026-05-15T12:41:59Z",
   "results": [
     {
       "cna": "360ST",
@@ -55,7 +55,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 83},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2145},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2583},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 6}
       ]
     },
@@ -2151,7 +2151,7 @@
       "cna": "jpcert",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 10},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5422},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5424},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 794},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 794}
       ]
