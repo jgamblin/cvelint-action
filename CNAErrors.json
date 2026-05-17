@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T00:43:34Z",
+  "generatedAt": "2026-05-17T00:47:29Z",
   "results": [
     {
       "cna": "360ST",
@@ -1564,7 +1564,7 @@
       "errors": [
         {"errorCode": "E001", "errorName": "check-reference-url-protocol", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 521}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 523}
       ]
     },
     {
@@ -2453,7 +2453,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 904},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 906},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
