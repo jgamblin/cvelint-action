@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T00:48:18Z",
+  "generatedAt": "2026-05-18T13:19:23Z",
   "results": [
     {
       "cna": "360ST",
@@ -828,7 +828,7 @@
     {
       "cna": "M-Files Corporation",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25}
       ]
     },
     {
@@ -1172,7 +1172,7 @@
       "cna": "Perforce",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 26}
       ]
     },
     {
@@ -1463,7 +1463,7 @@
     {
       "cna": "TR-CERT",
       "errors": [
-        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 182},
+        {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 174},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 42}
       ]
@@ -1875,7 +1875,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2255},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2256},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323}
       ]
