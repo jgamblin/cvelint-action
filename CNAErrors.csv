@@ -15,7 +15,7 @@
 "AHA","E007","check-invalid-version-string",238
 "AMD","E004","check-leading-trailing-space",83
 "AMD","E006","check-affected-product-present",3
-"AMD","E007","check-invalid-version-string",2583
+"AMD","E007","check-invalid-version-string",2597
 "AMD","E008","check-invalid-vendor-string",6
 "AMI","E004","check-leading-trailing-space",25
 "AMZN","E006","check-affected-product-present",26
@@ -145,7 +145,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",22049
+"GitHub_M","E007","check-invalid-version-string",22081
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -382,7 +382,7 @@
 "THA-PSIRT","E004","check-leading-trailing-space",2
 "THA-PSIRT","E007","check-invalid-version-string",3
 "TML","E004","check-leading-trailing-space",31
-"TPLink","E007","check-invalid-version-string",229
+"TPLink","E007","check-invalid-version-string",230
 "TR-CERT","E004","check-leading-trailing-space",168
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",42
@@ -424,7 +424,7 @@
 "Wordfence","E007","check-invalid-version-string",8
 "Wordfence","E008","check-invalid-vendor-string",44
 "XEN","E004","check-leading-trailing-space",15
-"XEN","E007","check-invalid-version-string",131
+"XEN","E007","check-invalid-version-string",133
 "XI","E004","check-leading-trailing-space",24
 "Xerox","E007","check-invalid-version-string",1
 "Xiaomi","E007","check-invalid-version-string",56
@@ -484,7 +484,7 @@
 "brocade","E006","check-affected-product-present",1
 "brocade","E007","check-invalid-version-string",171
 "brocade","E008","check-invalid-vendor-string",59
-"ca","E007","check-invalid-version-string",67
+"ca","E007","check-invalid-version-string",69
 "ca","E008","check-invalid-vendor-string",25
 "ca","E009","check-invalid-product-string",1
 "canonical","E002","check-duplicate-reference-url",1
@@ -502,7 +502,7 @@
 "checkpoint","E008","check-invalid-vendor-string",46
 "cisa-cg","E004","check-leading-trailing-space",13
 "cisa-cg","E007","check-invalid-version-string",84
-"cisa-cg","E010","check-invalid-self-references",92
+"cisa-cg","E010","check-invalid-self-references",94
 "cisco","E004","check-leading-trailing-space",13
 "cisco","E006","check-affected-product-present",2
 "cisco","E007","check-invalid-version-string",87472
@@ -660,18 +660,18 @@
 "microfocus","E009","check-invalid-product-string",109
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",36998
+"microsoft","E007","check-invalid-version-string",37003
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112538
-"mitre","E008","check-invalid-vendor-string",112462
-"mitre","E009","check-invalid-product-string",112462
+"mitre","E007","check-invalid-version-string",112553
+"mitre","E008","check-invalid-vendor-string",112477
+"mitre","E009","check-invalid-product-string",112477
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
 "mozilla","E004","check-leading-trailing-space",6
-"mozilla","E006","check-affected-product-present",390
+"mozilla","E006","check-affected-product-present",422
 "mozilla","E007","check-invalid-version-string",780
 "mozilla","E008","check-invalid-vendor-string",607
 "mozilla","E009","check-invalid-product-string",601
