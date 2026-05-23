@@ -4,7 +4,6 @@
 "3DS","E004","check-leading-trailing-space",5
 "3DS","E007","check-invalid-version-string",512
 "42Gears","E004","check-leading-trailing-space",2
-"9front","E007","check-invalid-version-string",1
 "@huntr_ai","E004","check-leading-trailing-space",9
 "@huntr_ai","E007","check-invalid-version-string",20
 "@huntrdev","E004","check-leading-trailing-space",55
@@ -147,7 +146,7 @@
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",22112
+"GitHub_M","E007","check-invalid-version-string",22161
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_P","E004","check-leading-trailing-space",33
@@ -385,7 +384,7 @@
 "THA-PSIRT","E007","check-invalid-version-string",3
 "TML","E004","check-leading-trailing-space",31
 "TPLink","E007","check-invalid-version-string",230
-"TR-CERT","E004","check-leading-trailing-space",34
+"TR-CERT","E004","check-leading-trailing-space",27
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",35
 "TV","E004","check-leading-trailing-space",1
@@ -522,7 +521,7 @@
 "debian","E009","check-invalid-product-string",509
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",2259
+"dell","E007","check-invalid-version-string",2276
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "directcyber","E004","check-leading-trailing-space",3
@@ -547,7 +546,7 @@
 "elastic","E008","check-invalid-vendor-string",3
 "elastic","E009","check-invalid-product-string",3
 "f5","E004","check-leading-trailing-space",64
-"f5","E007","check-invalid-version-string",462
+"f5","E007","check-invalid-version-string",464
 "f5","E008","check-invalid-vendor-string",246
 "f5","E009","check-invalid-product-string",1
 "facebook","E007","check-invalid-version-string",21
@@ -662,13 +661,13 @@
 "microfocus","E009","check-invalid-product-string",109
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",37006
+"microsoft","E007","check-invalid-version-string",37016
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",112560
-"mitre","E008","check-invalid-vendor-string",112484
-"mitre","E009","check-invalid-product-string",112484
+"mitre","E007","check-invalid-version-string",112567
+"mitre","E008","check-invalid-vendor-string",112491
+"mitre","E009","check-invalid-product-string",112491
 "mitre","E010","check-invalid-self-references",164
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",1
