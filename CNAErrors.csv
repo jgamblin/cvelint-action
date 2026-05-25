@@ -61,7 +61,7 @@
 "Bitdefender","E007","check-invalid-version-string",11
 "Bugcrowd","E007","check-invalid-version-string",1
 "CERT-In","E004","check-leading-trailing-space",33
-"CERT-In","E007","check-invalid-version-string",101
+"CERT-In","E007","check-invalid-version-string",102
 "CERT-PL","E004","check-leading-trailing-space",21
 "CERT-PL","E007","check-invalid-version-string",25
 "CERTVDE","E004","check-leading-trailing-space",46
@@ -141,7 +141,7 @@
 "GRAFANA","E004","check-leading-trailing-space",4
 "GRAFANA","E007","check-invalid-version-string",121
 "Gallagher","E004","check-leading-trailing-space",16
-"Gallagher","E007","check-invalid-version-string",101
+"Gallagher","E007","check-invalid-version-string",102
 "GandC","E004","check-leading-trailing-space",10
 "Genetec","E007","check-invalid-version-string",38
 "GitHub_M","E002","check-duplicate-reference-url",8
@@ -244,7 +244,7 @@
 "NCSC.ch","E006","check-affected-product-present",3
 "NCSC.ch","E007","check-invalid-version-string",41
 "NEC","E004","check-leading-trailing-space",7
-"NEC","E007","check-invalid-version-string",1104
+"NEC","E007","check-invalid-version-string",1115
 "NEC","E008","check-invalid-vendor-string",1
 "NEC","E009","check-invalid-product-string",1
 "NI","E004","check-leading-trailing-space",7
@@ -406,8 +406,8 @@
 "VULSec","E007","check-invalid-version-string",9
 "Vaadin","E004","check-leading-trailing-space",1
 "Vivo","E007","check-invalid-version-string",17
-"VulDB","E007","check-invalid-version-string",1206
-"VulDB","E008","check-invalid-vendor-string",1468
+"VulDB","E007","check-invalid-version-string",1210
+"VulDB","E008","check-invalid-vendor-string",1471
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E007","check-invalid-version-string",532
