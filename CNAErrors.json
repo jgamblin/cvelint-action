@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T00:48:51Z",
+  "generatedAt": "2026-05-26T13:04:45Z",
   "results": [
     {
       "cna": "360ST",
@@ -1149,7 +1149,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5930},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5936},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2}
       ]
@@ -1690,7 +1690,7 @@
       "cna": "Zyxel",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 402}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 407}
       ]
     },
     {
@@ -2459,7 +2459,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 163},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 908},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 911},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2}
       ]
