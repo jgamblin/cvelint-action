@@ -1,2 +1,3 @@
-CVE,CNA,File,RuleName,ErrorCode,ErrorText
-CVE-2026-3055,NetScaler,/home/runner/.cache/cvelint/cvelistV5/cves/2026/3xxx/CVE-2026-3055.json,check-invalid-version-string,E007,containers.cna.affected.#.versions.#.version,Invalid version string: "13.1 FIPS and NDcPP"
+"CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
+"CVE-2026-4368","NetScaler","cvelistV5/cves/2026/4xxx/CVE-2026-4368.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
+"CVE-2026-3055","NetScaler","cvelistV5/cves/2026/3xxx/CVE-2026-3055.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
