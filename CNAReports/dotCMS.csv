@@ -1,7 +1,7 @@
 "CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
 "CVE-2026-8054","dotCMS","cvelistV5/cves/2026/8xxx/CVE-2026-8054.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
-"CVE-2026-8054","dotCMS","cvelistV5/cves/2026/8xxx/CVE-2026-8054.json","check-custom-version-type","E011","containers.cna.affected.0.versions.0.versionType","Custom versionType should be avoided per CVE schema documentation"
 "CVE-2026-8054","dotCMS","cvelistV5/cves/2026/8xxx/CVE-2026-8054.json","check-custom-version-type","E011","containers.cna.affected.0.versions.1.versionType","Custom versionType should be avoided per CVE schema documentation"
+"CVE-2026-8054","dotCMS","cvelistV5/cves/2026/8xxx/CVE-2026-8054.json","check-custom-version-type","E011","containers.cna.affected.0.versions.0.versionType","Custom versionType should be avoided per CVE schema documentation"
 "CVE-2025-11165","dotCMS","cvelistV5/cves/2025/11xxx/CVE-2025-11165.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2025-8311","dotCMS","cvelistV5/cves/2025/8xxx/CVE-2025-8311.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2024-4447","dotCMS","cvelistV5/cves/2024/4xxx/CVE-2024-4447.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
