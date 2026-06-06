@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T00:51:24Z",
+  "generatedAt": "2026-06-06T12:33:27Z",
   "results": [
     {
       "cna": "1E",
@@ -422,8 +422,8 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 160},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 157},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 161},
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 158},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 400}
       ]
     },
@@ -2618,8 +2618,8 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1216},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1519},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14730},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 87626}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14734},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 87650}
       ]
     },
     {
@@ -2691,11 +2691,11 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12560},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12590},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 44},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 10193},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 27840}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 10217},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 27932}
       ]
     },
     {
