@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T12:33:27Z",
+  "generatedAt": "2026-06-07T00:56:01Z",
   "results": [
     {
       "cna": "1E",
@@ -2616,10 +2616,10 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1216},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1519},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1521},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14734},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 87650}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14743},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 87704}
       ]
     },
     {
@@ -3556,8 +3556,8 @@
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 112634},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 112634},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 757},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 115192},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 758},
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 115194},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 4}
       ]
     },
