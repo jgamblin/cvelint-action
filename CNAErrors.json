@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T12:38:28Z",
+  "generatedAt": "2026-06-08T00:56:39Z",
   "results": [
     {
       "cna": "1E",
@@ -2616,10 +2616,10 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1216},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1521},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1522},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14755},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 87776}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14765},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 87836}
       ]
     },
     {
@@ -3818,7 +3818,7 @@
       "cna": "samsung.tv_appliance",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 8},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 22},
         {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 80}
