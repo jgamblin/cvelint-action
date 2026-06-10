@@ -219,8 +219,8 @@
 "Commvault","E015","check-cna-rules-v4-basic",1
 "ConcreteCMS","E004","check-leading-trailing-space",3
 "ConcreteCMS","E006","check-affected-product-present",1
-"ConcreteCMS","E007","check-invalid-version-string",154
-"ConcreteCMS","E015","check-cna-rules-v4-basic",72
+"ConcreteCMS","E007","check-invalid-version-string",156
+"ConcreteCMS","E015","check-cna-rules-v4-basic",73
 "ConnectWise","E007","check-invalid-version-string",12
 "ConnectWise","E015","check-cna-rules-v4-basic",12
 "CoolKit","E004","check-leading-trailing-space",1
@@ -380,11 +380,11 @@
 "Genetec","E015","check-cna-rules-v4-basic",10
 "GitHub_M","E002","check-duplicate-reference-url",8
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",22918
+"GitHub_M","E007","check-invalid-version-string",22942
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
-"GitHub_M","E015","check-cna-rules-v4-basic",16018
+"GitHub_M","E015","check-cna-rules-v4-basic",16024
 "GitHub_M","E020","check-unicode-escape-sequences",5
 "GitHub_P","E004","check-leading-trailing-space",33
 "GitHub_P","E007","check-invalid-version-string",52
@@ -646,8 +646,8 @@
 "NLOK","E015","check-cna-rules-v4-basic",32
 "NLnet Labs","E007","check-invalid-version-string",13
 "NLnet Labs","E011","check-custom-version-type",9
-"NLnet Labs","E015","check-cna-rules-v4-basic",34
-"NLnet Labs","E019","check-cna-rules-v4-timeline",174
+"NLnet Labs","E015","check-cna-rules-v4-basic",35
+"NLnet Labs","E019","check-cna-rules-v4-timeline",182
 "NX","E004","check-leading-trailing-space",1
 "NX","E007","check-invalid-version-string",1
 "NX","E011","check-custom-version-type",1
@@ -842,7 +842,7 @@
 "SCHUTZWERK","E019","check-cna-rules-v4-timeline",34
 "SEC-VLab","E007","check-invalid-version-string",100
 "SEC-VLab","E011","check-custom-version-type",47
-"SEC-VLab","E015","check-cna-rules-v4-basic",110
+"SEC-VLab","E015","check-cna-rules-v4-basic",112
 "SEC-VLab","E019","check-cna-rules-v4-timeline",16
 "SEL","E004","check-leading-trailing-space",37
 "SEL","E011","check-custom-version-type",891
@@ -998,9 +998,9 @@
 "Teradici","E008","check-invalid-vendor-string",20
 "Teradici","E009","check-invalid-product-string",2
 "Teradici","E015","check-cna-rules-v4-basic",56
-"ThinkstAppliedResearch","E007","check-invalid-version-string",2
-"ThinkstAppliedResearch","E011","check-custom-version-type",1
-"ThinkstAppliedResearch","E015","check-cna-rules-v4-basic",1
+"ThinkstAppliedResearch","E007","check-invalid-version-string",4
+"ThinkstAppliedResearch","E011","check-custom-version-type",2
+"ThinkstAppliedResearch","E015","check-cna-rules-v4-basic",2
 "TianoCore","E007","check-invalid-version-string",5
 "TianoCore","E008","check-invalid-vendor-string",1
 "TianoCore","E011","check-custom-version-type",5
@@ -1045,8 +1045,8 @@
 "VulnCheck","E001","check-reference-url-protocol",1
 "VulnCheck","E002","check-duplicate-reference-url",1
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",1645
-"VulnCheck","E011","check-custom-version-type",1092
+"VulnCheck","E007","check-invalid-version-string",1641
+"VulnCheck","E011","check-custom-version-type",1094
 "VulnCheck","E015","check-cna-rules-v4-basic",4546
 "VulnCheck","E019","check-cna-rules-v4-timeline",166
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -1055,11 +1055,11 @@
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
 "WDC PSIRT","E015","check-cna-rules-v4-basic",49
-"WPScan","E007","check-invalid-version-string",2056
+"WPScan","E007","check-invalid-version-string",2062
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3164
-"WPScan","E015","check-cna-rules-v4-basic",4285
+"WPScan","E015","check-cna-rules-v4-basic",4289
 "WSO2","E004","check-leading-trailing-space",3
 "WSO2","E007","check-invalid-version-string",45
 "WSO2","E011","check-custom-version-type",1610
@@ -1073,11 +1073,11 @@
 "WindRiver","E015","check-cna-rules-v4-basic",3
 "Wiz","E007","check-invalid-version-string",30
 "Wiz","E015","check-cna-rules-v4-basic",7
-"Wordfence","E007","check-invalid-version-string",12630
+"Wordfence","E007","check-invalid-version-string",12637
 "Wordfence","E008","check-invalid-vendor-string",44
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E015","check-cna-rules-v4-basic",10247
-"Wordfence","E019","check-cna-rules-v4-timeline",28016
+"Wordfence","E015","check-cna-rules-v4-basic",10253
+"Wordfence","E019","check-cna-rules-v4-timeline",28040
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",133
 "XEN","E011","check-custom-version-type",59
@@ -1244,15 +1244,15 @@
 "cspcert","E015","check-cna-rules-v4-basic",25
 "curl","E007","check-invalid-version-string",30
 "curl","E015","check-cna-rules-v4-basic",39
-"dahua","E007","check-invalid-version-string",56
+"dahua","E007","check-invalid-version-string",59
 "dahua","E008","check-invalid-vendor-string",26
-"dahua","E015","check-cna-rules-v4-basic",54
+"dahua","E015","check-cna-rules-v4-basic",57
 "debian","E002","check-duplicate-reference-url",19
 "debian","E007","check-invalid-version-string",623
 "debian","E008","check-invalid-vendor-string",566
 "debian","E009","check-invalid-product-string",509
 "debian","E011","check-custom-version-type",9
-"debian","E015","check-cna-rules-v4-basic",802
+"debian","E015","check-cna-rules-v4-basic",804
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
 "dell","E007","check-invalid-version-string",3644
@@ -1579,11 +1579,12 @@
 "puppet","E011","check-custom-version-type",6
 "puppet","E015","check-cna-rules-v4-basic",56
 "qnap","E004","check-leading-trailing-space",96
-"qnap","E007","check-invalid-version-string",898
+"qnap","E006","check-affected-product-present",1
+"qnap","E007","check-invalid-version-string",943
 "qnap","E008","check-invalid-vendor-string",17
 "qnap","E009","check-invalid-product-string",4
-"qnap","E011","check-custom-version-type",1110
-"qnap","E015","check-cna-rules-v4-basic",593
+"qnap","E011","check-custom-version-type",1153
+"qnap","E015","check-cna-rules-v4-basic",613
 "qualcomm","E007","check-invalid-version-string",26941
 "qualcomm","E008","check-invalid-vendor-string",123
 "qualcomm","E009","check-invalid-product-string",124
@@ -1600,12 +1601,12 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",27
-"redhat","E007","check-invalid-version-string",16810
+"redhat","E007","check-invalid-version-string",16814
 "redhat","E008","check-invalid-vendor-string",8392
 "redhat","E009","check-invalid-product-string",6757
 "redhat","E011","check-custom-version-type",47
-"redhat","E015","check-cna-rules-v4-basic",12235
-"redhat","E019","check-cna-rules-v4-timeline",4632
+"redhat","E015","check-cna-rules-v4-basic",12236
+"redhat","E019","check-cna-rules-v4-timeline",4636
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",6
 "redhat-cnalr","E011","check-custom-version-type",1
@@ -1673,7 +1674,7 @@
 "symantec","E008","check-invalid-vendor-string",199
 "symantec","E009","check-invalid-product-string",133
 "symantec","E011","check-custom-version-type",9
-"symantec","E015","check-cna-rules-v4-basic",373
+"symantec","E015","check-cna-rules-v4-basic",374
 "synology","E007","check-invalid-version-string",388
 "synology","E008","check-invalid-vendor-string",8
 "synology","E009","check-invalid-product-string",8
