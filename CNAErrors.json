@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T00:57:42Z",
+  "generatedAt": "2026-06-13T12:41:50Z",
   "results": [
     {
       "cna": "1E",
@@ -947,9 +947,9 @@
       "cna": "GRAFANA",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 4},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 154},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 155},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 55},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 69}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 70}
       ]
     },
     {
@@ -1032,11 +1032,11 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 22},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 4},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 68},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 69},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 296},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 295}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 296}
       ]
     },
     {
@@ -2662,11 +2662,11 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2065},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2067},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3164},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 4291}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 4293}
       ]
     },
     {
@@ -2705,11 +2705,11 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12640},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12651},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 44},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 10257},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 28052}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 10266},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 28082}
       ]
     },
     {
@@ -3802,8 +3802,8 @@
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8392},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6757},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 47},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 12253},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 4696},
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 12257},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 4712},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 1}
       ]
     },
