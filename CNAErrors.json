@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T12:41:50Z",
+  "generatedAt": "2026-06-14T00:57:42Z",
   "results": [
     {
       "cna": "1E",
@@ -2580,9 +2580,9 @@
       "cna": "TuranSec",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 22},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 15}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 17}
       ]
     },
     {
@@ -2632,8 +2632,8 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1216},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1528},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14849},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 88344}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14852},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 88362}
       ]
     },
     {

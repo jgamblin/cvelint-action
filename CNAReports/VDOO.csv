@@ -1,7 +1,7 @@
 "CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
 "CVE-2020-27304","VDOO","cvelistV5/cves/2020/27xxx/CVE-2020-27304.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
-"CVE-2020-27304","VDOO","cvelistV5/cves/2020/27xxx/CVE-2020-27304.json","check-custom-version-type","E011","containers.cna.affected.0.versions.0.versionType","Custom versionType should be avoided per CVE schema documentation"
 "CVE-2020-27304","VDOO","cvelistV5/cves/2020/27xxx/CVE-2020-27304.json","check-custom-version-type","E011","containers.cna.affected.0.versions.1.versionType","Custom versionType should be avoided per CVE schema documentation"
+"CVE-2020-27304","VDOO","cvelistV5/cves/2020/27xxx/CVE-2020-27304.json","check-custom-version-type","E011","containers.cna.affected.0.versions.0.versionType","Custom versionType should be avoided per CVE schema documentation"
 "CVE-2020-27302","VDOO","cvelistV5/cves/2020/27xxx/CVE-2020-27302.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2020-27301","VDOO","cvelistV5/cves/2020/27xxx/CVE-2020-27301.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2020-25860","VDOO","cvelistV5/cves/2020/25xxx/CVE-2020-25860.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
