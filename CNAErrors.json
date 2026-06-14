@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T00:57:42Z",
+  "generatedAt": "2026-06-14T12:44:46Z",
   "results": [
     {
       "cna": "1E",
@@ -422,8 +422,8 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 169},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 166},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 171},
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 168},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 414}
       ]
     },
@@ -2662,11 +2662,11 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2067},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2068},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3164},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 4293}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 4294}
       ]
     },
     {
@@ -3566,12 +3566,12 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 113094},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 113095},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 112697},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 112697},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 164},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 758},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 115261},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 759},
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 115263},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 4}
       ]
     },
