@@ -151,15 +151,15 @@
 "CERT-In","E011","check-custom-version-type",71
 "CERT-In","E015","check-cna-rules-v4-basic",141
 "CERT-PL","E004","check-leading-trailing-space",21
-"CERT-PL","E007","check-invalid-version-string",408
+"CERT-PL","E007","check-invalid-version-string",409
 "CERT-PL","E011","check-custom-version-type",202
-"CERT-PL","E015","check-cna-rules-v4-basic",395
+"CERT-PL","E015","check-cna-rules-v4-basic",396
 "CERTVDE","E004","check-leading-trailing-space",46
-"CERTVDE","E007","check-invalid-version-string",6278
+"CERTVDE","E007","check-invalid-version-string",6281
 "CERTVDE","E008","check-invalid-vendor-string",2
 "CERTVDE","E009","check-invalid-product-string",2
 "CERTVDE","E011","check-custom-version-type",1394
-"CERTVDE","E015","check-cna-rules-v4-basic",745
+"CERTVDE","E015","check-cna-rules-v4-basic",746
 "CIRCL","E006","check-affected-product-present",1
 "CIRCL","E007","check-invalid-version-string",33
 "CIRCL","E015","check-cna-rules-v4-basic",32
@@ -274,7 +274,7 @@
 "Docker","E004","check-leading-trailing-space",8
 "Docker","E007","check-invalid-version-string",22
 "Docker","E015","check-cna-rules-v4-basic",32
-"Document Fdn.","E007","check-invalid-version-string",26
+"Document Fdn.","E007","check-invalid-version-string",27
 "Document Fdn.","E011","check-custom-version-type",39
 "Document Fdn.","E015","check-cna-rules-v4-basic",45
 "Dragos","E004","check-leading-trailing-space",1
@@ -497,7 +497,7 @@
 "INCIBE","E006","check-affected-product-present",3
 "INCIBE","E007","check-invalid-version-string",224
 "INCIBE","E011","check-custom-version-type",248
-"INCIBE","E015","check-cna-rules-v4-basic",1087
+"INCIBE","E015","check-cna-rules-v4-basic",1088
 "Illumio","E004","check-leading-trailing-space",1
 "Illumio","E015","check-cna-rules-v4-basic",1
 "Insyde","E007","check-invalid-version-string",29
@@ -552,8 +552,8 @@
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
 "Liferay","E015","check-cna-rules-v4-basic",211
-"Linux","E007","check-invalid-version-string",85049
-"Linux","E015","check-cna-rules-v4-basic",12527
+"Linux","E007","check-invalid-version-string",85057
+"Linux","E015","check-cna-rules-v4-basic",12528
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -609,8 +609,8 @@
 "Mitsubishi","E008","check-invalid-vendor-string",37
 "Mitsubishi","E015","check-cna-rules-v4-basic",140
 "Moxa","E004","check-leading-trailing-space",20
-"Moxa","E011","check-custom-version-type",420
-"Moxa","E015","check-cna-rules-v4-basic",70
+"Moxa","E011","check-custom-version-type",426
+"Moxa","E015","check-cna-rules-v4-basic",73
 "N-able","E007","check-invalid-version-string",4
 "N-able","E011","check-custom-version-type",11
 "N-able","E015","check-cna-rules-v4-basic",12
@@ -666,8 +666,8 @@
 "Netskope","E011","check-custom-version-type",11
 "Netskope","E015","check-cna-rules-v4-basic",15
 "Nokia","E003","check-description-length",1
-"Nokia","E007","check-invalid-version-string",36
-"Nokia","E015","check-cna-rules-v4-basic",26
+"Nokia","E007","check-invalid-version-string",42
+"Nokia","E015","check-cna-rules-v4-basic",28
 "Nozomi","E007","check-invalid-version-string",379
 "Nozomi","E011","check-custom-version-type",103
 "Nozomi","E015","check-cna-rules-v4-basic",267
@@ -760,11 +760,11 @@
 "PaperCut","E011","check-custom-version-type",36
 "PaperCut","E015","check-cna-rules-v4-basic",19
 "Patchstack","E004","check-leading-trailing-space",3
-"Patchstack","E007","check-invalid-version-string",6233
+"Patchstack","E007","check-invalid-version-string",6249
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
-"Patchstack","E011","check-custom-version-type",16561
-"Patchstack","E015","check-cna-rules-v4-basic",16397
+"Patchstack","E011","check-custom-version-type",16578
+"Patchstack","E015","check-cna-rules-v4-basic",16414
 "Patchstack","E019","check-cna-rules-v4-timeline",122
 "Payara","E004","check-leading-trailing-space",1
 "Payara","E007","check-invalid-version-string",6
@@ -843,8 +843,8 @@
 "SCHUTZWERK","E015","check-cna-rules-v4-basic",3
 "SCHUTZWERK","E019","check-cna-rules-v4-timeline",34
 "SEC-VLab","E007","check-invalid-version-string",110
-"SEC-VLab","E011","check-custom-version-type",47
-"SEC-VLab","E015","check-cna-rules-v4-basic",122
+"SEC-VLab","E011","check-custom-version-type",50
+"SEC-VLab","E015","check-cna-rules-v4-basic",123
 "SEC-VLab","E019","check-cna-rules-v4-timeline",16
 "SEL","E004","check-leading-trailing-space",37
 "SEL","E011","check-custom-version-type",891
@@ -1075,11 +1075,11 @@
 "WindRiver","E015","check-cna-rules-v4-basic",3
 "Wiz","E007","check-invalid-version-string",30
 "Wiz","E015","check-cna-rules-v4-basic",7
-"Wordfence","E007","check-invalid-version-string",12651
-"Wordfence","E008","check-invalid-vendor-string",44
+"Wordfence","E007","check-invalid-version-string",12665
+"Wordfence","E008","check-invalid-vendor-string",47
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E015","check-cna-rules-v4-basic",10266
-"Wordfence","E019","check-cna-rules-v4-timeline",28082
+"Wordfence","E015","check-cna-rules-v4-basic",10277
+"Wordfence","E019","check-cna-rules-v4-timeline",28120
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",133
 "XEN","E011","check-custom-version-type",59
@@ -1125,8 +1125,8 @@
 "Zscaler","E011","check-custom-version-type",45
 "Zscaler","E015","check-cna-rules-v4-basic",47
 "Zyxel","E004","check-leading-trailing-space",2
-"Zyxel","E007","check-invalid-version-string",409
-"Zyxel","E015","check-cna-rules-v4-basic",161
+"Zyxel","E007","check-invalid-version-string",419
+"Zyxel","E015","check-cna-rules-v4-basic",162
 "adobe","E002","check-duplicate-reference-url",54
 "adobe","E004","check-leading-trailing-space",4
 "adobe","E007","check-invalid-version-string",7042
@@ -1315,8 +1315,8 @@
 "fedora","E008","check-invalid-vendor-string",112
 "fedora","E009","check-invalid-product-string",1
 "fedora","E011","check-custom-version-type",11
-"fedora","E015","check-cna-rules-v4-basic",307
-"fedora","E019","check-cna-rules-v4-timeline",580
+"fedora","E015","check-cna-rules-v4-basic",311
+"fedora","E019","check-cna-rules-v4-timeline",596
 "flexera","E002","check-duplicate-reference-url",13
 "flexera","E007","check-invalid-version-string",503
 "flexera","E008","check-invalid-vendor-string",444
@@ -1440,10 +1440,10 @@
 "joshbressers","E009","check-invalid-product-string",1
 "joshbressers","E015","check-cna-rules-v4-basic",5
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5443
+"jpcert","E007","check-invalid-version-string",5444
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
-"jpcert","E015","check-cna-rules-v4-basic",3174
+"jpcert","E015","check-cna-rules-v4-basic",3175
 "juniper","E002","check-duplicate-reference-url",1
 "juniper","E004","check-leading-trailing-space",68
 "juniper","E006","check-affected-product-present",2
@@ -1503,13 +1503,13 @@
 "mongodb","E011","check-custom-version-type",312
 "mongodb","E015","check-cna-rules-v4-basic",147
 "mozilla","E004","check-leading-trailing-space",6
-"mozilla","E006","check-affected-product-present",428
-"mozilla","E007","check-invalid-version-string",2189
+"mozilla","E006","check-affected-product-present",472
+"mozilla","E007","check-invalid-version-string",2271
 "mozilla","E008","check-invalid-vendor-string",607
 "mozilla","E009","check-invalid-product-string",601
 "mozilla","E010","check-invalid-self-references",1
 "mozilla","E011","check-custom-version-type",2862
-"mozilla","E015","check-cna-rules-v4-basic",2511
+"mozilla","E015","check-cna-rules-v4-basic",2555
 "naver","E007","check-invalid-version-string",1
 "naver","E011","check-custom-version-type",16
 "naver","E015","check-cna-rules-v4-basic",40
@@ -1603,12 +1603,12 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",27
-"redhat","E007","check-invalid-version-string",16866
+"redhat","E007","check-invalid-version-string",16871
 "redhat","E008","check-invalid-vendor-string",8392
 "redhat","E009","check-invalid-product-string",6757
 "redhat","E011","check-custom-version-type",47
-"redhat","E015","check-cna-rules-v4-basic",12266
-"redhat","E019","check-cna-rules-v4-timeline",4748
+"redhat","E015","check-cna-rules-v4-basic",12267
+"redhat","E019","check-cna-rules-v4-timeline",4752
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",6
 "redhat-cnalr","E011","check-custom-version-type",1
@@ -1741,7 +1741,7 @@
 "zephyr","E004","check-leading-trailing-space",2
 "zephyr","E007","check-invalid-version-string",146
 "zephyr","E011","check-custom-version-type",94
-"zephyr","E015","check-cna-rules-v4-basic",162
+"zephyr","E015","check-cna-rules-v4-basic",163
 "zte","E004","check-leading-trailing-space",16
 "zte","E007","check-invalid-version-string",107
 "zte","E008","check-invalid-vendor-string",67
