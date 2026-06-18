@@ -1,5 +1,6 @@
 "CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
 "CVE-2026-10748","Sonatype","cvelistV5/cves/2026/10xxx/CVE-2026-10748.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
+"CVE-2026-10741","Sonatype","cvelistV5/cves/2026/10xxx/CVE-2026-10741.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2026-7308","Sonatype","cvelistV5/cves/2026/7xxx/CVE-2026-7308.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2026-5189","Sonatype","cvelistV5/cves/2026/5xxx/CVE-2026-5189.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2026-3438","Sonatype","cvelistV5/cves/2026/3xxx/CVE-2026-3438.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
@@ -21,5 +22,5 @@
 "CVE-2024-5083","Sonatype","cvelistV5/cves/2024/5xxx/CVE-2024-5083.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2024-5082","Sonatype","cvelistV5/cves/2024/5xxx/CVE-2024-5082.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
 "CVE-2024-4956","Sonatype","cvelistV5/cves/2024/4xxx/CVE-2024-4956.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
-"CVE-2024-1142","Sonatype","cvelistV5/cves/2024/1xxx/CVE-2024-1142.json","check-custom-version-type","E011","containers.cna.affected.0.versions.0.versionType","Custom versionType should be avoided per CVE schema documentation"
 "CVE-2024-1142","Sonatype","cvelistV5/cves/2024/1xxx/CVE-2024-1142.json","check-cna-rules-v4-basic","E015","cveMetadata.id","CVE ID must be present"
+"CVE-2024-1142","Sonatype","cvelistV5/cves/2024/1xxx/CVE-2024-1142.json","check-custom-version-type","E011","containers.cna.affected.0.versions.0.versionType","Custom versionType should be avoided per CVE schema documentation"
