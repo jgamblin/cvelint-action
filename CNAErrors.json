@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T00:52:57Z",
+  "generatedAt": "2026-06-20T12:42:22Z",
   "results": [
     {
       "cna": "1E",
@@ -425,8 +425,8 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 175},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 172},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 176},
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 173},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 420}
       ]
     },
@@ -1321,7 +1321,7 @@
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 219}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 222}
       ]
     },
     {
@@ -2707,11 +2707,11 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12718},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 12722},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 47},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 10326},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 28298}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 10330},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 28314}
       ]
     },
     {
