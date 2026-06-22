@@ -555,8 +555,8 @@
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
 "Liferay","E015","check-cna-rules-v4-basic",211
-"Linux","E007","check-invalid-version-string",85244
-"Linux","E015","check-cna-rules-v4-basic",12531
+"Linux","E007","check-invalid-version-string",85253
+"Linux","E015","check-cna-rules-v4-basic",12532
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -1043,15 +1043,15 @@
 "Vivo","E011","check-custom-version-type",10
 "Vivo","E015","check-cna-rules-v4-basic",23
 "VulDB","E007","check-invalid-version-string",1217
-"VulDB","E008","check-invalid-vendor-string",1529
+"VulDB","E008","check-invalid-vendor-string",1532
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E015","check-cna-rules-v4-basic",14886
-"VulDB","E019","check-cna-rules-v4-timeline",88560
+"VulDB","E015","check-cna-rules-v4-basic",14922
+"VulDB","E019","check-cna-rules-v4-timeline",88776
 "VulnCheck","E002","check-duplicate-reference-url",1
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",1798
+"VulnCheck","E007","check-invalid-version-string",1818
 "VulnCheck","E011","check-custom-version-type",1134
-"VulnCheck","E015","check-cna-rules-v4-basic",4822
+"VulnCheck","E015","check-cna-rules-v4-basic",4847
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -1080,7 +1080,7 @@
 "Wordfence","E007","check-invalid-version-string",12722
 "Wordfence","E008","check-invalid-vendor-string",47
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E015","check-cna-rules-v4-basic",10330
+"Wordfence","E015","check-cna-rules-v4-basic",10331
 "Wordfence","E019","check-cna-rules-v4-timeline",28314
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",137
@@ -1493,12 +1493,12 @@
 "microsoft","E015","check-cna-rules-v4-basic",13297
 "microsoft","E016","check-cna-rules-v4-descriptions",6667
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",113175
+"mitre","E007","check-invalid-version-string",113185
 "mitre","E008","check-invalid-vendor-string",112774
 "mitre","E009","check-invalid-product-string",112774
 "mitre","E010","check-invalid-self-references",164
 "mitre","E011","check-custom-version-type",761
-"mitre","E015","check-cna-rules-v4-basic",115347
+"mitre","E015","check-cna-rules-v4-basic",115357
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",29
