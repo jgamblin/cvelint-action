@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T00:53:21Z",
+  "generatedAt": "2026-06-28T12:34:09Z",
   "results": [
     {
       "cna": "1E",
@@ -2647,10 +2647,10 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1217},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1532},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1533},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14922},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 88776}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 14932},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 88836}
       ]
     },
     {
@@ -2658,9 +2658,9 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1937},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1148},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 4980},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1945},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1150},
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 4990},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 176}
       ]
     },
@@ -4109,7 +4109,7 @@
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 2},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 154},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 94},
-        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 176}
+        {"errorCode": "E015", "errorName": "check-cna-rules-v4-basic", "errorCount": 179}
       ]
     },
     {
