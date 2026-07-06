@@ -23,9 +23,9 @@
 "@huntrdev","E011","check-custom-version-type",1587
 "@huntrdev","E015","check-cna-rules-v4-basic",1610
 "ABB","E004","check-leading-trailing-space",31
-"ABB","E007","check-invalid-version-string",209
-"ABB","E011","check-custom-version-type",750
-"ABB","E015","check-cna-rules-v4-basic",277
+"ABB","E007","check-invalid-version-string",211
+"ABB","E011","check-custom-version-type",752
+"ABB","E015","check-cna-rules-v4-basic",279
 "AHA","E004","check-leading-trailing-space",1
 "AHA","E007","check-invalid-version-string",840
 "AHA","E011","check-custom-version-type",17
@@ -172,9 +172,9 @@
 "CODRA","E011","check-custom-version-type",5
 "CODRA","E015","check-cna-rules-v4-basic",2
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",197
-"CPANSec","E015","check-cna-rules-v4-basic",194
-"CPANSec","E019","check-cna-rules-v4-timeline",454
+"CPANSec","E011","check-custom-version-type",199
+"CPANSec","E015","check-cna-rules-v4-basic",196
+"CPANSec","E019","check-cna-rules-v4-timeline",458
 "CSA","E007","check-invalid-version-string",47
 "CSA","E015","check-cna-rules-v4-basic",20
 "CSW","E007","check-invalid-version-string",5
@@ -185,8 +185,8 @@
 "Canon","E007","check-invalid-version-string",425
 "Canon","E015","check-cna-rules-v4-basic",48
 "Canon_EMEA","E007","check-invalid-version-string",2
-"Canon_EMEA","E011","check-custom-version-type",5
-"Canon_EMEA","E015","check-cna-rules-v4-basic",4
+"Canon_EMEA","E011","check-custom-version-type",6
+"Canon_EMEA","E015","check-cna-rules-v4-basic",5
 "Carrier","E007","check-invalid-version-string",9
 "Carrier","E011","check-custom-version-type",129
 "Carrier","E015","check-cna-rules-v4-basic",24
@@ -297,7 +297,7 @@
 "EDB","E011","check-custom-version-type",7
 "EDB","E015","check-cna-rules-v4-basic",4
 "EEF","E007","check-invalid-version-string",13
-"EEF","E015","check-cna-rules-v4-basic",115
+"EEF","E015","check-cna-rules-v4-basic",118
 "ELAN","E011","check-custom-version-type",2
 "ELAN","E015","check-cna-rules-v4-basic",1
 "ENISA","E007","check-invalid-version-string",61
@@ -503,8 +503,8 @@
 "INCIBE","E004","check-leading-trailing-space",19
 "INCIBE","E006","check-affected-product-present",3
 "INCIBE","E007","check-invalid-version-string",233
-"INCIBE","E011","check-custom-version-type",255
-"INCIBE","E015","check-cna-rules-v4-basic",1098
+"INCIBE","E011","check-custom-version-type",259
+"INCIBE","E015","check-cna-rules-v4-basic",1100
 "Illumio","E004","check-leading-trailing-space",1
 "Illumio","E015","check-cna-rules-v4-basic",1
 "Insyde","E007","check-invalid-version-string",29
@@ -734,9 +734,9 @@
 "OpenText","E015","check-cna-rules-v4-basic",170
 "OpenText","E019","check-cna-rules-v4-timeline",6
 "OpenVPN","E004","check-leading-trailing-space",1
-"OpenVPN","E007","check-invalid-version-string",39
+"OpenVPN","E007","check-invalid-version-string",40
 "OpenVPN","E008","check-invalid-vendor-string",14
-"OpenVPN","E015","check-cna-rules-v4-basic",46
+"OpenVPN","E015","check-cna-rules-v4-basic",47
 "Opera","E007","check-invalid-version-string",6
 "Opera","E008","check-invalid-vendor-string",4
 "Opera","E015","check-cna-rules-v4-basic",6
@@ -1049,10 +1049,10 @@
 "Vivo","E011","check-custom-version-type",10
 "Vivo","E015","check-cna-rules-v4-basic",23
 "VulDB","E007","check-invalid-version-string",1217
-"VulDB","E008","check-invalid-vendor-string",1551
+"VulDB","E008","check-invalid-vendor-string",1555
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E015","check-cna-rules-v4-basic",15154
-"VulDB","E019","check-cna-rules-v4-timeline",90172
+"VulDB","E015","check-cna-rules-v4-basic",15167
+"VulDB","E019","check-cna-rules-v4-timeline",90250
 "VulnCheck","E002","check-duplicate-reference-url",2
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E007","check-invalid-version-string",2094
@@ -1065,15 +1065,15 @@
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
 "WDC PSIRT","E015","check-cna-rules-v4-basic",49
-"WPScan","E007","check-invalid-version-string",2127
+"WPScan","E007","check-invalid-version-string",2137
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3164
-"WPScan","E015","check-cna-rules-v4-basic",4348
+"WPScan","E015","check-cna-rules-v4-basic",4355
 "WSO2","E004","check-leading-trailing-space",3
 "WSO2","E007","check-invalid-version-string",45
-"WSO2","E011","check-custom-version-type",1639
-"WSO2","E015","check-cna-rules-v4-basic",64
+"WSO2","E011","check-custom-version-type",1689
+"WSO2","E015","check-cna-rules-v4-basic",66
 "WatchGuard","E004","check-leading-trailing-space",2
 "WatchGuard","E007","check-invalid-version-string",198
 "WatchGuard","E011","check-custom-version-type",5
@@ -1152,11 +1152,11 @@
 "apache","E002","check-duplicate-reference-url",42
 "apache","E004","check-leading-trailing-space",157
 "apache","E006","check-affected-product-present",1
-"apache","E007","check-invalid-version-string",1964
+"apache","E007","check-invalid-version-string",1968
 "apache","E008","check-invalid-vendor-string",142
 "apache","E009","check-invalid-product-string",3
 "apache","E011","check-custom-version-type",457
-"apache","E015","check-cna-rules-v4-basic",2177
+"apache","E015","check-cna-rules-v4-basic",2215
 "apache","E019","check-cna-rules-v4-timeline",534
 "apple","E002","check-duplicate-reference-url",2
 "apple","E007","check-invalid-version-string",4858
@@ -1618,8 +1618,8 @@
 "redhat","E008","check-invalid-vendor-string",8392
 "redhat","E009","check-invalid-product-string",6757
 "redhat","E011","check-custom-version-type",47
-"redhat","E015","check-cna-rules-v4-basic",12353
-"redhat","E019","check-cna-rules-v4-timeline",5088
+"redhat","E015","check-cna-rules-v4-basic",12355
+"redhat","E019","check-cna-rules-v4-timeline",5096
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",6
 "redhat-cnalr","E011","check-custom-version-type",1
@@ -1682,7 +1682,7 @@
 "suse","E007","check-invalid-version-string",305
 "suse","E008","check-invalid-vendor-string",9
 "suse","E011","check-custom-version-type",479
-"suse","E015","check-cna-rules-v4-basic",230
+"suse","E015","check-cna-rules-v4-basic",233
 "symantec","E004","check-leading-trailing-space",1
 "symantec","E006","check-affected-product-present",2
 "symantec","E007","check-invalid-version-string",346
@@ -1725,8 +1725,8 @@
 "trendmicro","E015","check-cna-rules-v4-basic",506
 "twcert","E004","check-leading-trailing-space",25
 "twcert","E007","check-invalid-version-string",259
-"twcert","E011","check-custom-version-type",972
-"twcert","E015","check-cna-rules-v4-basic",878
+"twcert","E011","check-custom-version-type",975
+"twcert","E015","check-cna-rules-v4-basic",881
 "upKeeper","E007","check-invalid-version-string",14
 "upKeeper","E015","check-cna-rules-v4-basic",14
 "vmware","E004","check-leading-trailing-space",38
