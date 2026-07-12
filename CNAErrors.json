@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T02:38:34Z",
+  "generatedAt": "2026-07-12T13:17:56Z",
   "results": [
     {
       "cna": "1E",
@@ -2265,9 +2265,9 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1217},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1561},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1562},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 90550}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 90712}
       ]
     },
     {
@@ -2275,7 +2275,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 2},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2228},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2239},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1204},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 176}
       ]
