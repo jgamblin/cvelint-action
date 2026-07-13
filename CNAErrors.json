@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T13:17:56Z",
+  "generatedAt": "2026-07-13T02:40:30Z",
   "results": [
     {
       "cna": "1E",
@@ -2264,10 +2264,10 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1217},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1562},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1218},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1565},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 90712}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 90814}
       ]
     },
     {
@@ -3066,8 +3066,8 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 37130},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2918},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2913},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 82487},
-        {"errorCode": "E016", "errorName": "check-cna-rules-v4-descriptions", "errorCount": 6719}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 82488},
+        {"errorCode": "E016", "errorName": "check-cna-rules-v4-descriptions", "errorCount": 6720}
       ]
     },
     {
@@ -3304,7 +3304,7 @@
       "cna": "samsung.tv_appliance",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 2},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 10},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 22}
       ]
