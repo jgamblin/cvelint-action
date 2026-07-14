@@ -121,7 +121,7 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",209
+"CPANSec","E011","check-custom-version-type",214
 "CPANSec","E019","check-cna-rules-v4-timeline",478
 "CSA","E007","check-invalid-version-string",48
 "CSW","E007","check-invalid-version-string",5
@@ -267,7 +267,7 @@
 "Genetec","E011","check-custom-version-type",2
 "GitHub_M","E002","check-duplicate-reference-url",9
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",25117
+"GitHub_M","E007","check-invalid-version-string",25133
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -387,7 +387,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",88546
+"Linux","E007","check-invalid-version-string",88557
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -606,8 +606,8 @@
 "SK-CERT","E011","check-custom-version-type",5
 "SK-CERT","E019","check-cna-rules-v4-timeline",24
 "SN","E004","check-leading-trailing-space",5
-"SN","E007","check-invalid-version-string",127
-"SN","E011","check-custom-version-type",118
+"SN","E007","check-invalid-version-string",134
+"SN","E011","check-custom-version-type",125
 "SNOWFLAKE","E007","check-invalid-version-string",1
 "SNOWFLAKE","E011","check-custom-version-type",1
 "SNPS","E004","check-leading-trailing-space",4
@@ -681,8 +681,8 @@
 "THA-PSIRT","E011","check-custom-version-type",9
 "TML","E004","check-leading-trailing-space",31
 "TML","E011","check-custom-version-type",6
-"TPLink","E007","check-invalid-version-string",259
-"TPLink","E011","check-custom-version-type",352
+"TPLink","E007","check-invalid-version-string",261
+"TPLink","E011","check-custom-version-type",354
 "TQtC","E011","check-custom-version-type",5
 "TR-CERT","E004","check-leading-trailing-space",3
 "TR-CERT","E006","check-affected-product-present",1
@@ -730,13 +730,13 @@
 "Vivo","E007","check-invalid-version-string",19
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1218
-"VulDB","E008","check-invalid-vendor-string",1567
+"VulDB","E008","check-invalid-vendor-string",1568
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",90988
+"VulDB","E019","check-cna-rules-v4-timeline",91090
 "VulnCheck","E002","check-duplicate-reference-url",2
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2239
-"VulnCheck","E011","check-custom-version-type",1204
+"VulnCheck","E007","check-invalid-version-string",2266
+"VulnCheck","E011","check-custom-version-type",1205
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -756,10 +756,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13112
+"Wordfence","E007","check-invalid-version-string",13118
 "Wordfence","E008","check-invalid-vendor-string",49
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",29426
+"Wordfence","E019","check-cna-rules-v4-timeline",29442
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",137
 "XEN","E011","check-custom-version-type",59
@@ -796,7 +796,7 @@
 "Zyxel","E007","check-invalid-version-string",419
 "adobe","E002","check-duplicate-reference-url",54
 "adobe","E004","check-leading-trailing-space",4
-"adobe","E007","check-invalid-version-string",7084
+"adobe","E007","check-invalid-version-string",7092
 "adobe","E008","check-invalid-vendor-string",2535
 "adobe","E009","check-invalid-product-string",1875
 "adobe","E011","check-custom-version-type",3336
@@ -807,7 +807,7 @@
 "apache","E002","check-duplicate-reference-url",42
 "apache","E004","check-leading-trailing-space",157
 "apache","E006","check-affected-product-present",1
-"apache","E007","check-invalid-version-string",1975
+"apache","E007","check-invalid-version-string",1977
 "apache","E008","check-invalid-vendor-string",142
 "apache","E009","check-invalid-product-string",3
 "apache","E011","check-custom-version-type",457
@@ -1084,18 +1084,18 @@
 "microsoft","E011","check-custom-version-type",82488
 "microsoft","E016","check-cna-rules-v4-descriptions",6720
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",113310
-"mitre","E008","check-invalid-vendor-string",112892
-"mitre","E009","check-invalid-product-string",112892
+"mitre","E007","check-invalid-version-string",113321
+"mitre","E008","check-invalid-vendor-string",112903
+"mitre","E009","check-invalid-product-string",112903
 "mitre","E010","check-invalid-self-references",166
-"mitre","E011","check-custom-version-type",776
+"mitre","E011","check-custom-version-type",777
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",29
 "mongodb","E011","check-custom-version-type",312
 "mozilla","E004","check-leading-trailing-space",6
-"mozilla","E006","check-affected-product-present",476
-"mozilla","E007","check-invalid-version-string",2346
+"mozilla","E006","check-affected-product-present",477
+"mozilla","E007","check-invalid-version-string",2347
 "mozilla","E008","check-invalid-vendor-string",607
 "mozilla","E009","check-invalid-product-string",601
 "mozilla","E010","check-invalid-self-references",1
@@ -1190,7 +1190,7 @@
 "sap","E002","check-duplicate-reference-url",1
 "sap","E004","check-leading-trailing-space",181
 "sap","E006","check-affected-product-present",1
-"sap","E007","check-invalid-version-string",4502
+"sap","E007","check-invalid-version-string",4543
 "sap","E008","check-invalid-vendor-string",4
 "sap","E009","check-invalid-product-string",4
 "sap","E011","check-custom-version-type",8
