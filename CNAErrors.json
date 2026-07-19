@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:13:02Z",
+  "generatedAt": "2026-07-19T02:35:39Z",
   "results": [
     {
       "cna": "1E",
@@ -39,7 +39,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 9},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 805}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 806}
       ]
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "cna": "Linux",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 88577}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 88584}
       ]
     },
     {
@@ -2267,7 +2267,7 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1221},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1571},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 91420}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 91618}
       ]
     },
     {
@@ -2275,7 +2275,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2394},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2457},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1207},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 176}
       ]
@@ -3182,7 +3182,7 @@
     {
       "cna": "openjs",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 39},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 40},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 5},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 4}
       ]
@@ -3285,7 +3285,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 675},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 27},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16867},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16864},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8392},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6757},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 47},
