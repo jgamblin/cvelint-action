@@ -110,7 +110,7 @@
 "CERT-In","E011","check-custom-version-type",71
 "CERT-PL","E004","check-leading-trailing-space",21
 "CERT-PL","E007","check-invalid-version-string",443
-"CERT-PL","E011","check-custom-version-type",229
+"CERT-PL","E011","check-custom-version-type",232
 "CERTVDE","E004","check-leading-trailing-space",46
 "CERTVDE","E007","check-invalid-version-string",6693
 "CERTVDE","E008","check-invalid-vendor-string",2
@@ -121,7 +121,7 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",232
+"CPANSec","E011","check-custom-version-type",235
 "CPANSec","E019","check-cna-rules-v4-timeline",492
 "CSA","E007","check-invalid-version-string",48
 "CSW","E007","check-invalid-version-string",5
@@ -347,7 +347,7 @@
 "INCD","E008","check-invalid-vendor-string",2
 "INCD","E009","check-invalid-product-string",2
 "INCD","E011","check-custom-version-type",197
-"INCIBE","E004","check-leading-trailing-space",19
+"INCIBE","E004","check-leading-trailing-space",18
 "INCIBE","E006","check-affected-product-present",3
 "INCIBE","E007","check-invalid-version-string",234
 "INCIBE","E011","check-custom-version-type",260
@@ -387,7 +387,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",91720
+"Linux","E007","check-invalid-version-string",91651
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -732,10 +732,10 @@
 "VulDB","E007","check-invalid-version-string",1221
 "VulDB","E008","check-invalid-vendor-string",1575
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",91750
+"VulDB","E019","check-cna-rules-v4-timeline",91762
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2457
+"VulnCheck","E007","check-invalid-version-string",2491
 "VulnCheck","E011","check-custom-version-type",1207
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -743,13 +743,13 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2199
+"WPScan","E007","check-invalid-version-string",2219
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3164
 "WSO2","E004","check-leading-trailing-space",3
 "WSO2","E007","check-invalid-version-string",45
-"WSO2","E011","check-custom-version-type",1689
+"WSO2","E011","check-custom-version-type",1701
 "WatchGuard","E004","check-leading-trailing-space",2
 "WatchGuard","E007","check-invalid-version-string",198
 "WatchGuard","E011","check-custom-version-type",5
@@ -832,8 +832,8 @@
 "avaya","E011","check-custom-version-type",43
 "azure-access","E007","check-invalid-version-string",78
 "bcorg","E007","check-invalid-version-string",3
-"bizerba","E007","check-invalid-version-string",14
-"bizerba","E019","check-cna-rules-v4-timeline",16
+"bizerba","E007","check-invalid-version-string",16
+"bizerba","E019","check-cna-rules-v4-timeline",20
 "blackberry","E004","check-leading-trailing-space",4
 "blackberry","E007","check-invalid-version-string",70
 "blackberry","E008","check-invalid-vendor-string",19
@@ -1175,11 +1175,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",27
-"redhat","E007","check-invalid-version-string",16864
+"redhat","E007","check-invalid-version-string",16875
 "redhat","E008","check-invalid-vendor-string",8392
 "redhat","E009","check-invalid-product-string",6757
 "redhat","E011","check-custom-version-type",47
-"redhat","E019","check-cna-rules-v4-timeline",5276
+"redhat","E019","check-cna-rules-v4-timeline",5296
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
