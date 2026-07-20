@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T13:16:14Z",
+  "generatedAt": "2026-07-20T02:50:48Z",
   "results": [
     {
       "cna": "1E",
@@ -39,7 +39,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 9},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 21},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 806}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 807}
       ]
     },
     {
@@ -857,7 +857,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 9},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25784},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 25787},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 123},
@@ -1217,7 +1217,7 @@
     {
       "cna": "Linux",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 89215}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 91720}
       ]
     },
     {
@@ -3410,7 +3410,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 346},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 348},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 199},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 133},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 9}
