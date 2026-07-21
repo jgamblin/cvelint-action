@@ -121,8 +121,8 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",235
-"CPANSec","E019","check-cna-rules-v4-timeline",492
+"CPANSec","E011","check-custom-version-type",237
+"CPANSec","E019","check-cna-rules-v4-timeline",504
 "CSA","E007","check-invalid-version-string",48
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
@@ -144,7 +144,7 @@
 "Chrome","E007","check-invalid-version-string",1290
 "Chrome","E008","check-invalid-vendor-string",1260
 "Chrome","E009","check-invalid-product-string",1056
-"Chrome","E011","check-custom-version-type",3843
+"Chrome","E011","check-custom-version-type",3850
 "ChromeOS","E007","check-invalid-version-string",2
 "ChromeOS","E011","check-custom-version-type",12
 "Ciena","E004","check-leading-trailing-space",1
@@ -174,7 +174,7 @@
 "CyberDanube","E011","check-custom-version-type",59
 "DEVOLUTIONS","E004","check-leading-trailing-space",36
 "DEVOLUTIONS","E007","check-invalid-version-string",3
-"DEVOLUTIONS","E011","check-custom-version-type",205
+"DEVOLUTIONS","E011","check-custom-version-type",206
 "DIVD","E007","check-invalid-version-string",135
 "DIVD","E009","check-invalid-product-string",2
 "DIVD","E011","check-custom-version-type",34
@@ -192,7 +192,7 @@
 "Digi","E011","check-custom-version-type",10
 "Digi","E019","check-cna-rules-v4-timeline",4
 "Docker","E004","check-leading-trailing-space",8
-"Docker","E007","check-invalid-version-string",22
+"Docker","E007","check-invalid-version-string",23
 "Document Fdn.","E007","check-invalid-version-string",27
 "Document Fdn.","E011","check-custom-version-type",39
 "Dragos","E004","check-leading-trailing-space",1
@@ -226,7 +226,7 @@
 "Esri","E011","check-custom-version-type",100
 "Everpure","E011","check-custom-version-type",3
 "ExtremeNetworks","E007","check-invalid-version-string",2
-"ExtremeNetworks","E011","check-custom-version-type",5
+"ExtremeNetworks","E011","check-custom-version-type",13
 "F-SecureUS","E007","check-invalid-version-string",32
 "F-SecureUS","E011","check-custom-version-type",29
 "FERMAX","E011","check-custom-version-type",1
@@ -267,7 +267,7 @@
 "Genetec","E011","check-custom-version-type",2
 "GitHub_M","E002","check-duplicate-reference-url",9
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",25787
+"GitHub_M","E007","check-invalid-version-string",25901
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -299,7 +299,7 @@
 "Gridware","E007","check-invalid-version-string",15
 "Gridware","E011","check-custom-version-type",4
 "HCL","E004","check-leading-trailing-space",120
-"HCL","E007","check-invalid-version-string",376
+"HCL","E007","check-invalid-version-string",377
 "HCL","E008","check-invalid-vendor-string",52
 "HCL","E011","check-custom-version-type",3
 "HITVAN","E004","check-leading-trailing-space",21
@@ -387,7 +387,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",91651
+"Linux","E007","check-invalid-version-string",91707
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -615,7 +615,7 @@
 "SNPS","E011","check-custom-version-type",13
 "SNPS","E019","check-cna-rules-v4-timeline",8
 "SRA","E004","check-leading-trailing-space",2
-"SRA","E007","check-invalid-version-string",17
+"SRA","E007","check-invalid-version-string",21
 "STAR_Labs","E004","check-leading-trailing-space",7
 "STAR_Labs","E007","check-invalid-version-string",24
 "STAR_Labs","E011","check-custom-version-type",14
@@ -624,7 +624,7 @@
 "SWI","E008","check-invalid-vendor-string",2
 "SWI","E011","check-custom-version-type",13
 "SailPoint","E007","check-invalid-version-string",44
-"SailPoint","E011","check-custom-version-type",13
+"SailPoint","E011","check-custom-version-type",16
 "Salesforce","E007","check-invalid-version-string",79
 "Salesforce","E008","check-invalid-vendor-string",10
 "Salesforce","E011","check-custom-version-type",12
@@ -638,6 +638,7 @@
 "Secomea","E004","check-leading-trailing-space",5
 "Secomea","E007","check-invalid-version-string",1
 "Secomea","E011","check-custom-version-type",43
+"Secur0","E007","check-invalid-version-string",1
 "Secur0","E011","check-custom-version-type",3
 "ShopBeat","E011","check-custom-version-type",6
 "Silabs","E004","check-leading-trailing-space",16
@@ -687,7 +688,7 @@
 "TR-CERT","E004","check-leading-trailing-space",3
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",45
-"TR-CERT","E011","check-custom-version-type",701
+"TR-CERT","E011","check-custom-version-type",703
 "TR-CERT","E019","check-cna-rules-v4-timeline",102
 "TRO","E007","check-invalid-version-string",12
 "TV","E004","check-leading-trailing-space",1
@@ -729,14 +730,14 @@
 "Vaadin","E011","check-custom-version-type",97
 "Vivo","E007","check-invalid-version-string",19
 "Vivo","E011","check-custom-version-type",10
-"VulDB","E007","check-invalid-version-string",1221
+"VulDB","E007","check-invalid-version-string",1222
 "VulDB","E008","check-invalid-vendor-string",1575
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",91762
+"VulDB","E019","check-cna-rules-v4-timeline",91810
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2491
-"VulnCheck","E011","check-custom-version-type",1207
+"VulnCheck","E007","check-invalid-version-string",2492
+"VulnCheck","E011","check-custom-version-type",1221
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -756,10 +757,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13184
+"Wordfence","E007","check-invalid-version-string",13185
 "Wordfence","E008","check-invalid-vendor-string",49
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",29640
+"Wordfence","E019","check-cna-rules-v4-timeline",29646
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",137
 "XEN","E011","check-custom-version-type",59
@@ -793,10 +794,10 @@
 "Zscaler","E009","check-invalid-product-string",3
 "Zscaler","E011","check-custom-version-type",45
 "Zyxel","E004","check-leading-trailing-space",2
-"Zyxel","E007","check-invalid-version-string",419
+"Zyxel","E007","check-invalid-version-string",420
 "adobe","E002","check-duplicate-reference-url",54
 "adobe","E004","check-leading-trailing-space",4
-"adobe","E007","check-invalid-version-string",7460
+"adobe","E007","check-invalid-version-string",7462
 "adobe","E008","check-invalid-vendor-string",2535
 "adobe","E009","check-invalid-product-string",1875
 "adobe","E011","check-custom-version-type",3514
@@ -904,7 +905,7 @@
 "directcyber","E004","check-leading-trailing-space",3
 "directcyber","E007","check-invalid-version-string",4
 "dotCMS","E007","check-invalid-version-string",6
-"dotCMS","E011","check-custom-version-type",2
+"dotCMS","E011","check-custom-version-type",3
 "drupal","E004","check-leading-trailing-space",1
 "drupal","E007","check-invalid-version-string",92
 "drupal","E008","check-invalid-vendor-string",3
@@ -974,7 +975,7 @@
 "google_android","E009","check-invalid-product-string",571
 "google_android","E011","check-custom-version-type",1
 "hackerone","E004","check-leading-trailing-space",48
-"hackerone","E007","check-invalid-version-string",4803
+"hackerone","E007","check-invalid-version-string",4804
 "hackerone","E008","check-invalid-vendor-string",571
 "hackerone","E009","check-invalid-product-string",160
 "hackerone","E011","check-custom-version-type",130
@@ -1080,17 +1081,17 @@
 "microfocus","E011","check-custom-version-type",134
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",37516
+"microsoft","E007","check-invalid-version-string",37510
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
-"microsoft","E011","check-custom-version-type",88839
+"microsoft","E011","check-custom-version-type",88824
 "microsoft","E016","check-cna-rules-v4-descriptions",7296
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",113378
-"mitre","E008","check-invalid-vendor-string",112951
-"mitre","E009","check-invalid-product-string",112951
+"mitre","E007","check-invalid-version-string",113388
+"mitre","E008","check-invalid-vendor-string",112961
+"mitre","E009","check-invalid-product-string",112961
 "mitre","E010","check-invalid-self-references",166
-"mitre","E011","check-custom-version-type",778
+"mitre","E011","check-custom-version-type",788
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",29
@@ -1175,11 +1176,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",27
-"redhat","E007","check-invalid-version-string",16875
+"redhat","E007","check-invalid-version-string",16908
 "redhat","E008","check-invalid-vendor-string",8392
 "redhat","E009","check-invalid-product-string",6757
 "redhat","E011","check-custom-version-type",47
-"redhat","E019","check-cna-rules-v4-timeline",5296
+"redhat","E019","check-cna-rules-v4-timeline",5308
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
