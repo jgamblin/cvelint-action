@@ -109,7 +109,7 @@
 "CERT-In","E007","check-invalid-version-string",115
 "CERT-In","E011","check-custom-version-type",71
 "CERT-PL","E004","check-leading-trailing-space",21
-"CERT-PL","E007","check-invalid-version-string",443
+"CERT-PL","E007","check-invalid-version-string",444
 "CERT-PL","E011","check-custom-version-type",232
 "CERTVDE","E004","check-leading-trailing-space",46
 "CERTVDE","E007","check-invalid-version-string",6693
@@ -285,7 +285,7 @@
 "Google","E007","check-invalid-version-string",73
 "Google","E008","check-invalid-vendor-string",2
 "Google","E009","check-invalid-product-string",2
-"Google","E011","check-custom-version-type",296
+"Google","E011","check-custom-version-type",302
 "GoogleCloud","E007","check-invalid-version-string",7
 "GoogleCloud","E011","check-custom-version-type",87
 "Google_Devices","E004","check-leading-trailing-space",7
@@ -436,8 +436,8 @@
 "NCSC-NL","E011","check-custom-version-type",27
 "NCSC.ch","E004","check-leading-trailing-space",24
 "NCSC.ch","E006","check-affected-product-present",4
-"NCSC.ch","E007","check-invalid-version-string",68
-"NCSC.ch","E011","check-custom-version-type",113
+"NCSC.ch","E007","check-invalid-version-string",69
+"NCSC.ch","E011","check-custom-version-type",115
 "NCSC.ch","E019","check-cna-rules-v4-timeline",168
 "NEC","E004","check-leading-trailing-space",7
 "NEC","E007","check-invalid-version-string",1116
@@ -454,9 +454,9 @@
 "NLOK","E007","check-invalid-version-string",23
 "NLOK","E008","check-invalid-vendor-string",1
 "NLOK","E011","check-custom-version-type",25
-"NLnet Labs","E007","check-invalid-version-string",13
+"NLnet Labs","E007","check-invalid-version-string",16
 "NLnet Labs","E011","check-custom-version-type",9
-"NLnet Labs","E019","check-cna-rules-v4-timeline",222
+"NLnet Labs","E019","check-cna-rules-v4-timeline",466
 "NX","E004","check-leading-trailing-space",1
 "NX","E007","check-invalid-version-string",1
 "NX","E011","check-custom-version-type",1
@@ -688,7 +688,7 @@
 "TR-CERT","E004","check-leading-trailing-space",3
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",45
-"TR-CERT","E011","check-custom-version-type",707
+"TR-CERT","E011","check-custom-version-type",709
 "TR-CERT","E019","check-cna-rules-v4-timeline",102
 "TRO","E007","check-invalid-version-string",12
 "TV","E004","check-leading-trailing-space",1
@@ -736,7 +736,7 @@
 "VulDB","E019","check-cna-rules-v4-timeline",91888
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2519
+"VulnCheck","E007","check-invalid-version-string",2558
 "VulnCheck","E011","check-custom-version-type",1229
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -744,7 +744,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2226
+"WPScan","E007","check-invalid-version-string",2229
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3164
@@ -757,10 +757,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13192
+"Wordfence","E007","check-invalid-version-string",13196
 "Wordfence","E008","check-invalid-vendor-string",49
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",29666
+"Wordfence","E019","check-cna-rules-v4-timeline",29676
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",137
 "XEN","E011","check-custom-version-type",59
@@ -981,7 +981,7 @@
 "hackerone","E011","check-custom-version-type",130
 "harborist","E007","check-invalid-version-string",9
 "hikvision","E004","check-leading-trailing-space",2
-"hikvision","E007","check-invalid-version-string",235
+"hikvision","E007","check-invalid-version-string",246
 "hikvision","E008","check-invalid-vendor-string",1
 "hikvision","E009","check-invalid-product-string",1
 "hikvision","E011","check-custom-version-type",22
@@ -1180,7 +1180,7 @@
 "redhat","E008","check-invalid-vendor-string",8392
 "redhat","E009","check-invalid-product-string",6757
 "redhat","E011","check-custom-version-type",47
-"redhat","E019","check-cna-rules-v4-timeline",5388
+"redhat","E019","check-cna-rules-v4-timeline",5420
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
