@@ -357,8 +357,9 @@
 "Intigriti","E007","check-invalid-version-string",1
 "JAMF","E011","check-custom-version-type",2
 "JFROG","E004","check-leading-trailing-space",11
-"JFROG","E007","check-invalid-version-string",34
+"JFROG","E007","check-invalid-version-string",36
 "JFROG","E011","check-custom-version-type",101
+"JFROG","E019","check-cna-rules-v4-timeline",8
 "JetBrains","E004","check-leading-trailing-space",3
 "JetBrains","E007","check-invalid-version-string",584
 "JetBrains","E011","check-custom-version-type",36
@@ -387,7 +388,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",94336
+"Linux","E007","check-invalid-version-string",94347
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -733,11 +734,11 @@
 "VulDB","E007","check-invalid-version-string",1222
 "VulDB","E008","check-invalid-vendor-string",1578
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",91972
+"VulDB","E019","check-cna-rules-v4-timeline",92008
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E007","check-invalid-version-string",2627
-"VulnCheck","E011","check-custom-version-type",1272
+"VulnCheck","E011","check-custom-version-type",1273
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -1081,11 +1082,11 @@
 "microfocus","E011","check-custom-version-type",134
 "microsoft","E002","check-duplicate-reference-url",212
 "microsoft","E004","check-leading-trailing-space",2
-"microsoft","E007","check-invalid-version-string",37521
+"microsoft","E007","check-invalid-version-string",37522
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
-"microsoft","E011","check-custom-version-type",88833
-"microsoft","E016","check-cna-rules-v4-descriptions",7310
+"microsoft","E011","check-custom-version-type",88835
+"microsoft","E016","check-cna-rules-v4-descriptions",7313
 "mitre","E002","check-duplicate-reference-url",1096
 "mitre","E007","check-invalid-version-string",113420
 "mitre","E008","check-invalid-vendor-string",112990
