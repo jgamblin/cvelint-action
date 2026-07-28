@@ -3,8 +3,8 @@
 "360ST","E007","check-invalid-version-string",1
 "360ST","E008","check-invalid-vendor-string",4
 "3DS","E004","check-leading-trailing-space",5
-"3DS","E007","check-invalid-version-string",578
-"3DS","E011","check-custom-version-type",275
+"3DS","E007","check-invalid-version-string",586
+"3DS","E011","check-custom-version-type",279
 "42Gears","E004","check-leading-trailing-space",2
 "9front","E019","check-cna-rules-v4-timeline",4
 "@huntr_ai","E004","check-leading-trailing-space",9
@@ -109,21 +109,21 @@
 "CERT-In","E007","check-invalid-version-string",117
 "CERT-In","E011","check-custom-version-type",71
 "CERT-PL","E004","check-leading-trailing-space",21
-"CERT-PL","E007","check-invalid-version-string",450
-"CERT-PL","E011","check-custom-version-type",234
+"CERT-PL","E007","check-invalid-version-string",453
+"CERT-PL","E011","check-custom-version-type",235
 "CERTVDE","E004","check-leading-trailing-space",46
 "CERTVDE","E007","check-invalid-version-string",6693
 "CERTVDE","E008","check-invalid-vendor-string",2
 "CERTVDE","E009","check-invalid-product-string",2
 "CERTVDE","E011","check-custom-version-type",1198
 "CIRCL","E006","check-affected-product-present",1
-"CIRCL","E007","check-invalid-version-string",53
+"CIRCL","E007","check-invalid-version-string",60
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
 "CPANSec","E011","check-custom-version-type",265
 "CPANSec","E019","check-cna-rules-v4-timeline",512
-"CSA","E007","check-invalid-version-string",48
+"CSA","E007","check-invalid-version-string",49
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
 "Canon","E004","check-leading-trailing-space",8
@@ -351,8 +351,8 @@
 "INCD","E011","check-custom-version-type",197
 "INCIBE","E004","check-leading-trailing-space",18
 "INCIBE","E006","check-affected-product-present",3
-"INCIBE","E007","check-invalid-version-string",234
-"INCIBE","E011","check-custom-version-type",261
+"INCIBE","E007","check-invalid-version-string",235
+"INCIBE","E011","check-custom-version-type",262
 "Illumio","E004","check-leading-trailing-space",1
 "Insyde","E007","check-invalid-version-string",29
 "Insyde","E011","check-custom-version-type",18
@@ -390,7 +390,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",94530
+"Linux","E007","check-invalid-version-string",94531
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -600,9 +600,9 @@
 "SEL","E011","check-custom-version-type",891
 "SICK AG","E002","check-duplicate-reference-url",19
 "SICK AG","E004","check-leading-trailing-space",10
-"SICK AG","E007","check-invalid-version-string",270
+"SICK AG","E007","check-invalid-version-string",273
 "SICK AG","E008","check-invalid-vendor-string",28
-"SICK AG","E011","check-custom-version-type",188
+"SICK AG","E011","check-custom-version-type",190
 "SICK AG","E019","check-cna-rules-v4-timeline",8
 "SK-CERT","E004","check-leading-trailing-space",2
 "SK-CERT","E007","check-invalid-version-string",8
@@ -635,7 +635,7 @@
 "Samsung Mobile","E007","check-invalid-version-string",1006
 "Samsung Mobile","E008","check-invalid-vendor-string",1
 "Samsung Mobile","E011","check-custom-version-type",644
-"SamsungMobile","E007","check-invalid-version-string",404
+"SamsungMobile","E007","check-invalid-version-string",405
 "Seagate","E007","check-invalid-version-string",7
 "Seagate","E011","check-custom-version-type",2
 "Secomea","E004","check-leading-trailing-space",5
@@ -691,7 +691,7 @@
 "TR-CERT","E004","check-leading-trailing-space",3
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",45
-"TR-CERT","E011","check-custom-version-type",714
+"TR-CERT","E011","check-custom-version-type",716
 "TR-CERT","E019","check-cna-rules-v4-timeline",102
 "TRO","E007","check-invalid-version-string",12
 "TV","E004","check-leading-trailing-space",1
@@ -736,7 +736,7 @@
 "VulDB","E007","check-invalid-version-string",1222
 "VulDB","E008","check-invalid-vendor-string",1578
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",92044
+"VulDB","E019","check-cna-rules-v4-timeline",92050
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E007","check-invalid-version-string",2637
@@ -747,7 +747,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2274
+"WPScan","E007","check-invalid-version-string",2280
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3164
@@ -760,12 +760,12 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13259
+"Wordfence","E007","check-invalid-version-string",13293
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",29860
+"Wordfence","E019","check-cna-rules-v4-timeline",29974
 "XEN","E004","check-leading-trailing-space",15
-"XEN","E007","check-invalid-version-string",137
+"XEN","E007","check-invalid-version-string",155
 "XEN","E011","check-custom-version-type",59
 "XI","E004","check-leading-trailing-space",24
 "XI","E007","check-invalid-version-string",39
@@ -807,11 +807,11 @@
 "airbus","E007","check-invalid-version-string",39
 "airbus","E011","check-custom-version-type",21
 "alibaba","E008","check-invalid-vendor-string",1
-"alibaba","E011","check-custom-version-type",3
+"alibaba","E011","check-custom-version-type",4
 "apache","E002","check-duplicate-reference-url",42
 "apache","E004","check-leading-trailing-space",157
 "apache","E006","check-affected-product-present",1
-"apache","E007","check-invalid-version-string",2021
+"apache","E007","check-invalid-version-string",2027
 "apache","E008","check-invalid-vendor-string",142
 "apache","E009","check-invalid-product-string",3
 "apache","E011","check-custom-version-type",457
@@ -1050,7 +1050,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5462
+"jpcert","E007","check-invalid-version-string",5486
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
@@ -1179,11 +1179,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",27
-"redhat","E007","check-invalid-version-string",17021
+"redhat","E007","check-invalid-version-string",17028
 "redhat","E008","check-invalid-vendor-string",8392
 "redhat","E009","check-invalid-product-string",6757
 "redhat","E011","check-custom-version-type",47
-"redhat","E019","check-cna-rules-v4-timeline",5504
+"redhat","E019","check-cna-rules-v4-timeline",5516
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
@@ -1196,7 +1196,7 @@
 "sap","E002","check-duplicate-reference-url",1
 "sap","E004","check-leading-trailing-space",181
 "sap","E006","check-affected-product-present",1
-"sap","E007","check-invalid-version-string",4543
+"sap","E007","check-invalid-version-string",4554
 "sap","E008","check-invalid-vendor-string",4
 "sap","E009","check-invalid-product-string",4
 "sap","E011","check-custom-version-type",8
@@ -1219,8 +1219,8 @@
 "siemens","E008","check-invalid-vendor-string",40
 "siemens","E011","check-custom-version-type",11637
 "snyk","E004","check-leading-trailing-space",36
-"snyk","E007","check-invalid-version-string",445
-"snyk","E008","check-invalid-vendor-string",930
+"snyk","E007","check-invalid-version-string",447
+"snyk","E008","check-invalid-vendor-string",932
 "snyk","E009","check-invalid-product-string",5
 "snyk","E010","check-invalid-self-references",2
 "snyk","E011","check-custom-version-type",572
