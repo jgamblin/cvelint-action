@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T13:18:22Z",
+  "generatedAt": "2026-08-02T02:39:26Z",
   "results": [
     {
       "cna": "1E",
@@ -1352,7 +1352,7 @@
       "cna": "N-able",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 11}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 12}
       ]
     },
     {
@@ -2342,10 +2342,10 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13385},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13388},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 50},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 30260}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 30272}
       ]
     },
     {
@@ -3391,8 +3391,8 @@
       "cna": "snyk",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 36},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 448},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 934},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 449},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 935},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 5},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 2},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 572},
