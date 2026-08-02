@@ -8,8 +8,8 @@
 "42Gears","E004","check-leading-trailing-space",2
 "9front","E019","check-cna-rules-v4-timeline",4
 "@huntr_ai","E004","check-leading-trailing-space",9
-"@huntr_ai","E007","check-invalid-version-string",21
-"@huntr_ai","E011","check-custom-version-type",809
+"@huntr_ai","E007","check-invalid-version-string",22
+"@huntr_ai","E011","check-custom-version-type",810
 "@huntrdev","E004","check-leading-trailing-space",55
 "@huntrdev","E007","check-invalid-version-string",19
 "@huntrdev","E010","check-invalid-self-references",1
@@ -741,7 +741,7 @@
 "VulDB","E019","check-cna-rules-v4-timeline",92074
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2731
+"VulnCheck","E007","check-invalid-version-string",2738
 "VulnCheck","E011","check-custom-version-type",1288
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -749,7 +749,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2400
+"WPScan","E007","check-invalid-version-string",2432
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3164
@@ -762,10 +762,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13388
+"Wordfence","E007","check-invalid-version-string",13390
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",30272
+"Wordfence","E019","check-cna-rules-v4-timeline",30274
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",155
 "XEN","E011","check-custom-version-type",59
@@ -1185,7 +1185,7 @@
 "redhat","E008","check-invalid-vendor-string",8391
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",52
-"redhat","E019","check-cna-rules-v4-timeline",5668
+"redhat","E019","check-cna-rules-v4-timeline",5684
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
