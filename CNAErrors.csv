@@ -9,7 +9,7 @@
 "9front","E019","check-cna-rules-v4-timeline",4
 "@huntr_ai","E004","check-leading-trailing-space",9
 "@huntr_ai","E007","check-invalid-version-string",22
-"@huntr_ai","E011","check-custom-version-type",810
+"@huntr_ai","E011","check-custom-version-type",811
 "@huntrdev","E004","check-leading-trailing-space",55
 "@huntrdev","E007","check-invalid-version-string",19
 "@huntrdev","E010","check-invalid-self-references",1
@@ -127,7 +127,7 @@
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
 "Canon","E004","check-leading-trailing-space",8
-"Canon","E007","check-invalid-version-string",425
+"Canon","E007","check-invalid-version-string",426
 "Canon_EMEA","E007","check-invalid-version-string",2
 "Canon_EMEA","E011","check-custom-version-type",6
 "Carrier","E007","check-invalid-version-string",9
@@ -432,7 +432,7 @@
 "Moxa","E004","check-leading-trailing-space",20
 "Moxa","E011","check-custom-version-type",428
 "N-able","E007","check-invalid-version-string",4
-"N-able","E011","check-custom-version-type",12
+"N-able","E011","check-custom-version-type",14
 "NCSC-FI","E007","check-invalid-version-string",1
 "NCSC-FI","E011","check-custom-version-type",11
 "NCSC-FI","E019","check-cna-rules-v4-timeline",18
@@ -738,10 +738,10 @@
 "VulDB","E007","check-invalid-version-string",1219
 "VulDB","E008","check-invalid-vendor-string",1578
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",92074
+"VulDB","E019","check-cna-rules-v4-timeline",92086
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2738
+"VulnCheck","E007","check-invalid-version-string",2739
 "VulnCheck","E011","check-custom-version-type",1288
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -1052,7 +1052,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",5486
+"jpcert","E007","check-invalid-version-string",5487
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
