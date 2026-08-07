@@ -9,7 +9,7 @@
 "9front","E019","check-cna-rules-v4-timeline",4
 "@huntr_ai","E004","check-leading-trailing-space",9
 "@huntr_ai","E007","check-invalid-version-string",22
-"@huntr_ai","E011","check-custom-version-type",812
+"@huntr_ai","E011","check-custom-version-type",813
 "@huntrdev","E004","check-leading-trailing-space",55
 "@huntrdev","E007","check-invalid-version-string",19
 "@huntrdev","E010","check-invalid-self-references",1
@@ -268,7 +268,7 @@
 "GitHub_M","E001","check-reference-url-protocol",1
 "GitHub_M","E002","check-duplicate-reference-url",9
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",26596
+"GitHub_M","E007","check-invalid-version-string",26597
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -392,7 +392,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",94909
+"Linux","E007","check-invalid-version-string",94911
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -441,8 +441,8 @@
 "NCSC-NL","E011","check-custom-version-type",27
 "NCSC.ch","E004","check-leading-trailing-space",24
 "NCSC.ch","E006","check-affected-product-present",4
-"NCSC.ch","E007","check-invalid-version-string",69
-"NCSC.ch","E011","check-custom-version-type",173
+"NCSC.ch","E007","check-invalid-version-string",91
+"NCSC.ch","E011","check-custom-version-type",196
 "NCSC.ch","E019","check-cna-rules-v4-timeline",168
 "NEC","E004","check-leading-trailing-space",7
 "NEC","E007","check-invalid-version-string",1116
@@ -695,7 +695,7 @@
 "TR-CERT","E004","check-leading-trailing-space",3
 "TR-CERT","E006","check-affected-product-present",1
 "TR-CERT","E007","check-invalid-version-string",45
-"TR-CERT","E011","check-custom-version-type",739
+"TR-CERT","E011","check-custom-version-type",740
 "TR-CERT","E019","check-cna-rules-v4-timeline",102
 "TRO","E007","check-invalid-version-string",12
 "TV","E004","check-leading-trailing-space",1
@@ -740,7 +740,7 @@
 "VulDB","E007","check-invalid-version-string",1221
 "VulDB","E008","check-invalid-vendor-string",1590
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",92884
+"VulDB","E019","check-cna-rules-v4-timeline",92920
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E007","check-invalid-version-string",2820
@@ -751,7 +751,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2567
+"WPScan","E007","check-invalid-version-string",2590
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3165
@@ -764,10 +764,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13451
+"Wordfence","E007","check-invalid-version-string",13455
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",30486
+"Wordfence","E019","check-cna-rules-v4-timeline",30508
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",155
 "XEN","E011","check-custom-version-type",59
@@ -904,7 +904,7 @@
 "debian","E011","check-custom-version-type",9
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",4443
+"dell","E007","check-invalid-version-string",4459
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "dell","E011","check-custom-version-type",750
@@ -1189,7 +1189,7 @@
 "redhat","E008","check-invalid-vendor-string",8388
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",54
-"redhat","E019","check-cna-rules-v4-timeline",5812
+"redhat","E019","check-cna-rules-v4-timeline",5824
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
@@ -1295,6 +1295,6 @@
 "zephyr","E007","check-invalid-version-string",148
 "zephyr","E011","check-custom-version-type",94
 "zte","E004","check-leading-trailing-space",16
-"zte","E007","check-invalid-version-string",109
+"zte","E007","check-invalid-version-string",113
 "zte","E008","check-invalid-vendor-string",67
 "zte","E011","check-custom-version-type",63
