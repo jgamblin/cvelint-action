@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T01:26:32Z",
+  "generatedAt": "2026-08-08T12:45:14Z",
   "results": [
     {
       "cna": "1E",
@@ -1227,7 +1227,7 @@
     {
       "cna": "Linux",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94911}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94920}
       ]
     },
     {
@@ -2285,7 +2285,7 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1222},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1593},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 93010}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 93058}
       ]
     },
     {
@@ -2311,7 +2311,7 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2590},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2607},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3165}
@@ -2329,9 +2329,9 @@
       "cna": "WatchGuard",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 190},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 11},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 2}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 177},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 22},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 14}
       ]
     },
     {
@@ -2350,10 +2350,10 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13455},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13457},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 50},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 30508}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 30514}
       ]
     },
     {
