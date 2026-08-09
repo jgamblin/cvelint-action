@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T12:45:14Z",
+  "generatedAt": "2026-08-09T01:39:00Z",
   "results": [
     {
       "cna": "1E",
@@ -366,7 +366,7 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 278},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 279},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 532}
       ]
     },
@@ -2285,7 +2285,7 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1222},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1593},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 93058}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 93088}
       ]
     },
     {
@@ -2293,8 +2293,8 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2824},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1343},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2825},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1369},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 176}
       ]
     },
@@ -3315,7 +3315,7 @@
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8388},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6756},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 54},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 5828},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 5832},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 1}
       ]
     },

@@ -121,7 +121,7 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",278
+"CPANSec","E011","check-custom-version-type",279
 "CPANSec","E019","check-cna-rules-v4-timeline",532
 "CSA","E007","check-invalid-version-string",52
 "CSW","E007","check-invalid-version-string",5
@@ -740,11 +740,11 @@
 "VulDB","E007","check-invalid-version-string",1222
 "VulDB","E008","check-invalid-vendor-string",1593
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",93058
+"VulDB","E019","check-cna-rules-v4-timeline",93088
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2824
-"VulnCheck","E011","check-custom-version-type",1343
+"VulnCheck","E007","check-invalid-version-string",2825
+"VulnCheck","E011","check-custom-version-type",1369
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -1190,7 +1190,7 @@
 "redhat","E008","check-invalid-vendor-string",8388
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",54
-"redhat","E019","check-cna-rules-v4-timeline",5828
+"redhat","E019","check-cna-rules-v4-timeline",5832
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
