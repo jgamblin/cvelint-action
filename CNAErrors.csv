@@ -9,7 +9,7 @@
 "9front","E019","check-cna-rules-v4-timeline",4
 "@huntr_ai","E004","check-leading-trailing-space",9
 "@huntr_ai","E007","check-invalid-version-string",22
-"@huntr_ai","E011","check-custom-version-type",813
+"@huntr_ai","E011","check-custom-version-type",815
 "@huntrdev","E004","check-leading-trailing-space",55
 "@huntrdev","E007","check-invalid-version-string",19
 "@huntrdev","E010","check-invalid-self-references",1
@@ -121,7 +121,7 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",279
+"CPANSec","E011","check-custom-version-type",280
 "CPANSec","E019","check-cna-rules-v4-timeline",532
 "CSA","E007","check-invalid-version-string",52
 "CSW","E007","check-invalid-version-string",5
@@ -392,7 +392,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",94920
+"Linux","E007","check-invalid-version-string",94929
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -737,10 +737,10 @@
 "Vaadin","E011","check-custom-version-type",97
 "Vivo","E007","check-invalid-version-string",19
 "Vivo","E011","check-custom-version-type",10
-"VulDB","E007","check-invalid-version-string",1222
-"VulDB","E008","check-invalid-vendor-string",1593
+"VulDB","E007","check-invalid-version-string",1223
+"VulDB","E008","check-invalid-vendor-string",1594
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",93088
+"VulDB","E019","check-cna-rules-v4-timeline",93436
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E007","check-invalid-version-string",2825
@@ -751,7 +751,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2607
+"WPScan","E007","check-invalid-version-string",2625
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3165

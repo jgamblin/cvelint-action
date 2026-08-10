@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:39:00Z",
+  "generatedAt": "2026-08-10T01:41:53Z",
   "results": [
     {
       "cna": "1E",
@@ -39,7 +39,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 9},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 22},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 813}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 815}
       ]
     },
     {
@@ -366,7 +366,7 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 279},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 280},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 532}
       ]
     },
@@ -1227,7 +1227,7 @@
     {
       "cna": "Linux",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94920}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 94929}
       ]
     },
     {
@@ -2282,10 +2282,10 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1222},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1593},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1223},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1594},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 93088}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 93436}
       ]
     },
     {
@@ -2311,7 +2311,7 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2607},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2625},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3165}
