@@ -249,7 +249,7 @@
 "Fortra","E007","check-invalid-version-string",37
 "Fortra","E011","check-custom-version-type",15
 "Fortra","E019","check-cna-rules-v4-timeline",8
-"Foxit","E007","check-invalid-version-string",241
+"Foxit","E007","check-invalid-version-string",245
 "GE GP","E004","check-leading-trailing-space",1
 "GE GP","E011","check-custom-version-type",3
 "GEHC","E007","check-invalid-version-string",1
@@ -347,7 +347,7 @@
 "IDEMIA","E004","check-leading-trailing-space",7
 "IDEMIA","E011","check-custom-version-type",36
 "INCD","E004","check-leading-trailing-space",59
-"INCD","E007","check-invalid-version-string",301
+"INCD","E007","check-invalid-version-string",310
 "INCD","E008","check-invalid-vendor-string",2
 "INCD","E009","check-invalid-product-string",2
 "INCD","E011","check-custom-version-type",197
@@ -443,7 +443,7 @@
 "NCSC.ch","E004","check-leading-trailing-space",24
 "NCSC.ch","E006","check-affected-product-present",4
 "NCSC.ch","E007","check-invalid-version-string",91
-"NCSC.ch","E011","check-custom-version-type",196
+"NCSC.ch","E011","check-custom-version-type",198
 "NCSC.ch","E019","check-cna-rules-v4-timeline",168
 "NEC","E004","check-leading-trailing-space",7
 "NEC","E007","check-invalid-version-string",1116
@@ -727,7 +727,7 @@
 "TuranSec","E002","check-duplicate-reference-url",1
 "TuranSec","E007","check-invalid-version-string",145
 "TuranSec","E011","check-custom-version-type",99
-"TuranSec","E019","check-cna-rules-v4-timeline",134
+"TuranSec","E019","check-cna-rules-v4-timeline",124
 "Unisoc","E007","check-invalid-version-string",613
 "VDOO","E007","check-invalid-version-string",10
 "VDOO","E008","check-invalid-vendor-string",10
@@ -745,7 +745,7 @@
 "VulDB","E019","check-cna-rules-v4-timeline",93484
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",2924
+"VulnCheck","E007","check-invalid-version-string",2964
 "VulnCheck","E011","check-custom-version-type",1401
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -753,10 +753,10 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2722
+"WPScan","E007","check-invalid-version-string",2729
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
-"WPScan","E011","check-custom-version-type",3165
+"WPScan","E011","check-custom-version-type",3166
 "WSO2","E004","check-leading-trailing-space",3
 "WSO2","E007","check-invalid-version-string",106
 "WSO2","E011","check-custom-version-type",2412
@@ -767,10 +767,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13465
+"Wordfence","E007","check-invalid-version-string",13469
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",30544
+"Wordfence","E019","check-cna-rules-v4-timeline",30556
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",155
 "XEN","E011","check-custom-version-type",59
@@ -793,7 +793,7 @@
 "Zabbix","E004","check-leading-trailing-space",2
 "Zabbix","E007","check-invalid-version-string",640
 "Zabbix","E011","check-custom-version-type",29
-"Zohocorp","E011","check-custom-version-type",5
+"Zohocorp","E011","check-custom-version-type",9
 "Zoom","E004","check-leading-trailing-space",8
 "Zoom","E007","check-invalid-version-string",157
 "Zoom","E008","check-invalid-vendor-string",9
@@ -965,7 +965,7 @@
 "floragunn","E011","check-custom-version-type",9
 "forcepoint","E004","check-leading-trailing-space",5
 "forcepoint","E006","check-affected-product-present",3
-"forcepoint","E007","check-invalid-version-string",29
+"forcepoint","E007","check-invalid-version-string",31
 "forcepoint","E008","check-invalid-vendor-string",4
 "forcepoint","E011","check-custom-version-type",8
 "fortinet","E003","check-description-length",915
@@ -1151,10 +1151,10 @@
 "oracle","E016","check-cna-rules-v4-descriptions",2519
 "palo_alto","E004","check-leading-trailing-space",9
 "palo_alto","E006","check-affected-product-present",1
-"palo_alto","E007","check-invalid-version-string",269
+"palo_alto","E007","check-invalid-version-string",271
 "palo_alto","E008","check-invalid-vendor-string",16
-"palo_alto","E011","check-custom-version-type",1267
-"palo_alto","E019","check-cna-rules-v4-timeline",762
+"palo_alto","E011","check-custom-version-type",1315
+"palo_alto","E019","check-cna-rules-v4-timeline",786
 "php","E004","check-leading-trailing-space",2
 "php","E007","check-invalid-version-string",179
 "php","E011","check-custom-version-type",102
@@ -1187,11 +1187,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",27
-"redhat","E007","check-invalid-version-string",17427
+"redhat","E007","check-invalid-version-string",17428
 "redhat","E008","check-invalid-vendor-string",8386
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",54
-"redhat","E019","check-cna-rules-v4-timeline",6172
+"redhat","E019","check-cna-rules-v4-timeline",6188
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",7
 "redhat-cnalr","E011","check-custom-version-type",1
@@ -1225,7 +1225,7 @@
 "siemens","E002","check-duplicate-reference-url",3
 "siemens","E007","check-invalid-version-string",6894
 "siemens","E008","check-invalid-vendor-string",40
-"siemens","E011","check-custom-version-type",11667
+"siemens","E011","check-custom-version-type",11668
 "snyk","E004","check-leading-trailing-space",36
 "snyk","E007","check-invalid-version-string",449
 "snyk","E008","check-invalid-vendor-string",937
@@ -1267,6 +1267,7 @@
 "tibco","E008","check-invalid-vendor-string",1
 "tibco","E009","check-invalid-product-string",1
 "tibco","E011","check-custom-version-type",346
+"tlt_net","E007","check-invalid-version-string",3
 "tlt_net","E011","check-custom-version-type",5
 "trellix","E004","check-leading-trailing-space",29
 "trellix","E007","check-invalid-version-string",150
