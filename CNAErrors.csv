@@ -117,11 +117,11 @@
 "CERTVDE","E009","check-invalid-product-string",2
 "CERTVDE","E011","check-custom-version-type",1198
 "CIRCL","E006","check-affected-product-present",2
-"CIRCL","E007","check-invalid-version-string",88
+"CIRCL","E007","check-invalid-version-string",90
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",289
+"CPANSec","E011","check-custom-version-type",290
 "CPANSec","E019","check-cna-rules-v4-timeline",544
 "CSA","E007","check-invalid-version-string",52
 "CSW","E007","check-invalid-version-string",5
@@ -393,7 +393,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",102283
+"Linux","E007","check-invalid-version-string",103140
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -740,12 +740,12 @@
 "Vivo","E007","check-invalid-version-string",19
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1227
-"VulDB","E008","check-invalid-vendor-string",1601
+"VulDB","E008","check-invalid-vendor-string",1602
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",93838
+"VulDB","E019","check-cna-rules-v4-timeline",93952
 "VulnCheck","E002","check-duplicate-reference-url",4
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",3041
+"VulnCheck","E007","check-invalid-version-string",3053
 "VulnCheck","E011","check-custom-version-type",1413
 "VulnCheck","E019","check-cna-rules-v4-timeline",176
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -767,10 +767,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13509
+"Wordfence","E007","check-invalid-version-string",13521
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",30664
+"Wordfence","E019","check-cna-rules-v4-timeline",30672
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",155
 "XEN","E011","check-custom-version-type",59
@@ -1137,7 +1137,7 @@
 "openEuler","E007","check-invalid-version-string",62
 "openEuler","E008","check-invalid-vendor-string",21
 "openEuler","E009","check-invalid-product-string",1
-"openjs","E007","check-invalid-version-string",49
+"openjs","E007","check-invalid-version-string",50
 "openjs","E010","check-invalid-self-references",5
 "openjs","E019","check-cna-rules-v4-timeline",4
 "openssl","E004","check-leading-trailing-space",1
