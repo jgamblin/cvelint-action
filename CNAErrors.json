@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T01:15:00Z",
+  "generatedAt": "2026-08-23T12:37:46Z",
   "results": [
     {
       "cna": "1E",
@@ -876,7 +876,7 @@
     {
       "cna": "GitLab",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3204},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3208},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3}
       ]
     },
@@ -2289,7 +2289,7 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1227},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1617},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 94840}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 94900}
       ]
     },
     {
@@ -2315,7 +2315,7 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2834},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2839},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3166}
@@ -3103,7 +3103,7 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 113604},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 113603},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 113166},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 113166},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 166},
