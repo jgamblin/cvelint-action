@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:37:46Z",
+  "generatedAt": "2026-08-24T01:12:06Z",
   "results": [
     {
       "cna": "1E",
@@ -366,7 +366,7 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 302},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 305},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 544}
       ]
     },
@@ -1228,7 +1228,7 @@
     {
       "cna": "Linux",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 104894}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 105168}
       ]
     },
     {
@@ -2287,9 +2287,9 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1227},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1617},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1621},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 94900}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 94984}
       ]
     },
     {
@@ -2297,7 +2297,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3284},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3301},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1463},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 192}
       ]
