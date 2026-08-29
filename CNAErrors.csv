@@ -270,7 +270,7 @@
 "Genetec","E011","check-custom-version-type",2
 "GitHub_M","E002","check-duplicate-reference-url",11
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",28068
+"GitHub_M","E007","check-invalid-version-string",28121
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -694,8 +694,8 @@
 "THA-PSIRT","E011","check-custom-version-type",9
 "TML","E004","check-leading-trailing-space",31
 "TML","E011","check-custom-version-type",6
-"TPLink","E007","check-invalid-version-string",636
-"TPLink","E011","check-custom-version-type",764
+"TPLink","E007","check-invalid-version-string",643
+"TPLink","E011","check-custom-version-type",771
 "TQtC","E011","check-custom-version-type",5
 "TR-CERT","E004","check-leading-trailing-space",3
 "TR-CERT","E006","check-affected-product-present",1
@@ -1020,7 +1020,7 @@
 "iManage","E011","check-custom-version-type",1
 "ibm","E002","check-duplicate-reference-url",6
 "ibm","E004","check-leading-trailing-space",119
-"ibm","E007","check-invalid-version-string",4850
+"ibm","E007","check-invalid-version-string",4856
 "ibm","E008","check-invalid-vendor-string",1854
 "ibm","E009","check-invalid-product-string",1835
 "ibm","E011","check-custom-version-type",24
@@ -1101,14 +1101,14 @@
 "microsoft","E011","check-custom-version-type",94918
 "microsoft","E016","check-cna-rules-v4-descriptions",7898
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",113815
-"mitre","E008","check-invalid-vendor-string",113369
-"mitre","E009","check-invalid-product-string",113369
+"mitre","E007","check-invalid-version-string",113820
+"mitre","E008","check-invalid-vendor-string",113374
+"mitre","E009","check-invalid-product-string",113374
 "mitre","E010","check-invalid-self-references",166
 "mitre","E011","check-custom-version-type",875
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
-"mongodb","E007","check-invalid-version-string",105
+"mongodb","E007","check-invalid-version-string",111
 "mongodb","E011","check-custom-version-type",312
 "mozilla","E004","check-leading-trailing-space",6
 "mozilla","E006","check-affected-product-present",603
@@ -1122,7 +1122,7 @@
 "netapp","E004","check-leading-trailing-space",12
 "netapp","E007","check-invalid-version-string",104
 "netapp","E008","check-invalid-vendor-string",63
-"netapp","E011","check-custom-version-type",28
+"netapp","E011","check-custom-version-type",29
 "netflix","E007","check-invalid-version-string",17
 "netflix","E008","check-invalid-vendor-string",9
 "netgear","E007","check-invalid-version-string",6
@@ -1142,7 +1142,7 @@
 "openEuler","E007","check-invalid-version-string",62
 "openEuler","E008","check-invalid-vendor-string",21
 "openEuler","E009","check-invalid-product-string",1
-"openjs","E007","check-invalid-version-string",53
+"openjs","E007","check-invalid-version-string",56
 "openjs","E010","check-invalid-self-references",5
 "openjs","E019","check-cna-rules-v4-timeline",4
 "openssl","E004","check-leading-trailing-space",1
@@ -1287,7 +1287,7 @@
 "upKeeper","E007","check-invalid-version-string",14
 "vmware","E004","check-leading-trailing-space",38
 "vmware","E006","check-affected-product-present",1
-"vmware","E007","check-invalid-version-string",827
+"vmware","E007","check-invalid-version-string",828
 "vmware","E008","check-invalid-vendor-string",384
 "vmware","E009","check-invalid-product-string",14
 "vmware","E011","check-custom-version-type",1099
