@@ -363,9 +363,9 @@
 "Intigriti","E007","check-invalid-version-string",1
 "JAMF","E011","check-custom-version-type",2
 "JFROG","E004","check-leading-trailing-space",11
-"JFROG","E007","check-invalid-version-string",37
+"JFROG","E007","check-invalid-version-string",39
 "JFROG","E011","check-custom-version-type",218
-"JFROG","E019","check-cna-rules-v4-timeline",14
+"JFROG","E019","check-cna-rules-v4-timeline",26
 "JetBrains","E004","check-leading-trailing-space",3
 "JetBrains","E007","check-invalid-version-string",608
 "JetBrains","E011","check-custom-version-type",36
@@ -395,7 +395,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",106775
+"Linux","E007","check-invalid-version-string",106771
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -747,18 +747,18 @@
 "VulDB","E007","check-invalid-version-string",1229
 "VulDB","E008","check-invalid-vendor-string",1624
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",95390
+"VulDB","E019","check-cna-rules-v4-timeline",95540
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",3572
-"VulnCheck","E011","check-custom-version-type",2412
+"VulnCheck","E007","check-invalid-version-string",3593
+"VulnCheck","E011","check-custom-version-type",2416
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",2918
+"WPScan","E007","check-invalid-version-string",2927
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -772,10 +772,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13699
+"Wordfence","E007","check-invalid-version-string",13702
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",31204
+"Wordfence","E019","check-cna-rules-v4-timeline",31214
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",155
 "XEN","E011","check-custom-version-type",59
@@ -1101,11 +1101,11 @@
 "microsoft","E011","check-custom-version-type",94918
 "microsoft","E016","check-cna-rules-v4-descriptions",7898
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",113821
+"mitre","E007","check-invalid-version-string",113822
 "mitre","E008","check-invalid-vendor-string",113374
 "mitre","E009","check-invalid-product-string",113374
 "mitre","E010","check-invalid-self-references",166
-"mitre","E011","check-custom-version-type",875
+"mitre","E011","check-custom-version-type",876
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",111
