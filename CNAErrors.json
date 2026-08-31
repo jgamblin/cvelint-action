@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:06:08Z",
+  "generatedAt": "2026-08-31T03:46:49Z",
   "results": [
     {
       "cna": "1E",
@@ -2295,9 +2295,9 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1229},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1624},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1637},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 95540}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 95720}
       ]
     },
     {
@@ -2306,7 +2306,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3593},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2416},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2417},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 192}
       ]
     },
@@ -3323,7 +3323,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 675},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17630},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 17638},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8384},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6756},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 54},
