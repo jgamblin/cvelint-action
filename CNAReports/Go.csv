@@ -1,0 +1,2 @@
+"CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
+"CVE-2023-24540","Go","cvelistV5/cves/2023/24xxx/CVE-2023-24540.json","check-unicode-escape-sequences","E020","containers.cna.descriptions.0.value","Unicode escape sequences found in description; UTF-8 characters should be used instead"
