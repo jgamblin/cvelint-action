@@ -111,7 +111,7 @@
 "CERT-In","E011","check-custom-version-type",71
 "CERT-PL","E004","check-leading-trailing-space",21
 "CERT-PL","E007","check-invalid-version-string",478
-"CERT-PL","E011","check-custom-version-type",317
+"CERT-PL","E011","check-custom-version-type",335
 "CERTVDE","E004","check-leading-trailing-space",46
 "CERTVDE","E007","check-invalid-version-string",6707
 "CERTVDE","E008","check-invalid-vendor-string",2
@@ -437,7 +437,7 @@
 "Moxa","E004","check-leading-trailing-space",20
 "Moxa","E011","check-custom-version-type",428
 "N-able","E007","check-invalid-version-string",4
-"N-able","E011","check-custom-version-type",15
+"N-able","E011","check-custom-version-type",18
 "NCSC-FI","E007","check-invalid-version-string",1
 "NCSC-FI","E011","check-custom-version-type",11
 "NCSC-FI","E019","check-cna-rules-v4-timeline",18
@@ -709,7 +709,7 @@
 "TXOne","E011","check-custom-version-type",8
 "TYPO3","E007","check-invalid-version-string",49
 "Tanium","E011","check-custom-version-type",156
-"Tcpdump","E007","check-invalid-version-string",5
+"Tcpdump","E007","check-invalid-version-string",12
 "Tcpdump","E011","check-custom-version-type",2
 "Temporal","E004","check-leading-trailing-space",3
 "Temporal","E007","check-invalid-version-string",7
@@ -748,7 +748,7 @@
 "VulDB","E007","check-invalid-version-string",1229
 "VulDB","E008","check-invalid-vendor-string",1652
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",96716
+"VulDB","E019","check-cna-rules-v4-timeline",96776
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E007","check-invalid-version-string",3875
@@ -773,10 +773,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13767
+"Wordfence","E007","check-invalid-version-string",13770
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",31470
+"Wordfence","E019","check-cna-rules-v4-timeline",31480
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",155
 "XEN","E011","check-custom-version-type",59
