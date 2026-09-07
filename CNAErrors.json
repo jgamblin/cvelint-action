@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:58:58Z",
+  "generatedAt": "2026-09-07T03:00:34Z",
   "results": [
     {
       "cna": "1E",
@@ -367,8 +367,8 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 311},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 544}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 313},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 546}
       ]
     },
     {
@@ -1394,7 +1394,7 @@
       "cna": "NEC",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 7},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1116},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1117},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 218}
@@ -1756,7 +1756,7 @@
     {
       "cna": "PostgreSQL",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 16},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 19},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 67},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 40}
       ]
@@ -2301,9 +2301,9 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1229},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1654},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1656},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 96920}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 97076}
       ]
     },
     {
