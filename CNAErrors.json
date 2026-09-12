@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T03:13:52Z",
+  "generatedAt": "2026-09-12T15:02:52Z",
   "results": [
     {
       "cna": "1E",
@@ -1335,8 +1335,8 @@
       "cna": "Microchip",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 15},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 7},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 32}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 10},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 34}
       ]
     },
     {
@@ -2332,7 +2332,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4223},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4248},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2612},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 192}
       ]
@@ -2350,7 +2350,7 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3089},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3127},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3167}
@@ -2389,10 +2389,10 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13870},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13883},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 50},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 31798}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 31836}
       ]
     },
     {
