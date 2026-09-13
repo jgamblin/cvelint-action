@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T15:02:52Z",
+  "generatedAt": "2026-09-13T03:17:01Z",
   "results": [
     {
       "cna": "1E",
@@ -2320,10 +2320,10 @@
     {
       "cna": "VulDB",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1229},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1230},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1662},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 97592}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 97646}
       ]
     },
     {
@@ -2332,8 +2332,8 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4248},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2612},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4250},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2614},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 192}
       ]
     },
@@ -3144,11 +3144,11 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 114082},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 114085},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 113603},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 113603},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 166},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 904},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 906},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 4}
       ]
     },
