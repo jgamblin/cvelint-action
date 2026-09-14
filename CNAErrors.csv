@@ -545,7 +545,7 @@
 "PandoraFMS","E007","check-invalid-version-string",4
 "PandoraFMS","E011","check-custom-version-type",48
 "PaperCut","E004","check-leading-trailing-space",1
-"PaperCut","E007","check-invalid-version-string",14
+"PaperCut","E007","check-invalid-version-string",12
 "PaperCut","E011","check-custom-version-type",36
 "Patchstack","E004","check-leading-trailing-space",3
 "Patchstack","E007","check-invalid-version-string",7667
@@ -751,9 +751,9 @@
 "Vivo","E007","check-invalid-version-string",21
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1230
-"VulDB","E008","check-invalid-vendor-string",1663
+"VulDB","E008","check-invalid-vendor-string",1674
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",97874
+"VulDB","E019","check-cna-rules-v4-timeline",98152
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",8
@@ -765,7 +765,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",3136
+"WPScan","E007","check-invalid-version-string",3142
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -1109,11 +1109,11 @@
 "microsoft","E011","check-custom-version-type",107416
 "microsoft","E016","check-cna-rules-v4-descriptions",8873
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",114085
-"mitre","E008","check-invalid-vendor-string",113603
-"mitre","E009","check-invalid-product-string",113603
+"mitre","E007","check-invalid-version-string",114095
+"mitre","E008","check-invalid-vendor-string",113602
+"mitre","E009","check-invalid-product-string",113602
 "mitre","E010","check-invalid-self-references",166
-"mitre","E011","check-custom-version-type",908
+"mitre","E011","check-custom-version-type",938
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",116
