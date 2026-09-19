@@ -124,8 +124,8 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",330
-"CPANSec","E019","check-cna-rules-v4-timeline",554
+"CPANSec","E011","check-custom-version-type",333
+"CPANSec","E019","check-cna-rules-v4-timeline",558
 "CSA","E007","check-invalid-version-string",54
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
@@ -755,11 +755,11 @@
 "VulDB","E007","check-invalid-version-string",1234
 "VulDB","E008","check-invalid-vendor-string",1719
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",99342
+"VulDB","E019","check-cna-rules-v4-timeline",99354
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",8
-"VulnCheck","E007","check-invalid-version-string",4542
+"VulnCheck","E007","check-invalid-version-string",4548
 "VulnCheck","E011","check-custom-version-type",2757
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -767,7 +767,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",3244
+"WPScan","E007","check-invalid-version-string",3261
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -781,10 +781,10 @@
 "WindRiver","E007","check-invalid-version-string",1
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",13990
+"Wordfence","E007","check-invalid-version-string",14033
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",32206
+"Wordfence","E019","check-cna-rules-v4-timeline",32294
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",158
 "XEN","E011","check-custom-version-type",59
@@ -1208,7 +1208,7 @@
 "redhat","E008","check-invalid-vendor-string",8384
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",54
-"redhat","E019","check-cna-rules-v4-timeline",7188
+"redhat","E019","check-cna-rules-v4-timeline",7200
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",17
 "redhat-cnalr","E011","check-custom-version-type",1
