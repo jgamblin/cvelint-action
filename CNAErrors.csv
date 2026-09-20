@@ -125,7 +125,7 @@
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
 "CPANSec","E011","check-custom-version-type",333
-"CPANSec","E019","check-cna-rules-v4-timeline",558
+"CPANSec","E019","check-cna-rules-v4-timeline",562
 "CSA","E007","check-invalid-version-string",54
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
@@ -753,13 +753,13 @@
 "Vivo","E007","check-invalid-version-string",21
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1234
-"VulDB","E008","check-invalid-vendor-string",1720
+"VulDB","E008","check-invalid-vendor-string",1723
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",99396
+"VulDB","E019","check-cna-rules-v4-timeline",99588
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",8
-"VulnCheck","E007","check-invalid-version-string",4552
+"VulnCheck","E007","check-invalid-version-string",4561
 "VulnCheck","E011","check-custom-version-type",2758
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -767,7 +767,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",3261
+"WPScan","E007","check-invalid-version-string",3275
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -1319,6 +1319,6 @@
 "zephyr","E007","check-invalid-version-string",148
 "zephyr","E011","check-custom-version-type",94
 "zte","E004","check-leading-trailing-space",16
-"zte","E007","check-invalid-version-string",118
+"zte","E007","check-invalid-version-string",120
 "zte","E008","check-invalid-vendor-string",67
 "zte","E011","check-custom-version-type",63
