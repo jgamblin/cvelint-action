@@ -753,14 +753,14 @@
 "Vivo","E007","check-invalid-version-string",21
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1234
-"VulDB","E008","check-invalid-vendor-string",1719
+"VulDB","E008","check-invalid-vendor-string",1720
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",99354
+"VulDB","E019","check-cna-rules-v4-timeline",99396
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",8
-"VulnCheck","E007","check-invalid-version-string",4548
-"VulnCheck","E011","check-custom-version-type",2757
+"VulnCheck","E007","check-invalid-version-string",4552
+"VulnCheck","E011","check-custom-version-type",2758
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -1112,11 +1112,11 @@
 "microsoft","E011","check-custom-version-type",107659
 "microsoft","E016","check-cna-rules-v4-descriptions",8896
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",114149
+"mitre","E007","check-invalid-version-string",114150
 "mitre","E008","check-invalid-vendor-string",113641
 "mitre","E009","check-invalid-product-string",113641
 "mitre","E010","check-invalid-self-references",166
-"mitre","E011","check-custom-version-type",958
+"mitre","E011","check-custom-version-type",962
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",116
@@ -1319,6 +1319,6 @@
 "zephyr","E007","check-invalid-version-string",148
 "zephyr","E011","check-custom-version-type",94
 "zte","E004","check-leading-trailing-space",16
-"zte","E007","check-invalid-version-string",115
+"zte","E007","check-invalid-version-string",118
 "zte","E008","check-invalid-vendor-string",67
 "zte","E011","check-custom-version-type",63
