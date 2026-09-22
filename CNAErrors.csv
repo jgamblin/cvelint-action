@@ -124,8 +124,8 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",334
-"CPANSec","E019","check-cna-rules-v4-timeline",564
+"CPANSec","E011","check-custom-version-type",338
+"CPANSec","E019","check-cna-rules-v4-timeline",572
 "CSA","E007","check-invalid-version-string",54
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
@@ -274,9 +274,9 @@
 "GandC","E004","check-leading-trailing-space",10
 "Genetec","E007","check-invalid-version-string",74
 "Genetec","E011","check-custom-version-type",2
-"GitHub_M","E002","check-duplicate-reference-url",13
+"GitHub_M","E002","check-duplicate-reference-url",12
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",29433
+"GitHub_M","E007","check-invalid-version-string",29541
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -725,7 +725,7 @@
 "Teradici","E008","check-invalid-vendor-string",20
 "Teradici","E009","check-invalid-product-string",2
 "ThinkstAppliedResearch","E006","check-affected-product-present",1
-"ThinkstAppliedResearch","E007","check-invalid-version-string",8
+"ThinkstAppliedResearch","E007","check-invalid-version-string",9
 "ThinkstAppliedResearch","E011","check-custom-version-type",15
 "TianoCore","E007","check-invalid-version-string",5
 "TianoCore","E008","check-invalid-vendor-string",1
@@ -754,14 +754,14 @@
 "Vivo","E007","check-invalid-version-string",21
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1235
-"VulDB","E008","check-invalid-vendor-string",1729
+"VulDB","E008","check-invalid-vendor-string",1731
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",99894
+"VulDB","E019","check-cna-rules-v4-timeline",99948
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",8
-"VulnCheck","E007","check-invalid-version-string",4570
-"VulnCheck","E011","check-custom-version-type",2758
+"VulnCheck","E007","check-invalid-version-string",4578
+"VulnCheck","E011","check-custom-version-type",2772
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -924,7 +924,7 @@
 "debian","E011","check-custom-version-type",9
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",6062
+"dell","E007","check-invalid-version-string",6067
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "dell","E011","check-custom-version-type",757
@@ -1113,9 +1113,9 @@
 "microsoft","E011","check-custom-version-type",107659
 "microsoft","E016","check-cna-rules-v4-descriptions",8896
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",114156
-"mitre","E008","check-invalid-vendor-string",113647
-"mitre","E009","check-invalid-product-string",113647
+"mitre","E007","check-invalid-version-string",114182
+"mitre","E008","check-invalid-vendor-string",113672
+"mitre","E009","check-invalid-product-string",113672
 "mitre","E010","check-invalid-self-references",166
 "mitre","E011","check-custom-version-type",962
 "mitre","E020","check-unicode-escape-sequences",4
@@ -1205,11 +1205,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",30
-"redhat","E007","check-invalid-version-string",18403
+"redhat","E007","check-invalid-version-string",18406
 "redhat","E008","check-invalid-vendor-string",8384
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",54
-"redhat","E019","check-cna-rules-v4-timeline",7244
+"redhat","E019","check-cna-rules-v4-timeline",7248
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",17
 "redhat-cnalr","E011","check-custom-version-type",1
@@ -1222,7 +1222,7 @@
 "sap","E002","check-duplicate-reference-url",1
 "sap","E004","check-leading-trailing-space",181
 "sap","E006","check-affected-product-present",1
-"sap","E007","check-invalid-version-string",4670
+"sap","E007","check-invalid-version-string",4672
 "sap","E008","check-invalid-vendor-string",4
 "sap","E009","check-invalid-product-string",4
 "sap","E011","check-custom-version-type",8
