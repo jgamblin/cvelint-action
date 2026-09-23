@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:26:21Z",
+  "generatedAt": "2026-09-23T16:10:49Z",
   "results": [
     {
       "cna": "1E",
@@ -56,7 +56,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 31},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 227},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 787}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 788}
       ]
     },
     {
@@ -102,8 +102,8 @@
       "cna": "ASR",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 4},
-        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 4},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 5},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 18}
       ]
     },
@@ -142,8 +142,8 @@
     {
       "cna": "Acer",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 43},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 45}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 45},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 47}
       ]
     },
     {
@@ -343,7 +343,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 21},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 478},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 339}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 341}
       ]
     },
     {
@@ -402,7 +402,7 @@
       "cna": "Canon_EMEA",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 6}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 7}
       ]
     },
     {
@@ -806,7 +806,7 @@
     {
       "cna": "Foxit",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 245}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 367}
       ]
     },
     {
@@ -876,7 +876,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 12},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 519},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 29658},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 29668},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 33},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 32},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 123},
@@ -926,7 +926,7 @@
       "cna": "GoogleCloud",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 110}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 109}
       ]
     },
     {
@@ -1149,9 +1149,9 @@
       "cna": "JFROG",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 11},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 42},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 48},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 218},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 48}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 56}
       ]
     },
     {
@@ -1706,7 +1706,7 @@
       "cna": "Patchstack",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7701},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7698},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 18213},
@@ -2168,8 +2168,8 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 48},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 817},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 56},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 815},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 102}
       ]
     },
@@ -2326,7 +2326,7 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1235},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1732},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 100122}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 100128}
       ]
     },
     {
@@ -2335,8 +2335,8 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 8},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4631},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2856},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4634},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2859},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 192}
       ]
     },
@@ -2353,7 +2353,7 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3280},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3331},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3167}
@@ -2392,10 +2392,10 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14062},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14064},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 50},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 32386}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 32398}
       ]
     },
     {
@@ -2469,7 +2469,7 @@
     {
       "cna": "Zohocorp",
       "errors": [
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 16}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 43}
       ]
     },
     {
@@ -2530,7 +2530,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 42},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 157},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2234},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2257},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 142},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 462},
@@ -2734,7 +2734,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6067},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6083},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 757},
@@ -2859,7 +2859,7 @@
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 31},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 4},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 8}
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 10}
       ]
     },
     {
@@ -2967,7 +2967,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 6},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 119},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5475},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 5501},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1854},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 1835},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 26}
@@ -3148,11 +3148,11 @@
       "cna": "mitre",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 1096},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 114202},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 113692},
-        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 113692},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 114205},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 113695},
+        {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 113695},
         {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 166},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 963},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 964},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 4}
       ]
     },
@@ -3360,11 +3360,11 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 675},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 30},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20020},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20042},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8384},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6756},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 54},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 7276},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 7300},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 1}
       ]
     },
