@@ -152,7 +152,7 @@
 "ChromeOS","E007","check-invalid-version-string",2
 "ChromeOS","E011","check-custom-version-type",12
 "Ciena","E004","check-leading-trailing-space",1
-"Ciena","E007","check-invalid-version-string",42
+"Ciena","E007","check-invalid-version-string",51
 "Ciena","E011","check-custom-version-type",4
 "Citrix","E004","check-leading-trailing-space",10
 "Citrix","E007","check-invalid-version-string",113
@@ -276,7 +276,7 @@
 "Genetec","E011","check-custom-version-type",2
 "GitHub_M","E002","check-duplicate-reference-url",12
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",30015
+"GitHub_M","E007","check-invalid-version-string",30132
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -287,7 +287,7 @@
 "GitLab","E007","check-invalid-version-string",3308
 "GitLab","E011","check-custom-version-type",3
 "Gitea","E007","check-invalid-version-string",86
-"Go","E007","check-invalid-version-string",239
+"Go","E007","check-invalid-version-string",240
 "Go","E020","check-unicode-escape-sequences",1
 "Google","E004","check-leading-trailing-space",21
 "Google","E006","check-affected-product-present",4
@@ -756,12 +756,12 @@
 "VulDB","E007","check-invalid-version-string",1236
 "VulDB","E008","check-invalid-vendor-string",1740
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",100518
+"VulDB","E019","check-cna-rules-v4-timeline",100578
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",8
-"VulnCheck","E007","check-invalid-version-string",4650
-"VulnCheck","E011","check-custom-version-type",2875
+"VulnCheck","E007","check-invalid-version-string",4723
+"VulnCheck","E011","check-custom-version-type",2900
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -785,7 +785,7 @@
 "Wordfence","E007","check-invalid-version-string",14119
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",32592
+"Wordfence","E019","check-cna-rules-v4-timeline",32596
 "Wordfence","E020","check-unicode-escape-sequences",1
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",158
@@ -893,7 +893,7 @@
 "certcc","E007","check-invalid-version-string",2794
 "certcc","E008","check-invalid-vendor-string",2539
 "certcc","E009","check-invalid-product-string",2471
-"certcc","E011","check-custom-version-type",544
+"certcc","E011","check-custom-version-type",547
 "checkpoint","E007","check-invalid-version-string",191
 "checkpoint","E008","check-invalid-vendor-string",46
 "cirosec","E007","check-invalid-version-string",19
@@ -969,11 +969,11 @@
 "facebook","E011","check-custom-version-type",405
 "fedora","E004","check-leading-trailing-space",7
 "fedora","E006","check-affected-product-present",10
-"fedora","E007","check-invalid-version-string",340
+"fedora","E007","check-invalid-version-string",344
 "fedora","E008","check-invalid-vendor-string",112
 "fedora","E009","check-invalid-product-string",1
 "fedora","E011","check-custom-version-type",11
-"fedora","E019","check-cna-rules-v4-timeline",628
+"fedora","E019","check-cna-rules-v4-timeline",644
 "flexera","E002","check-duplicate-reference-url",13
 "flexera","E007","check-invalid-version-string",507
 "flexera","E008","check-invalid-vendor-string",444
@@ -1108,11 +1108,11 @@
 "microfocus","E009","check-invalid-product-string",109
 "microfocus","E011","check-custom-version-type",134
 "microsoft","E002","check-duplicate-reference-url",212
-"microsoft","E007","check-invalid-version-string",36283
+"microsoft","E007","check-invalid-version-string",36285
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
-"microsoft","E011","check-custom-version-type",107661
-"microsoft","E016","check-cna-rules-v4-descriptions",8897
+"microsoft","E011","check-custom-version-type",107663
+"microsoft","E016","check-cna-rules-v4-descriptions",8898
 "mitre","E002","check-duplicate-reference-url",1096
 "mitre","E007","check-invalid-version-string",114259
 "mitre","E008","check-invalid-vendor-string",113738
@@ -1174,7 +1174,7 @@
 "palo_alto","E011","check-custom-version-type",1350
 "palo_alto","E019","check-cna-rules-v4-timeline",804
 "php","E004","check-leading-trailing-space",2
-"php","E007","check-invalid-version-string",179
+"php","E007","check-invalid-version-string",223
 "php","E011","check-custom-version-type",102
 "pivotal","E007","check-invalid-version-string",18
 "pivotal","E011","check-custom-version-type",126
@@ -1307,8 +1307,8 @@
 "vmware","E011","check-custom-version-type",1101
 "vmware","E019","check-cna-rules-v4-timeline",8
 "wibu","E011","check-custom-version-type",12
-"wikimedia-foundation","E007","check-invalid-version-string",331
-"wikimedia-foundation","E011","check-custom-version-type",12
+"wikimedia-foundation","E007","check-invalid-version-string",347
+"wikimedia-foundation","E011","check-custom-version-type",14
 "wolfSSL","E004","check-leading-trailing-space",5
 "wolfSSL","E007","check-invalid-version-string",72
 "yandex","E007","check-invalid-version-string",27
