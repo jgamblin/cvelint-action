@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T15:51:04Z",
+  "generatedAt": "2026-09-27T03:47:31Z",
   "results": [
     {
       "cna": "1E",
@@ -2326,7 +2326,7 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1236},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1740},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 100608}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 100638}
       ]
     },
     {
@@ -2335,8 +2335,8 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 19},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4859},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2900},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4895},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2919},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 192}
       ]
     },
@@ -2392,10 +2392,10 @@
     {
       "cna": "Wordfence",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14120},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 14123},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 50},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 237},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 32598},
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 32608},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 1}
       ]
     },
