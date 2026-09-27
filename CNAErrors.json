@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T03:47:31Z",
+  "generatedAt": "2026-09-27T16:27:55Z",
   "results": [
     {
       "cna": "1E",
@@ -360,7 +360,7 @@
       "cna": "CIRCL",
       "errors": [
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 2},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 375}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 376}
       ]
     },
     {
@@ -1468,7 +1468,7 @@
     {
       "cna": "NetScaler",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 13}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 24}
       ]
     },
     {
@@ -2335,7 +2335,7 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 3},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 19},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4895},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 4901},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 2919},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 192}
       ]
@@ -2353,7 +2353,7 @@
     {
       "cna": "WPScan",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3364},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 3383},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 11},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 11},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 3167}
@@ -3605,7 +3605,7 @@
       "cna": "wolfSSL",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 5},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 72}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 74}
       ]
     },
     {

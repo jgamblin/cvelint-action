@@ -120,7 +120,7 @@
 "CERTVDE","E009","check-invalid-product-string",2
 "CERTVDE","E011","check-custom-version-type",1200
 "CIRCL","E006","check-affected-product-present",2
-"CIRCL","E007","check-invalid-version-string",375
+"CIRCL","E007","check-invalid-version-string",376
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
@@ -478,7 +478,7 @@
 "Neo4j","E007","check-invalid-version-string",8
 "NetMotion","E007","check-invalid-version-string",2
 "NetMotion","E008","check-invalid-vendor-string",2
-"NetScaler","E007","check-invalid-version-string",13
+"NetScaler","E007","check-invalid-version-string",24
 "Netskope","E004","check-leading-trailing-space",3
 "Netskope","E007","check-invalid-version-string",9
 "Netskope","E011","check-custom-version-type",16
@@ -760,7 +760,7 @@
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",19
-"VulnCheck","E007","check-invalid-version-string",4895
+"VulnCheck","E007","check-invalid-version-string",4901
 "VulnCheck","E011","check-custom-version-type",2919
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -768,7 +768,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",3364
+"WPScan","E007","check-invalid-version-string",3383
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -1310,7 +1310,7 @@
 "wikimedia-foundation","E007","check-invalid-version-string",347
 "wikimedia-foundation","E011","check-custom-version-type",14
 "wolfSSL","E004","check-leading-trailing-space",5
-"wolfSSL","E007","check-invalid-version-string",72
+"wolfSSL","E007","check-invalid-version-string",74
 "yandex","E007","check-invalid-version-string",27
 "yandex","E008","check-invalid-vendor-string",14
 "yandex","E011","check-custom-version-type",10
