@@ -478,7 +478,7 @@
 "Neo4j","E007","check-invalid-version-string",8
 "NetMotion","E007","check-invalid-version-string",2
 "NetMotion","E008","check-invalid-vendor-string",2
-"NetScaler","E007","check-invalid-version-string",24
+"NetScaler","E007","check-invalid-version-string",30
 "Netskope","E004","check-leading-trailing-space",3
 "Netskope","E007","check-invalid-version-string",9
 "Netskope","E011","check-custom-version-type",16
@@ -756,12 +756,12 @@
 "VulDB","E007","check-invalid-version-string",1236
 "VulDB","E008","check-invalid-vendor-string",1740
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",100638
+"VulDB","E019","check-cna-rules-v4-timeline",100826
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E006","check-affected-product-present",19
-"VulnCheck","E007","check-invalid-version-string",4901
-"VulnCheck","E011","check-custom-version-type",2919
+"VulnCheck","E006","check-affected-product-present",21
+"VulnCheck","E007","check-invalid-version-string",4867
+"VulnCheck","E011","check-custom-version-type",2955
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -1206,11 +1206,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",56
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",30
-"redhat","E007","check-invalid-version-string",20151
+"redhat","E007","check-invalid-version-string",20152
 "redhat","E008","check-invalid-vendor-string",8384
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",54
-"redhat","E019","check-cna-rules-v4-timeline",7508
+"redhat","E019","check-cna-rules-v4-timeline",7532
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",18
 "redhat-cnalr","E011","check-custom-version-type",1
