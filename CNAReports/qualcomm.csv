@@ -1,0 +1,2 @@
+"CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"
+"CVE-2020-3619","qualcomm","cvelistV5/cves/2020/3xxx/CVE-2020-3619.json","check-unicode-escape-sequences","E020","containers.cna.descriptions.0.value","Unicode escape sequences found in description; UTF-8 characters should be used instead"
