@@ -125,8 +125,8 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",365
-"CPANSec","E019","check-cna-rules-v4-timeline",614
+"CPANSec","E011","check-custom-version-type",368
+"CPANSec","E019","check-cna-rules-v4-timeline",630
 "CSA","E007","check-invalid-version-string",55
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
@@ -558,7 +558,7 @@
 "Patchstack","E007","check-invalid-version-string",8017
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
-"Patchstack","E011","check-custom-version-type",18802
+"Patchstack","E011","check-custom-version-type",18831
 "Patchstack","E019","check-cna-rules-v4-timeline",122
 "Payara","E004","check-leading-trailing-space",1
 "Payara","E007","check-invalid-version-string",6
@@ -589,7 +589,7 @@
 "Profisee","E011","check-custom-version-type",1
 "ProgressSoftware","E004","check-leading-trailing-space",32
 "ProgressSoftware","E007","check-invalid-version-string",218
-"ProgressSoftware","E011","check-custom-version-type",333
+"ProgressSoftware","E011","check-custom-version-type",335
 "Proofpoint","E004","check-leading-trailing-space",9
 "Proofpoint","E007","check-invalid-version-string",81
 "Proofpoint","E011","check-custom-version-type",2
@@ -766,15 +766,15 @@
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",1
-"VulnCheck","E007","check-invalid-version-string",5017
-"VulnCheck","E011","check-custom-version-type",3101
+"VulnCheck","E007","check-invalid-version-string",5034
+"VulnCheck","E011","check-custom-version-type",3103
 "VulnCheck","E019","check-cna-rules-v4-timeline",192
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",3534
+"WPScan","E007","check-invalid-version-string",3544
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -788,10 +788,10 @@
 "WindRiver","E007","check-invalid-version-string",6
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",14317
+"Wordfence","E007","check-invalid-version-string",14425
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",33270
+"Wordfence","E019","check-cna-rules-v4-timeline",33674
 "Wordfence","E020","check-unicode-escape-sequences",1
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",158
@@ -1330,6 +1330,6 @@
 "zephyr","E007","check-invalid-version-string",148
 "zephyr","E011","check-custom-version-type",94
 "zte","E004","check-leading-trailing-space",16
-"zte","E007","check-invalid-version-string",122
+"zte","E007","check-invalid-version-string",127
 "zte","E008","check-invalid-vendor-string",67
 "zte","E011","check-custom-version-type",63
