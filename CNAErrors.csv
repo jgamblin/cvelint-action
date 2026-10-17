@@ -29,7 +29,7 @@
 "AMI","E011","check-custom-version-type",13
 "AMZN","E006","check-affected-product-present",26
 "AMZN","E007","check-invalid-version-string",17
-"AMZN","E011","check-custom-version-type",166
+"AMZN","E011","check-custom-version-type",170
 "ARTICA","E011","check-custom-version-type",10
 "ASR","E004","check-leading-trailing-space",4
 "ASR","E006","check-affected-product-present",5
@@ -125,8 +125,8 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",368
-"CPANSec","E019","check-cna-rules-v4-timeline",630
+"CPANSec","E011","check-custom-version-type",376
+"CPANSec","E019","check-cna-rules-v4-timeline",662
 "CSA","E007","check-invalid-version-string",55
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
@@ -205,8 +205,9 @@
 "Dragos","E007","check-invalid-version-string",13
 "Dragos","E011","check-custom-version-type",15
 "Dremio","E011","check-custom-version-type",5
-"EA","E007","check-invalid-version-string",1
+"EA","E007","check-invalid-version-string",2
 "EA","E008","check-invalid-vendor-string",1
+"EA","E011","check-custom-version-type",1
 "EDB","E004","check-leading-trailing-space",1
 "EDB","E007","check-invalid-version-string",6
 "EDB","E011","check-custom-version-type",9
@@ -278,7 +279,7 @@
 "Genetec","E011","check-custom-version-type",2
 "GitHub_M","E002","check-duplicate-reference-url",17
 "GitHub_M","E004","check-leading-trailing-space",519
-"GitHub_M","E007","check-invalid-version-string",31547
+"GitHub_M","E007","check-invalid-version-string",31628
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -332,7 +333,7 @@
 "HeroDevs","E007","check-invalid-version-string",56
 "HeroDevs","E011","check-custom-version-type",3
 "HeroDevs","E016","check-cna-rules-v4-descriptions",4
-"HeroDevs","E019","check-cna-rules-v4-timeline",28
+"HeroDevs","E019","check-cna-rules-v4-timeline",38
 "HiddenLayer","E004","check-leading-trailing-space",6
 "HiddenLayer","E007","check-invalid-version-string",64
 "HiddenLayer","E011","check-custom-version-type",10
@@ -767,8 +768,8 @@
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",1
-"VulnCheck","E007","check-invalid-version-string",5510
-"VulnCheck","E011","check-custom-version-type",3459
+"VulnCheck","E007","check-invalid-version-string",5532
+"VulnCheck","E011","check-custom-version-type",3556
 "VulnCheck","E019","check-cna-rules-v4-timeline",194
 "WDC PSIRT","E004","check-leading-trailing-space",13
 "WDC PSIRT","E007","check-invalid-version-string",43
@@ -789,10 +790,10 @@
 "WindRiver","E007","check-invalid-version-string",6
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",14625
+"Wordfence","E007","check-invalid-version-string",14630
 "Wordfence","E008","check-invalid-vendor-string",50
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",34336
+"Wordfence","E019","check-cna-rules-v4-timeline",34358
 "Wordfence","E020","check-unicode-escape-sequences",1
 "XEN","E004","check-leading-trailing-space",15
 "XEN","E007","check-invalid-version-string",166
@@ -843,7 +844,7 @@
 "apache","E002","check-duplicate-reference-url",42
 "apache","E004","check-leading-trailing-space",157
 "apache","E006","check-affected-product-present",1
-"apache","E007","check-invalid-version-string",2420
+"apache","E007","check-invalid-version-string",2424
 "apache","E008","check-invalid-vendor-string",142
 "apache","E009","check-invalid-product-string",3
 "apache","E011","check-custom-version-type",462
@@ -853,7 +854,7 @@
 "apple","E008","check-invalid-vendor-string",3082
 "apple","E009","check-invalid-product-string",2894
 "apple","E011","check-custom-version-type",14736
-"atlassian","E007","check-invalid-version-string",963
+"atlassian","E007","check-invalid-version-string",936
 "atlassian","E008","check-invalid-vendor-string",3
 "atlassian","E009","check-invalid-product-string",3
 "atlassian","E011","check-custom-version-type",1753
@@ -933,7 +934,7 @@
 "debian","E011","check-custom-version-type",9
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",6216
+"dell","E007","check-invalid-version-string",6218
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "dell","E011","check-custom-version-type",757
@@ -1121,14 +1122,14 @@
 "microsoft","E007","check-invalid-version-string",36566
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
-"microsoft","E011","check-custom-version-type",127614
-"microsoft","E016","check-cna-rules-v4-descriptions",10345
+"microsoft","E011","check-custom-version-type",127616
+"microsoft","E016","check-cna-rules-v4-descriptions",10347
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",114480
-"mitre","E008","check-invalid-vendor-string",113911
-"mitre","E009","check-invalid-product-string",113911
+"mitre","E007","check-invalid-version-string",114487
+"mitre","E008","check-invalid-vendor-string",113914
+"mitre","E009","check-invalid-product-string",113914
 "mitre","E010","check-invalid-self-references",166
-"mitre","E011","check-custom-version-type",1015
+"mitre","E011","check-custom-version-type",1016
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",130
@@ -1221,7 +1222,7 @@
 "redhat","E008","check-invalid-vendor-string",8383
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",56
-"redhat","E019","check-cna-rules-v4-timeline",8260
+"redhat","E019","check-cna-rules-v4-timeline",8300
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",18
 "redhat-cnalr","E011","check-custom-version-type",1
