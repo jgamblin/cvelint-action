@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:36:27Z",
+  "generatedAt": "2026-10-26T03:20:01Z",
   "results": [
     {
       "cna": "1E",
@@ -380,7 +380,7 @@
       "cna": "CPANSec",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 405},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 410},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 692}
       ]
     },
@@ -2373,9 +2373,9 @@
       "cna": "VulDB",
       "errors": [
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 1265},
-        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1823},
+        {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 1829},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 1},
-        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 105390}
+        {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 105542}
       ]
     },
     {
@@ -3206,10 +3206,10 @@
       "cna": "microsoft",
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 212},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36563},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 36565},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2918},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2913},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 127602},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 127627},
         {"errorCode": "E016", "errorName": "check-cna-rules-v4-descriptions", "errorCount": 10353}
       ]
     },
@@ -3436,7 +3436,7 @@
       "errors": [
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 675},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 29},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20578},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 20580},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 8383},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 6756},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 56},
