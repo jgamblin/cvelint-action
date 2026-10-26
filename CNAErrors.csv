@@ -125,7 +125,7 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",405
+"CPANSec","E011","check-custom-version-type",410
 "CPANSec","E019","check-cna-rules-v4-timeline",692
 "CSA","E006","check-affected-product-present",1
 "CSA","E007","check-invalid-version-string",85
@@ -768,9 +768,9 @@
 "Vivo","E007","check-invalid-version-string",21
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1265
-"VulDB","E008","check-invalid-vendor-string",1823
+"VulDB","E008","check-invalid-vendor-string",1829
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",105390
+"VulDB","E019","check-cna-rules-v4-timeline",105542
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",1
@@ -1126,10 +1126,10 @@
 "microfocus","E009","check-invalid-product-string",109
 "microfocus","E011","check-custom-version-type",134
 "microsoft","E002","check-duplicate-reference-url",212
-"microsoft","E007","check-invalid-version-string",36563
+"microsoft","E007","check-invalid-version-string",36565
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
-"microsoft","E011","check-custom-version-type",127602
+"microsoft","E011","check-custom-version-type",127627
 "microsoft","E016","check-cna-rules-v4-descriptions",10353
 "mitre","E002","check-duplicate-reference-url",1096
 "mitre","E007","check-invalid-version-string",114528
@@ -1226,7 +1226,7 @@
 "rapid7","E019","check-cna-rules-v4-timeline",72
 "redhat","E002","check-duplicate-reference-url",675
 "redhat","E006","check-affected-product-present",29
-"redhat","E007","check-invalid-version-string",20578
+"redhat","E007","check-invalid-version-string",20580
 "redhat","E008","check-invalid-vendor-string",8383
 "redhat","E009","check-invalid-product-string",6756
 "redhat","E011","check-custom-version-type",56
