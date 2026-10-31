@@ -9,6 +9,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   CVE-Lint:
     runs-on: ubuntu-latest

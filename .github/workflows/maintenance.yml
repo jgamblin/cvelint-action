@@ -15,6 +15,8 @@ on:
 jobs:
   prune-runs:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
     steps:
       - name: Delete Old Workflow Runs
         env:
@@ -37,6 +39,8 @@ jobs:
   squash-commits:
     if: github.event.inputs.squash_commits == 'true' || (github.event_name == 'schedule' && github.event.schedule == '0 3 1 * *')
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v7
         with:
