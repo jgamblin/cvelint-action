@@ -73,15 +73,18 @@ jobs:
       - name: Generate Per-CNA Reports
         # CNA short names vary in case across records (Hillstone/hillstone), so group
         # case-insensitively and name each file by the first spelling in codepoint order.
-        # Separate files would collide on case-insensitive filesystems.
+        # Separate files would collide on case-insensitive filesystems. The lowercase key
+        # is computed once up front; doing it inside the per-CNA loop doubled the step time.
         run: |
           mkdir -p CNAReports
-          jq -r '[.results[].cna] | unique | group_by(ascii_downcase)[] | sort[0]' CVEV5Errors.json | while read -r CNA; do
-            jq -r --arg cna "$CNA" '
+          KEYED="${RUNNER_TEMP}/keyed.json"
+          jq -c '.results | map(. + {cna_key: (.cna | ascii_downcase)})' CVEV5Errors.json > "$KEYED"
+          jq -r 'map(.cna) | unique | group_by(ascii_downcase)[] | [(.[0] | ascii_downcase), .[0]] | @tsv' "$KEYED" | while IFS=$'\t' read -r KEY CNA; do
+            jq -r --arg key "$KEY" '
               ["CVE","CNA","File","RuleName","ErrorCode","ErrorPath","ErrorText"],
-              (.results[] | select((.cna | ascii_downcase) == ($cna | ascii_downcase)) | [.cve, .cna, .file, .ruleName, .errorCode, .errorPath, .errorText])
+              (.[] | select(.cna_key == $key) | [.cve, .cna, .file, .ruleName, .errorCode, .errorPath, .errorText])
               | @csv
-            ' CVEV5Errors.json > "CNAReports/${CNA}.csv"
+            ' "$KEYED" > "CNAReports/${CNA}.csv"
           done
 
       - name: Update Trends
