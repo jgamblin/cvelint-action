@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T19:57:53Z",
+  "generatedAt": "2026-10-31T22:07:10Z",
   "results": [
     {
       "cna": "1E",
@@ -2604,9 +2604,10 @@
         {"errorCode": "E002", "errorName": "check-duplicate-reference-url", "errorCount": 42},
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 157},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2505},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 2506},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 142},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 3},
+        {"errorCode": "E010", "errorName": "check-invalid-self-references", "errorCount": 1},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 462},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 738}
       ]
