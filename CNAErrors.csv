@@ -125,7 +125,7 @@
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
-"CPANSec","E011","check-custom-version-type",456
+"CPANSec","E011","check-custom-version-type",459
 "CPANSec","E019","check-cna-rules-v4-timeline",698
 "CSA","E006","check-affected-product-present",1
 "CSA","E007","check-invalid-version-string",85
@@ -292,7 +292,7 @@
 "GitHub_P","E011","check-custom-version-type",92
 "GitLab","E007","check-invalid-version-string",3446
 "GitLab","E011","check-custom-version-type",3
-"Gitea","E007","check-invalid-version-string",150
+"Gitea","E007","check-invalid-version-string",166
 "Go","E007","check-invalid-version-string",269
 "Go","E020","check-unicode-escape-sequences",1
 "Google","E004","check-leading-trailing-space",21
@@ -379,9 +379,9 @@
 "Intigriti","E007","check-invalid-version-string",1
 "JAMF","E011","check-custom-version-type",2
 "JFROG","E004","check-leading-trailing-space",11
-"JFROG","E007","check-invalid-version-string",48
+"JFROG","E007","check-invalid-version-string",52
 "JFROG","E011","check-custom-version-type",219
-"JFROG","E019","check-cna-rules-v4-timeline",62
+"JFROG","E019","check-cna-rules-v4-timeline",88
 "JetBrains","E004","check-leading-trailing-space",3
 "JetBrains","E007","check-invalid-version-string",755
 "JetBrains","E011","check-custom-version-type",36
@@ -412,7 +412,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",132550
+"Linux","E007","check-invalid-version-string",132543
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -568,10 +568,10 @@
 "PaperCut","E007","check-invalid-version-string",15
 "PaperCut","E011","check-custom-version-type",36
 "Patchstack","E004","check-leading-trailing-space",3
-"Patchstack","E007","check-invalid-version-string",8193
+"Patchstack","E007","check-invalid-version-string",8192
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
-"Patchstack","E011","check-custom-version-type",19487
+"Patchstack","E011","check-custom-version-type",19490
 "Patchstack","E019","check-cna-rules-v4-timeline",122
 "Payara","E004","check-leading-trailing-space",1
 "Payara","E007","check-invalid-version-string",6
@@ -776,9 +776,9 @@
 "Vivo","E007","check-invalid-version-string",21
 "Vivo","E011","check-custom-version-type",10
 "VulDB","E007","check-invalid-version-string",1265
-"VulDB","E008","check-invalid-vendor-string",1857
+"VulDB","E008","check-invalid-vendor-string",1858
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",106294
+"VulDB","E019","check-cna-rules-v4-timeline",106404
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",1
@@ -791,7 +791,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",3967
+"WPScan","E007","check-invalid-version-string",3974
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
