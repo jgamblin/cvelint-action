@@ -578,7 +578,7 @@
 "Patchstack","E007","check-invalid-version-string",8184
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
-"Patchstack","E011","check-custom-version-type",19622
+"Patchstack","E011","check-custom-version-type",19629
 "Patchstack","E019","check-cna-rules-v4-timeline",122
 "Payara","E004","check-leading-trailing-space",1
 "Payara","E007","check-invalid-version-string",6
@@ -785,12 +785,12 @@
 "VulDB","E007","check-invalid-version-string",1277
 "VulDB","E008","check-invalid-vendor-string",1872
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",107282
+"VulDB","E019","check-cna-rules-v4-timeline",107312
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E006","check-affected-product-present",1
-"VulnCheck","E007","check-invalid-version-string",6150
-"VulnCheck","E011","check-custom-version-type",4039
+"VulnCheck","E006","check-affected-product-present",2
+"VulnCheck","E007","check-invalid-version-string",6208
+"VulnCheck","E011","check-custom-version-type",4042
 "VulnCheck","E019","check-cna-rules-v4-timeline",194
 "VulnCheck","E020","check-unicode-escape-sequences",1
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -798,7 +798,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",4113
+"WPScan","E007","check-invalid-version-string",4139
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -1072,7 +1072,7 @@
 "iManage","E011","check-custom-version-type",1
 "ibm","E002","check-duplicate-reference-url",6
 "ibm","E004","check-leading-trailing-space",119
-"ibm","E007","check-invalid-version-string",6833
+"ibm","E007","check-invalid-version-string",6880
 "ibm","E008","check-invalid-vendor-string",1854
 "ibm","E009","check-invalid-product-string",1835
 "ibm","E011","check-custom-version-type",108
