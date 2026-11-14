@@ -184,7 +184,7 @@
 "CyberDanube","E011","check-custom-version-type",81
 "DEVOLUTIONS","E004","check-leading-trailing-space",36
 "DEVOLUTIONS","E007","check-invalid-version-string",3
-"DEVOLUTIONS","E011","check-custom-version-type",255
+"DEVOLUTIONS","E011","check-custom-version-type",257
 "DIVD","E007","check-invalid-version-string",145
 "DIVD","E009","check-invalid-product-string",2
 "DIVD","E011","check-custom-version-type",33
@@ -286,7 +286,7 @@
 "GitHub_M","E001","check-reference-url-protocol",1
 "GitHub_M","E002","check-duplicate-reference-url",18
 "GitHub_M","E004","check-leading-trailing-space",517
-"GitHub_M","E007","check-invalid-version-string",33587
+"GitHub_M","E007","check-invalid-version-string",33620
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -338,7 +338,7 @@
 "Hanwha_Vision","E004","check-leading-trailing-space",3
 "Hanwha_Vision","E007","check-invalid-version-string",16
 "Hanwha_Vision","E011","check-custom-version-type",3
-"HashiCorp","E007","check-invalid-version-string",46
+"HashiCorp","E007","check-invalid-version-string",47
 "HashiCorp","E011","check-custom-version-type",1
 "HeroDevs","E007","check-invalid-version-string",56
 "HeroDevs","E011","check-custom-version-type",3
@@ -790,11 +790,11 @@
 "VulDB","E007","check-invalid-version-string",1282
 "VulDB","E008","check-invalid-vendor-string",1889
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",107892
+"VulDB","E019","check-cna-rules-v4-timeline",107904
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",3
-"VulnCheck","E007","check-invalid-version-string",6625
+"VulnCheck","E007","check-invalid-version-string",6636
 "VulnCheck","E011","check-custom-version-type",4217
 "VulnCheck","E019","check-cna-rules-v4-timeline",278
 "VulnCheck","E020","check-unicode-escape-sequences",1
@@ -817,10 +817,10 @@
 "WindRiver","E007","check-invalid-version-string",6
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",15113
+"Wordfence","E007","check-invalid-version-string",15115
 "Wordfence","E008","check-invalid-vendor-string",53
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",35992
+"Wordfence","E019","check-cna-rules-v4-timeline",35998
 "Wordfence","E020","check-unicode-escape-sequences",2
 "WrenSecurity","E007","check-invalid-version-string",1
 "XEN","E004","check-leading-trailing-space",15
@@ -884,7 +884,7 @@
 "apple","E007","check-invalid-version-string",4858
 "apple","E008","check-invalid-vendor-string",3082
 "apple","E009","check-invalid-product-string",2894
-"apple","E011","check-custom-version-type",16295
+"apple","E011","check-custom-version-type",16301
 "atlassian","E007","check-invalid-version-string",963
 "atlassian","E008","check-invalid-vendor-string",3
 "atlassian","E009","check-invalid-product-string",3
@@ -1084,7 +1084,7 @@
 "ibm","E007","check-invalid-version-string",6964
 "ibm","E008","check-invalid-vendor-string",1854
 "ibm","E009","check-invalid-product-string",1835
-"ibm","E011","check-custom-version-type",108
+"ibm","E011","check-custom-version-type",122
 "icscert","E002","check-duplicate-reference-url",1
 "icscert","E004","check-leading-trailing-space",344
 "icscert","E007","check-invalid-version-string",3440
@@ -1114,7 +1114,7 @@
 "jci","E007","check-invalid-version-string",82
 "jci","E008","check-invalid-vendor-string",1
 "jci","E009","check-invalid-product-string",1
-"jci","E011","check-custom-version-type",179
+"jci","E011","check-custom-version-type",207
 "jenkins","E007","check-invalid-version-string",810
 "jenkins","E008","check-invalid-vendor-string",1
 "jenkins","E009","check-invalid-product-string",1
@@ -1260,7 +1260,7 @@
 "redhat","E008","check-invalid-vendor-string",8370
 "redhat","E009","check-invalid-product-string",6748
 "redhat","E011","check-custom-version-type",56
-"redhat","E019","check-cna-rules-v4-timeline",9156
+"redhat","E019","check-cna-rules-v4-timeline",9176
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",18
 "redhat-cnalr","E011","check-custom-version-type",1
