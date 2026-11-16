@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:31:44Z",
+  "generatedAt": "2026-11-16T04:50:55Z",
   "results": [
     {
       "cna": "1E",
@@ -932,7 +932,7 @@
     {
       "cna": "Gitea",
       "errors": [
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 166}
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 173}
       ]
     },
     {
@@ -1797,7 +1797,7 @@
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 8174},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 2},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 2},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 19836},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 19847},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 122}
       ]
     },
@@ -2445,7 +2445,7 @@
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 1},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 3},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 6652},
-        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 4224},
+        {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 4226},
         {"errorCode": "E019", "errorName": "check-cna-rules-v4-timeline", "errorCount": 278},
         {"errorCode": "E020", "errorName": "check-unicode-escape-sequences", "errorCount": 1}
       ]
@@ -2869,7 +2869,7 @@
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 311},
         {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 1},
-        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7302},
+        {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 7362},
         {"errorCode": "E008", "errorName": "check-invalid-vendor-string", "errorCount": 473},
         {"errorCode": "E009", "errorName": "check-invalid-product-string", "errorCount": 323},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 757},
@@ -3554,7 +3554,7 @@
       "cna": "samsung.tv_appliance",
       "errors": [
         {"errorCode": "E004", "errorName": "check-leading-trailing-space", "errorCount": 3},
-        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 10},
+        {"errorCode": "E006", "errorName": "check-affected-product-present", "errorCount": 12},
         {"errorCode": "E007", "errorName": "check-invalid-version-string", "errorCount": 18},
         {"errorCode": "E011", "errorName": "check-custom-version-type", "errorCount": 22}
       ]

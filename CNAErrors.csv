@@ -297,7 +297,7 @@
 "GitHub_P","E019","check-cna-rules-v4-timeline",4
 "GitLab","E007","check-invalid-version-string",3453
 "GitLab","E011","check-custom-version-type",3
-"Gitea","E007","check-invalid-version-string",166
+"Gitea","E007","check-invalid-version-string",173
 "Go","E007","check-invalid-version-string",286
 "Go","E020","check-unicode-escape-sequences",1
 "Google","E004","check-leading-trailing-space",21
@@ -582,7 +582,7 @@
 "Patchstack","E007","check-invalid-version-string",8174
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
-"Patchstack","E011","check-custom-version-type",19836
+"Patchstack","E011","check-custom-version-type",19847
 "Patchstack","E019","check-cna-rules-v4-timeline",122
 "Payara","E004","check-leading-trailing-space",1
 "Payara","E007","check-invalid-version-string",6
@@ -795,7 +795,7 @@
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",3
 "VulnCheck","E007","check-invalid-version-string",6652
-"VulnCheck","E011","check-custom-version-type",4224
+"VulnCheck","E011","check-custom-version-type",4226
 "VulnCheck","E019","check-cna-rules-v4-timeline",278
 "VulnCheck","E020","check-unicode-escape-sequences",1
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -969,7 +969,7 @@
 "debian","E011","check-custom-version-type",9
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",7302
+"dell","E007","check-invalid-version-string",7362
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "dell","E011","check-custom-version-type",757
@@ -1269,7 +1269,7 @@
 "runZero","E007","check-invalid-version-string",46
 "runZero","E011","check-custom-version-type",11
 "samsung.tv_appliance","E004","check-leading-trailing-space",3
-"samsung.tv_appliance","E006","check-affected-product-present",10
+"samsung.tv_appliance","E006","check-affected-product-present",12
 "samsung.tv_appliance","E007","check-invalid-version-string",18
 "samsung.tv_appliance","E011","check-custom-version-type",22
 "samsungsemiconductor","E007","check-invalid-version-string",279
