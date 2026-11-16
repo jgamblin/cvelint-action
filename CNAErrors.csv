@@ -3,8 +3,8 @@
 "360ST","E007","check-invalid-version-string",1
 "360ST","E008","check-invalid-vendor-string",4
 "3DS","E004","check-leading-trailing-space",5
-"3DS","E007","check-invalid-version-string",607
-"3DS","E011","check-custom-version-type",304
+"3DS","E007","check-invalid-version-string",631
+"3DS","E011","check-custom-version-type",316
 "42Gears","E004","check-leading-trailing-space",2
 "9front","E019","check-cna-rules-v4-timeline",4
 "@huntr_ai","E004","check-leading-trailing-space",9
@@ -29,7 +29,7 @@
 "AMI","E011","check-custom-version-type",17
 "AMZN","E006","check-affected-product-present",12
 "AMZN","E007","check-invalid-version-string",22
-"AMZN","E011","check-custom-version-type",333
+"AMZN","E011","check-custom-version-type",337
 "ARTICA","E011","check-custom-version-type",10
 "ASR","E004","check-leading-trailing-space",4
 "ASR","E006","check-affected-product-present",5
@@ -80,8 +80,7 @@
 "AxxonSoft","E007","check-invalid-version-string",10
 "AxxonSoft","E011","check-custom-version-type",1
 "B.Braun","E004","check-leading-trailing-space",1
-"B.Braun","E007","check-invalid-version-string",3
-"B.Braun","E011","check-custom-version-type",8
+"B.Braun","E011","check-custom-version-type",15
 "BCNY","E006","check-affected-product-present",1
 "BCNY","E007","check-invalid-version-string",9
 "BD","E004","check-leading-trailing-space",2
@@ -124,14 +123,14 @@
 "CERTVDE","E009","check-invalid-product-string",2
 "CERTVDE","E011","check-custom-version-type",1200
 "CIRCL","E006","check-affected-product-present",3
-"CIRCL","E007","check-invalid-version-string",428
+"CIRCL","E007","check-invalid-version-string",429
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
 "CPANSec","E011","check-custom-version-type",502
 "CPANSec","E019","check-cna-rules-v4-timeline",736
 "CSA","E006","check-affected-product-present",1
-"CSA","E007","check-invalid-version-string",85
+"CSA","E007","check-invalid-version-string",88
 "CSW","E007","check-invalid-version-string",5
 "CSW","E008","check-invalid-vendor-string",10
 "Canon","E004","check-leading-trailing-space",8
@@ -203,7 +202,7 @@
 "Digi","E019","check-cna-rules-v4-timeline",4
 "Docker","E004","check-leading-trailing-space",8
 "Docker","E007","check-invalid-version-string",56
-"Document Fdn.","E007","check-invalid-version-string",42
+"Document Fdn.","E007","check-invalid-version-string",88
 "Document Fdn.","E011","check-custom-version-type",39
 "Dragos","E004","check-leading-trailing-space",1
 "Dragos","E007","check-invalid-version-string",13
@@ -214,7 +213,7 @@
 "EA","E011","check-custom-version-type",1
 "EDB","E004","check-leading-trailing-space",1
 "EDB","E007","check-invalid-version-string",6
-"EDB","E011","check-custom-version-type",16
+"EDB","E011","check-custom-version-type",24
 "ELAN","E011","check-custom-version-type",3
 "ENISA","E007","check-invalid-version-string",150
 "ENISA","E010","check-invalid-self-references",2
@@ -286,7 +285,7 @@
 "GitHub_M","E001","check-reference-url-protocol",1
 "GitHub_M","E002","check-duplicate-reference-url",18
 "GitHub_M","E004","check-leading-trailing-space",517
-"GitHub_M","E007","check-invalid-version-string",33620
+"GitHub_M","E007","check-invalid-version-string",33698
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -374,7 +373,7 @@
 "INCD","E011","check-custom-version-type",197
 "INCIBE","E004","check-leading-trailing-space",18
 "INCIBE","E006","check-affected-product-present",3
-"INCIBE","E007","check-invalid-version-string",319
+"INCIBE","E007","check-invalid-version-string",321
 "INCIBE","E011","check-custom-version-type",316
 "IQSIGHT","E011","check-custom-version-type",1
 "Illumio","E004","check-leading-trailing-space",1
@@ -386,7 +385,7 @@
 "JFROG","E004","check-leading-trailing-space",11
 "JFROG","E007","check-invalid-version-string",52
 "JFROG","E011","check-custom-version-type",219
-"JFROG","E019","check-cna-rules-v4-timeline",88
+"JFROG","E019","check-cna-rules-v4-timeline",92
 "JetBrains","E004","check-leading-trailing-space",3
 "JetBrains","E007","check-invalid-version-string",913
 "JetBrains","E011","check-custom-version-type",38
@@ -417,7 +416,7 @@
 "Lexmark","E011","check-custom-version-type",418
 "Liferay","E004","check-leading-trailing-space",1
 "Liferay","E007","check-invalid-version-string",5
-"Linux","E007","check-invalid-version-string",133053
+"Linux","E007","check-invalid-version-string",133182
 "Logitech","E006","check-affected-product-present",1
 "Logitech","E007","check-invalid-version-string",2
 "Logitech","E011","check-custom-version-type",5
@@ -434,7 +433,7 @@
 "Mandiant","E011","check-custom-version-type",22
 "Mandiant","E019","check-cna-rules-v4-timeline",6
 "Mattermost","E004","check-leading-trailing-space",115
-"Mattermost","E007","check-invalid-version-string",371
+"Mattermost","E007","check-invalid-version-string",375
 "Mattermost","E011","check-custom-version-type",63
 "Mautic","E007","check-invalid-version-string",89
 "Mautic","E011","check-custom-version-type",17
@@ -501,8 +500,9 @@
 "NetMotion","E008","check-invalid-vendor-string",2
 "NetScaler","E007","check-invalid-version-string",89
 "Netskope","E004","check-leading-trailing-space",3
+"Netskope","E006","check-affected-product-present",1
 "Netskope","E007","check-invalid-version-string",9
-"Netskope","E011","check-custom-version-type",17
+"Netskope","E011","check-custom-version-type",19
 "Nintendo","E011","check-custom-version-type",1
 "Nokia","E003","check-description-length",1
 "Nokia","E007","check-invalid-version-string",57
@@ -534,7 +534,7 @@
 "OX","E004","check-leading-trailing-space",36
 "OX","E007","check-invalid-version-string",199
 "Octopus","E007","check-invalid-version-string",1
-"Octopus","E011","check-custom-version-type",323
+"Octopus","E011","check-custom-version-type",331
 "Okta","E007","check-invalid-version-string",28
 "Okta","E011","check-custom-version-type",2
 "Omnissa","E007","check-invalid-version-string",22
@@ -546,9 +546,9 @@
 "OpenNMS","E004","check-leading-trailing-space",9
 "OpenNMS","E007","check-invalid-version-string",55
 "OpenText","E004","check-leading-trailing-space",38
-"OpenText","E007","check-invalid-version-string",119
+"OpenText","E007","check-invalid-version-string",121
 "OpenText","E008","check-invalid-vendor-string",2
-"OpenText","E011","check-custom-version-type",116
+"OpenText","E011","check-custom-version-type",117
 "OpenText","E019","check-cna-rules-v4-timeline",6
 "OpenVPN","E004","check-leading-trailing-space",1
 "OpenVPN","E007","check-invalid-version-string",60
@@ -579,10 +579,10 @@
 "PaperCut","E007","check-invalid-version-string",15
 "PaperCut","E011","check-custom-version-type",36
 "Patchstack","E004","check-leading-trailing-space",3
-"Patchstack","E007","check-invalid-version-string",8174
+"Patchstack","E007","check-invalid-version-string",8173
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
-"Patchstack","E011","check-custom-version-type",19847
+"Patchstack","E011","check-custom-version-type",19861
 "Patchstack","E019","check-cna-rules-v4-timeline",122
 "Payara","E004","check-leading-trailing-space",1
 "Payara","E007","check-invalid-version-string",6
@@ -682,7 +682,7 @@
 "Samsung Mobile","E007","check-invalid-version-string",1006
 "Samsung Mobile","E008","check-invalid-vendor-string",1
 "Samsung Mobile","E011","check-custom-version-type",644
-"SamsungMobile","E007","check-invalid-version-string",482
+"SamsungMobile","E007","check-invalid-version-string",516
 "Seagate","E007","check-invalid-version-string",7
 "Seagate","E011","check-custom-version-type",2
 "Secomea","E004","check-leading-trailing-space",5
@@ -794,8 +794,8 @@
 "VulnCheck","E002","check-duplicate-reference-url",3
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",3
-"VulnCheck","E007","check-invalid-version-string",6652
-"VulnCheck","E011","check-custom-version-type",4226
+"VulnCheck","E007","check-invalid-version-string",6699
+"VulnCheck","E011","check-custom-version-type",4253
 "VulnCheck","E019","check-cna-rules-v4-timeline",278
 "VulnCheck","E020","check-unicode-escape-sequences",1
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -803,7 +803,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",4342
+"WPScan","E007","check-invalid-version-string",4346
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -874,12 +874,12 @@
 "apache","E002","check-duplicate-reference-url",42
 "apache","E004","check-leading-trailing-space",157
 "apache","E006","check-affected-product-present",1
-"apache","E007","check-invalid-version-string",2680
+"apache","E007","check-invalid-version-string",2689
 "apache","E008","check-invalid-vendor-string",142
 "apache","E009","check-invalid-product-string",3
 "apache","E010","check-invalid-self-references",1
 "apache","E011","check-custom-version-type",462
-"apache","E019","check-cna-rules-v4-timeline",746
+"apache","E019","check-cna-rules-v4-timeline",786
 "apple","E002","check-duplicate-reference-url",2
 "apple","E007","check-invalid-version-string",4858
 "apple","E008","check-invalid-vendor-string",3082
@@ -890,7 +890,7 @@
 "atlassian","E009","check-invalid-product-string",3
 "atlassian","E011","check-custom-version-type",1753
 "autodesk","E004","check-leading-trailing-space",9
-"autodesk","E007","check-invalid-version-string",95
+"autodesk","E007","check-invalid-version-string",97
 "autodesk","E008","check-invalid-vendor-string",131
 "autodesk","E011","check-custom-version-type",3888
 "avaya","E004","check-leading-trailing-space",1
@@ -910,7 +910,7 @@
 "bosch","E007","check-invalid-version-string",1023
 "bosch","E008","check-invalid-vendor-string",1
 "bosch","E009","check-invalid-product-string",1
-"bosch","E011","check-custom-version-type",734
+"bosch","E011","check-custom-version-type",736
 "brocade","E004","check-leading-trailing-space",24
 "brocade","E006","check-affected-product-present",1
 "brocade","E007","check-invalid-version-string",172
@@ -938,7 +938,7 @@
 "chainguard","E019","check-cna-rules-v4-timeline",16
 "checkpoint","E007","check-invalid-version-string",207
 "checkpoint","E008","check-invalid-vendor-string",46
-"cirosec","E007","check-invalid-version-string",19
+"cirosec","E007","check-invalid-version-string",22
 "cirosec","E011","check-custom-version-type",11
 "cirosec","E019","check-cna-rules-v4-timeline",36
 "cisa-cg","E004","check-leading-trailing-space",13
@@ -1114,7 +1114,7 @@
 "jci","E007","check-invalid-version-string",82
 "jci","E008","check-invalid-vendor-string",1
 "jci","E009","check-invalid-product-string",1
-"jci","E011","check-custom-version-type",207
+"jci","E011","check-custom-version-type",208
 "jenkins","E007","check-invalid-version-string",810
 "jenkins","E008","check-invalid-vendor-string",1
 "jenkins","E009","check-invalid-product-string",1
@@ -1156,11 +1156,11 @@
 "microfocus","E009","check-invalid-product-string",109
 "microfocus","E011","check-custom-version-type",134
 "microsoft","E002","check-duplicate-reference-url",212
-"microsoft","E007","check-invalid-version-string",36725
+"microsoft","E007","check-invalid-version-string",36728
 "microsoft","E008","check-invalid-vendor-string",2918
 "microsoft","E009","check-invalid-product-string",2913
-"microsoft","E011","check-custom-version-type",140096
-"microsoft","E016","check-cna-rules-v4-descriptions",11468
+"microsoft","E011","check-custom-version-type",140105
+"microsoft","E016","check-cna-rules-v4-descriptions",11471
 "mitre","E002","check-duplicate-reference-url",1096
 "mitre","E007","check-invalid-version-string",114637
 "mitre","E008","check-invalid-vendor-string",114053
@@ -1204,7 +1204,7 @@
 "openEuler","E008","check-invalid-vendor-string",21
 "openEuler","E009","check-invalid-product-string",1
 "openGauss","E007","check-invalid-version-string",6
-"openjs","E007","check-invalid-version-string",80
+"openjs","E007","check-invalid-version-string",82
 "openjs","E010","check-invalid-self-references",5
 "openjs","E019","check-cna-rules-v4-timeline",4
 "openssl","E004","check-leading-trailing-space",1
@@ -1269,7 +1269,7 @@
 "runZero","E007","check-invalid-version-string",46
 "runZero","E011","check-custom-version-type",11
 "samsung.tv_appliance","E004","check-leading-trailing-space",3
-"samsung.tv_appliance","E006","check-affected-product-present",12
+"samsung.tv_appliance","E006","check-affected-product-present",13
 "samsung.tv_appliance","E007","check-invalid-version-string",18
 "samsung.tv_appliance","E011","check-custom-version-type",22
 "samsungsemiconductor","E007","check-invalid-version-string",279
