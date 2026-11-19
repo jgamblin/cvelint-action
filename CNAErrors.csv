@@ -124,7 +124,7 @@
 "CERTVDE","E009","check-invalid-product-string",2
 "CERTVDE","E011","check-custom-version-type",1200
 "CIRCL","E006","check-affected-product-present",3
-"CIRCL","E007","check-invalid-version-string",430
+"CIRCL","E007","check-invalid-version-string",438
 "CODRA","E007","check-invalid-version-string",11
 "CODRA","E011","check-custom-version-type",5
 "CPANSec","E007","check-invalid-version-string",2
@@ -219,8 +219,8 @@
 "ELAN","E011","check-custom-version-type",3
 "ENISA","E007","check-invalid-version-string",158
 "ENISA","E010","check-invalid-self-references",2
-"ENISA","E011","check-custom-version-type",70
-"ENISA","E019","check-cna-rules-v4-timeline",2
+"ENISA","E011","check-custom-version-type",71
+"ENISA","E019","check-cna-rules-v4-timeline",24
 "ERIC","E004","check-leading-trailing-space",1
 "ERIC","E007","check-invalid-version-string",8
 "ERIC","E011","check-custom-version-type",19
@@ -287,7 +287,7 @@
 "GitHub_M","E001","check-reference-url-protocol",1
 "GitHub_M","E002","check-duplicate-reference-url",18
 "GitHub_M","E004","check-leading-trailing-space",517
-"GitHub_M","E007","check-invalid-version-string",33811
+"GitHub_M","E007","check-invalid-version-string",33875
 "GitHub_M","E008","check-invalid-vendor-string",33
 "GitHub_M","E009","check-invalid-product-string",32
 "GitHub_M","E011","check-custom-version-type",123
@@ -430,9 +430,9 @@
 "MIM","E011","check-custom-version-type",3
 "MON-CSIRT","E011","check-custom-version-type",7
 "Mandiant","E004","check-leading-trailing-space",1
-"Mandiant","E007","check-invalid-version-string",29
+"Mandiant","E007","check-invalid-version-string",30
 "Mandiant","E010","check-invalid-self-references",3
-"Mandiant","E011","check-custom-version-type",22
+"Mandiant","E011","check-custom-version-type",25
 "Mandiant","E019","check-cna-rules-v4-timeline",6
 "Mattermost","E004","check-leading-trailing-space",115
 "Mattermost","E007","check-invalid-version-string",379
@@ -554,7 +554,7 @@
 "OpenText","E011","check-custom-version-type",118
 "OpenText","E019","check-cna-rules-v4-timeline",6
 "OpenVPN","E004","check-leading-trailing-space",1
-"OpenVPN","E007","check-invalid-version-string",60
+"OpenVPN","E007","check-invalid-version-string",61
 "OpenVPN","E008","check-invalid-vendor-string",14
 "Opera","E007","check-invalid-version-string",6
 "Opera","E008","check-invalid-vendor-string",4
@@ -738,8 +738,8 @@
 "THA-PSIRT","E011","check-custom-version-type",15
 "TML","E004","check-leading-trailing-space",31
 "TML","E011","check-custom-version-type",6
-"TPLink","E007","check-invalid-version-string",752
-"TPLink","E011","check-custom-version-type",900
+"TPLink","E007","check-invalid-version-string",754
+"TPLink","E011","check-custom-version-type",903
 "TQtC","E011","check-custom-version-type",5
 "TR-CERT","E004","check-leading-trailing-space",3
 "TR-CERT","E006","check-affected-product-present",1
@@ -778,7 +778,7 @@
 "TuranSec","E007","check-invalid-version-string",143
 "TuranSec","E011","check-custom-version-type",107
 "TuranSec","E019","check-cna-rules-v4-timeline",116
-"Ubiquiti","E007","check-invalid-version-string",149
+"Ubiquiti","E007","check-invalid-version-string",156
 "Unisoc","E007","check-invalid-version-string",613
 "VDOO","E007","check-invalid-version-string",10
 "VDOO","E008","check-invalid-vendor-string",10
@@ -790,15 +790,15 @@
 "Velneo","E011","check-custom-version-type",8
 "Vivo","E007","check-invalid-version-string",21
 "Vivo","E011","check-custom-version-type",11
-"VulDB","E007","check-invalid-version-string",1283
-"VulDB","E008","check-invalid-vendor-string",1891
+"VulDB","E007","check-invalid-version-string",1284
+"VulDB","E008","check-invalid-vendor-string",1897
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",108100
-"VulnCheck","E002","check-duplicate-reference-url",3
+"VulDB","E019","check-cna-rules-v4-timeline",108262
+"VulnCheck","E002","check-duplicate-reference-url",4
 "VulnCheck","E004","check-leading-trailing-space",1
 "VulnCheck","E006","check-affected-product-present",4
-"VulnCheck","E007","check-invalid-version-string",6811
-"VulnCheck","E011","check-custom-version-type",4439
+"VulnCheck","E007","check-invalid-version-string",6818
+"VulnCheck","E011","check-custom-version-type",4467
 "VulnCheck","E019","check-cna-rules-v4-timeline",278
 "VulnCheck","E020","check-unicode-escape-sequences",1
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -817,13 +817,14 @@
 "WatchGuard","E007","check-invalid-version-string",86
 "WatchGuard","E011","check-custom-version-type",305
 "WatchGuard","E019","check-cna-rules-v4-timeline",50
+"Westell","E011","check-custom-version-type",1
 "WindRiver","E007","check-invalid-version-string",6
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",15214
+"Wordfence","E007","check-invalid-version-string",15218
 "Wordfence","E008","check-invalid-vendor-string",53
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",36292
+"Wordfence","E019","check-cna-rules-v4-timeline",36304
 "Wordfence","E020","check-unicode-escape-sequences",3
 "WrenSecurity","E007","check-invalid-version-string",1
 "XEN","E004","check-leading-trailing-space",15
@@ -972,7 +973,7 @@
 "debian","E011","check-custom-version-type",11
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",7934
+"dell","E007","check-invalid-version-string",7950
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "dell","E011","check-custom-version-type",757
@@ -1047,6 +1048,7 @@
 "freebsd","E009","check-invalid-product-string",35
 "glibc","E007","check-invalid-version-string",1
 "glibc","E011","check-custom-version-type",40
+"gnutls","E019","check-cna-rules-v4-timeline",6
 "google_android","E004","check-leading-trailing-space",85
 "google_android","E007","check-invalid-version-string",2437
 "google_android","E008","check-invalid-vendor-string",3103
@@ -1084,7 +1086,7 @@
 "iManage","E011","check-custom-version-type",1
 "ibm","E002","check-duplicate-reference-url",6
 "ibm","E004","check-leading-trailing-space",119
-"ibm","E007","check-invalid-version-string",6964
+"ibm","E007","check-invalid-version-string",6966
 "ibm","E008","check-invalid-vendor-string",1854
 "ibm","E009","check-invalid-product-string",1835
 "ibm","E011","check-custom-version-type",122
@@ -1264,7 +1266,7 @@
 "redhat","E008","check-invalid-vendor-string",8370
 "redhat","E009","check-invalid-product-string",6748
 "redhat","E011","check-custom-version-type",56
-"redhat","E019","check-cna-rules-v4-timeline",9220
+"redhat","E019","check-cna-rules-v4-timeline",9224
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",18
 "redhat-cnalr","E011","check-custom-version-type",3
