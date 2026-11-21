@@ -22,7 +22,7 @@
 "AHA","E011","check-custom-version-type",17
 "AMD","E004","check-leading-trailing-space",83
 "AMD","E006","check-affected-product-present",3
-"AMD","E007","check-invalid-version-string",2865
+"AMD","E007","check-invalid-version-string",2923
 "AMD","E008","check-invalid-vendor-string",6
 "AMD","E011","check-custom-version-type",156
 "AMI","E004","check-leading-trailing-space",25
@@ -793,12 +793,12 @@
 "Vivo","E007","check-invalid-version-string",22
 "Vivo","E011","check-custom-version-type",11
 "VulDB","E007","check-invalid-version-string",1289
-"VulDB","E008","check-invalid-vendor-string",1900
+"VulDB","E008","check-invalid-vendor-string",1901
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",108568
+"VulDB","E019","check-cna-rules-v4-timeline",108622
 "VulnCheck","E002","check-duplicate-reference-url",4
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",6854
+"VulnCheck","E007","check-invalid-version-string",6884
 "VulnCheck","E011","check-custom-version-type",4492
 "VulnCheck","E019","check-cna-rules-v4-timeline",278
 "VulnCheck","E020","check-unicode-escape-sequences",1
@@ -807,7 +807,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",4372
+"WPScan","E007","check-invalid-version-string",4411
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -822,10 +822,10 @@
 "WindRiver","E007","check-invalid-version-string",6
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",15297
+"Wordfence","E007","check-invalid-version-string",15378
 "Wordfence","E008","check-invalid-vendor-string",53
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",36554
+"Wordfence","E019","check-cna-rules-v4-timeline",36812
 "Wordfence","E020","check-unicode-escape-sequences",3
 "WrenSecurity","E007","check-invalid-version-string",1
 "XEN","E004","check-leading-trailing-space",15
@@ -1210,7 +1210,7 @@
 "openEuler","E008","check-invalid-vendor-string",21
 "openEuler","E009","check-invalid-product-string",1
 "openGauss","E007","check-invalid-version-string",6
-"openjs","E007","check-invalid-version-string",89
+"openjs","E007","check-invalid-version-string",91
 "openjs","E010","check-invalid-self-references",5
 "openjs","E019","check-cna-rules-v4-timeline",4
 "openssl","E004","check-leading-trailing-space",1
@@ -1273,7 +1273,7 @@
 "redhat-cnalr","E007","check-invalid-version-string",18
 "redhat-cnalr","E011","check-custom-version-type",3
 "redhat-cnalr","E019","check-cna-rules-v4-timeline",8
-"rt-labs","E007","check-invalid-version-string",20
+"rt-labs","E007","check-invalid-version-string",41
 "runZero","E007","check-invalid-version-string",46
 "runZero","E011","check-custom-version-type",11
 "samsung.tv_appliance","E004","check-leading-trailing-space",3
