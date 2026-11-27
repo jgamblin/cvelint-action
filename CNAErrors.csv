@@ -354,7 +354,7 @@
 "Hillstone","E011","check-custom-version-type",2
 "Hitachi","E004","check-leading-trailing-space",29
 "Hitachi","E007","check-invalid-version-string",191
-"Hitachi","E011","check-custom-version-type",471
+"Hitachi","E011","check-custom-version-type",485
 "Hitachi Energy","E004","check-leading-trailing-space",22
 "Hitachi Energy","E007","check-invalid-version-string",420
 "Hitachi Energy","E008","check-invalid-vendor-string",3
@@ -794,15 +794,15 @@
 "VULSec","E011","check-custom-version-type",18
 "Vaadin","E011","check-custom-version-type",81
 "Velneo","E011","check-custom-version-type",8
-"Vivo","E007","check-invalid-version-string",22
+"Vivo","E007","check-invalid-version-string",23
 "Vivo","E011","check-custom-version-type",11
 "VulDB","E007","check-invalid-version-string",1561
-"VulDB","E008","check-invalid-vendor-string",1924
+"VulDB","E008","check-invalid-vendor-string",1928
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",109756
+"VulDB","E019","check-cna-rules-v4-timeline",109846
 "VulnCheck","E002","check-duplicate-reference-url",4
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",7211
+"VulnCheck","E007","check-invalid-version-string",7212
 "VulnCheck","E011","check-custom-version-type",4732
 "VulnCheck","E019","check-cna-rules-v4-timeline",278
 "VulnCheck","E020","check-unicode-escape-sequences",1
@@ -811,7 +811,7 @@
 "WDC PSIRT","E008","check-invalid-vendor-string",1
 "WDC PSIRT","E009","check-invalid-product-string",1
 "WDC PSIRT","E011","check-custom-version-type",79
-"WPScan","E007","check-invalid-version-string",4439
+"WPScan","E007","check-invalid-version-string",4440
 "WPScan","E008","check-invalid-vendor-string",11
 "WPScan","E009","check-invalid-product-string",11
 "WPScan","E011","check-custom-version-type",3167
@@ -826,10 +826,10 @@
 "WindRiver","E007","check-invalid-version-string",6
 "WindRiver","E011","check-custom-version-type",2
 "Wiz","E007","check-invalid-version-string",30
-"Wordfence","E007","check-invalid-version-string",15530
+"Wordfence","E007","check-invalid-version-string",15558
 "Wordfence","E008","check-invalid-vendor-string",53
 "Wordfence","E011","check-custom-version-type",237
-"Wordfence","E019","check-cna-rules-v4-timeline",37324
+"Wordfence","E019","check-cna-rules-v4-timeline",37418
 "Wordfence","E020","check-unicode-escape-sequences",3
 "WrenSecurity","E007","check-invalid-version-string",1
 "XEN","E004","check-leading-trailing-space",15
@@ -930,7 +930,7 @@
 "ca","E011","check-custom-version-type",39
 "canonical","E002","check-duplicate-reference-url",1
 "canonical","E006","check-affected-product-present",7
-"canonical","E007","check-invalid-version-string",671
+"canonical","E007","check-invalid-version-string",791
 "canonical","E008","check-invalid-vendor-string",173
 "canonical","E009","check-invalid-product-string",160
 "canonical","E010","check-invalid-self-references",35
@@ -1024,11 +1024,11 @@
 "facebook","E011","check-custom-version-type",405
 "fedora","E004","check-leading-trailing-space",7
 "fedora","E006","check-affected-product-present",10
-"fedora","E007","check-invalid-version-string",381
+"fedora","E007","check-invalid-version-string",385
 "fedora","E008","check-invalid-vendor-string",112
 "fedora","E009","check-invalid-product-string",1
 "fedora","E011","check-custom-version-type",23
-"fedora","E019","check-cna-rules-v4-timeline",812
+"fedora","E019","check-cna-rules-v4-timeline",814
 "flexera","E002","check-duplicate-reference-url",13
 "flexera","E007","check-invalid-version-string",520
 "flexera","E008","check-invalid-vendor-string",444
@@ -1133,7 +1133,7 @@
 "joshbressers","E008","check-invalid-vendor-string",1
 "joshbressers","E009","check-invalid-product-string",1
 "jpcert","E004","check-leading-trailing-space",10
-"jpcert","E007","check-invalid-version-string",6225
+"jpcert","E007","check-invalid-version-string",6226
 "jpcert","E008","check-invalid-vendor-string",794
 "jpcert","E009","check-invalid-product-string",794
 "juniper","E002","check-duplicate-reference-url",1
@@ -1172,11 +1172,11 @@
 "microsoft","E011","check-custom-version-type",140118
 "microsoft","E016","check-cna-rules-v4-descriptions",11488
 "mitre","E002","check-duplicate-reference-url",1096
-"mitre","E007","check-invalid-version-string",114661
+"mitre","E007","check-invalid-version-string",114673
 "mitre","E008","check-invalid-vendor-string",114066
 "mitre","E009","check-invalid-product-string",114066
 "mitre","E010","check-invalid-self-references",166
-"mitre","E011","check-custom-version-type",1082
+"mitre","E011","check-custom-version-type",1100
 "mitre","E020","check-unicode-escape-sequences",4
 "mongodb","E004","check-leading-trailing-space",5
 "mongodb","E007","check-invalid-version-string",133
@@ -1268,11 +1268,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",72
 "redhat","E002","check-duplicate-reference-url",668
 "redhat","E006","check-affected-product-present",41
-"redhat","E007","check-invalid-version-string",24905
+"redhat","E007","check-invalid-version-string",25147
 "redhat","E008","check-invalid-vendor-string",8370
 "redhat","E009","check-invalid-product-string",6748
 "redhat","E011","check-custom-version-type",59
-"redhat","E019","check-cna-rules-v4-timeline",9432
+"redhat","E019","check-cna-rules-v4-timeline",9460
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",18
 "redhat-cnalr","E011","check-custom-version-type",3
@@ -1361,7 +1361,7 @@
 "trendmicro","E009","check-invalid-product-string",10
 "twcert","E004","check-leading-trailing-space",25
 "twcert","E007","check-invalid-version-string",263
-"twcert","E011","check-custom-version-type",1062
+"twcert","E011","check-custom-version-type",1067
 "upKeeper","E007","check-invalid-version-string",15
 "vmware","E004","check-leading-trailing-space",38
 "vmware","E006","check-affected-product-present",1
