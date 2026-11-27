@@ -15,11 +15,13 @@
 "@huntrdev","E010","check-invalid-self-references",1
 "@huntrdev","E011","check-custom-version-type",1587
 "ABB","E004","check-leading-trailing-space",31
-"ABB","E007","check-invalid-version-string",227
-"ABB","E011","check-custom-version-type",796
+"ABB","E007","check-invalid-version-string",276
+"ABB","E011","check-custom-version-type",900
 "AHA","E004","check-leading-trailing-space",1
 "AHA","E007","check-invalid-version-string",846
 "AHA","E011","check-custom-version-type",17
+"AISLE","E007","check-invalid-version-string",5
+"AISLE","E011","check-custom-version-type",7
 "AMD","E004","check-leading-trailing-space",83
 "AMD","E006","check-affected-product-present",3
 "AMD","E007","check-invalid-version-string",2923
@@ -117,15 +119,15 @@
 "CERT-In","E007","check-invalid-version-string",140
 "CERT-In","E011","check-custom-version-type",72
 "CERT-PL","E004","check-leading-trailing-space",21
-"CERT-PL","E007","check-invalid-version-string",576
-"CERT-PL","E011","check-custom-version-type",384
+"CERT-PL","E007","check-invalid-version-string",577
+"CERT-PL","E011","check-custom-version-type",385
 "CERTVDE","E004","check-leading-trailing-space",46
 "CERTVDE","E007","check-invalid-version-string",6826
 "CERTVDE","E008","check-invalid-vendor-string",2
 "CERTVDE","E009","check-invalid-product-string",2
 "CERTVDE","E011","check-custom-version-type",1200
 "CIRCL","E006","check-affected-product-present",3
-"CIRCL","E007","check-invalid-version-string",516
+"CIRCL","E007","check-invalid-version-string",518
 "CODRA","E007","check-invalid-version-string",17
 "CODRA","E011","check-custom-version-type",6
 "CPANSec","E007","check-invalid-version-string",2
@@ -219,7 +221,7 @@
 "EDB","E011","check-custom-version-type",42
 "EEF","E007","check-invalid-version-string",1
 "ELAN","E011","check-custom-version-type",3
-"ENISA","E007","check-invalid-version-string",161
+"ENISA","E007","check-invalid-version-string",163
 "ENISA","E010","check-invalid-self-references",2
 "ENISA","E011","check-custom-version-type",71
 "ENISA","E019","check-cna-rules-v4-timeline",2
@@ -310,7 +312,7 @@
 "Google","E009","check-invalid-product-string",2
 "Google","E011","check-custom-version-type",310
 "GoogleCloud","E007","check-invalid-version-string",7
-"GoogleCloud","E011","check-custom-version-type",111
+"GoogleCloud","E011","check-custom-version-type",112
 "Google_Devices","E004","check-leading-trailing-space",7
 "Google_Devices","E007","check-invalid-version-string",520
 "GovTech CSG","E004","check-leading-trailing-space",2
@@ -587,7 +589,7 @@
 "Patchstack","E007","check-invalid-version-string",8169
 "Patchstack","E008","check-invalid-vendor-string",2
 "Patchstack","E009","check-invalid-product-string",2
-"Patchstack","E011","check-custom-version-type",20238
+"Patchstack","E011","check-custom-version-type",20295
 "Patchstack","E019","check-cna-rules-v4-timeline",122
 "Payara","E004","check-leading-trailing-space",1
 "Payara","E007","check-invalid-version-string",6
@@ -797,13 +799,13 @@
 "Vivo","E007","check-invalid-version-string",23
 "Vivo","E011","check-custom-version-type",11
 "VulDB","E007","check-invalid-version-string",1561
-"VulDB","E008","check-invalid-vendor-string",1928
+"VulDB","E008","check-invalid-vendor-string",1933
 "VulDB","E011","check-custom-version-type",1
-"VulDB","E019","check-cna-rules-v4-timeline",109846
+"VulDB","E019","check-cna-rules-v4-timeline",109882
 "VulnCheck","E002","check-duplicate-reference-url",4
 "VulnCheck","E004","check-leading-trailing-space",1
-"VulnCheck","E007","check-invalid-version-string",7212
-"VulnCheck","E011","check-custom-version-type",4732
+"VulnCheck","E007","check-invalid-version-string",7247
+"VulnCheck","E011","check-custom-version-type",4743
 "VulnCheck","E019","check-cna-rules-v4-timeline",278
 "VulnCheck","E020","check-unicode-escape-sequences",1
 "WDC PSIRT","E004","check-leading-trailing-space",13
@@ -872,7 +874,7 @@
 "Zyxel","E007","check-invalid-version-string",442
 "adobe","E002","check-duplicate-reference-url",54
 "adobe","E004","check-leading-trailing-space",4
-"adobe","E007","check-invalid-version-string",8635
+"adobe","E007","check-invalid-version-string",8636
 "adobe","E008","check-invalid-vendor-string",2535
 "adobe","E009","check-invalid-product-string",1875
 "adobe","E011","check-custom-version-type",7789
@@ -883,11 +885,11 @@
 "apache","E002","check-duplicate-reference-url",42
 "apache","E004","check-leading-trailing-space",157
 "apache","E006","check-affected-product-present",1
-"apache","E007","check-invalid-version-string",2717
+"apache","E007","check-invalid-version-string",2726
 "apache","E008","check-invalid-vendor-string",142
 "apache","E009","check-invalid-product-string",3
 "apache","E010","check-invalid-self-references",1
-"apache","E011","check-custom-version-type",462
+"apache","E011","check-custom-version-type",432
 "apache","E019","check-cna-rules-v4-timeline",786
 "apple","E002","check-duplicate-reference-url",2
 "apple","E007","check-invalid-version-string",4858
@@ -978,7 +980,7 @@
 "debian","E011","check-custom-version-type",11
 "dell","E004","check-leading-trailing-space",311
 "dell","E006","check-affected-product-present",1
-"dell","E007","check-invalid-version-string",8361
+"dell","E007","check-invalid-version-string",8483
 "dell","E008","check-invalid-vendor-string",473
 "dell","E009","check-invalid-product-string",323
 "dell","E011","check-custom-version-type",757
@@ -1001,7 +1003,7 @@
 "dwf","E011","check-custom-version-type",6
 "eclipse","E004","check-leading-trailing-space",11
 "eclipse","E006","check-affected-product-present",1
-"eclipse","E007","check-invalid-version-string",191
+"eclipse","E007","check-invalid-version-string",192
 "eclipse","E008","check-invalid-vendor-string",1
 "eclipse","E009","check-invalid-product-string",1
 "eclipse","E011","check-custom-version-type",246
@@ -1024,11 +1026,11 @@
 "facebook","E011","check-custom-version-type",405
 "fedora","E004","check-leading-trailing-space",7
 "fedora","E006","check-affected-product-present",10
-"fedora","E007","check-invalid-version-string",385
+"fedora","E007","check-invalid-version-string",389
 "fedora","E008","check-invalid-vendor-string",112
 "fedora","E009","check-invalid-product-string",1
 "fedora","E011","check-custom-version-type",23
-"fedora","E019","check-cna-rules-v4-timeline",814
+"fedora","E019","check-cna-rules-v4-timeline",816
 "flexera","E002","check-duplicate-reference-url",13
 "flexera","E007","check-invalid-version-string",520
 "flexera","E008","check-invalid-vendor-string",444
@@ -1268,11 +1270,11 @@
 "rapid7","E019","check-cna-rules-v4-timeline",72
 "redhat","E002","check-duplicate-reference-url",668
 "redhat","E006","check-affected-product-present",41
-"redhat","E007","check-invalid-version-string",25147
+"redhat","E007","check-invalid-version-string",25151
 "redhat","E008","check-invalid-vendor-string",8370
 "redhat","E009","check-invalid-product-string",6748
 "redhat","E011","check-custom-version-type",59
-"redhat","E019","check-cna-rules-v4-timeline",9460
+"redhat","E019","check-cna-rules-v4-timeline",9506
 "redhat","E020","check-unicode-escape-sequences",1
 "redhat-cnalr","E007","check-invalid-version-string",18
 "redhat-cnalr","E011","check-custom-version-type",3
@@ -1309,7 +1311,7 @@
 "siemens","E002","check-duplicate-reference-url",3
 "siemens","E007","check-invalid-version-string",6920
 "siemens","E008","check-invalid-vendor-string",40
-"siemens","E011","check-custom-version-type",13240
+"siemens","E011","check-custom-version-type",13248
 "snyk","E004","check-leading-trailing-space",36
 "snyk","E007","check-invalid-version-string",451
 "snyk","E008","check-invalid-vendor-string",937
